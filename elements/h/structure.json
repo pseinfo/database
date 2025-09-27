@@ -1,0 +1,23 @@
+{
+  "@metadata": {
+    "contributors": [
+      "komed3"
+    ],
+    "lastModified": "2025-09-27T08:01:20.336Z",
+    "schemaVersion": "1"
+  },
+  "crystal": {
+    "crystal_structure": "hex",
+    "lattice": {
+      "a": {
+        "unit": "pm",
+        "value": 378.97
+      },
+      "c": {
+        "unit": "pm",
+        "value": 618.31
+      }
+    },
+    "pearson_notation": "hP4"
+  }
+}
