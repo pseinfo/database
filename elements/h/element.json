@@ -6,6 +6,36 @@
     "lastModified": "2025-09-27T08:01:20.336Z",
     "schemaVersion": "1"
   },
+  "abundance": {
+    "crust": {
+      "unit": "ppb",
+      "value": 1500000
+    },
+    "human": {
+      "unit": "ppb",
+      "value": 100000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 24000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 115000000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 750000000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 750000000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 107800000
+    }
+  },
   "appearance": {
     "de": "farbloses Gas (H{2})",
     "en": "colorless gas (H{2})",
@@ -47,6 +77,58 @@
     "vital",
     "stable"
   ],
+  "registry": {
+    "cas": [
+      {
+        "label": "H",
+        "value": "12385-13-6"
+      },
+      {
+        "label": "H[2]",
+        "value": "1333-74-0"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID783"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.014.187"
+      }
+    ],
+    "eg": [
+      {
+        "value": "215-605-7"
+      }
+    ],
+    "inchi": [
+      {
+        "label": "H",
+        "value": "InChI=1S/H"
+      },
+      {
+        "label": "H[2]",
+        "value": "InChI=1S/H2/h1H"
+      }
+    ],
+    "inchi_key": [
+      {
+        "label": "H",
+        "value": "YZCKVEUIGOORGS-UHFFFAOYSA-N"
+      },
+      {
+        "label": "H[2]",
+        "value": "UFHFLCQGNIYNRP-UHFFFAOYSA-N"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSMW8900000"
+      }
+    ]
+  },
   "symbol": "H",
   "weblinks": [
     {
