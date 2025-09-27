@@ -1,0 +1,25 @@
+{
+  "@metadata": {
+    "contributors": [
+      "komed3"
+    ],
+    "lastModified": "2025-09-27T08:01:20.336Z",
+    "schemaVersion": "1"
+  },
+  "negativity": {
+    "allen": 2.3,
+    "allred": 2.2,
+    "ghosh_gupta": {
+      "unit": "eV",
+      "value": 7.1862
+    },
+    "mulliken": 2.25,
+    "nagle": 2.27,
+    "pauling": 2.2,
+    "pearson": {
+      "unit": "eV",
+      "value": 7.18
+    },
+    "sanderson": 2.59
+  }
+}

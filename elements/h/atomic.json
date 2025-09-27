@@ -7,6 +7,12 @@
     "schemaVersion": "1"
   },
   "electron_config": "1s[1]",
+  "ionization": {
+    "unit": "eV",
+    "values": [
+      13.59843449
+    ]
+  },
   "mass": {
     "standard_atomic_weight": {
       "deviation": 0.0002,

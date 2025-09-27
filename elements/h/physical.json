@@ -1,0 +1,79 @@
+{
+  "@metadata": {
+    "contributors": [
+      "komed3"
+    ],
+    "lastModified": "2025-09-27T08:01:20.336Z",
+    "schemaVersion": "1"
+  },
+  "density": [
+    {
+      "condition": [
+        {
+          "unit": "K",
+          "value": 273
+        }
+      ],
+      "label": "gas",
+      "unit": "kg·m[−3]",
+      "value": 0.0899
+    },
+    {
+      "condition": [
+        {
+          "unit": "K",
+          "value": 20.324
+        }
+      ],
+      "label": "liquid",
+      "unit": "kg·l[−1]",
+      "value": 0.0709
+    }
+  ],
+  "molar_volume": {
+    "label": "solid",
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00001142
+  },
+  "phase": "gas",
+  "sound_speed": {
+    "condition": [
+      {
+        "unit": "K",
+        "value": 298.15
+      }
+    ],
+    "unit": "m·s[−1]",
+    "value": 1270
+  },
+  "temperature": {
+    "boiling": {
+      "unit": "K",
+      "value": 20.271
+    },
+    "critical": {
+      "@": {
+        "unit": "MPa",
+        "value": 1.2858
+      },
+      "unit": "K",
+      "value": 32.938
+    },
+    "liquid": {
+      "unit": "K",
+      "value": 6.281
+    },
+    "melting": {
+      "unit": "K",
+      "value": 13.99
+    },
+    "triple": {
+      "@": {
+        "unit": "kPa",
+        "value": 7.041
+      },
+      "unit": "K",
+      "value": 13.8033
+    }
+  }
+}
