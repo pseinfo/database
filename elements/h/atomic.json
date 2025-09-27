@@ -1,4 +1,11 @@
 {
+  "@metadata": {
+    "contributors": [
+      "komed3"
+    ],
+    "lastModified": "2025-09-27T08:01:20.336Z",
+    "schemaVersion": "1"
+  },
   "electron_config": "1s[1]",
   "mass": {
     "standard_atomic_weight": {

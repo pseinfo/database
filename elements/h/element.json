@@ -19,6 +19,15 @@
     "period": 1,
     "set": "nonmetal"
   },
+  "discovery": {
+    "by": "Cavendish",
+    "country": "GB",
+    "value": 1766
+  },
+  "image": {
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Hydrogen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hydrogen_discharge_tube.jpg"
+  },
   "names": {
     "de": "Wasserstoff",
     "en": "Hydrogen",
@@ -26,10 +35,33 @@
     "la": "Hydrogenium"
   },
   "number": 1,
+  "price": {
+    "unit": "USD",
+    "value": 1.39
+  },
   "properties": [
     "natural",
     "vital",
     "stable"
   ],
-  "symbol": "H"
+  "symbol": "H",
+  "weblinks": [
+    {
+      "text": "WebElements",
+      "url": "https://webelements.com/hydrogen"
+    },
+    {
+      "text": "The Periodic Table of Videos",
+      "url": "http://periodicvideos.com/videos/001.htm"
+    },
+    {
+      "text": "PeriodicTable.com",
+      "url": "https://periodictable.com/Elements/001"
+    }
+  ],
+  "wiki": {
+    "de": "Wasserstoff",
+    "en": "Hydrogen",
+    "fr": "Hydrogène"
+  }
 }
