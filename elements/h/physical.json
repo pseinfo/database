@@ -8,32 +8,92 @@
   },
   "density": [
     {
+      "#": {
+        "phase": "gas"
+      },
       "condition": [
         {
           "unit": "K",
           "value": 273
         }
       ],
-      "label": "gas",
       "unit": "kg·m[−3]",
       "value": 0.0899
     },
     {
+      "#": {
+        "phase": "liquid"
+      },
       "condition": [
         {
           "unit": "K",
           "value": 20.324
         }
       ],
-      "label": "liquid",
       "unit": "kg·l[−1]",
       "value": 0.0709
     }
   ],
+  "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 218
+    },
+    "fusion": {
+      "unit": "kJ·mol[-1]",
+      "value": 0.558
+    },
+    "vaporisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 0.452
+    }
+  },
+  "heat": {
+    "adiabatic_index": 1.4,
+    "heat_capacity": {
+      "unit": "J·kg[−1]·K[−1]",
+      "value": 14304
+    },
+    "thermal_conductivity": {
+      "unit": "W·m[-1]·K[-1]",
+      "value": 0.1805
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "diamagnetic",
+    "magnetic_susceptibility": {
+      "condition": [
+        {
+          "unit": "K",
+          "value": 298
+        }
+      ],
+      "unit": "cm[3]·mol[−1]",
+      "value": -0.00000398
+    }
+  },
   "molar_volume": {
-    "label": "solid",
+    "#": {
+      "phase": "solid"
+    },
     "unit": "m[3]·mol[−1]",
     "value": 0.00001142
+  },
+  "optical": {
+    "refractive_index": [
+      {
+        "#": {
+          "phase": "gas"
+        },
+        "value": 1.000132
+      },
+      {
+        "#": {
+          "phase": "liquid"
+        },
+        "value": 1.12
+      }
+    ]
   },
   "phase": "gas",
   "sound_speed": {

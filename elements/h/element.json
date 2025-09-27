@@ -15,13 +15,17 @@
   "classification": {
     "block": "s",
     "column": 1,
+    "goldschmidt": "atmophile",
     "group": 1,
+    "occurrence": "primordial",
     "period": 1,
-    "set": "nonmetal"
+    "set": "nonmetal",
+    "superconductivity": "none"
   },
   "discovery": {
     "by": "Cavendish",
     "country": "GB",
+    "era": "enlightenment",
     "value": 1766
   },
   "image": {

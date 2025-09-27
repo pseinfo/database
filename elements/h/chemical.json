@@ -6,6 +6,7 @@
     "lastModified": "2025-09-27T08:01:20.336Z",
     "schemaVersion": "1"
   },
+  "basicity": "amphoterism",
   "negativity": {
     "allen": 2.3,
     "allred": 2.2,
@@ -21,5 +22,10 @@
       "value": 7.18
     },
     "sanderson": 2.59
+  },
+  "oxidation_state": "+1, 0, -1",
+  "standard_potential": {
+    "unit": "V",
+    "value": 0
   }
 }
