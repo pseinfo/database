@@ -5,10 +5,11 @@
   },
   "references": {
     "periodictable.001.data": {
-      "type": "misc",
+      "accessed": "2025-09-27",
+      "publisher": "PeriodicTable.com",
       "title": "Technical data for Hydrogen",
-      "url": "https://periodictable.com/Elements/001/data.html",
-      "accessed": "2025-09-27"
+      "type": "misc",
+      "url": "https://periodictable.com/Elements/001/data.html"
     }
   }
 }

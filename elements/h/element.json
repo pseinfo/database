@@ -40,11 +40,13 @@
   },
   "classification": {
     "block": "s",
+    "color": "colorless",
     "column": 1,
     "goldschmidt": "atmophile",
     "group": 1,
     "occurrence": "primordial",
     "period": 1,
+    "phase": "gas",
     "set": "nonmetal",
     "superconductivity": "none"
   },
