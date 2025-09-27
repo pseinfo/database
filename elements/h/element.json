@@ -1,0 +1,35 @@
+{
+  "@metadata": {
+    "contributors": [
+      "komed3",
+      "ForwardFeed"
+    ],
+    "lastModified": "2025-09-27T08:01:20.336Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "de": "farbloses Gas (H{2})",
+    "en": "colorless gas (H{2})",
+    "fr": "gaz incolore (H{2})"
+  },
+  "classification": {
+    "block": "s",
+    "column": 1,
+    "group": 1,
+    "period": 1,
+    "set": "nonmetal"
+  },
+  "names": {
+    "de": "Wasserstoff",
+    "en": "Hydrogen",
+    "fr": "Hydrogène",
+    "la": "Hydrogenium"
+  },
+  "number": 1,
+  "properties": [
+    "natural",
+    "vital",
+    "stable"
+  ],
+  "symbol": "H"
+}
