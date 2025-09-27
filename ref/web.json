@@ -1,0 +1,14 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-27T08:01:20.336Z",
+    "schemaVersion": "1"
+  },
+  "references": {
+    "periodictable.001.data": {
+      "type": "misc",
+      "title": "Technical data for Hydrogen",
+      "url": "https://periodictable.com/Elements/001/data.html",
+      "accessed": "2025-09-27"
+    }
+  }
+}

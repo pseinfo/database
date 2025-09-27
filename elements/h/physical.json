@@ -1,8 +1,5 @@
 {
   "@metadata": {
-    "contributors": [
-      "komed3"
-    ],
     "lastModified": "2025-09-27T08:01:20.336Z",
     "schemaVersion": "1"
   },
@@ -49,7 +46,10 @@
     }
   },
   "heat": {
-    "adiabatic_index": 1.4,
+    "adiabatic_index": {
+      "_ref": [ "web_periodictable.001.data" ],
+      "value": 1.4
+    },
     "heat_capacity": {
       "unit": "J·kg[−1]·K[−1]",
       "value": 14304
