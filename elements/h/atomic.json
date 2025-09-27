@@ -1,0 +1,39 @@
+{
+  "electron_config": "1s[1]",
+  "mass": {
+    "standard_atomic_weight": {
+      "deviation": 0.0002,
+      "range": [
+        1.00784,
+        1.00811
+      ],
+      "value": 1.008
+    },
+    "atomic_mass": {
+      "unit": "u",
+      "value": 1.0081
+    }
+  },
+  "radius": {
+    "calculated": {
+      "unit": "pm",
+      "value": 53
+    },
+    "covalent": {
+      "deviation": 5,
+      "unit": "pm",
+      "value": 31
+    },
+    "empirical": {
+      "unit": "pm",
+      "value": 25
+    },
+    "vdw": {
+      "unit": "pm",
+      "value": 120
+    }
+  },
+  "shell": [
+    1
+  ]
+}
