@@ -22,6 +22,10 @@
     }
   },
   "heat": {
+    "adiabatic_index": {
+      "_ref": [ "web_pt.adiabaticIndex" ],
+      "value": 1.6667
+    },
     "thermal_conductivity": {
       "value": 0.00364,
       "unit": "W·m[-1]·K[-1]"

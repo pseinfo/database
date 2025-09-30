@@ -28,6 +28,10 @@
     }
   },
   "heat": {
+    "adiabatic_index": {
+      "_ref": [ "web_pt.adiabaticIndex" ],
+      "value": 1.6667
+    },
     "heat_capacity": {
       "value": 1030.4,
       "unit": "J·kg[−1]·K[−1]"

@@ -4,12 +4,12 @@
     "schemaVersion": "1"
   },
   "references": {
-    "periodictable.001.data": {
-      "accessed": "2025-09-27",
+    "pt.adiabaticIndex": {
+      "accessed": "2025-09-30",
       "publisher": "PeriodicTable.com",
-      "title": "Technical data for Hydrogen",
+      "title": "Adiabatic Index of the elements",
       "type": "misc",
-      "url": "https://periodictable.com/Elements/001/data.html"
+      "url": "https://periodictable.com/Properties/A/AdiabaticIndex.an.html"
     }
   }
 }
