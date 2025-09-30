@@ -5,7 +5,9 @@
   },
   "density": [
     {
-      "label": "black",
+      "#": {
+        "allotrope": "black"
+      },
       "value": 4.28,
       "unit": "g·cm[−3]",
       "condition": [
@@ -16,7 +18,9 @@
       ]
     },
     {
-      "label": "gray",
+      "#": {
+        "allotrope": "gray"
+      },
       "value": 4.819,
       "unit": "g·cm[−1]",
       "condition": [
@@ -27,7 +31,9 @@
       ]
     },
     {
-      "label": "red",
+      "#": {
+        "allotrope": "red"
+      },
       "value": 4.48,
       "unit": "g·cm[−1]",
       "condition": [

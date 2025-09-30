@@ -41,7 +41,9 @@
     }
   },
   "molar_volume": {
-    "label": "phase-solid",
+    "#": {
+      "phase": "solid"
+    },
     "value": 0.0000112,
     "unit": "m[3]·mol[−1]"
   },

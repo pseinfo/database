@@ -5,7 +5,9 @@
   },
   "density": [
     {
-      "label": "_α",
+      "#": {
+        "allotrope": "α"
+      },
       "value": 5.769,
       "unit": "g·cm[−3]",
       "condition": [
@@ -16,7 +18,9 @@
       ]
     },
     {
-      "label": "_β",
+      "#": {
+        "allotrope": "β"
+      },
       "value": 7.265,
       "unit": "g·cm[−1]",
       "condition": [

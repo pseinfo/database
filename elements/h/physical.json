@@ -5,7 +5,9 @@
   },
   "density": [
     {
-      "label": "phase-gas",
+      "#": {
+      "phase": "gas"
+    },
       "value": 0.0899,
       "unit": "kg·m[−3]",
       "condition": [
@@ -16,7 +18,9 @@
       ]
     },
     {
-      "label": "phase-liquid",
+      "#": {
+      "phase": "liquid"
+    },
       "value": 0.0709,
       "unit": "kg·l[−1]",
       "condition": [
@@ -65,18 +69,24 @@
     }
   },
   "molar_volume": {
-    "label": "phase-solid",
+    "#": {
+      "phase": "solid"
+    },
     "value": 0.00001142,
     "unit": "m[3]·mol[−1]"
   },
   "optical": {
     "refractive_index": [
       {
-        "label": "phase-gas",
+        "#": {
+      "phase": "gas"
+    },
         "value": 1.000132
       },
       {
-        "label": "phase-liquid",
+        "#": {
+      "phase": "liquid"
+    },
         "value": 1.12
       }
     ]

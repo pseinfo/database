@@ -47,7 +47,9 @@
     }
   },
   "molar_volume": {
-    "label": "phase-solid",
+    "#": {
+      "phase": "solid"
+    },
     "value": 0.00003592,
     "unit": "m[3]·mol[−1]"
   },
@@ -57,12 +59,16 @@
   "phase": "gas",
   "sound_speed": [
     {
-      "label": "phase-gas",
+      "#": {
+      "phase": "gas"
+    },
       "value": 169,
       "unit": "m·s[−1]"
     },
     {
-      "label": "phase-liquid",
+      "#": {
+      "phase": "liquid"
+    },
       "value": 1090,
       "unit": "m·s[−1]"
     }

@@ -63,11 +63,15 @@
   "optical": {
     "refractive_index": [
       {
-        "label": "phase-gas",
+        "#": {
+      "phase": "gas"
+    },
         "value": 1.000271
       },
       {
-        "label": "phase-liquid",
+        "#": {
+      "phase": "liquid"
+    },
         "value": 1.221
       }
     ]

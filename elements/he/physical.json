@@ -45,18 +45,24 @@
     }
   },
   "molar_volume": {
-    "label": "phase-solid",
+    "#": {
+      "phase": "solid"
+    },
     "value": 0.000021,
     "unit": "m[3]·mol[−1]"
   },
   "optical": {
     "refractive_index": [
       {
-        "label": "phase-gas",
+        "#": {
+      "phase": "gas"
+    },
         "value": 1.000035
       },
       {
-        "label": "phase-liquid",
+        "#": {
+      "phase": "liquid"
+    },
         "value": 1.028
       }
     ]

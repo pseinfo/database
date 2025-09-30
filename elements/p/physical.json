@@ -5,12 +5,16 @@
   },
   "density": [
     {
-      "label": "white",
+      "#": {
+        "allotrope": "white"
+      },
       "value": 1.83,
       "unit": "g·cm[−3]"
     },
     {
-      "label": "red",
+      "#": {
+        "allotrope": "red"
+      },
       "value": 2.2,
       "range": [
         2,
@@ -19,7 +23,9 @@
       "unit": "g·cm[−1]"
     },
     {
-      "label": "black",
+      "#": {
+        "allotrope": "black"
+      },
       "value": 2.69,
       "unit": "g·cm[−1]"
     }
