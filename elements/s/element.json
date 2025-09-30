@@ -1,0 +1,132 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 500000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 400000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 41000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 420000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 928000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 4000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 2000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "yellow sintered microcrystals",
+    "de": "gelb",
+    "fr": "Jaune"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 30,
+    "goldschmidt": "chalcophile",
+    "group": 16,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "nonmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potos%C3%AD,_Bolivia.jpg\">Ivar Leidus</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Sulfur",
+    "de": "Schwefel",
+    "la": "Sulfur",
+    "fr": "Souffre"
+  },
+  "number": 16,
+  "price": {
+    "value": 0.0926,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7704-34-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-722-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.839"
+      }
+    ],
+    "atc": [
+      {
+        "value": "D10AB02"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5362487"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSWS4250000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACQ0lEQVRIx+2UT2gTQRTGf282TWisiJVSDLUVPRaLbbFYxJtYxBZsFFHEgyDoSag9eOrRi9CLIB7biEVRRCSaijdBPRQxFREEwWqxHuxBDWk1SbPjofmzu9lNkxI1B4dlme/N97735tudkSCbKQ6xzyTELh+Bz8RNsoWwIB30CbLA6wy/sA0J0NTGbpAPPANdSNlOv4FfkEXef2fBUkwcCiUzT0KhT5xDqiSobk4AH3nxjU+AoHo4tbouCMg8M+3sBYlz02TFLiJuvXmuGgR6uQAS51qGn9YmfQR7GJljepHZgnulyoLRxoE0P74yo200AG2B2p6r7WoeEBBtt6sMdCvhXlHbzfGGti24wTW3YIWtwg2NwBMYR0ACBKIoSB2DRI4ulrwy0Cu+c4zm/egk8aPFBtfMqqRW/3m6wiiIhEklqxDZEuLiJAaMHcLM1mabLlDnnXY8lQfrhFyhQolVBk3TGKDAfENyFEBtoPU+BizdIjGBwLYp/C0omDuMzji97LqLfxMKXuVXy3wZ/0YG7qEgNoSZcvkmho/TMRQYMHHQqbPvLHuO51YTX4icYzSa61/B5YHiebPK+hq48ggDLg2SSa//D3LEVx1VwuMHYHL1Og9jlpP8F941kmoJMjUMEL5DMm2/zkquV8/IP6HlI2d2cLIDYOgpqSxbG4n0FQlHnrO8Up1+cwO3u0Ez9JJoL2jeJhl5RyjAZCdoBmdJmzXrv05sXAdNwXgjnQpgPku7AAwvs6Rro6+rn/wJ5n/xemvjNy0uVRbS4R9EAAAAAElFTkSuQmCC",
+  "symbol": "S",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/sulfur",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/016.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/016",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Sulfur",
+    "de": "Schwefel",
+    "fr": "Souffre"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery; glows blue in the dark",
+    "fr": "argenté; brille en bleu dans l'obscurité"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 13,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1952,
+    "era": "synthesis"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Einsteinium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Einsteinium.jpg\">Haire, R. G., US Department of Energy.Touched up by Materialscientist at en.wikipedia.</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Einsteinium",
+    "de": "Einsteinium",
+    "la": "Einsteinium",
+    "fr": "Einsteinium"
+  },
+  "number": 99,
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7429-92-7"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAABfklEQVRIx+2Uu0oDURCGv9kkZJtgCkGLgChBYvARLKysRGwsLSSVjdhYiG0KfQBttLCxEVKIpYXY+AAieAGD2IgogorRXHaPRYjuSbLJbqIkqIfl7Pwz//xzWVgZZhy45cyiAELlyOelHamxxCMhQn8fCeCKI+UoYRAEbEouChIkbFFQKOpV9NJnEDPJJIggJ2QUdpkQJTbIWI7HSw6aTSpOZBBKMn3PxR2noKqiNXbzqLSRW7sT5YBKjyqd7wIBUfo23KAQFsIWL14qKn0Ed6iNoEND6FG8KorlRCEOls11WaDBRNpbHIYvKGDGGdogm6L0wOgez4fcrIHdJKu1Wo1poTCL+xiwPsPbU7ulYwOkNzEgvUD2vFFWwGAuxUiClWWK+cqmq56KU6A3ys4qWGAxMV+fHDHJLIHF1gG7x5qCm3Jzpy+yR4UWP1pH/GaE2QwGbE9Reu/GPr8W3Kn7ewVrfnz+PB2h/V59gWiAnE1e/ek1Kv/GTzD/xbuqjQ8bQxkX41ZFCgAAAABJRU5ErkJggg==",
+  "symbol": "Es",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/einsteinium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/099.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/099",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Einsteinium",
+    "de": "Einsteinium",
+    "fr": "Einsteinium"
+  }
+}

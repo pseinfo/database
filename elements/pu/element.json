@@ -1,0 +1,91 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery white, tarnishing to dark gray in air",
+    "de": "silbriges Metall",
+    "fr": "blanc argenté, ternissant à gris foncé à l'air"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 8,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "decay",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1940,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Plutonium_ring.jpg\">Los Alamos National Laboratory</a>, Attribution, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Plutonium",
+    "de": "Plutonium",
+    "la": "Plutonium",
+    "fr": "Plutonium"
+  },
+  "number": 94,
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-07-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-117-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.288"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23940"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAADL0lEQVRIx83VbWiWVRgH8N+5N00334i2WUObOW1amL2IgRphX6ZSqOvFIgOL8kNBCEoS5oeEtA9lRRSIHwr8UAQ1YVQUQUFZWJKooDGdzkotfGn4uj27n9OHbc+ex2djUxd0c3Pu6/r//+c617muw7lDueurzSAgCH/aE5lgZg7pMi45O9JYHLUryupCJTVmB+GYfe3OJkpr3ItWO1OZoOsJSJTcYh6O+LFTRy+R/yVROsX8IBz0baeOYkGxG/oQFCDFgtGqJru/iwzdVAjCbh/PtCwfwSktN6jVXYfL3mS/xumW5pADttdZQjjjcIuv7vF8jjrulz/s6EkpzLI6R2WliWE5NwgkhJ9tjNK+dt1V0tJZNhD2eOuiv6d5dowpJ+xotX2ixZXmtmlusW2GDYTIOUfL1ET2e63Ousg+a9LuXnQHjySuu9XmKBz0csY/uRUrPTnGfVGIHLIyiqjwTLk55+1q1zrOwxmnjlkTxbxsS27yQRROerVDcyzcQv+uWNiyIrcgZwO7Rcct5BmCsU1Khrn0jvamIrbQ7Q///8zqGu+Y75G1EtbXi9n/cunYU+nL3sGD1yBO+LKB1Lrv7TxxbZGLwDIaR5Fadt7pbJ7sairXJ1613PjlMke0rDXjIwm7F0sv9N4Fcz41vNyh91z43d0blfB1P/0cXq7hMwnnWjU9192WocozZ0yaZtXbElYtkE0H1tdO9fq7Eh5bKO3sQ99b+MKxZoItb5C16AmZTN+aoRljwU1xW7XNj5O14E1p2stWjrbtKbIe2uJSpv+AhZfUFSNXKLurwqbZRPWfy2avNlo/8edWWD8d6r+TvZZsr3DixBG2ToVFe2WKNlWWaKzrbtzCAzpjP/F5qcoDo+y+aOYIWHrYuXSwaVSW2jae6MFj2uNgN7WyXMNIezusbuvhh67pL5ZaVGJn6pVMHjm4+LHIGMeHRFawlcjTnOnrOA9oDF454JQl3Mlv1BJ5n796qMk8SmQTuUPRwM38yjc9QQIvEPmC5qJVElYQ+YS2gfIsZQmRJi7mUbcziZP8MOg9BuYRyf1FfiIdigLiRobTxmkC1USO0zlQqH8BMwCPF73H3gQAAAAASUVORK5CYII=",
+  "symbol": "Pu",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/plutonium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/094.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/094",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Plutonium",
+    "de": "Plutonium",
+    "fr": "Plutonium"
+  }
+}

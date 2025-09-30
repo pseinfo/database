@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.8,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 8,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 140,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1900,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.05,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 20,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "pale gold",
+    "de": "goldgelb glänzend",
+    "fr": "or pâle"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 1,
+    "goldschmidt": "lithophile",
+    "group": 1,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalimetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Kirchhoff, Bunsen",
+    "value": 1860,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cesium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cesium.jpg\">Dnn87 Contact email: Dnn87yahoo.dk</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Caesium",
+    "de": "Caesium",
+    "la": "Caesium",
+    "fr": "Césium"
+  },
+  "number": 55,
+  "price": {
+    "value": 61800,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-46-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-155-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.323"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5354618"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSFK9225000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC/VBMVEVFAgATACU8AABFHQBFIAARACBFEwBFGABFBgBFGwAPABxFEABAAAAGAABFDABFCgBFFQBFCABFDgAOABoWAAAtAAANABcQAAAcAAAyAAAAEUUNADoMAAAwRQA1AAAUADFFKwAXRQAAGEUNRQABRQAAMUULABIIRQAKAABFIgAANkUqAAASAAAjAAAnAAAkRQATACslAAAYAABFLwBFNwAgAAAARRkARREARTlFJwACAEQLABQvAAAgRQATRQBERQAART0AI0U+RQAARS0AAkUEAEFFMwBFPQAYAC46RQBEAAAAKUUARQwARTE0RQAAC0YAJkUAREU0AF4uAFFNEgAARQM3RQBKAKwA2P8lAEMWAFUdRQAQALJFOQAKABJBRQAARSAAHkVKRAA3AAAARUEMAPNiAgAARTUaAEEHAD4EAFk2ANAMAHwAIEUiAD0APkUARSYrRQBuAwA/AMgMAEkUADYAEWgcAEkQSAAqANpTBQA7AGwhAOJHAMElAN4pRQBCAMUA/5dGAIFJAAATAKwaAGIM+wAhAHkAJ/9FOwBLIgACAGE+AHAwAGkUAO0AAf9NDABIAJlNFwAvTQDEAABeNAAAA10Afy8aAIs3AGU4AHcAM05HAJNJAL8kAFQA3/8bADJUFgArAE4pRgAKAMUACFYAUPwA/xkAav8/SgBkFgALAJwfADgANZYAk0ctAFj/cgBJAKYAFv//9wAAAKQAZWgERwD/KQAdAJP/7wAAegpbAQBFQgAAUFplKACVAAAASAhJAKcOAE8AEpIA/1EqAKthWABNTAAwAI4A/4QAi98DYQBkDQCITgBGAKkA/4EAE97fKwAGAPlRKgAARywfAG7CtQAAY3hKKgBeRwAAdiRPvwBLALegAgCEFQA4AJ8A/ysAWQ4AqK8PAHBdJAD/vwBzIwAAaawAwCM/YADZAAAAqv8AqP//vQAARkp0bgAADolDAHoA/24AYGho/wAAjZexRgBl/wCZHQCiKwAA9v8Anf8ANf//OAD+FACKt6pjAAACSklEQVQYGQXBa0gUBgAA4E/N8sqWzbzVzEOa5WDUiNZwVsZWYQo9bHF0Yi2pWBAEsWZN9sgIqeaPXOu1jtqgKCq7FYS7/FMQUdFrq+yhhBjmhrW1HpdytvZ9KVNCrhThApCDtufLd3143gJzUk+cSTOtKjwc9FQQC8wr/YKXAJCsEbq161CH/AgANTXf3Kv8bIAZxW/9dT0GlA6//bv9/f4derxMICfe8SeszpZ1+ZLSuHyHCUfeaGiG8Ls66Fn3y+xYwDO6c7vG/3h659upN957qDIMRAryz1LW+scIEhl6X9TueXK1/M68nwq0T7+TNcbVrKLfAultjE1KL+6OrSmMx1AVahPcMRgLRoc6S+rnNPhI3peTFdbXHgDY3udrwPdJcWRyE4ZBkuiIa3XmV7z+dSsgHdBUh1Khk2xK7VvWOLIlimy0Qy+8j4eQgMYm/qEkd2Aj5s48eLEVqscHFwM5or0pq6ztlr0X18ChFvvSAFQcBeQWOw8PAMXRV90b6ARPgfkFT7LaPWVM+APARMjAMyz1cx/koQNsfiRWOelSXoPl0S4+wU3cBm/anpkR4THwGDCKqqIh1agqCQNtAID6ce59BYCBgFNFf48F/AcAQABg48Jj3yYAwN5Fh1fM1QxQpnkQuz9tWgn0b/y4MAiQ4odg4URA6ndTZwG8BACW7F67Uy8AAFC77P4sUI7RkXNbACQA1H1+ZLXZ5fe3rd9crQWQBHgH7gIEAWkgDfQDMjBhWHywBwCjJrcmgE6AkYAegHRAJqALwP9CrrsPTa0SJQAAAABJRU5ErkJggg==",
+  "symbol": "Cs",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/cesium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/055.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/055",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Caesium",
+    "de": "Caesium",
+    "fr": "Césium"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 6,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.06,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1700,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 17000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 180,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 3000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 30,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery-white",
+    "de": "silbrig weiß/grau",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 1,
+    "goldschmidt": "lithophile",
+    "group": 1,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalimetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Arfwedson",
+    "value": 1817,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Limetal.JPG",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Limetal.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Lithium",
+    "de": "Lithium",
+    "la": "Lithium",
+    "fr": "Lithium"
+  },
+  "number": 3,
+  "price": {
+    "value": 83.5,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-93-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-102-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.274"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID3028194"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSOJ5540000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAB5klEQVRIx+WUsS8kYRjGf+/MyI69jZAcwrqEhkq4guZKoVBpXOUvUCkUlNdfJJdc4T+Q+ANUCtEikbjCSVyEAiPERpwx7LxX7NqbMcPOrl0KXyZfvveZ533e5/2+L5+kaQEEyTIgyBn7LleA8DCFhgAN2FkGLjnKcRxLCK+kfoTnfdaHIHGcCv4aWFm+dDB8zu4fVhSN81CNMtDKcDeTIBvMKXlAw7kKgE1HL/OK7DCj+CWCBkpoeDcehYL9kakca/dcdPLN4afLXkDkccUCouEWFARLaPS5Bg2W0PCJREIinkuEjMWyIj6rPgsa3TQxERO8IlCaE4ZlaWLS/4MPXWx8RT0Aw6Cpl7tL3FNEwK9ZrfqJRHHTZGwc54TtzdAJFK+GRr7kYBSHtgwCTg6NI4tiCvd5UKYHmehhx2F2PZ5cW28ZxIZbJAXnxe7lBefwzvH/G/xWc20FIw9fZQigNKdYHOH7Fpunz9HKIgJpCy/PnV8m0TT43MLhNY5bsduq26yIZht8SnHghntJpi8w2IjCrxuG0lzl8ZQjjxutxq0Bft3aLAwTFPwIsw0sONYAPZm+PrGwwIDbuF9aLjf24nfBKCzB32QpycWr89MOHlw8oRYMBfpA4XfgVXgd58mZUrh7tRP/B3xkNBY6uTu2AAAAAElFTkSuQmCC",
+  "symbol": "Li",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/lithium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/003.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/003",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Lithium",
+    "de": "Lithium",
+    "fr": "Lithium"
+  }
+}

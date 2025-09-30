@@ -1,0 +1,126 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 400,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 62000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 190000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 1.5,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 30,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "blue-silver-grey metal",
+    "de": "stahlgrau metallisch, bläulich schimmernd",
+    "fr": "métal gris-bleu-argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 19,
+    "goldschmidt": "lithophile",
+    "group": 5,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "del Río",
+    "value": 1801,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vanadium_crystal_bar_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Vanadium_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (pse-mendelejew.de).</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Vanadium",
+    "de": "Vanadium",
+    "la": "Vanadium",
+    "fr": "Vanadium"
+  },
+  "number": 23,
+  "price": {
+    "value": 371,
+    "deviation": 14,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-62-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-171-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.337"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23990"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "V",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/vanadium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/023.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/023",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Vanadium",
+    "de": "Vanadium",
+    "fr": "Vanadium"
+  }
+}

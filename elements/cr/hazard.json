@@ -1,0 +1,60 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "toxicity": [
+    {
+      "type": "LC{50}",
+      "organism": "fish",
+      "application": "#",
+      "time": 345600,
+      "value": {
+        "value": null,
+        "range": [
+          13.9,
+          210
+        ],
+        "unit": "mg·l[-1]"
+      }
+    },
+    {
+      "type": "LC{50}",
+      "organism": "crayfish",
+      "application": "#",
+      "time": 172800,
+      "value": {
+        "value": null,
+        "range": [
+          0.002,
+          100
+        ],
+        "unit": "mg·l[-1]"
+      }
+    },
+    {
+      "type": "EC{50}",
+      "organism": "crayfish",
+      "application": "#",
+      "time": 172800,
+      "value": {
+        "value": 0.07,
+        "unit": "mg·l[-1]"
+      }
+    },
+    {
+      "type": "EC{50}",
+      "organism": "algae",
+      "application": "#",
+      "time": 259200,
+      "value": {
+        "value": null,
+        "range": [
+          0.1,
+          17.8
+        ],
+        "unit": "mg·l[-1]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 200000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 70000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1500,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 450,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas exhibiting a lilac/violet glow when placed in an electric field",
+    "de": "farbloses Gas",
+    "fr": "gaz incolore présentant une lueur lilas/violette lorsqu'il est placé dans un champ électrique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "atmophile",
+    "group": 18,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "noblegas",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Ramsay, Strutt",
+    "value": 1894,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Argon_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Argon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Argon",
+    "de": "Argon",
+    "la": "Argon",
+    "fr": "Argon"
+  },
+  "number": 18,
+  "price": {
+    "value": 0.931,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-37-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-147-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.315"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23968"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSCF2300000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAEHUlEQVRIx5WWv28cRRTHP29m9ofPsZ04TiwSGSlOECAUiIQooAFRUNAg/gWkIKWkoaFA1AgUIVEgUSCo6EJFQ49okALECJIUGEJk8tO+O9/d7s48it097+357GS1Gs28+b7vfOe9+SUdjglGEJCAp/5kXFRNY4k9GQAKYrBN/ITfDHfQQBEIQEQiuIKBojVSS6wgggSCABiL8+RjJkcSyANBEFCDs8QF2QKrGf2MXsLiiJ1yFINZ4dyA7SE7oJ5M61EMdoHVPvc8o6bUDsvLrN/mqqcABAEc6Vle32Kjz385Q1AwMR1FPdkCpwY8WOWF4zx9jW9zdsspGyKQhMVAkdGb4/iA+4FCMAYHsswzXf6ZZ3XEdsryOm/d5MpDbgSKUuQcJ5UioxuxkLGthDoInTXe6LJ5n9+U8CzvLnDmFz4dcEcwgk04scJLd/jJsVjQz+nm9CAI0Qle6/LnLpvjiBvSNS6O2Opzvc91pQjkQgQmMCrTXSItRyxHQSKe6POz4msSAQwLlqWcfxWESMmFSCkUFTrHeK/HlREbVBl3IEoOEvNKzMs9Po951bI+4CslU4Lh9BE+6/NBwR91fgwoRBApA1AFcI6Lypbnu3GIaCyp2mLAInnVEkE6pO9j5sm+JH2T4dfo3boXgPQ8q59w70MGP07Yx6WJeeoyoxv8fRlCu7esuA7Lz/PwKn5QrehkiWwbPGff5sIlfrhI0Sdk5DsVwFp81mZzMdaR77aVGMOZF8l3ubWxl42WBoE4JUnJhywe48EWIewznbJihJWT9LsMW2MJSUyRo6HhpXWkG78IT54ijbh1m90BwSMQO6xhMERDDYPYkeV7lj27xXu8R7VNPj3cTONjgR+RoR0SoZLcDryFUIVnVqRtAh4tEIOEfQDTTWMxEWEIYAwCul8mjSGeJ+/DDNrydwkhrxgOHvdguxGMqfL8WDx7AZ4sjRBC224tYbwiAMVZgMgyGhEa9vkUI3R3K0tkKXy1bA0TyH0ElKeMonVaVdtIA4ljMeFODwOpo1/vV2fwAR+m7sYxuaCKEYJyNGExZrNbHWRNmDWEgDYsIpxbIjL8fr+Bn+QXwQo+1E66d/ylllEgzBbW/MooCThDMSnjEF+tJlj2xIJX/BTMwmrM3ZwsHCRj2hgJQsPrQEcDVsj1MfirBSP4+i5pwVIhFRw8CNW8yqslFnIlKGuWHSVXRloPzSOpBRxcsPwVuBuqZkE7lY+if9omEEEBMZyHX2EIod6SvuHXita4cgRy6tcPBDDwRb0zLrH3StPDKgmsw00Y7qf6Iyi3/sfQm8HgIFA9QBUcKNWzSaED78A2fFMvfr8fSbNpYQ7q83Kmcp187J6G8xDg+xlIAVtrm8UZg28AOuCgB8/Vcbg2dVBNV6R1RR2GLyv/A1+DIyV8t+2tAAAAAElFTkSuQmCC",
+  "symbol": "Ar",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/argon",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/018.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/018",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Argon",
+    "de": "Argon",
+    "fr": "Argon"
+  }
+}

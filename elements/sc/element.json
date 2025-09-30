@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 6500,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 26000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0015,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.004,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 3,
+    "goldschmidt": "lithophile",
+    "group": 3,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Nilson",
+    "value": 1879,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Scandium_sublimed_dendritic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Scandium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Scandium",
+    "de": "Scandium",
+    "la": "Scandium",
+    "fr": "Scandium"
+  },
+  "number": 21,
+  "price": {
+    "value": 3460,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "light",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-20-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-129-2"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.299"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23952"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Sc",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/scandium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/021.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/021",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Scandium",
+    "de": "Scandium",
+    "fr": "Scandium"
+  }
+}

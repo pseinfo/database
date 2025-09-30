@@ -1,0 +1,127 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 8000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 380000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 170000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 19870000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 8000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 1200000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "pale yellow-green gas",
+    "de": "gelblich-grün",
+    "fr": "gaz vert-jaune pâle"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 31,
+    "goldschmidt": "lithophile",
+    "group": 17,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "halogen",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Scheele",
+    "value": 1774,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Die_chemischen_elemente_cl.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Die_chemischen_elemente_cl.jpg\">Alexander C. Wimmer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/at/deed.en\">CC BY-SA 3.0 AT</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Chlorine",
+    "de": "Chlor",
+    "la": "Chlorum",
+    "fr": "Chlore"
+  },
+  "number": 17,
+  "price": {
+    "value": 0.082,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7782-50-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-959-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.029.053"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID24526"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSFO2100000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACXUlEQVRIx+WVsWsUURDGfzO7m0viabwEFUURBBslmELB2kYIErWzsBAb6xT2QrCJhbYWYiF2YiGClUX+AQsbJSIiWkiIEUly53m7byx2j7zd28vdxQsWHnvLzLzvfTPfvN1ZGacWUhHUESfEAaGgggSMRIw1WU9oTXFihPGQygYrY9RCKissN/gBgJD7iW8FVEJGWjQcTlGHK8FtxyBK5GgVAEoAOJI2usggqKKO2MoBWSQgEiTJ848ycYpL73lVzwQWGKSs1ILRTVHJXhmMuc9VAa0xLURrvDGcgaCGGdYGGOnf225b283yEjxX01UhCplqsWrEfgG2Rajg/BSWl9DdTTMKBBBC0yOxfArfTkmM8tXUCJEYLFOJZMrK3bSR4+y9SH0J95MjC1Rn+HiVw/PULqDwbg5g5gUKy/Ocvs+Xh3x77qXIswEqWWmF1eoh5p6gZNfSHdY+cO0pCo9nsThHUuAsdQVOnuXGAovXWf/e766ifOXxM6pVbt/i86ccee7RsI6r/2BH/Ngkj25CAgmzD4iToTHvjEGNeyHTjist6rkOVe4SnUNh8zI0EGFikcoZNhZpvmb0POFB6i8h6d3p/y2ugvmN73knf1B/cc/eQNsJobBt2fk5WIhEAcf38XWdX/HWMMWbkll5gkJi3anys1uFxHrABosMF9aOBIJrD+hOmKanYUOqHwK/h7spM4IDASsJsff1GBX2CKsup0hgUmgYddv1Y9KOp3sgw3cFQmh1YfNdBYGkV95BywhA4ffglQ8L6RtHYQreQvKPyhDYD5vQ7ANpXQ4UcPAHyLlhFjqZg7IAAAAASUVORK5CYII=",
+  "symbol": "Cl",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/chlorine",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/017.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/017",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Chlorine",
+    "de": "Chlor",
+    "fr": "Chlore"
+  }
+}

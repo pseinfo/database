@@ -1,0 +1,20 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-acidic",
+  "negativity": {
+    "pauling": 2.6,
+    "sanderson": 2.34,
+    "allred": 2.4,
+    "mulliken": 2.73,
+    "allen": 2.582,
+    "ghosh_gupta": {
+      "value": 5.8121,
+      "unit": "eV"
+    },
+    "nagle": 2.45
+  },
+  "oxide_character": "acidic"
+}

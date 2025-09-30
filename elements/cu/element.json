@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 60,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 700,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 110000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 68000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 6,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 1000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "red-orange metallic luster",
+    "de": "rotbraun, metallisch",
+    "fr": "lustre métallisé rouge-orangé"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 25,
+    "goldschmidt": "chalcophile",
+    "group": 11,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NatCopper.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:NatCopper.jpg\">Native_Copper_Macro_Digon3.jpg: “Jonathan Zander (Digon3)&quot;derivative work: Materialscientist</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Copper",
+    "de": "Kupfer",
+    "la": "Cuprum",
+    "fr": "Cuivre"
+  },
+  "number": 29,
+  "price": {
+    "value": 6,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-50-8"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-159-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.326"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23978"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSGL5325000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Cu",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/copper",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/029.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/029",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Copper",
+    "de": "Kupfer",
+    "fr": "Cuivre"
+  }
+}

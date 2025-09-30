@@ -1,0 +1,125 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 7,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1900,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 29000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.013,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 50,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 3,
+    "goldschmidt": "lithophile",
+    "group": 3,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Gadolin",
+    "value": 1794,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yttrium_sublimed_dendritic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Yttrium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Yttrium",
+    "de": "Yttrium",
+    "la": "Yttrium",
+    "fr": "Yttrium"
+  },
+  "number": 39,
+  "price": {
+    "value": 31,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "light",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-65-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-174-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.340"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23993"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSZG2980000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Y",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/yttrium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/039.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/039",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Yttrium",
+    "de": "Yttrium",
+    "fr": "Yttrium"
+  }
+}

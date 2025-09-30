@@ -1,0 +1,108 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "crust": {
+      "value": 0.0001,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 1e-8,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 4e-7,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 0.000001,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white metallic",
+    "de": "silbrig-weiß-metallisch",
+    "fr": "métal blanc lustré"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 2,
+    "goldschmidt": "synthetic",
+    "group": 2,
+    "occurrence": "decay",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "radioactive",
+    "phase": "solid",
+    "set": "alkalineearthmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Marie und Pierre Curie",
+    "value": 1898,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Radium226.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Radium226.jpg\">grenadier</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Radium",
+    "de": "Radium",
+    "la": "Radium",
+    "fr": "Radium"
+  },
+  "number": 88,
+  "properties": [
+    "natural",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-14-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-122-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.293"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID6328144"
+      }
+    ]
+  },
+  "spectrum": null,
+  "symbol": "Ra",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/radium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/088.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/088",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Radium",
+    "de": "Radium",
+    "fr": "Radium"
+  }
+}

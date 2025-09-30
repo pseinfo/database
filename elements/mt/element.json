@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 23,
+    "goldschmidt": "synthetic",
+    "group": 9,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "GSI",
+    "value": 1982,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Meitnerium",
+    "de": "Meitnerium",
+    "la": "Meitnerium",
+    "fr": "Meitnerium"
+  },
+  "number": 109,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54038-01-6"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Mt",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/meitnerium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/109.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/109",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Meitnerium",
+    "de": "Meitnerium",
+    "fr": "Meitnerium"
+  }
+}

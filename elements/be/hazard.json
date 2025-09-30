@@ -1,0 +1,61 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "h": [
+    "301",
+    "315",
+    "317",
+    "319",
+    "330",
+    "335",
+    "350i",
+    "372"
+  ],
+  "p": [
+    "201",
+    "260",
+    "280",
+    "284",
+    "301+310+330",
+    "304+340+310"
+  ],
+  "hazard": [
+    "T",
+    "X"
+  ],
+  "ghs": [
+    "06",
+    "08"
+  ],
+  "adr": [
+    "6.1"
+  ],
+  "nfpa": {
+    "h": "4",
+    "f": "3",
+    "i": "3",
+    "s": ""
+  },
+  "toxicity": [
+    {
+      "type": "LD{50}",
+      "organism": "rats",
+      "application": "intratracheal",
+      "value": {
+        "value": 51,
+        "unit": "mg·kg[-1]"
+      }
+    },
+    {
+      "type": "LD{50}",
+      "organism": "rats",
+      "application": "intravenous",
+      "value": {
+        "value": 0.496,
+        "unit": "mg·kg[-1]"
+      }
+    }
+  ]
+}

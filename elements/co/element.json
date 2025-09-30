@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 3000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 600000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 30000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.08,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.2,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 20,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "hard lustrous bluish gray metal",
+    "de": "stahlgrauer metallisch glänzender Feststoff",
+    "fr": "métal gris bleuté dur et brillant"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 23,
+    "goldschmidt": "siderophile",
+    "group": 9,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Brandt",
+    "value": 1735,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Kobalt_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Cobalt",
+    "de": "Cobalt",
+    "la": "Cobaltum",
+    "fr": "Cobalt"
+  },
+  "number": 27,
+  "price": {
+    "value": 32.8,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "mononuclidic",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-48-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-158-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.325"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID104730"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSGF8750000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADSklEQVRIx8WVT2xUVRTGf+f9mU5fp2Wmte0Y2lKpBSyxECE0Ylzwx2pMjIkESAQSIOyIhuAKF7qADRAiYa3pigBiEBeSGP4YUw1NcKOgpU6gTENrae0wUOrMdN5718XztR1mKFNa0peXm3u/+53vfOfcm/fEIsLkI7kzKSVczcuAICBxrvm70kibxxKkl6sGwQZWecgAv6cZDVAaojpJv8L1osqpjdLicWL86CeTIBUNrLlP3zCxUsKLWNPHNYWbJd3M+ons3Vzw+EvZaBAE+ZPvQVXykkUkTL23G6frEcNlVC3mTWCIngR3bFIKJeitfAAiyG+cBVnJFi9K/q9dbvCti+1gAzoGiIsNCJqG6TA+0SHPVRk1y3h/mJtxOv3m6BMl53ZVgkQaab/NhXEeTdHBwDIJpfgHlE5JLW0jXM+QnBo7VVAnqHA8Y3m7qNwlGILuMg6iEXCxfXu6TtAhpVB+4GQKlaMgBpFGDrvYt/hIoyRAfYY+hVLYJlGdcJq/FLYvIkCU4xqVIIPsc0gIwRq+ArnHLlCVnNAIj9KR4qLBkgoOgiTYpsjmlWAKEZeEYFqcVsi/bFd+A32fVoCzCrE55NI1pRV5pyD+KM+0FBCNpecwLHr3ko4VogmhJpwxGray8F3++IyRrkmaafHOeTS4uIVM8im5irH0QgN7viT+K1dPMdCNYyMgQu0irHKaX6PrO8aSMy6z2OYov9O5r8C613lvPZ8eIZXy8ULMx/DldXzxIXs7iA2C4u1X+GQdOBy9xOUetq1kRyubTjKaQRS7W9nazJluOm7QXsf+V9n8Aw8yoNCFzXWMpLk0iHpCujfK+DzKsb/ZuYAq2N7PkI0JB0LczPBNCjff8zN2bmJS1kb9QXp3kL03Hd8sp2YDw1ewH85Mv0jcMGnZSP91kndndSNmiU+exnyNhUCBZS9SHeKXGI47E8FCn56mCI0L+CmO7T6RMx34vGkKwDJ4K0rnEInx56JfPM0QjjZRZXD5PqeHyLhzrF9r0BLk5zGyamZqEY3VJXSmSat5O6Z8UIMVwkO47f3I1XTyCnRYBf1wN2+LQtf5qZPimdOEGLAWYjCQxymHj+Fr6JlrP3PifF5sAAHIgjM78f8Aly2WFiP7s1UAAAAASUVORK5CYII=",
+  "symbol": "Co",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/cobalt",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/027.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/027",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Cobalt",
+    "de": "Cobalt",
+    "fr": "Cobalt"
+  }
+}

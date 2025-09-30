@@ -1,0 +1,25 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "alkaline",
+  "negativity": {
+    "pauling": 0.89,
+    "sanderson": 0.68,
+    "allred": 0.97,
+    "mulliken": 0.88,
+    "nagle": 0.98,
+    "pearson": {
+      "value": 2.4,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "+2",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -2.92,
+    "unit": "V",
+    "info": "Ba[2+] + 2e[-] → Ba"
+  }
+}

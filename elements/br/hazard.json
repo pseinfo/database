@@ -1,0 +1,78 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "h": [
+    "330",
+    "314",
+    "400"
+  ],
+  "p": [
+    "260",
+    "273",
+    "280",
+    "303+361+353",
+    "304+340+310",
+    "305+351+338"
+  ],
+  "hazard": [
+    "C",
+    "T",
+    "N"
+  ],
+  "ghs": [
+    "05",
+    "06",
+    "09"
+  ],
+  "adr": [
+    "6.1",
+    "8",
+    "9"
+  ],
+  "nfpa": {
+    "h": "3",
+    "f": "0",
+    "i": "0",
+    "s": ""
+  },
+  "toxicity": [
+    {
+      "type": "LD{50}",
+      "organism": "rats",
+      "application": "oral",
+      "value": {
+        "value": 2600,
+        "unit": "mg·kg[-1]"
+      }
+    },
+    {
+      "type": "LD{50}",
+      "organism": "mouse",
+      "application": "oral",
+      "value": {
+        "value": 3100,
+        "unit": "mg·kg[-1]"
+      }
+    },
+    {
+      "type": "LD{Lo}",
+      "organism": "human",
+      "application": "oral",
+      "value": {
+        "value": 14,
+        "unit": "mg·kg[-1]"
+      }
+    },
+    {
+      "type": "LC{Lo}",
+      "organism": "human",
+      "application": "inhalative",
+      "value": {
+        "value": 1000,
+        "unit": "ppm"
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 280,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 6200,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00091,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.05,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 12,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Lecoq de Boisbaudran",
+    "value": 1886,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dy_chips.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Dy_chips.jpg\">Materialscientist at en.wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Dysprosium",
+    "de": "Dysprosium",
+    "la": "Dysprosium",
+    "fr": "Dysprosium"
+  },
+  "number": 66,
+  "price": {
+    "value": 307,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7429-91-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-073-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.249"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23912"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Dy",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/dysprosium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/066.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/066",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Dysprosium",
+    "de": "Dysprosium",
+    "fr": "Dysprosium"
+  }
+}

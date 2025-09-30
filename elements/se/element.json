@@ -1,0 +1,125 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 13000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 50,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.45,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.2,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 50,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "grey metallic-looking, red, and vitreous black allotropes",
+    "de": "grau, glänzend",
+    "fr": "allotropes gris métallisé, rouge et noir vitreux"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 30,
+    "goldschmidt": "chalcophile",
+    "group": 16,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metalloid",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Berzelius",
+    "value": 1817,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Selenium_in_sandstone_Westwater_Canyon_Section_23_Mine_Grants%2C_New_Mexico.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Selenium_in_sandstone_Westwater_Canyon_Section_23_Mine_Grants,_New_Mexico.jpg\">James St. John</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Selenium",
+    "de": "Selen",
+    "la": "Selenum",
+    "fr": "Sélénium"
+  },
+  "number": 34,
+  "price": {
+    "value": 21.4,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "semiconductor"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7782-49-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-957-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.029.052"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID6326970"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVS7700000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAB+UlEQVRIx+2Uv2sUQRTHP292c3dGIjlDNKgcYiMYJKRTayEgYqGtYP6A2NgG/4I0gpUptLNSDKZKYyUWkoBypDFYqCgS/HGJyym5nXkWl5y7t3ve7nmnjcMyzPvu933fd97sjgxTBgTvKKcF+cZmjQ+AsDfFhgDDjB7ipGLfspZKiK9kcITf+xwMQdI4Od76FKeZEwzIKrccYZqHXpSBU1zfTwVklXnHDqDx3GY4ynSFWUWq3FDCFkEjJTTejbbQo1xh4TMPfrAxwXyNpRrL0RLxiruIxregIJQMY5aP4KIlNH4iiZCE5xbhsM89RRQsFzTZNCkiQxDsAq05Y9iVZoqcWcbA88vYAMD4HLtI/Q21l4iHNvpWa3AiSbxQYOE26y+4ewd1kbe6dw5tT3YwgQtMHsEI1XeoSyEbGDLsNABWroAFy8wj9E9sZPM2gZRhGzOCvkJc1n7/x1PxXw3+V3N/BRMXXz4EUI4fYPE8DzdYrKKdaV0RgfESQYN62CWx6DF7gqebrG/ldtvzNnPRyj7nRniyxXebW9+DawdRuP+VuTHeNwgsz+p8sbltCPgQgg5mm81RAAehtp/mpLAP1hwup752WJTAhyDyHyQ/566LaMGzcBVuwqdsKdnFe0gRmIJteN1BLRoauAQKj8H9XecZmc3L0/ZV/Cca1DUWSJbINQAAAABJRU5ErkJggg==",
+  "symbol": "Se",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/selenium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/034.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/034",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Selenium",
+    "de": "Selen",
+    "fr": "Sélénium"
+  }
+}

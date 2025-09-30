@@ -1,28 +1,28 @@
 {
   "@metadata": {
-    "lastModified": "2025-09-27T08:01:20.336Z",
+    "lastModified": "2025-09-30T13:52:31.987Z",
     "schemaVersion": "1"
   },
   "basicity": "amphoterism",
   "negativity": {
-    "allen": 2.3,
-    "allred": 2.2,
-    "ghosh_gupta": {
-      "unit": "eV",
-      "value": 7.1862
-    },
-    "mulliken": 2.25,
-    "nagle": 2.27,
     "pauling": 2.2,
-    "pearson": {
-      "unit": "eV",
-      "value": 7.18
+    "sanderson": 2.59,
+    "allred": 2.2,
+    "mulliken": 2.25,
+    "allen": 2.3,
+    "ghosh_gupta": {
+      "value": 7.1862,
+      "unit": "eV"
     },
-    "sanderson": 2.59
+    "nagle": 2.27,
+    "pearson": {
+      "value": 7.18,
+      "unit": "eV"
+    }
   },
   "oxidation_state": "+1, 0, -1",
   "standard_potential": {
-    "unit": "V",
-    "value": 0
+    "value": 0,
+    "unit": "V"
   }
 }

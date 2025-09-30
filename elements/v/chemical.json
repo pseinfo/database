@@ -1,0 +1,23 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 1.63,
+    "sanderson": 1.39,
+    "allred": 1.45,
+    "ghosh_gupta": {
+      "value": 3.1482,
+      "unit": "eV"
+    },
+    "nagle": 1.27,
+    "pearson": {
+      "value": 3.6,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "'''+5''', +4 ,+3 ,+2",
+  "oxide_character": "amphoteric"
+}

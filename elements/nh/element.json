@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 27,
+    "goldschmidt": "synthetic",
+    "group": 13,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "JINR",
+    "value": 2006,
+    "era": "recent"
+  },
+  "names": {
+    "en": "Nihonium",
+    "de": "Nihonium",
+    "la": "Nihonium",
+    "fr": "Nihonium"
+  },
+  "number": 113,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54084-70-7"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Nh",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/nihonium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/113.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/113",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Nihonium",
+    "de": "Nihonium",
+    "fr": "Nihonium"
+  }
+}

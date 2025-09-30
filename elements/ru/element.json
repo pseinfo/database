@@ -1,0 +1,118 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 4,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 830,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0007,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white metallic",
+    "de": "silbrig weiß metallisch",
+    "fr": "métallique blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 22,
+    "goldschmidt": "siderophile",
+    "group": 8,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Claus",
+    "value": 1844,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruthenium_a_half_bar.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Ruthenium_a_half_bar.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Ruthenium",
+    "de": "Ruthenium",
+    "la": "Ruthenium",
+    "fr": "Ruthénium"
+  },
+  "number": 44,
+  "price": {
+    "value": 10500,
+    "deviation": 100,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "platinum"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-18-8"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-127-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.297"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23950"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Ru",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/ruthenium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/044.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/044",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Ruthenium",
+    "de": "Ruthenium",
+    "fr": "Ruthénium"
+  }
+}

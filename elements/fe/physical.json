@@ -1,0 +1,124 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 7.874,
+    "unit": "g·cm[−3]"
+  },
+  "elastic": {
+    "young": {
+      "value": 211,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 82,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 170,
+      "unit": "GPa"
+    },
+    "poisson": 0.29
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 10000000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 1e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 13.8,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 347,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 415,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 4,
+    "brinell": {
+      "value": 490,
+      "unit": "NM·m[-2]"
+    },
+    "vickers": {
+      "value": 608,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 449,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 80,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000118,
+      "unit": "K[-1]"
+    },
+    "work_function": {
+      "value": 4.5,
+      "unit": "eV"
+    }
+  },
+  "magnetic": {
+    "curie_point": {
+      "value": 1043,
+      "unit": "K"
+    },
+    "magnetic_ordering": "ferromagnetic"
+  },
+  "molar_volume": {
+    "value": 0.00000709,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "reflectivity": {
+      "value": 65,
+      "unit": "%"
+    }
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 4910,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 1811,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 3134,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 1323,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 2,
+      "unit": "K"
+    }
+  }
+}

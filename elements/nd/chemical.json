@@ -1,0 +1,19 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-alkaline",
+  "negativity": {
+    "pauling": 1.14,
+    "allred": 1.07,
+    "nagle": 1.03
+  },
+  "oxidation_state": "2, '''3''' , 4",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -2.32,
+    "unit": "V",
+    "info": "Nd[3+] + 3e[-] → Nd"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1800,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 3.3,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.04,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 1,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery gray metallic; corrodes to a spalling black oxide coat in air",
+    "de": "silberweiß",
+    "fr": "gris argenté métallisé ; se corrode en une couche d'oxyde noir écaillée à l'air"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 6,
+    "goldschmidt": "lithophile",
+    "group": 20,
+    "occurrence": "primordial",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Klaproth",
+    "value": 1789,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vacuum_capacitor_with_uranium_glass.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Vacuum_capacitor_with_uranium_glass.jpg\">Warut Roonguthai</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Uranium",
+    "de": "Uran",
+    "la": "Uranium",
+    "fr": "Uranium"
+  },
+  "number": 92,
+  "price": {
+    "value": 101,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-61-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-170-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.336"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23989"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSYR3490000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAMAAAC/rO6QAAAC+lBMVEVFAQBFGgBFCgALADtFEABFHgBFFgBFDQBFBwBFBQATAAAQADcgAAATAC0UADBFGAAxAAA8AAAXAAANAAAGAD4HAABFHAA5AABFEgABAEQARSk2AAAARQI/AAAAKEUrAExFIwATACYKAAApAAAaAAAvRQAALUU3AGRFLwAAI0UjAAAART4ARQkAQkVFNwAlAAADRQAOADgYRQAtAAAARRcAPkUzRQBBAAAzAAAlAEIAMUU8AG0AF0UtAE9FOwASRQAQAAAoAEUSADQADkUAHUUARRIwAFZCAHpFFAAAFEUTACo6RQAfRQBFQwAqRQAcAAA9RQBFMwAACEYHRQBFKQAIAD1AAHVFPgAFAEAjRQBBRQAoRQAAO0UqAEkMAPQKRQAQABxFIABGAIY9AHMvAFM9AHAAEUU3RQAzAFwARQ5IAJxKAL5GAIIyAFlFQQAARTE1AF8xANREAH2JJwBbAAAZACwAHkYQAPEAOEUARjdIFgBLALoAEP85AGcAALQ0/wAAIv9VKQAAAlkARR8AYwQSUgAhAOE7/wBHAIwAOEgGAPmdSwAARR5nQQAOABqSJwD/xABIAJasUwAwXwAADGJBAMUASUcZADbRggD/pgD/QwCIAABVAAAMRgCGIAAAejt1KQAASj9tPgAKABEAvv8A88onWAABAI8AAv8FAGRJKACuKwCPUADhXgAASzHrdQAAyv87bQAdAE0CAPwoANwFAKn/6wAhUwAtigAAV+IAiV1o/wBZKwAAhUeIMACCNgBGAQAA9QsAwZwAVStgWABWWwAQANtUKAAA49wDAKAAUCBrIAAdAMoKAEI/lwAAx8RVNAAjAL5g1AD1SQAAfFscAJ4bWAAAIFG4AgBPPABdXwAAPFHJuwBkGQAAxmIATF8AuXwdoQB8ewAAzP8A6q+lRgBR/wD/egBpHwBXRAAAZf8AEXEADb0AvGIAUz8A/2jBNgB8ggAhAGKG8wAw/wDy/wAAokQAIK0Au/h7PQAA/9EALP//AwD9/wDhM0d8AAACCklEQVQYGQXBWUwOAAAA4C8l1XL8YrNJ02r9qEWilslV0xwzzP1gs2mpXLPVzDAvHowRZo48xG/z4MUxa2kJveRYD+70wJJjK6pF/R2L74sINbRi8SuQiGeQBIJohyCGqV0VI8mDubUgbKdwJ21gDkbpw8uFvTkvkP7wYJvIAeinUYl7P2F2kdc/zEQoXxOACAAL8kh8i6IquBtSCYA0YBkXAFq+Jmey8XCdlafQCFAI++/BzaqH6rn+ztL1zsa/rC6e8+my0iEHq6Y9RqbybRtKRtZCCnyFPrCoIOvXPszHA8BfQAxgCtx4vul8dyCYPXKVDrQCYaA0b7DlEqAyanNzLRX9PdWsSWvZCxCa93760w6xygbbyoAApEIT0GNPftMVmAKkQDyWFCacFj3G6CNwedLrI8DJqITjdmQ8rWM8bFtR04w++AAIAFnogLFAXPm8kVInUr6VI5nP5z5NuAg/QA9Qf9uqw/ABKI73ryrD0ea4+6yLG60EuzJXBx0azEq/0x3X/wW3ACBA95fmyVtBJwBMAMoL2w8wAAArmD918bGazhrjWtKDW2YBdNHaENjuWm8FQCQAAIYBAIgGgAgAAAYAAJ5MS63ZDcj1vFpxLt8BfwCiAVEAM+AjgN1nsiEqv7EHk5Y3dfFnaHI8MAxoByjQkPG2gHeA3wBhAHIA3sC/cOxEQB/Afxm6qxf/rMDcAAAAAElFTkSuQmCC",
+  "symbol": "U",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/uranium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/092.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/092",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Uranium",
+    "de": "Uran",
+    "fr": "Uranium"
+  }
+}

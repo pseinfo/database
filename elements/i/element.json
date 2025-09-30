@@ -1,0 +1,148 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 260,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 490,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 60,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 200,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "lustrous metallic gray (solid); black/violet (liquid); violet (gas)",
+    "de": "dunkel-violett (gasförmig); grauschwarz, glänzend (fest)",
+    "fr": "gris métallique lustré (solide); violet/noir (liquide); violet (gaz)"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 31,
+    "goldschmidt": "lithophile",
+    "group": 17,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "halogen",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Courtois",
+    "value": 1811,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sample_of_iodine.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Sample_of_iodine.jpg\">LHcheM</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Iodine",
+    "de": "Iod",
+    "la": "Iodum",
+    "fr": "Iode"
+  },
+  "number": 53,
+  "price": {
+    "value": 35,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "mononuclidic",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7553-56-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-442-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.585"
+      }
+    ],
+    "atc": [
+      {
+        "value": "D08AG03"
+      },
+      {
+        "value": "H03CA"
+      },
+      {
+        "value": "V09AB",
+        "label": "[123]I"
+      },
+      {
+        "value": "V09GB",
+        "label": "[125]I"
+      },
+      {
+        "value": "V09XA",
+        "label": "[131]I"
+      },
+      {
+        "value": "V10XA",
+        "label": "[131]I"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID807"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSNN1575000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAD4klEQVRIx8WWW2xUVRSGv73PmdPLdOhl2tpaiiCX1Co2NgQtSrX4IPVSMKYRpI2JJhiLRmIMEY0RkxI1JBoNUGO8QEwkPDhQUiES4y3og32gBWzUFrCSaWqb2utML3PO2T4w086ZSy9A4s5kstY+//+vf+1ZJ3tEOtnMLOGMBLFLxEXifwTM22cCgItUDWOSUVDTAIFMI9tkwiJkEUqkIBJVud6nYn5cgfRSZhIYoivadkyDKipVzqfKiU+Shndc5Op4g3SBrZynpxzl4kskrhijnzyVkiLFmM1QXEdSUqIYsfHH6wuWCCpsTkveszmhaFYzqs5pElHBLKmrEOkmdDHc8TxZ8el04FlK5ceceY7Ry3OzNJ2cZYz4CQUXVlrXqd2NHcK3D2Vdi2HDYF0Vv7fT3+sAJGSd/hossHj4ccwQqMjPosjPQdfo6+dkE1hs38NfPWS6KVnC2T+YmnKApz/5i6ir4PMfGQ5SuYKCDJ5ZS8NRijPZfT/n/bxyEqVAIRS357LMw6lLmLZDJF2jKp9f+hiMVJGwxkPQ5Lcx0gXHVoVtY/L8FS5GYLriDQ+jJu8HsOxYb6nIL9AysWphGAHCwNiGfQ7P20gwv2VsX9S8SG4+hFGAfyvWwMyZ6Vncshd7iBQvAz6Kd9BRjzWCEHjvI7WAXh/Kmm2Uku0XreXBRlr309nCuhe57RG+fJI1dax+DAmfbJ5jmoTgzioefYEPnkbXee0owUHeraN8A4FBtjci4eAuOttmiC4XOxvp/ZsjTSgbQAqeqKO2nj4/rzZwRxnudH7+gRwvG6tp9hEYc7721/dt6LR8CIpNOxmfnBv/8mY23gU2D+0JG44GFGaR7+H8FWw7Ad3QaHkWbGo+YyIUJx5ZuWnUrGJLKSiOdFC5mIZvGA85b6EoyspsDmzgeBdN7SiVFBazWZzB6+W82Ur/BDtKKXLzUQf33oTvMuOWgysF224lTePTTjJdHLibvee4MJRA36Nz+B72/8n3/4TvmAovhuSnfmxFqsZbpSzSWO4GxdZWBqYAXJJNBbQP0xmIM5zc/42BLZAo4Kks1rt5qYdJG7fkWDEo6vz0WbHEFS4O5gHU9DChEusv1qhOJUvyVZBLZmzRIo0HDHwTjEfmJEeyXHLWxIZynUnFBTPO7/za1BSnXKDYZdGmksLUwoM5ARnwDhyGX+MohbAavoOpaxWPRkrIg2EYTwTIg3roghNw9VUug/XQDN0RZApsgTOE/zZNc3PAA90RYszhrQQNuqEauqAt6q66IQd4NUgBL/SCNSsSKAEFw5AO/wIwCNZcVTTwgoL+qDYNsCAE/wF64q4WPti8BgAAAABJRU5ErkJggg==",
+  "symbol": "I",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/iodine",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/053.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/053",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Iodine",
+    "de": "Iod",
+    "fr": "Iode"
+  }
+}

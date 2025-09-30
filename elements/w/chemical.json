@@ -1,0 +1,24 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-acidic",
+  "negativity": {
+    "pauling": 2.36,
+    "sanderson": 0.98,
+    "allred": 1.4,
+    "nagle": 1.31,
+    "pearson": {
+      "value": 4.4,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "'''6''', 5, 4, 3, 2",
+  "oxide_character": "amphoteric",
+  "standard_potential": {
+    "value": -0.119,
+    "unit": "V",
+    "info": "WO{2} + 4H[+] + 4e[-] → W + 2H{2}O"
+  }
+}

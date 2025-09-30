@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 29,
+    "goldschmidt": "synthetic",
+    "group": 15,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "JINR",
+    "value": 2006,
+    "era": "recent"
+  },
+  "names": {
+    "en": "Moscovium",
+    "de": "Moscovium",
+    "la": "Moscovium",
+    "fr": "Moscovium"
+  },
+  "number": 115,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54085-64-2"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Mc",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/moscovium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/115.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/115",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Moscovium",
+    "de": "Moscovium",
+    "fr": "Moscovium"
+  }
+}

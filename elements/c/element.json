@@ -1,0 +1,137 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 5000000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 3000000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 15000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1800000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 28000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 1200,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 230000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "black, metallic-looking (graphite); clear (diamond)",
+    "de": "schwarz (Graphit); farblos (Diamant)",
+    "fr": "noir (graphite), clair (diamand)"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 28,
+    "goldschmidt": "atmophile",
+    "group": 14,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "nonmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Carbon",
+    "de": "Kohlenstoff",
+    "la": "Carbo",
+    "fr": "Carbone"
+  },
+  "number": 6,
+  "price": {
+    "value": 0.122,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "semiconductor",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-44-0",
+        "label": "C"
+      },
+      {
+        "value": "7782-42-5",
+        "label": "G"
+      },
+      {
+        "value": "7782-40-3",
+        "label": "D"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-153-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.321"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5462310"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSHL4158550"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACJ0lEQVRIx+WVTWgTQRTHf29nU9M2imLjB4pCtTmIVehBDyJ4EDy0ByveClYCphdrDoF68aAIIkVU0KMQvOihtAgKelFBEYpCET2oKFFB7aGxkoP9SDY7HjRmt7sbkzalBYdl9703///7mpkdaWIN5SFuSZg7XIAosWbWCvKRUdC+HlrZJyhBMjyzsTwAb5QaAL55RohuYe97HioaYhwEEQR4zYj+k2TNlYIIahsHpsl9ZexvsU1Ed9Cd4fEkHzy5SbBQllvpbKEdZIyrRWb/yTUwd5OaYfItaY3t2xPtULV7VrvxASog2t2NCqpfCP+I2l1+sOoqwU/9TWkOc1sjIDZZjWHzxmB/nqMw463I9RWHUFkVaOxgw0W+JSh8qpbldbJAVjhCfIRXQ4zeQJmoEIWpOoc2FQODrN/I6eNY+aoT1qVOawSG0qxq5NET2tuIrgYLipy/ztMXpdXQfg9VGxcP7DGuhOEI0xZHflJ0wubT7+VmD60geRc7z7XDhBpI3cGAwS6K7pVXigv3UXApzsSXeubT1UnyFH19xLaTStLTy0SWPR2k+kn0k8s5DnDF96Z1pM+BzcAVXr6rluVa8GBAS4RbcbDBBg02Z+7x/HMwy/Pjq82yJLD/1b8BD7aWt0GmwMlxrCUqc5fibJgTU3z3204CPYpjJr2zjOua/evahcVAzqFshgRchh/zcr4TDpVO8E3I1jtzE7od98Gw8wJYHg1cOPIXRNk+FnfLIR0AAAAASUVORK5CYII=",
+  "symbol": "C",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/carbon",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/006.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/006",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Carbon",
+    "de": "Kohlenstoff",
+    "fr": "Carbone"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "crust": {
+      "value": 0.00001,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 2e-16,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "bright, silvery metallic luster",
+    "de": "hell, silbrig, metallisch glänzend",
+    "fr": "lumineux, lustré, métallique argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 5,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "decay",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Fajans, Hahn, Meitner",
+    "value": 1917,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Protactinium-233.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Protactinium-233.jpg\">ENERGY.GOV</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Protactinium",
+    "de": "Protactinium",
+    "la": "Protactinium",
+    "fr": "Protactinium"
+  },
+  "number": 91,
+  "properties": [
+    "natural",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-13-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "616-087-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.122.906"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAACUElEQVRIx+2US2gTURSGvzNpm1iracCFDemiRFsXwWqRCiKiGyMFW3DlQtRNV25UiiAIUje6qoggCiqIIChYEMEUXbjQ4iNUpEW0ogkWLNYqQSX0lc5x0abJTB6d1PhYeBlmzvnvOf953blSjY/MEqsk2FcG8bCijhDwgWeKFmDIfF1UNbBFkBj9s8wANazy0ywISJKvKSZrqVfM73yqJQCM8HyCRBanrGOnQSUgyDD3mwgLEuPxBAkP3jVsB5F5e3nF3RDtc8ggtwsVIsgG9goyxutRXi7WCgH8tNSxEYwBroDadgEfwSBtgryh9wejC7uCbOIIiGBE6VHMORdbiBCd1az+RmyYG7n55IazTUqzVLXu1tAY5JAigxxVZtXq7ueAl80pkm85ptZ2FVFtIfKp84haSyisurzcBElyboZHCxVVsNVNlyJJ9oCZy19YzTmPkiWUpBYxWxag+SoGRNsxJ/N4GS7CEVzwopux/l+KVZaEy+Ol6U7bHufgP2LskGGJnfuP58UzDf5b76U6ugwiB0E5+YAnI5a7xnb1lIDkAw3o6wC4OETv+0XYKgzu7QLleJSBL+VMo7jZ/nr2BUAJP0UVQ+hrBeVsnMi4I7YGD5eaQNk9xJRZ/jb+drM/wt9icKYSlLZpUo75tXQhL+6H02DCLXgI59M/UGf25QhV0AMmnILPjsltggEnwITrEE/jbjgMChdgLewAhWsw7oC8FdaDwmUHabihA0y4A1MlZq45c9gGCu/gY1HL5dAICnFIlD6dIrWsBM2ahQ8UfgK380wnVA8BHQAAAABJRU5ErkJggg==",
+  "symbol": "Pa",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/protactinium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/091.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/091",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Protactinium",
+    "de": "Protactinium",
+    "fr": "Protactinium"
+  }
+}

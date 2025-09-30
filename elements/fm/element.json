@@ -1,0 +1,67 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 14,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1952,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Fermium",
+    "de": "Fermium",
+    "la": "Fermium",
+    "fr": "Fermium"
+  },
+  "number": 100,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-72-4"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Fm",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/fermium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/100.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/100",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Fermium",
+    "de": "Fermium",
+    "fr": "Fermium"
+  }
+}

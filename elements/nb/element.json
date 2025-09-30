@@ -1,0 +1,122 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 190,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 17000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.001,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "gray metallic, bluish when oxidized",
+    "de": "grau metallisch glänzend",
+    "fr": "gris méttallique, bleuâtre quand oxydé"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 19,
+    "goldschmidt": "lithophile",
+    "group": 5,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Hatchet",
+    "value": 1801,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Niobium_crystals_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Niobium_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Niobium",
+    "de": "Niob",
+    "la": "Niobium",
+    "fr": "Niobium"
+  },
+  "number": 41,
+  "price": {
+    "value": 73.5,
+    "deviation": 12.1,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-03-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-113-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.284"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23936"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSQT9900000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Nb",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/niobium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/041.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/041",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Niobium",
+    "de": "Niob",
+    "fr": "Niobium"
+  }
+}

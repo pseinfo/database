@@ -1,0 +1,142 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": [
+    {
+      "label": "_α",
+      "value": 5.769,
+      "unit": "g·cm[−3]",
+      "condition": [
+        {
+          "value": 293.15,
+          "unit": "K"
+        }
+      ]
+    },
+    {
+      "label": "_β",
+      "value": 7.265,
+      "unit": "g·cm[−1]",
+      "condition": [
+        {
+          "value": 293.15,
+          "unit": "K"
+        }
+      ]
+    }
+  ],
+  "elastic": {
+    "young": {
+      "value": 50,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 18,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 58,
+      "unit": "GPa"
+    },
+    "poisson": 0.36
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 8690000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 1.15e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 7,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 290,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 302,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 1.5,
+    "brinell": {
+      "value": 51,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 67,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.000022,
+      "unit": "K[-1]"
+    },
+    "work_function": {
+      "value": 4.42,
+      "unit": "eV"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.0000031,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 298,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00001629,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "reflectivity": {
+      "value": 54,
+      "unit": "%"
+    }
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 2500,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 505.08,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 2875,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 2369.92,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 3.7,
+      "unit": "K"
+    }
+  }
+}

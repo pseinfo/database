@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 400,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 500,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 89000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 540000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 1300,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 100,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 37000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "very pale yellow (gas); bright yellow (liquid); alpha is opaque, beta is transparent (solid)",
+    "de": "blasses, gelbliches Gas",
+    "fr": "Jaune verdâtre clair"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 31,
+    "goldschmidt": "lithophile",
+    "group": 17,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "halogen",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Moissan",
+    "value": 1886,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fluoro_liquido_a_-196%C2%B0C_1.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Fluoro_liquido_a_-196%C2%B0C_1.jpg\">Fulvio314</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Fluorine",
+    "de": "Fluor",
+    "la": "Fluor",
+    "fr": "Fluor"
+  },
+  "number": 9,
+  "price": {
+    "value": 2,
+    "deviation": 0.16,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "mononuclidic",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7782-41-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-954-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.029.049"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID24524"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSLM6475000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAClUlEQVRIx8WVv4oUQRDGf1U9c3vnnXseCoKBmYEIanBGgu9gqggXi4GBkZmIYGBg4jNcpOArqCAYKBiIJiaaiKDH3t/dme4ymJvZGad3d+5UXJahu/qr+uqrqa6RI6yACBgGQvmT6gEgilPUkxtWA9QxFVIFNczwUUBrVbeoI/VkBcskCkCQlAVPFshaAKJCBAWMUCmapz9kywhggjN8pW5KKWIs44UgoCULggoaylII0mMZdMhPa8hBSBw9z6isW5FkGshpvpoob1281bbWPLUm3vbLooYJamB4MHAJ/ZzN6iVajV1I6rWKUcQZrSlh8rYhIbZtSGD2ttVNUlsA4hCBfMIps+0dvdwcllO0x0G51KFKyGbA2qeqqBJynEME//dkqpImjIZgrT9xoxhpQpZhYTY4Yvx34I4RDlm5Q9u7t1jRXBYmxJHxRYrGkWJ8K5aP70rlJYLY/nZ6Ps6hQgg4xeezutVqF/V/PAtpFjBrHoGCWc0OqeIDITQwGIlyepkvGwz974MPSBQfsMrdIhgniJDXIotwapHNEYNRczi2fMdTUuin7ORkYWx0yrljPLrE913WXhEMH2aFohsjHE9ZX2XPc/UN3kiEYDWBExyPOp5e4PMONz/Gq3GwNA7luKgIbHnmFYy9g6eRCEvCIJQf+xamL1ye48WQbQNIYEkYtOszNdszypMe94e8LFtrAVaVt4HtmKMYD5RVuBH4BkAPnoPBB7gD9+AiXIeNJnMC62DwDs7DGuw0AdHFHNyC1/AawlQkzcsn8BAMAtyd7GsdYgK3y+n8uIOLlrzF1sE1MHgGu6Xd/iCfCungCgR4Dz9K1WchwKdaAsUkDFNjrsBJ+AqDml3gBIxgo1vCAj3IIS2V/gJdyYEWTh4r1QAAAABJRU5ErkJggg==",
+  "symbol": "F",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/fluorine",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/009.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/009",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Fluorine",
+    "de": "Fluor",
+    "fr": "Fluor"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 1.9,
+    "sanderson": 2.14,
+    "allred": 1.74,
+    "mulliken": 2.28,
+    "allen": 1.916,
+    "ghosh_gupta": {
+      "value": 5.5236,
+      "unit": "eV"
+    },
+    "boyd": 1.87,
+    "nagle": 1.87,
+    "pearson": {
+      "value": 4.77,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "-4, (2), '''+4'''",
+  "oxide_character": "acidic"
+}

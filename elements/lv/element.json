@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 30,
+    "goldschmidt": "synthetic",
+    "group": 16,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "JINR",
+    "value": 2000,
+    "era": "recent"
+  },
+  "names": {
+    "en": "Livermorium",
+    "de": "Livermorium",
+    "la": "Livermorium",
+    "fr": "Livermorium"
+  },
+  "number": 116,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54100-71-9"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Lv",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/livermorium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/116.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/116",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Livermorium",
+    "de": "Livermorium",
+    "fr": "Livermorium"
+  }
+}

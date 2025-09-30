@@ -1,0 +1,25 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 2.33,
+    "sanderson": 2.29,
+    "allred": 1.55,
+    "mulliken": 2.41,
+    "nagle": 1.76,
+    "pearson": {
+      "value": 3.9,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "'''2''', 4",
+  "oxide_character": "amphoteric",
+  "standard_potential": {
+    "value": -0.1251,
+    "unit": "V",
+    "info": "Pb[2+] + 2e[-] → Pb"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 760,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 60000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0012,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.06,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 4,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "von Hisinger, Berzelius, Klaproth",
+    "value": 1803,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cerium2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cerium2.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Cerium",
+    "de": "Cer",
+    "la": "Cerium",
+    "fr": "Cérium"
+  },
+  "number": 58,
+  "price": {
+    "value": 4.64,
+    "deviation": 0.07,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-45-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-154-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.322"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23974"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Ce",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/cerium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/058.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/058",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Cerium",
+    "de": "Cer",
+    "fr": "Cérium"
+  }
+}

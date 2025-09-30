@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 1.738,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 45,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 17,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 45,
+      "unit": "GPa"
+    },
+    "poisson": 0.29
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 22700000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 4.4e-8,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 8.7,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 128,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 146,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 2.5,
+    "brinell": {
+      "value": 260,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 1023,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 160,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000082,
+      "unit": "K[-1]"
+    },
+    "work_function": {
+      "value": 3.66,
+      "unit": "eV"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.0000131,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 298,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.000014,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "reflectivity": {
+      "value": 74,
+      "unit": "%"
+    }
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 4602,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 923,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 1363,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 440,
+      "unit": "K"
+    }
+  }
+}

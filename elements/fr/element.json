@@ -1,0 +1,77 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 1,
+    "goldschmidt": "synthetic",
+    "group": 1,
+    "occurrence": "decay",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "phase": "solid",
+    "set": "alkalimetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Perey",
+    "value": 1939,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pichblende.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Pichblende.jpg\">Template:Farhan</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Francium",
+    "de": "Francium",
+    "la": "Francium",
+    "fr": "Francium"
+  },
+  "number": 87,
+  "properties": [
+    "natural",
+    "light",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-73-5"
+      }
+    ],
+    "eg": null,
+    "echa": null,
+    "cid": [
+      {
+        "value": "CIDNone"
+      }
+    ]
+  },
+  "spectrum": null,
+  "symbol": "Fr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/francium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/087.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/087",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Francium",
+    "de": "Francium",
+    "fr": "Francium"
+  }
+}

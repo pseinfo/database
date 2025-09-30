@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 290,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 34000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0034,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.2,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 3,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Mosander",
+    "value": 1839,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lanthanum-2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lanthanum-2.jpg\">Jurii (Lanthanum-138 at en.wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Lanthanum",
+    "de": "Lanthan",
+    "la": "Lanthanum",
+    "fr": "Lanthane"
+  },
+  "number": 57,
+  "price": {
+    "value": 4.85,
+    "deviation": 0.07,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-91-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-099-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.272"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23926"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "La",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/lanthanum",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/057.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/057",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Lanthanum",
+    "de": "Lanthan",
+    "fr": "Lanthane"
+  }
+}

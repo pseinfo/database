@@ -1,0 +1,12 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "negativity": {
+    "pauling": 1.3,
+    "allred": 1.2,
+    "nagle": 1.18
+  },
+  "oxidation_state": "+2 +3"
+}

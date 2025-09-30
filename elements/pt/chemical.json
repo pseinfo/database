@@ -1,0 +1,23 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-alkaline",
+  "negativity": {
+    "pauling": 2.28,
+    "allred": 1.44,
+    "nagle": 1.49,
+    "pearson": {
+      "value": 5.6,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "-2, 0, '''+2''', '''+4''', '''+6'''",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": 1.118,
+    "unit": "V",
+    "info": "Pt[2+] + 2e[-] → Pt"
+  }
+}

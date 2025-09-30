@@ -1,0 +1,52 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "electron_config": "Ar 3d[1] 4s[2]",
+  "ionization": {
+    "values": [
+      6.56149,
+      12.79977,
+      24.756838,
+      73.4894,
+      91.95
+    ],
+    "unit": "eV"
+  },
+  "mass": {
+    "atomic_mass": {
+      "value": 44.9559085,
+      "unit": "u"
+    },
+    "standard_atomic_weight": {
+      "value": 44.955907,
+      "deviation": 0.000004
+    }
+  },
+  "radius": {
+    "empirical": {
+      "value": 162,
+      "unit": "pm"
+    },
+    "calculated": {
+      "value": 184,
+      "unit": "pm"
+    },
+    "covalent": {
+      "value": 170,
+      "deviation": 7,
+      "unit": "pm"
+    },
+    "vdw": {
+      "value": 211,
+      "unit": "pm"
+    }
+  },
+  "shell": [
+    2,
+    8,
+    9,
+    2
+  ]
+}

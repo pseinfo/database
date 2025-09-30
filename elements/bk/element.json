@@ -1,0 +1,82 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery",
+    "de": "silberweiß",
+    "fr": "argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 11,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1949,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Berkelium_metal.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Berkelium_metal.jpg\">Oak Ridge National Laboratory, US Department of Energy</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Berkelium",
+    "de": "Berkelium",
+    "la": "Berkelium",
+    "fr": "Berkélium"
+  },
+  "number": 97,
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-40-6"
+      }
+    ],
+    "eg": null,
+    "echa": null,
+    "cid": [
+      {
+        "value": "CID23971"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAACa0lEQVRIx+2WTUhUYRSGn+/TYUqJ0qis8I+pSCMho4QIa9HGwRI3bkLaJBQYMtCiooKJUSqU/sBaFS0MWpmIC5cy0apxUWSKP5FG+bOZhHBy5t7TwtHxzowzXbOCCC73nvd87/ue853vcrlqD8eBGUZNjDz2ggIUKnUwQcAkotCFVCxkJhkQzB2UhZidZqiQiqTyUfyCCbCAlz8TYFrCIogjJJqskpBLYTGV0wx+4nWy6grUbqo2kh9kfBNF47ya5m0CU62gjQUq5WqcVuM4hBdUAF+EOUCReZgWUP34NlOeT/VHuqZ4CYhVK1Y3gQyyS7glqAE8JuGlcrKsG02Wi7uCGqFRmI9bTVYieUWxbnBliFhPJAFatsCK8KCm2cQvtMSPVi0LUkBnCXn3iAwy2RTtQtk3+cOqXzHRihvtFLnwXmBs6KdUWtF6k/0leC7ybgBHJj0dYFDXQPAriOXakkOHFwyqPBiRaFIrnnrYtoHz7Yx94dwJastp7qRvMF4evbDAHCfP3WDg7iJipCHbTgqAQ+hxgEHI4Lapr6N6kPux9zJu3srJ1m40zNQi39BZFLxAw/gpJITTRfFDjCnGzoC5KFS4rpF7lOFLzPbHDAvq2HWW4Qd87gbYXsmBq2jodWNGorTSevbV09/Gh14b5790eg2Pyd1JBrTVEJ5Lzl+fja8TDZdPEv5uwz9tPjb4tbuXuWhtJPCeK4+QtPy1bSDhw2cv81do//3/9W2K/eB3MBMl1XAEnsEbO+ZOaAKBOxC20886OA0CT8Cw2bmCGhAwQaAPgiklGo6BgJ/of9WqB1gKAiMwv6an8wMgFVIXP6Pj4wAAAABJRU5ErkJggg==",
+  "symbol": "Bk",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/berkelium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/097.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/097",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Berkelium",
+    "de": "Berkelium",
+    "fr": "Berkélium"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "moderately-alkaline",
+  "negativity": {
+    "pauling": 1.1,
+    "allred": 1,
+    "nagle": 1.03
+  },
+  "oxidation_state": "3",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -2.13,
+    "unit": "V",
+    "info": "Ac[3+] + 3e[-] → Ac"
+  }
+}

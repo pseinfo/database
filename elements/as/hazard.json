@@ -1,0 +1,39 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "h": [
+    "301+331",
+    "350",
+    "410"
+  ],
+  "p": [
+    "264",
+    "280",
+    "301+310",
+    "304+340+311"
+  ],
+  "hazard": [
+    "T",
+    "N"
+  ],
+  "ghs": [
+    "06",
+    "09"
+  ],
+  "adr": [
+    "6.1"
+  ],
+  "toxicity": [
+    {
+      "type": "LD{50}",
+      "organism": "human",
+      "application": "oral",
+      "value": {
+        "value": 1.4,
+        "unit": "mg·kg[-1]"
+      }
+    }
+  ]
+}

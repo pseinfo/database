@@ -1,0 +1,33 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "electron_config": "Rn 5f[11] 7s[2]",
+  "ionization": {
+    "values": [
+      6.36758,
+      12.2,
+      22.7,
+      38.8,
+      54.1
+    ],
+    "unit": "eV"
+  },
+  "mass": {
+    "atomic_mass": {
+      "value": 252,
+      "*": true,
+      "unit": "u"
+    }
+  },
+  "shell": [
+    2,
+    8,
+    18,
+    32,
+    29,
+    8,
+    2
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "negativity": {
+    "sanderson": 4.5,
+    "allred": 4.84,
+    "mulliken": 3.98,
+    "allen": 4.787,
+    "ghosh_gupta": {
+      "value": 11.3003,
+      "unit": "eV"
+    },
+    "nagle": 4.89
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 3300,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 60000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 120,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 4600,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "grey white",
+    "de": "silbrig weiß",
+    "fr": "blanc gris"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 1,
+    "goldschmidt": "lithophile",
+    "group": 1,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalimetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Bunsen, Kirchhoff",
+    "value": 1861,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rb5.JPG",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rb5.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Rubidium",
+    "de": "Rubidium",
+    "la": "Rubidium",
+    "fr": "Rubidium"
+  },
+  "number": 37,
+  "price": {
+    "value": 15500,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-17-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-126-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.296"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5357696"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVL8500000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACrUlEQVRIx92Wu08UURTGf+fOzO7yWB6CoGSJ2fgKVhR2NJjYW9lpQWuBhcbGGON/gKWdhQmNnbWGGAvjIzGxIEYUVCKCkeXlwuzeuddiGHZ2VlgeS0y8mcycOfOd7/vuuZM7I13kBVWkABYEEPBoMgQBZZJDBFG4Bg02zCQA0UUJYjFhnKIlS2+Br4byKS4Aq/yYZ7KWQZA0WU1J40s1Z42ENNMJqsivWp/VkQDt9LlkFpmxGBCFc4T8GvM+qwkJh1QH/cvMakpxhhozYSxZ+o4xOM2zNG0+KxpfUB4tZYqhVoR2znMdBOQNY7HmZE9yqZXcLBNzvHRp7mOowEeFt8K0hRStZYqWoMZDuF7SRK9mo8RymLURoIUTWc7MM2HQ0aMqhr/diqLJ4If2YkIqRU6zFLAaK1QOrQG/q8Gey1HNTyHdzkiR5z4fhIxhLQYLFTPdPLTIIqOGBRujsNUrYlEeQ0J/iceQgQ2LBvEYVVwscdMwA1koRBKJCcaaJtFZojdaHUcE+70iK4KXRznoaaxGoO8+zQMoUPDtGv5UNQl1bgVEcFsI1iGogimh6xzGZ+nTpoG6bHuVPtwqG3U6cQCWfI4H93j1jjtjeA6uQ3F9W/CukrG8WKxFIK3wNdYejJlNTmw1FTWwv7VEAYjZc0e3AuXidaCX6B7m9C3eXqa8vB+enfNtPYw84sltvrxGtrY2uxOPCIPD9OZ4Oo7RlbwKLwbAUXgpyhuwRz+VBv+rc2MJ43uWABhbySRHbQbSDtoQmOT3zNptazMO+SyfV9A2WVhXtMnBWPwgiXIELIGt43ZXk9pXoYLxATpdrkyyUG4EP3Q7nE1zt4cbc7zfaKTbAxXuCHPhqsuU4YWpeQd2zW/3HhwG8j8ml232kuiXkoDK389BbITDNGiOfwDbyIcWPa/rcgAAAABJRU5ErkJggg==",
+  "symbol": "Rb",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/rubidium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/037.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/037",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Rubidium",
+    "de": "Rubidium",
+    "fr": "Rubidium"
+  }
+}

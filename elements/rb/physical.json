@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 1.532,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 2.4,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 2.5,
+      "unit": "GPa"
+    }
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 7520000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 1.33e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 2.19,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 72,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 81,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 0.3,
+    "brinell": {
+      "value": 0.216,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 58,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "work_function": {
+      "value": 2.16,
+      "unit": "eV"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.000017,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 303,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00005576,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 1300,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 312.45,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 961,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 648.55,
+      "unit": "K"
+    },
+    "triple": {
+      "value": 312.41,
+      "*": true,
+      "unit": "K"
+    },
+    "critical": {
+      "value": 2093,
+      "*": true,
+      "unit": "K",
+      "@": {
+        "value": 16,
+        "unit": "MPa"
+      }
+    }
+  }
+}

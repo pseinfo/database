@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 600000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 700000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 120000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 29000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 1326000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 4100,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 270000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "shiny grey solid",
+    "de": "silbrig weiß",
+    "fr": "blanc-gris métallique"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 2,
+    "goldschmidt": "lithophile",
+    "group": 2,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalineearthmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Bussy",
+    "value": 1828,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/CSIRO_ScienceImage_2893_Crystalised_magnesium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2893_Crystalised_magnesium.jpg\">CSIRO</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Magnesium",
+    "de": "Magnesium",
+    "la": "Magnesium",
+    "fr": "Magnésium"
+  },
+  "number": 12,
+  "price": {
+    "value": 2.32,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-95-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-104-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.276"
+      }
+    ],
+    "atc": [
+      {
+        "value": "A12CC"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5462224"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACaUlEQVRIx8WWS24TQRCGv+qesc04ITJxUBILUMgqQmxYsEEKSw6AOAPiBtyAFafgAkiwYQmCJTteAgSKCCQRBBwy8XOmi4XjZMaPxGMMaY16uv7+66/qanXPSECJwyad1zRzJc4DgoD8ZK1N3eC32FOc4hQVABGMII4YMHgWLyYCNXgxbdADzYMQPgVHFBNJOmgyBwGPgsFvEdLbpM9IIQYvoNQkbNPoLMGSc0SCccSgPSIyIIfBBMFMs2jwqnwBl+DIoNwyzMpf+HYGRRZnubLJixZVTVAtxRwlwXdEjmaTH5rYlC5TLKd8ygp55kPexNQ0XY2EaU6zKgQ7PFFcV+QwvbRpLHMxv5VGItwBwQu4FbPR4BloMqKmd0QRoai0odUTQtOlGGJ2kDwsIOsQIV2KCHYZQrSKf4n4LVpLzHb7/kEm0xYI5qmto1EGr/wUZ5b4/g7XHj/0P/fSbqV7nj4wKPDwPkQQ8/Ql1y9DDBE37qI6kkIP7gnXKnzY5ls4hDlCbqJYiNzx4VCssgxbyE7myh2DC7aANsHtm4WzuBrR7oT0J4QvLnHzDg/usfsrs44IlQrq2NxInGFNHFRN3SCVBTzD2jrqBnOO7k8HrFzg1Sf26kcydRzxoX36HsyM/BfaTI6rZZ5vUY9HdSxabl/k8Qbvd1P4fJ7VWR5tdqVOZJnHOQaGlTyvGzTcOGoVS9HwsYUnKLT1BJZp4Zywo5SFz44oQQtgTqgrOfja8x3tExs2CEDY/9nS0Vw6Awtl2Gb/b2/EcMNwgTLUIMyYBtkzJ5F8a0LiAjMQTqgagA9TUIV43DUeTfgDG0RkFhnTItcAAAAASUVORK5CYII=",
+  "symbol": "Mg",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/magnesium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/012.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/012",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Magnesium",
+    "de": "Magnesium",
+    "fr": "Magnésium"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 4,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 9,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1200,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 2200,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.01,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.06,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 200,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery-white (beta); gray (alpha)",
+    "de": "silbrig glänzend (β-Zinn), grau (α-Zinn)",
+    "fr": "blanc-argenté (béta); gris (alpha)"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 28,
+    "goldschmidt": "chalcophile",
+    "group": 14,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tin-2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tin-2.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Tin",
+    "de": "Zinn",
+    "la": "Stannum",
+    "fr": "Tin"
+  },
+  "number": 50,
+  "price": {
+    "value": 18.7,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "semiconductor",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-31-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-141-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.310"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5352426"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSXP7320000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACCElEQVRIx82WPWjVUBTHfydJo6/iE/oh0qGCYPEDB7t1kSdd/KAObiLqIIJ0cLQgItrNQRAs0rG0UHRTtEI3i8Lj4dYPcHCRB0EQaym21Ca516VJXtrk+fKaVi/h5pz/+d//OffkkkR6KAEO8wofhGBIMJnYoH3cCI5ZEbL7hNo664rkSJAkznajkhAVA0vhZVdG17g6HtVxfooLiI53o467NYVgHeKJQZvDLcXvMIWOb6HGbRH2KlZCTKfvaFPGxncUu0uNkcnNc5WwZz/eKtrLlssuYLeyuhg1JoyaJqVrCMxMoPztFmzbdHSy+B13PX2VDjq96UoBLYPBy1S/8XoGpf5CTgDzIBcMzhYpL/PTza7Q5AHJDRe6z9N+krmnKDfC9x1kYJz3d1n+irsSnamQYLZwewoDTBg5B2pn6hRO9dJznDcv8dxUfmuBG9cpl5mdjbc577mrnbEhKgs8GEOrJI7Gtng7BIqbo1R/ZBDv6+ZRPygGxln3mb66Ebowybsrkf7DD3xycP0tHxlNwgjA0X6OFDfc4QofHU538rgP4NIUa142tWxI+JIVps+A5vkXXjmpa0sd3DvKnTk+/8qmn4a0Wbw4AZqL87iq+fp3lZar/mGhKCz4qGb1LbgPS/CM6DdCN2zsBPO/Ehc4BgegAv4/rbwOwYQiLIEFXVANHqVuOEt9wh801T4WbeqRxQAAAABJRU5ErkJggg==",
+  "symbol": "Sn",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/tin",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/050.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/050",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Tin",
+    "de": "Zinn",
+    "fr": "Tin"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "negativity": {
+    "mulliken": 2.59,
+    "nagle": 2.27
+  },
+  "oxide_character": "acidic"
+}

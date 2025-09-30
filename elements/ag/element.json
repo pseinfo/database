@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.6,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 140,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 80,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.3,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "lustrous white metal",
+    "de": "weißglänzend, metallisch",
+    "fr": "métal blanc lustré"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 25,
+    "goldschmidt": "chalcophile",
+    "group": 11,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Silver_crystal.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Silver_crystal.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Silver",
+    "de": "Silber",
+    "la": "Argentum",
+    "fr": "Argent"
+  },
+  "number": 47,
+  "price": {
+    "value": 521,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-22-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-131-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.301"
+      }
+    ],
+    "atc": [
+      {
+        "value": "D08AL30"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23954"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVW3500000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACX0lEQVRIx+2Uy2vUUBjFf/dm3mI7bUWqtWPrG2WKuBDBhbYLcSWCoAju3Lhy46Lg0oXiQnDpTsTSf0DrA1xJdwq1oCBW0daWsY9xXm2TSTK5LurQJM1MO+goguGS5Jzv3PM9bohI0AZ00BunVSCmeaMAEABCI9JFn4WeZ9pEr2BRvYTv6YICWtnRQW8FUyA1IjmmSswpHJuyREvQZmN2c6RAZp4PPocwsd2cAHJMFsmYLDvYvhReIFxQ7GEgRst7nlkYbkEL23s5PsPYAp/qOKzN4hW4lTLNhSgt4wxZ6NWoOMT5OFvKFN4yrFA19grfxOpGtb1cLJOf4qnCCTL01K9cULmiGokkh/OM2yy7oqsC5SpAeaexAkO07+TWDHd0JgJT1IA/GQWCcJRjFhMVZpW3XxXcgtDYH+cmSIP7Fo9AqYCaV2AsxLDDC4fHgjMODxSLwR+scL00BGWYfSNo8OUq0U5Koyh7nV2xDnZd4vNDzO+rfHwrp4bIv2P0GlqIVD9zY+hznu1Skkxh5DAKCBCC9hRGESPnkdVKHYnS18/H1xQX/DIpuXKD9FEGz7FUCjBpYDgKQJOkD5LJMDsLqnosas0KJKt8SPDkOthQ4fRtHKeeuCFn3xKwLYzlMG827rDOSPx8mO4RNJAgIXuX0nOorD9aNx+K0XmS7CvMLFqUzSkWJ3HMDZ3YRnnB2UHSA9y7TPbrL/g0yK8O+G/df6/hmh8fEJb0tDJVpGzX1NQjmybTBD2b+KazZDezjGa32WT/Lo0DEV7qWOpfbVM1/tIM5X/zWkoJSVgC48+W8QMmiGwWqxAWDAAAAABJRU5ErkJggg==",
+  "symbol": "Ag",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/silver",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/047.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/047",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Silver",
+    "de": "Silber",
+    "fr": "Argent"
+  }
+}

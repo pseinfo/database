@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.6,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 170,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 3.1,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.05,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.002,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 100,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "metallic yellow",
+    "de": "metallisch gelb",
+    "fr": "jaune métallique"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 25,
+    "goldschmidt": "siderophile",
+    "group": 11,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Or_natif1.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Or_natif1.jpg\">Urban</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Gold",
+    "de": "Gold",
+    "la": "Aurum",
+    "fr": "Or"
+  },
+  "number": 79,
+  "price": {
+    "value": 44800,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "mononuclidic",
+    "stable",
+    "noble",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-57-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-165-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.332"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23985"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSMD5070000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACo0lEQVRIx+2UTUhUURiGn3PuXGfGmkybIjCmSfsj3YSYi4gKF7prZRm0aNEmIYiCkRZFEkQgRCCVLYw2giAIJplBWlT0RytDzDStKaMmf5ocG39m7mmho3NHZxq1yEWXy+H73u897/ne7/4IF3k2HAP0jhEAJNLOaoEM4jcIEXuJqEi6KQAEwke3hsVJ9hRBIMb4YSNNIPp4ahDWsW+kAHjHI4WK1pJYVuAMMe4i/z3PNXQX+UA3bTqpm9jdy+MJRiNbNBsOHfsIPoUxJWLBto0igRjGO0TfZva/5X4We3TsQA8PBUIgs9knEJ00TzAqkC4KAC8vwZjxlcqa7RR3cHucgNmzmDuBGNBGei6lHdQHGZwBJdoWDvxk8BNP7DhzOALiFVdmhhCZWCJlQGflTjwC0c7VIL54NA1bLqf7af3GiylEmZWVma8ghQwrmQE6FeEU1mVzXsEbThpMRvejzK+BTuYGKhTiI2cm8c05Yv4Tldlg/BSFSKVMp1DBOA0GA1aOh+gJ4gGlzBYiChqshSHFhLkqwA1p8BqM6YpgNoiXCivSjvKDMuGWDLbWISH0me6jAO5ynIV8reVLHem7GGkn5P+NeDJpApqmUexBKO5VYoQXKZIgdWVxqZryY/R749JWOaip4cZ1HrShFJhvAZfPkpNF1S2aWiM4sbREOOiSO2UQZjjAoZsmsl2jsQTClDTgH1uwcrLgXHyRD2154rqVU01IuHaYwGCyOppG1V0kVJ7gQ9eS+pkdcNRqsdBcBwbKoOjg7Gd80UPeDqpraWiZZ9eCViloOQcGGDzr4kI9ofCSBDH/ImPTJJF/QbNrNO6dxovaIvU/2MbftrmQjVZBkxug1MtQeElqUlDmYL2k4juTy8xmPCz54G8w/4svtzZ+AZ7mcxbNIrPqAAAAAElFTkSuQmCC",
+  "symbol": "Au",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/gold",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/079.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/079",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Gold",
+    "de": "Gold",
+    "fr": "Or"
+  }
+}

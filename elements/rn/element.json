@@ -1,0 +1,100 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "water": {
+      "value": 6e-13,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 2e-13,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas",
+    "de": "farbloses Gas",
+    "fr": "gaz incolore"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "synthetic",
+    "group": 18,
+    "occurrence": "decay",
+    "period": 6,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "phase": "gas",
+    "set": "noblegas",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Dorn",
+    "value": 1900,
+    "era": "quantum"
+  },
+  "names": {
+    "en": "Radon",
+    "de": "Radon",
+    "la": "Radon",
+    "fr": "Radon"
+  },
+  "number": 86,
+  "properties": [
+    "natural",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "10043-92-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "233-146-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.030.120"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID24857"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVE3750000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACP0lEQVRIx92WPWgUURSFvzsTjJuNuhHZJLCKokGJKLFQUBEsRPGn8wcsrJQ0gmhhkYAoiE0QQSGCjRYpFBQCwcQIphEthCAWNrrFLipo/EHYxKjZ7FyLyezuzOxsJutoxGGYue/ec+457z2GN9JAE6VL3JHgvcQXSRWAyYKVbAUyPLUo2OkYiRSbBHnPy1Y2CPKakdokQvuMECCVMEFVaedInJY3PB7jRRWuBHduZdtydoN84nmGgWK1nqUdnFWsUS5s5pItN8r5At+1rJW6O6u7f/nQILaOy4rkyaXpsksJdiY5qsg7rkzyquhKy7wqCMYKbioo8pYTOrPXXgl1T9D2tow7NvErxy0mHJaAsYS7dmmcw4pVcVJVZuRXLL1FiD3EAAMm90LByRe3LmAYEjaPrL8trc5Ke+7wyX8EHLJDjSv3n+XXdnC6h/u3GL79W31KCzxfz2gbwqktHGhjMM3VZ+4jRX2HjD9TEyxeR/8eUPY/IG/NvVtENjyZNXGur2fwI9ey6B+1EZq4o5FzSQrKvoxTrwSrE4ZSoHSOkc0DNJv0JQEOfSBnVSauMrnRxMgPesbLigpgQH+CmHAyR3o60K0Bw42gTCgHv/kUfIptQq/JgEVvwaW4GO4ZoHQqWTfVH8ShDxSOMXP66mwUTxCUb4FuUDgD07NRGqDL+RwvwtTcbUToPAylHnY5hoecYCM0g8IjSv8rCiZsB4UnYEVhQ2A1WJB11rYISIGCBZ/hJwCLYCHkYAoSoPDFofwC9HZOFoZXSK8AAAAASUVORK5CYII=",
+  "symbol": "Rn",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/radon",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/086.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/086",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Radon",
+    "de": "Radon",
+    "fr": "Radon"
+  }
+}

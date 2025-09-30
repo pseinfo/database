@@ -1,0 +1,114 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1300000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.12,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas exhibiting an orange-red glow when placed in an electric field",
+    "de": "farbloses Gas",
+    "fr": "Incolore"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "atmophile",
+    "group": 18,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "noblegas",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Ramsay, Travers",
+    "value": 1898,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Neon_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Neon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Neon",
+    "de": "Neon",
+    "la": "Neon",
+    "fr": "Néon"
+  },
+  "number": 10,
+  "price": {
+    "value": 240,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-01-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-110-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.282"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23935"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSQP4450000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADgElEQVRIx8WUX2gcZRTFf9832V0mycbshqQtMVSTkmJLFBsFi/WhvhiMtYZQ0CK0YNGCKEVBKtUWRUuMaIP0xVKUChUbCnVJYlEqhUp9KaWUmD4kdk1Tmm1JYpPdNOv+mbk+bDY725242f7Bj2G499xzzz1zmRlVToDs8VFZR/MMkTgzK1iTJhFhiLyjCiL1PxKyyW2EQpF7SFBuHJegiobVvJRgdpAjfh5cTecYZ25wQaHX8ZaB9yKHE0xnWlQJykWrgG6lC4xhDq/idVACghKUAKg/+GANnwoK1HX669i0UArzWZyrQCat540KHh+jO07YaUAcieQbEJRJaw1v/82hOc6C4WEVlCUZFtIOw6qCbSZtN9md5kpWJyfCf6W5iZK/gUXSDGKgWlB+dBNEYBAZnycqcgFgVGM8gDWWG+WkeZZT2UrsNPZcXlemqjRmA9YMqWl38dtSralaSWKKZNRlFnedZgKfiVYk3AwHa/F4mIjk1lzaLMluOv/SmofqmZgkNuvA3ZiL4veHrGCtyUovv9ykxaTe4FSUuLUkhbVwQNROCBfZ933FtQevn+Q02PdA31dOYAWTo9jWUnW0pqqaeIx0Kg8vM2hs5sY1ZqMYmvf389g6XuvkVsxdMFDNsmWMDGNZBAN8tIeeg1wOOz5dQSl+/h5ssGl7FdvG0Bz9kqCf97rpfoeTZ+j5DhGApx9l3w6w2dlF+FqeTuZepvnpY7Dp+IRb/4AQrOSHXUSmULDcz8VR9vTStwslvNBDMuUiAjwc5OsO+i5x8Oz86Lz/FyCYHkJbQGg/RsoGwWvQvwXbZtPxeWTheA2+fY6hSbrO4dOEXgShPUTKBmip4YsNnL5K13kEnqhl/1MgtA/ME5wGtjeztYmjf3JkpMCVg+bRDDwLwiu/MZVwoVV76V3PVyMMjCOOxnKDH9eD8PzvpO1F9RXsbmJjDe9eYjAG8EyAD5tAaDuPvbixImABsjnAm3WcnObA9RxoKo430jfDoQnsJet7YKABhK3jTFpFbFRoTtTya5zPo9hZTpmivwYNm6eIi0ujARs8XLEYtUp7zDvejxNberCQNsNe6IVQQUlKF/fDXhiBRhDYB3EAHoFO6IcO+Ab+uiPxoi1tUA/HIOpG0PAyCJyAuew73AkCp2AjCITAumsbmeBJ0DAEsdIftiSmAj8ks6v2gQkCUfgXoqahGfOIrwcAAAAASUVORK5CYII=",
+  "symbol": "Ne",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/neon",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/010.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/010",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Neon",
+    "de": "Neon",
+    "fr": "Néon"
+  }
+}

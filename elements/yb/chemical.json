@@ -1,0 +1,18 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-alkaline",
+  "negativity": {
+    "allred": 1.06,
+    "nagle": 1.13
+  },
+  "oxidation_state": "2, '''3'''",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -2.22,
+    "unit": "V",
+    "info": "Yb[3+] + 3e[-] → Yb"
+  }
+}

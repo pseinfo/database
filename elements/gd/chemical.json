@@ -1,0 +1,14 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-alkaline",
+  "negativity": {
+    "pauling": 1.2,
+    "allred": 1.11,
+    "nagle": 1.1
+  },
+  "oxidation_state": "2, '''3'''",
+  "oxide_character": "basic"
+}

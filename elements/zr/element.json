@@ -1,0 +1,124 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 50,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 6700,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 130000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.026,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 50,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 18,
+    "goldschmidt": "lithophile",
+    "group": 4,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Klaproth",
+    "value": 1789,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zirconium_crystal_bar_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Zirconium_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (pse-mendelejew.de).</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Zirconium",
+    "de": "Zirconium",
+    "la": "Zirconium",
+    "fr": "Zirconium"
+  },
+  "number": 40,
+  "price": {
+    "value": 36.4,
+    "deviation": 0.7,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-67-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-176-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.342"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23995"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Zr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/zirconium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/040.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/040",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Zirconium",
+    "de": "Zirconium",
+    "fr": "Zirconium"
+  }
+}

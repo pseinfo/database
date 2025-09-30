@@ -1,0 +1,30 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 1.96,
+    "sanderson": 1.49,
+    "allred": 1.72,
+    "mulliken": 2.21,
+    "allen": 1.824,
+    "ghosh_gupta": {
+      "value": 4.672,
+      "unit": "eV"
+    },
+    "nagle": 1.7,
+    "pearson": {
+      "value": 4.3,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "(-4), '''4''', 2",
+  "oxide_character": "amphoteric",
+  "standard_potential": {
+    "value": -0.137,
+    "unit": "V",
+    "info": "Sn[2+] + 2e[-] → Sn"
+  }
+}

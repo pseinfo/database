@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 0.02,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.005,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas, exhibiting a blue glow when placed in an electric field",
+    "de": "farbloses Gas",
+    "fr": "gaz incolore présentant une lueur bleu lorsqu'il est placé dans un champ électrique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "atmophile",
+    "group": 18,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "noblegas",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Ramsay, Travers",
+    "value": 1898,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xenon_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Xenon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Xenon",
+    "de": "Xenon",
+    "la": "Xenon",
+    "fr": "Xenon"
+  },
+  "number": 54,
+  "price": {
+    "value": 1800,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-63-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-172-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.338"
+      }
+    ],
+    "atc": [
+      {
+        "value": "N01AX15"
+      },
+      {
+        "value": "V09EX02",
+        "label": "[127]Xe"
+      },
+      {
+        "value": "V09EX03",
+        "label": "[133]Xe"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23991"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSZE1280000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Xe",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/xenon",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/054.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/054",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Xenon",
+    "de": "Xenon",
+    "fr": "Xenon"
+  }
+}

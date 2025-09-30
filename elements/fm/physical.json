@@ -1,0 +1,22 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 10,
+      "*": true,
+      "unit": "W·m[-1]·K[-1]"
+    }
+  },
+  "magnetic": {},
+  "phase": "solid",
+  "temperature": {
+    "melting": {
+      "value": 1800,
+      "*": true,
+      "unit": "K"
+    }
+  }
+}

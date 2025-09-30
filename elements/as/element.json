@@ -1,0 +1,126 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 8,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1800,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 2100,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 2.3,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 50,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "metallic grey",
+    "de": "metallisch grau, gelb oder schwarz",
+    "fr": "gris métallique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 29,
+    "goldschmidt": "chalcophile",
+    "group": 15,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metalloid",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Albertus Magnus",
+    "value": 1300,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Native_arsenic.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Native_arsenic.jpg\">Aram Dulyan (User:Aramgutang)</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Arsenic",
+    "de": "Arsen",
+    "la": "Arsenicum",
+    "fr": "Arsenic"
+  },
+  "number": 33,
+  "price": {
+    "value": 1.15,
+    "deviation": 0.16,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "mononuclidic",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-38-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-148-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.316"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5359596"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSCG0525000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACTklEQVRIx92UT0hUURTGf+fpSJqNmUkEWrgoKWxhSW1cBFIYDFKIDRFBES1s0aJF1CKXhdEfRXCcjcuyf2IhMhZBm1pEFFFQYYsKlUpklJmcGp13Wsw0M69x/jhjNPS4PL577ne+851z4UoJ5cQ+sSIBNtAATDEWYDaBYElZTAGQKupXYJ/mo5dP2SkkIwCCsRWHIO/whAimaCRllcwJYuVIAyfCILye05fAjIBCiutpB3nLDT9f4k9lEWULMLA1cF4iVYx5/K/p3c45kJd0zuPbyUUQRZ5xRqEaxzp2zxN4RYfG6apVViPGymq5oAAyhecbw9GjSlrL2asIoIgiChNcCvAB2Ei3sErhM+3VuBVC+Mc5ZZ1k0Xr6w4l+hn0MRA2otd/4rR2XUKnILG1gasSwbSW3FQlw0mQyRUcJ2+iMGynowICFZsQEkGLs9zDAdwidjuQJMfDHNlk8l6yKLTR1Y8CdfWgo11rLZbhsNX23cHXy5JFlqOHTmhpcbgx46OHaVZxtHNzP4aPMzYFSUsz1HgaGuHkfNUF/L+KwposDinMHx3dBiOZeTDMNOZN4IYzUQYiucUa8S1dAqijsxzyNvkk676JtVFxh5izBF0knLULdKAZMXMb7IKN7s5WyZxADHh8h8DWje04RX1vDMTcGdLWw8CN7nVzisQH/q//yCiY8tckitWvoaQJw3CUYSp8ogqcFUWZ+4hxF0+lnaCOnxLzRLy1gcBMoB8b4bv63bWatr0sHf4OZi/hmaIUgPIVGeA9DSdTyzXk+2/gFcaBTFq6GWu4AAAAASUVORK5CYII=",
+  "symbol": "As",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/arsenic",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/033.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/033",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Arsenic",
+    "de": "Arsen",
+    "fr": "Arsenic"
+  }
+}

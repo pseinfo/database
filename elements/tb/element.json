@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 940,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00014,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.008,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 11,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Mosander",
+    "value": 1843,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Terbium-2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Terbium-2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Terbium",
+    "de": "Terbium",
+    "la": "Terbium",
+    "fr": "Terbium"
+  },
+  "number": 65,
+  "price": {
+    "value": 658,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-27-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-137-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.306"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23958"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Tb",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/terbium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/065.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/065",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Terbium",
+    "de": "Terbium",
+    "fr": "Terbium"
+  }
+}

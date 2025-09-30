@@ -1,0 +1,29 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 1.65,
+    "sanderson": 2.23,
+    "allred": 1.66,
+    "mulliken": 1.65,
+    "ghosh_gupta": {
+      "value": 4.1332,
+      "unit": "eV"
+    },
+    "nagle": 1.46,
+    "pearson": {
+      "value": 4.45,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "2",
+  "oxide_character": "amphoteric",
+  "standard_potential": {
+    "value": -0.7926,
+    "unit": "V",
+    "info": "Zn[2+] + 2e[-] → Zn"
+  }
+}

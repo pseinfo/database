@@ -1,0 +1,133 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 300,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 180000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 79000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 33000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silver-gray",
+    "de": "bläulich blassgrau",
+    "fr": "gris-argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 26,
+    "goldschmidt": "chalcophile",
+    "group": 12,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zinc_fragment_sublimed_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Zinc_fragment_sublimed_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Zinc",
+    "de": "Zink",
+    "la": "Zincum",
+    "fr": "Zinc"
+  },
+  "number": 30,
+  "price": {
+    "value": 2.55,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-66-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-175-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.341"
+      }
+    ],
+    "atc": [
+      {
+        "value": "A12CB"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23994"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSZG8600000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAB2UlEQVRIx+WUT0sbQRjGfzO7m2xC0yBIAwoNLXjoyYIHUXrRS6n4BVpvhaIfQQ8FQfHaS0/9EKJCULz1WA/1KhQqLRX805hKY0I2m50ebNxssrvsJiqKL8swzzPPPPO+LzMr0vQZpEwyZX4rFM0QAELDGGT4hG9VzlzaMxMSPcvAX45sar4CPOEvkOg6CYuqnzTQ4TJP2kNEFAiQ6BLdphbNQfhpel3tSFKmyYHQMcv8crDjOKNaoPKuKq8+AAJCebsRAv2O8D9ReUsIhp4SWqHkseCRzS44oSUkNdYUwuGNouRzmwRo45iLSKi8gobLX4xBsJOXBs8LSNibo/o96q5wmHzA61UkfF7iyQuGJpDw6aXbieiecY9265Lkn/KnyFkpdJdqNr7tCyVNg40VaDC9gGXFcVCxxRmNXIKfFaxGlw7tsJt+31tek6TSPMxwWqRutevdBvcwppKsfwDF7DL7BzEd4ogNjcI7cHi/yZcffpqOH18nM5lnfhTg41dmnvF2k/N6pI1R/MdzLI6AYmoLu1mdqdFvclhxma79Q8jtsf/9nNrBdq7e/+IpK0W5cS359yq7xf4q/uQSmpCFYzBAAwvqARe/C/MrVN5d85tJQ4csVOC8RfAPwbEpFodzXSUAAAAASUVORK5CYII=",
+  "symbol": "Zn",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/zinc",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/030.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/030",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Zinc",
+    "de": "Zink",
+    "fr": "Zinc"
+  }
+}

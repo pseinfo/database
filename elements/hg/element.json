@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 20,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 250,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 67,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.05,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.07,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "shiny, silvery liquid",
+    "de": "silbrig weiß",
+    "fr": "brillant, liquid argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 26,
+    "goldschmidt": "chalcophile",
+    "group": 12,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "liquid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HgKviks%C3%B8lv.JPG",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:HgKviks%C3%B8lv.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Mercury",
+    "de": "Quecksilber",
+    "la": "Hydrargyrion",
+    "fr": "Mercure"
+  },
+  "number": 80,
+  "price": {
+    "value": 30.2,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-97-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-106-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.278"
+      }
+    ],
+    "atc": [
+      {
+        "value": "D08AK05"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23931"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSOV4550000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACuElEQVRIx7WVu2sUURTGf+duZmfy2g1r1phEMPggiqgBUavYBbEQ/Av8H0TRQgux0UKwEFu1EgsRUkhs1CakMBhQJIqYaMQiYGLcbDabzO7MschrZmcXZ/O4DHfO+eY753z33DszkqLTwhZMkZyirA1Zn0JDIlYFRwQsGm1aPdwiuQRWE5kCMz5ezAxAmq5Ojn1nxCVflRDV2cs5CwfkMy89ygGCtLB7P/1feOVSCMYJpoXsMvkSRcE0ky0y5+GuEAwJxVc03AqppqTSEEyanmXmi/ypoVzCSuJmDto2mT6u/eVrG4dBphnu4KzCDGOTPFvhaDjWYU+S7Dzjir/2dIOggRIa7rmCYIFR3DCzskQ1N4gkwVe8inKRnKFdjrhRzY7hlM9HZb7WikJ3CRh1ueuGsbG7cX+i5VhRxmLXCfITuHOIkEjiu6AYQQwoIqy8I+tR6b0cvcjYE9yFGAqFdDvZfUx9QH3U255l1nIdByMsFVd7nGkDJd1KR5bRMRqTLLuUXNDwRQSJ4KlGfI+FpRrMWkkCoGMwsFgK4aIY8PzqGSw4aDHlsuhXPmqBhJILForbuUSKrucYmL3B0mh9nY5ur53BW8Bf3lqe/+Gpdq485cUdPr1dO+kGkY0DVVf+Q73cfcDjhwwNAhjh8lUGBrh1k/ejnDlNawuv3+B7gde1xtzo0NPNtx94ZY4cIJfn13R48zc3bzG8Yg58pKwEHU1MFyj71QhVkQB4vJ17/aCcH8TzY8QGEMvQ3EDORZW2JFmHiTy+bkbGNtBqBNqGtgZ+u/hbyJ9KYAszZVQBbKGvifEiea8O/Q2CQEkr/1hm9Yu8pWWuDwMZwREetXK7wHBpe9oYh6axjZNwHe7DSORc1zK0/irxmUm4BO9gEi7AEMxuX/IdVR6HaYFCaSeVV7gCFpRg5T/3D31dcxZwHF62AAAAAElFTkSuQmCC",
+  "symbol": "Hg",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/mercury",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/080.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/080",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Mercury (element)",
+    "de": "Quecksilber",
+    "fr": "Mercure_(chimie)"
+  }
+}

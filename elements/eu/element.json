@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 60,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1800,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00013,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.007,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white, with a pale yellow tint; but rarely seen without oxide discoloration",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté, avec une lueur jaune pâle; mais rarement vu sans décoloration d'oxide"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 9,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Demarçay",
+    "value": 1901,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Europium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Europium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Europium",
+    "de": "Europium",
+    "la": "Europium",
+    "fr": "Europium"
+  },
+  "number": 63,
+  "price": {
+    "value": 31.4,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-53-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-161-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.328"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23981"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Eu",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/europium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/063.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/063",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Europium",
+    "de": "Europium",
+    "fr": "Europium"
+  }
+}

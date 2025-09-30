@@ -1,0 +1,31 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "toxicity": [
+    {
+      "type": "LD{50}",
+      "organism": "dog",
+      "application": "#",
+      "value": {
+        "value": 0.32,
+        "unit": "mg·kg[-1]"
+      }
+    },
+    {
+      "type": "LD{50}",
+      "organism": "human",
+      "application": "#",
+      "value": {
+        "value": null,
+        "range": [
+          10,
+          99
+        ],
+        "*": true,
+        "unit": "mg·kg[-1]"
+      }
+    }
+  ]
+}

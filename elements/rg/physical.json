@@ -1,0 +1,17 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 24.4,
+    "*": true,
+    "unit": "g·cm[−3]"
+  },
+  "magnetic": {},
+  "molar_volume": {
+    "value": 0.000012,
+    "*": true,
+    "unit": "m[3]·mol[−1]"
+  }
+}

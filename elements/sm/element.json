@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 170,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 6000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00045,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.03,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 8,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Lecoq de Boisbaudran",
+    "value": 1879,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Samarium-2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Samarium-2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Samarium",
+    "de": "Samarium",
+    "la": "Samarium",
+    "fr": "Samarium"
+  },
+  "number": 62,
+  "price": {
+    "value": 13.9,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-19-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-128-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.298"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23951"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Sm",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/samarium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/062.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/062",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Samarium",
+    "de": "Samarium",
+    "fr": "Samarium"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 9,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1200,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1100,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.8,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 100,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "gray metallic",
+    "de": "grau metallisch",
+    "fr": "gris métallique"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 20,
+    "goldschmidt": "siderophile",
+    "group": 6,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Scheele",
+    "value": 1778,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Molybdenum_crystaline_fragment_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Molybdenum_crystaline_fragment_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Molybdenum",
+    "de": "Molybdän",
+    "la": "Molybdenum",
+    "fr": "Molybdène"
+  },
+  "number": 42,
+  "price": {
+    "value": 40.1,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-98-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-107-2"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.279"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23932"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSQA4680000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Mo",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/molybdenum",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/042.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/042",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Molybdenum",
+    "de": "Molybdän",
+    "fr": "Molybdène"
+  }
+}

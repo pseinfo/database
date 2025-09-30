@@ -1,0 +1,77 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery",
+    "de": "silbriges Metall",
+    "fr": "argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 12,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1950,
+    "era": "synthesis"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Californium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Californium.jpg\">United States Department of Energy (see File:Einsteinium.jpg)</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Californium",
+    "de": "Californium",
+    "la": "Californium",
+    "fr": "Californium"
+  },
+  "number": 98,
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-71-3"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAABnElEQVRIx+2UMUsDQRCFv12DEgVJfoGIQhIUQbCxkVSaSsGUgp0IwULEIkU6G3sRKxuxFFJoETsRbEQCWlgIIqJCEEXQiCR4WQsNyeX2LncSTRCX5XZm7s2beXPHik6CVJYwW4LaJSyWKB+yl1EQBfJ3nFoBdRmsgHb8fUSBG05eedAyhIj5aAdxzp6i5EaIxDdEHMhzf8kBrpQKNN0Ke0MT7KYnRBzEGZsFnqvfCi/MAcIhZkF87mNSVcIBVBVYmXOVmc3GBYQyT8PB1ZXQV1RmgfauSYLOrStBo8h0iirDk9v6Wb9dWpUnXbNtgsszjI+AAQYbadKHGnCHj91FMMhekdxxxRzvZz4CBvEML0UNuEuSHgaDrVu2c0hFJvzVxsQFyq5haxy5QNskEt6n4M3t5P5YXArW95EgIRFDlb7JUxlws56NJbRcfN4iTYH98ztGUkHG/JWvnHwkW7RNDPlYCwDMPXFttIpM5WgMwAooSEDO/DtHIAUKliBnQ6LcVfGaMg2DUIJVKDaa/Ec7V+XLLQoKCnDUvDYcAB+d6g4XkMoRngAAAABJRU5ErkJggg==",
+  "symbol": "Cf",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/californium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/098.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/098",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Californium",
+    "de": "Californium",
+    "fr": "Californium"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 22,
+    "goldschmidt": "synthetic",
+    "group": 8,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "set": "transitionmetal"
+  },
+  "discovery": {
+    "by": "GSI",
+    "value": 1984,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Hassium",
+    "de": "Hassium",
+    "la": "Hassium",
+    "fr": "Hassium"
+  },
+  "number": 108,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54037-57-9"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Hs",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/hassium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/108.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/108",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Hassium",
+    "de": "Hassium",
+    "fr": "Hassium"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 1.61,
+    "sanderson": 1.71,
+    "allred": 1.47,
+    "mulliken": 1.83,
+    "allen": 1.613,
+    "ghosh_gupta": {
+      "value": 4.6393,
+      "unit": "eV"
+    },
+    "boyd": 1.58,
+    "nagle": 1.55,
+    "pearson": {
+      "value": 3.23,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "1, 2, '''3'''",
+  "oxide_character": "amphoteric",
+  "standard_potential": {
+    "value": -1.676,
+    "unit": "V",
+    "info": "Al[3+] + 3e[-] → Al"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 550,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 0.4,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 23,
+    "goldschmidt": "siderophile",
+    "group": 9,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Tennant",
+    "value": 1803,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Iridium_foil.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Iridium_foil.jpg\">Dschwen</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Iridium",
+    "de": "Iridium",
+    "la": "Iridium",
+    "fr": "Iridium"
+  },
+  "number": 77,
+  "price": {
+    "value": 55850,
+    "deviation": 350,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "platinum"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-88-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-095-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.269"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23924"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADlUlEQVRIx8WVXWhbZRjHf8/JZ7+SZqlpXLt2aYPLhl9zwjbdhvOindgxcMgunAi78FZlKmUoiMKuxkBvFEFERSjocDgMZULBCroVN9nWdWxYTbt2aZeta1ObNs055/XiNFk+VtNKOw8v73nP//k/3w/nlYd4BogzYGI08hhIkvEpbgiAUPwIUEtDLY2CxDhbSvATqqUB5DrnmnjSUhnkZ1ABNnhZCzJMXzNbQQbpNdFzyjYcYXYLAnKV0xHaLfWr/KgwshHIRp4XJEk8zqUIeyxYkCtEDTK5OO04N9FhiS5ywlJv5Ak/4ZtcidNvIW5qNtIhyAW+qeKBOsJDnMmPSkNrYvs8qTH66wg7qQnyaJLROww1syvJ6CCn7VSE2B2jN03SCiDI5ga2/UF0iuH86uXOa9gQZp9O2k4FyABfzDAGsoaIl3CMboUR4WUPLX9xKsQ+kMt8MkM8z45kX1qQnU10nOeDDNMqz5HK0hx46mn38zSIQsboHqdboQAXwTDvKhjgdbWQuNjwenlqkp8MUiAq6zHAK9XsGKYzw22w+dgvOCfoyjVIFWaqFmpYFeBThczRN8XHigxoHg472TLB2wbXc8xcanYe11if5gcX+50cSHFM55dSFwo0mu10ZnhPcUvYBZj0WixVOLqgoT2HVoV5AjEAbBGqP0KD6RdRUwssESr34HuDxCGMEQDRaPoMVwNDL6EnEI3gq7jqGTmKM0DLOyS+ZaJnoU6SdWivwL+VmhB3fmPy0l1cKKAt9lmKr9/G3vc5+RajF4qlgRAvHKHrCNOJAtxXT+dXzM9w8kMC69jeTvRzzvWAKnARbGRHG9Eu5lLLiJDsaLidHDtKTw/fnUKZ2cKrkgUo7BoH27g2xK/95cnWqrDz2k6iA1y8cS/mYhb+1bKm2FJJUufaLCoLPuzguJdDtxjRF7FQvmniJvA9GtgUNw9iJNBcuFrJDKLS5Zu84rjnQdY+wrNv8vvX9H1Z3Pn7H08+frfAVk+ETRFm/iY2jFLF0qLdprE5wuwcus6BNuo8HD5ORi+jVbwviwwoHDbCfmITzM6XSLNPq49AJX2jGKrwV5i7VoSOVkyT6J+Y+SJVcqmWIitLy0Naqgm6OXsbw1yUJrCukrTBeHrZ9lc7/lWiVQm1GnEdc8mKAY1mG+czeQNwX9L0gQMSinvO1NIPKu/irIdJSJVj/gfjK8hcloobTEivZjz/e45LYf4DQfW9FkfXN2YAAAAASUVORK5CYII=",
+  "symbol": "Ir",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/iridium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/077.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/077",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Iridium",
+    "de": "Iridium",
+    "fr": "Iridium"
+  }
+}

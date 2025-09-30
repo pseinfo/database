@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 100,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 8700,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0006,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.03,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "grayish white",
+    "de": "silbrig weiß, gelblicher Farbton",
+    "fr": "blanc grisâtre"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 5,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "von Welsbach",
+    "value": 1895,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Praseodymium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Praseodymium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Praseodymium",
+    "de": "Praseodym",
+    "la": "Praseodymium",
+    "fr": "Praséodyme"
+  },
+  "number": 59,
+  "price": {
+    "value": 103,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-10-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-120-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.291"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23942"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Pr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/praseodymium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/059.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/059",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Praseodymium",
+    "de": "Praseodym",
+    "fr": "Praséodyme"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-acidic",
+  "negativity": {
+    "pauling": 1.6,
+    "sanderson": 1.42,
+    "allred": 1.23,
+    "ghosh_gupta": {
+      "value": 2.974,
+      "unit": "eV"
+    },
+    "nagle": 1.21,
+    "pearson": {
+      "value": 4,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "2, 4, '''5'''",
+  "oxide_character": "amphoteric",
+  "standard_potential": {
+    "value": -1.1,
+    "unit": "V",
+    "info": "Nb[2+] + 2e[-] → Nb"
+  }
+}

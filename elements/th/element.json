@@ -1,0 +1,126 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.4,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.3,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 6000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00004,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.1,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery",
+    "de": "silbrig weiß",
+    "fr": "argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 4,
+    "goldschmidt": "lithophile",
+    "group": 20,
+    "occurrence": "decay",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Berzelius",
+    "value": 1829,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Thorium_sample_0.1g.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thorium_sample_0.1g.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Thorium",
+    "de": "Thorium",
+    "la": "Thorium",
+    "fr": "Thorium"
+  },
+  "number": 90,
+  "price": {
+    "value": 287,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-29-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-139-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.308"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23960"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSXO6400000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Th",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/thorium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/090.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/090",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Thorium",
+    "de": "Thorium",
+    "fr": "Thorium"
+  }
+}

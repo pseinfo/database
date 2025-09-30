@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.7,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 70,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 25,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.02,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "lustrous brownish silver",
+    "de": "glänzend silberweiß",
+    "fr": "argent marron lustré"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 29,
+    "goldschmidt": "chalcophile",
+    "group": 15,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Agricola",
+    "value": 1540,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bismuth_crystals_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bismuth_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Bismuth",
+    "de": "Bismut",
+    "la": "Bismutum",
+    "fr": "Bismuth"
+  },
+  "number": 83,
+  "price": {
+    "value": 6.36,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "mononuclidic",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-69-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-177-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.343"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5359367"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSEB2600000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAC60lEQVRIx9WUXUhTYRjHf+85O8vN2WyaWmoGI5EVVkRUBGEEdRFFFAVddFHQjQVRBEFQUd5FdBcUQRRGBkJe5EUEFflBEEJZKfaFhlTmmF9za6e2vV1sZ+60zU0rqsPh5Xn+7//5P8/zvs85ws48QEF1MH8Ojq+MBfBJEBBfQMOmYfvKaAwvpNLJQoHw8i6AD9MjUizx5wiY68wkYsHmYauP9x/pBilQC6kIMqrjTyisZG+M/pwmiUwpQ6TLLjIbgBAIJ4sFyhj9P2mCKMRdza4gwz00LmSdE3cfTZJwko7wcMBBZR+NE/QnIufgWs7RXq4GGVpNA4hervgZSBCkkUigulgVwjtp7EpznRlcQEjzecZchbxyTo7zeIJH0qBLc+Pp3Dhi2JYSGiXCx+FIfH6EOftUCxncrC2k6QisKK0oEN0BQWz3UUABRUe+JHgKIgjQllKwn/GzSL9xD6Qx7MtwX2TwDBNP0uxmisrRLVpCcTWDnVSt40Mn+kT2qDI3FR667xH5Ht/VrOw8xtsuuh9MnVmOlSQbnlrOXeDSedofsnwl33T6epDGncRGw6rR2gwRtu1BDwHUreVkPdeauH0XpPGSZEsTXr2A+i28+8T2Fdxq53pbBmaKyKZFnFjFoQe8Hc1OTgVLVG5Wcm6IjkCWdFbJBnglGZrNVf86rs2lbD1f2ggHpuMrFuwuQiNEw9n1VQsbDzLppesOMprrRJRUcOYaLZd51DI1WcWl2PP52B8fjRz7SoSvqMU5l7YOopGkTzdpLcjn9BFuNPPqdZrd2a8SQFM5tJn3n2l9hozOXjDPwr5aHg/wZsT8RyPFNSNWlb01vPCihxn04/82bWA2tZnR/hP9Ug27woCONGZmbQHlGi0jRGZVhoAlVlwqT4NEDXBNHg3FHB/mhR5HVKiz4Y3wUk/S+AeOUYVmCw7Y/Z3xafXlzI1fYSpQBGOgZ44thRroAv9vKuO3VP5XxNPiGlTBIIT+ZBk/AMlYhBbL7xy5AAAAAElFTkSuQmCC",
+  "symbol": "Bi",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/bismuth",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/083.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/083",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Bismuth",
+    "de": "Bismut",
+    "fr": "Bismuth"
+  }
+}

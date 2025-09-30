@@ -1,0 +1,29 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "negativity": {
+    "pauling": 3.44,
+    "sanderson": 3.65,
+    "allred": 3.5,
+    "mulliken": 3.41,
+    "allen": 3.61,
+    "ghosh_gupta": {
+      "value": 8.7861,
+      "unit": "eV"
+    },
+    "boyd": 3.62,
+    "nagle": 3.62,
+    "pearson": {
+      "value": 7.54,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "'''-2''', -1, 0, +1, +2",
+  "oxide_character": "acidic",
+  "standard_potential": {
+    "value": 1.23,
+    "unit": "V"
+  }
+}

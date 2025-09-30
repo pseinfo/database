@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 2800,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 340000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 25,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 300,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery gray; with a pale yellow tint",
+    "de": "weiß-grau metallisch",
+    "fr": "gris argenté; avec une lueur jaune pâle"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 2,
+    "goldschmidt": "lithophile",
+    "group": 2,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalineearthmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Davy",
+    "value": 1808,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Barium_dendritic.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Barium_dendritic.jpg\">La2O3</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Barium",
+    "de": "Barium",
+    "la": "Barium",
+    "fr": "Baryum"
+  },
+  "number": 56,
+  "price": {
+    "value": 0.26,
+    "deviation": 0.015,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-39-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-149-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.317"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5355457"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSCQ8370000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADlklEQVRIx7WWPW8cVRSGn3Nndma9X7ZjkLBlgyAkCCxDhVIEFykiCxAdIhJIgCjSIIr8AYSUjgqBKPgFFBAJBAp0UCA+ChBFGqRIToQ3kY29kb3r3Z2dmXsoZmZ3x97FmwVGozv3nnnPOe/5mLlXSsyTXmJwDCYmVBBIBsE4FCJ6gMFRrKLpOwZPwSyx1qXZYFMzSYGiR7nNnqKCKAji4AkSEZQ4FdMLaJG7ZHhmcAUTE44EAIL4VC1RSKcv0aNoAVyKBtOjA3rEy3AUj7FuKNzkO8UeA4hHJaYX08szOToxuPOcPqAecjgKlvO4wKpgdrkBKrguMz5zbbYFx2UmYN+jtsR6ne9DDgVzirUyS7v83ma7b83Bt8RKBOiQI837VRDcEg9bwg71pJT96ATHEicozRfl+FJwwAXVtGFchzlLENMCDDXA0hx24fPsHFcUFNnhVU2dugpCwdJlAHYUJSuBJr2ABYe0A0V4AErKlmL7MWqSfgzEQ0uHFKOYdaSGXkdiAHERhTjLQTaOW04I6y+rZ1h+id0f6N6lU0dtDmYSYlmVRFh4Attl//agjMnoelz+Og3l4w1QRPCKbFzhxrfc/m0ME2FhEYHGXQRWz/HMOtc+JAxGEzaC6slxGUnnqllr6OAWUM1JUIygdoQ8vZlYeEzuCLEdg7wvy1CBNyp80aIe5eSOcskQWq7FSUsOUlLFzEEX42K3EXtC4xiP4ml6m2h3dGrdEoUawQ5iMT5n36HxI7s/pWmeojGTthKhz3wSO0Zy/47p/PbljuGpVTptLm7wzVds/YlA0cdxCLrE8aAmvkelTOMeagffc63C55+A5fnXiaOBfNxoQBXVk5H9Chuh7NMOeHqZJ5f47BfCCCMszjJb5I/tlKRA2SOICMfRAIEHy7R7tHr5nW3oH5p8Zw+VMcKdVkYVBM7O89GFlNgLXxLZnOJIa2MlE8KmVZx1iZTDaDRsucijJX6+R6j3TcMTXKE9KvaqAWjGnKtwdQWU127yV5jD+ELVsBcPEjtJmC5cXwF4uc5BPBHbgjArNCw226VenOHtMq/s0VSA5wq8W+GtfbbiabL9uOHNAu8HHPCv2kDTYwnnYRFuwQX4gPQwdERPRy35L5AnqqzCJVB4L9m/JzC1BhfhU7gzFZ8FqMFmdtQYBhRhBW6Rnvb+wXgVzsMO/Po/JNCBR2AHmvlXPvSyLI3UdaEM+8dCc8CBABT+BnF2xxb6qCPdAAAAAElFTkSuQmCC",
+  "symbol": "Ba",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/barium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/056.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/056",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Barium",
+    "de": "Barium",
+    "fr": "Baryum"
+  }
+}

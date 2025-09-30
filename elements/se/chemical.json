@@ -1,0 +1,31 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "strongly-acidic",
+  "negativity": {
+    "pauling": 2.55,
+    "sanderson": 3.01,
+    "allred": 2.48,
+    "mulliken": 2.6,
+    "allen": 2.424,
+    "ghosh_gupta": {
+      "value": 5.8746,
+      "unit": "eV"
+    },
+    "boyd": 2.46,
+    "nagle": 2.31,
+    "pearson": {
+      "value": 5.89,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "±2, '''4''', 6",
+  "oxide_character": "acidic",
+  "standard_potential": {
+    "value": -0.67,
+    "unit": "V",
+    "info": "Se + 2e[-] → Se[2-]"
+  }
+}

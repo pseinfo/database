@@ -1,0 +1,118 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 9,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 37,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "grau-weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 24,
+    "goldschmidt": "siderophile",
+    "group": 10,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Scaliger",
+    "value": 1557,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Platinum_crystals.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Platinum_crystals.jpg\">Periodictableru</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Platinum",
+    "de": "Platin",
+    "la": "Platinum",
+    "fr": "Platine"
+  },
+  "number": 78,
+  "price": {
+    "value": 27800,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "platinum"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-06-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-116-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.287"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23939"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSTP2160000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACOklEQVRIx9WWT0iTcRjHP8/rNm2kSCEMUSoKPRg4RtQhCqOIRYfoIp4yL4ZXww7SoYNIl4aQEBSJCAUevFiX/tChQ7egbIfKFpN4Qw9lwgqm2/t0eKfu3d7NbS1aLy8/nj/f5/t8fw+/98crHfQAJgsK7QRBAJO3imXbzkfyLHGm5QDHBUmSMHkDgHGQE4KAxHipqI3czzEfu4FFXoB0cNrGfOT5FkbAw65D9AjygacWabeOlKCzOECC9AkCLDCXZt2VQTBCXAIBec00qJ3x0BCkH+Q98wmW3VrkG7lBKZrNMboZbmDvJ2a/8c6NGc1yNSNegkQUWWQyQcyZ3S5XMPB1MqGIIjFGN1i1Aeqc3pbrJdDKOMgSQ0oSAF8b9xQxGVSS2S38nG3kssIK/ZBS5361wBbcXIdmdnbzDqxkGWW51awSTkZo6eLZAAmzar0qIGkJcHMGAwbP4fdzZw4DRgZYMUsg0c1J57ylBwuDxy5wtB3ShCexrPKYOxu5HYI0va/4sV6GtjaDqWaiSa6uoQoQgBkPSymupLAqnLcY7HuIdw91ELuI/qyU5z+Je73cuMXXOHcnsKyC+O3BO1efl8cPwAJl6BqxeEHkn67llkBrE9O9DM8TXc5jyLtby4v8E1gJhYebiHRzPcpYF7NfmIpv5rW29AuMBDjTSN9nvqdqa4z18KgZlPNrbBQ9LUfqGK8HJfzLvm/KFibwRDJumMyfUzZ8R+NvIKtLHoJTsAr33T/T2lVeOzJ+A8zoSBZlFqk4AAAAAElFTkSuQmCC",
+  "symbol": "Pt",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/platinum",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/078.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/078",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Platinum",
+    "de": "Platin",
+    "fr": "Platine"
+  }
+}

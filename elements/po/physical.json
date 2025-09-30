@@ -1,0 +1,64 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 9.196,
+    "unit": "g·cm[−3]"
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 2500000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 4e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 13,
+      "*": true,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 100,
+      "*": true,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 142,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 20,
+      "unit": "W·m[-1]·K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "nonmagnetic"
+  },
+  "molar_volume": {
+    "value": 0.00002297,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "temperature": {
+    "melting": {
+      "value": 527,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 1235,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 708,
+      "unit": "K"
+    }
+  }
+}

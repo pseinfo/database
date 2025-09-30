@@ -1,0 +1,124 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 230,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 5200,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0007,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.04,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 10,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "de Marignac",
+    "value": 1880,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gadolinium-4.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Gadolinium-4.jpg\">http://images-of-elements.com/gadolinium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Gadolinium",
+    "de": "Gadolinium",
+    "la": "Gadolinium",
+    "fr": "Gadolinium"
+  },
+  "number": 64,
+  "price": {
+    "value": 28.6,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-54-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-162-2"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.329"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23982"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSLW3850000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Gd",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/gadolinium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/064.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/064",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Gadolinium",
+    "de": "Gadolinium",
+    "fr": "Gadolinium"
+  }
+}

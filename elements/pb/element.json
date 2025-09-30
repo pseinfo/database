@@ -1,0 +1,127 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1400,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 10000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.03,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 1700,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "metallic gray",
+    "de": "bläulich weiß",
+    "fr": "gris métallique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 28,
+    "goldschmidt": "chalcophile",
+    "group": 14,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lead-2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lead-2.jpg\">Chemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Lead",
+    "de": "Blei",
+    "la": "Plumbum",
+    "fr": "Plomb"
+  },
+  "number": 82,
+  "price": {
+    "value": 2,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-92-1"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-100-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.273"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5352425"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSOF7525000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACUklEQVRIx9WWP2sUURTFf/e+2dlMEiWySIKCYKGNYGEbezsJNpaWNoKdlVgFsfMDKGJnIYigJB9ALMVCMY0gsUlEiFgkcTMz71rsbObvrrNJFByG2fvOO+/MuXdm7luZ5gT5IeVIKB2iqMeXqVVOLRpDEEEtExSwNgoRc2e5LAjIJ16XxVHcBa4OVgkCfOBF3UPxZoIzbAjsOynaUEEFcYQXuT5Y9I6n5SV1q3VQlMDRTfg1zDqbFURwRloAVXGGL9SnqizoAoshc19ZBRMCTwJmBbIBiCPyJEZsZYURQ0CsXLHRQyd0jHg/IyunLEwZiZFU9Mmq7CyjhUY8oA1nRQisllHlFu0zKv1KIRg5FNRBCtZMU2Xw5ogiNpKWDyXjSDsnMqnhESJhl+VXKDy8yeaXBtpUxPwpNtZJkxxXRZWwQxCwu4NPmZ3l3HnWPhLvATglDBGj38d8Vor8pIY0guBAYOUepKytc/vJWIX2ypOSh6AaIWD0PVYnH/ChTYSrA5+/UOpQh9+bTCfo4gLi7UP5iWaYOc6PzdJXd7C8VDFfxfPC/+mqgkCaNs+ePsmdG9x/zLet3KpZC+WxhEtneLAEnuUV7l7h0Vuev6+u6iipx3uAXsSza3ze4tYq3ogCetMknt2Yn/1qP1qYIfF83ynvTlbZ0xAIldjjbRytAQGMYx0W53mzyXYy2cIjo/3v+qNpTvBGTwmFjXTYLQ6nn20qR+rfxgYKAew1fQRtgvbMvyoulR7dLgghJv/jVcSXsh7MS4gPlCxNfqQM1pvQvyzgb8alXxbvPIC1AAAAAElFTkSuQmCC",
+  "symbol": "Pb",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/lead",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/082.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/082",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Lead",
+    "de": "Blei",
+    "fr": "Plomb"
+  }
+}

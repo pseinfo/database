@@ -1,0 +1,67 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 17,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Ghiorso",
+    "value": 1961,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Lawrencium",
+    "de": "Lawrencium",
+    "la": "Lawrencium",
+    "fr": "Lawrencium"
+  },
+  "number": 103,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "22537-19-5"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Lr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/lawrencium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/103.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/103",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Lawrencium",
+    "de": "Lawrencium",
+    "fr": "Lawrencium"
+  }
+}

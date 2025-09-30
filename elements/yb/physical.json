@@ -1,0 +1,117 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 6.973,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 298.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 24,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 9.9,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 31,
+      "unit": "GPa"
+    },
+    "poisson": 0.21
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 4000000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 2.5e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 7.7,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 160,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 152,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "brinell": {
+      "value": 343,
+      "unit": "NM·m[-2]"
+    },
+    "vickers": {
+      "value": 206,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 39,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000263,
+      "unit": "K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.000249,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 298,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00002484,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 1590,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 1097,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 1469,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 372,
+      "unit": "K"
+    }
+  }
+}

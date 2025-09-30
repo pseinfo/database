@@ -1,0 +1,73 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery metallic, glows purple in the dark",
+    "de": "silbrig-weißes Metall",
+    "fr": "métallique argenté, brille violet dans le noir"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 10,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1944,
+    "era": "quantum"
+  },
+  "names": {
+    "en": "Curium",
+    "de": "Curium",
+    "la": "Curium",
+    "fr": "Curium"
+  },
+  "number": 96,
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-51-9"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAACOElEQVRIx+2VTWgTYRCGn0m0SUOb1NpYKhLaWAlYFKEi/h28KEqLRYQiRXooeBNyUTyqIHgQpZceBEHEQwQVFPxBiof2YC+CF0UlqVGxUNuwEbu1bdrs52HbuOkmuqnE5iAsszPv987MO7MLn/hYBwCCexPbQXRStQR1UjUEBQEBFFkXa4E0n7/zFRPF8l4MpIV9uaxJElOMW89D7PRQazJNjiAJhlo5IMgowwtkLNVYTzhIZIL3GkkTC7PfS+AjIz/Qagg2s0cn9YkRQdo4CjJDepRha5FlIq2yBdcOukHe8mgO3UtgK53AK2IKVaiC2ItYnTa6q2kA+cCgRpw/5dYTaeVYijdJHufO3FS3cxbkJZcNFuy5YY4HaY8T03jdyN5musZ4/oVB81hZyCo/V+V3LxZW0djCBSDOuc1cUUiC0wbzOQHKoqZQi8IdVf74xUNzBFeAuwp0olnGKNLR2US2H1YsTklh5Wf969ZqadPLHudghZAdVljh5v7jBfFfCy5kQxu5cQ0MDvdgZH/HLMm6XTw9Dwa9/Yyn87/z39ltG7h6kHcpos9QKv/OUbZbyI6UjbbFz8ButDl6hjBU2WXsquNShBcaF+O2PZRhzEN+zjRxX+P6RFFa0xpuhUBxJElWrVxGh4+on5jOzalFxC/cawDonCSzxOzzccJL/zRPZgF8woM6UHR9Y0YBnPTQ62FglocZZzIUQL1wpwoUHRnmHetXpTvlYK5KcRecAgW3Yboila+WjJ+QmFcXNAh1XgAAAABJRU5ErkJggg==",
+  "symbol": "Cm",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/curium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/096.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/096",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Curium",
+    "de": "Curium",
+    "fr": "Curium"
+  }
+}

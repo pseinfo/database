@@ -1,0 +1,54 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "electron_config": "He 2s[2] 2p[3]",
+  "ionization": {
+    "values": [
+      14.53413,
+      29.60125,
+      47.4453,
+      77.4735,
+      97.8901
+    ],
+    "unit": "eV"
+  },
+  "mass": {
+    "atomic_mass": {
+      "value": 14.006714,
+      "unit": "u"
+    },
+    "standard_atomic_weight": {
+      "value": 14.007,
+      "deviation": 0.001,
+      "range": [
+        14.00643,
+        14.00728
+      ]
+    }
+  },
+  "radius": {
+    "empirical": {
+      "value": 65,
+      "unit": "pm"
+    },
+    "calculated": {
+      "value": 56,
+      "unit": "pm"
+    },
+    "covalent": {
+      "value": 71,
+      "deviation": 1,
+      "unit": "pm"
+    },
+    "vdw": {
+      "value": 155,
+      "unit": "pm"
+    }
+  },
+  "shell": [
+    2,
+    5
+  ]
+}

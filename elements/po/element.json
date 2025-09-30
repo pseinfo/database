@@ -1,0 +1,93 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "water": {
+      "value": 2e-11,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery",
+    "de": "silbrig",
+    "fr": "argenté"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 30,
+    "goldschmidt": "synthetic",
+    "group": 16,
+    "occurrence": "decay",
+    "period": 6,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Marie und Pierre Curie",
+    "value": 1898,
+    "era": "classifying"
+  },
+  "names": {
+    "en": "Polonium",
+    "de": "Polonium",
+    "la": "Polonium",
+    "fr": "Polonium"
+  },
+  "number": 84,
+  "properties": [
+    "natural",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-08-6",
+        "label": "[209]Po"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-118-2"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.289"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CIDNone"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAABNUlEQVRIx2PkYhBkQABGVBYjAzpgVGAwg4g/Zjj7j+EPhhpGDBYNFaC5k5mBVZPBm5GB8TPDqwcMx/B7hKBPsSowZkgEs0HoLMM8DMWM2ExgZGXgMmBIAzK+MDy/zrASUwsjbr34TcYaJv+RuP9RZf8jqRdhcJRkCAKK3GCo/c3wEUkWpOA/amhgclkYhGQZuv+D2Q8ZUv8z/CNo439UL+DmQr3AwqDHxVAPZP9i2PaDYS5WT/1HDQEcXIzUxIjEIIlLuS71RAa1SAYmBhBiBpPr3RGRRoxdycsZeIVBGjdUMjw8S3MHE+D+h4U0GiJekF6KTfgY2pQZgKXWmpcMs56Rax2ZITfsxeftgibn3FCGzx+JNQcRwANFUtdAjIKPNJEBUTZq/nD35n/SGbRQOWr4YHMGAHaJBRZa4ZlSAAAAAElFTkSuQmCC",
+  "symbol": "Po",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/polonium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/084.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/084",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Polonium",
+    "de": "Polonium",
+    "fr": "Polonium"
+  }
+}

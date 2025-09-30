@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 21,
+    "goldschmidt": "synthetic",
+    "group": 7,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "set": "transitionmetal"
+  },
+  "discovery": {
+    "by": "Oganessian",
+    "value": 1976,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Bohrium",
+    "de": "Bohrium",
+    "la": "Bohrium",
+    "fr": "Bohrium"
+  },
+  "number": 107,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54037-14-8"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Bh",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/bohrium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/107.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/107",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Bohrium",
+    "de": "Bohrium",
+    "fr": "Bohrium"
+  }
+}

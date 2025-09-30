@@ -1,0 +1,133 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 7000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 7000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1100000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 70,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 20,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 11000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "white, red and violet are waxy, black is metallic-looking",
+    "de": "weiß-beige (W); dunkelrot (R); schwarz (S)",
+    "fr": "blanc, rouge et violet sont cireux, le noir a un aspect métallique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 29,
+    "goldschmidt": "lithophile",
+    "group": 15,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "nonmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Brand",
+    "value": 1669,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%C4%8Cerven%C3%BD_fosfor.png",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:%C4%8Cerven%C3%BD_fosfor.png\">Ondřej Mangl</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Phosphorus",
+    "de": "Phosphor",
+    "la": "Phosphor",
+    "fr": "Phosphore"
+  },
+  "number": 15,
+  "price": {
+    "value": 2.69,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "mononuclidic",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7723-14-0",
+        "label": "red"
+      },
+      {
+        "value": "12185-10-3",
+        "label": "white"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-115-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.286"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5462309"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSTH3495000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADiklEQVRIx8WUfWiVZRjGf/dzztk5+3JbqWtTZDMtzRVCM8H+yP3TxqxppEXkrFAGUbk+CClGEasIlHBGrCLETA2jHZpajdYnUoE6bE0zR6TOrUlurjNc52znfc/dH+ecdj5jbrZeHl6u93qu+3ru+3me95YsChh/JB4JiY8kIUkW5FE8k+uHOHcNJSDnOGIRSOkgOBZSAXKG74P8BbjJLWUFSDdfKHa6Jf4lz0zyF1AB0kvHn/QADjKWUAMiSBfeEm6fQVEXXhtrwpVKPC9FLC2mvJM9FoGk2TAy5TwOMsAvZ2gPcwbXrTwBIpgO3rAZDYfELpFFYRl1QUaO0wSaqmpJDwA0XjyblXOo6eXAH3yjiXpHGdsVUUThLDtG6I4KzFw2eyj9jRfmszVsO0q/i2JFggz28Byo4J5HM0gPj4XwE8lYAEP+dewY4dssKsL+ihAFA9TbXIxmk1PAzn+mhmnI4RUQRXysBVUETA4tigR41eJoTLEI2RnsV2SMWmUotkAlzYWVGHBFn1OMcmRQdQgD7WsJDk80alEVK5+mrYGeI+QX8dB7GPjgUTY0Y+DNewn62fIpBnbX03dqesvU6E4njCjpcuJt4vJlardgWYmyW0rZtpG3D9HyXVqHmdnsq6X7AptbCCk3zWJ7JdhU78WyE8Xh8fJSbisAm8qvUcUtHCwHm/uPMzQ2Ls4xeEvBYt1ZfHacg1Ha8sDm4wBrBGyqRglpuMW4WjFgrYYA2a0YD5xnZBOikatf2IYB+zSeGzHQ/wChQZyzKNmLAwxceI3hr3DOYMlHEcbAjzVoIH6PhZtfZPYKOp/n0rHUR+H0cM8BDDig8y1Oe6d0whPnnU4amnE5eakOOzhJn/Gj+7/eySQsn0/jGrZ9xucnEzUFmeyvhRDv/EDdMlAIQYh9nRzr4/U7Qdl4kPO+8dazagH15RGHXV08XMZTX3JyIK49xbbvfDcfrmLQz/o27PA/5OCTu0F58jA/X0psbesXsuEGGjs43J9oVujh/TvY+hPtv8d0zKQVU6YxCVmmoXUZwOqj+O3UmsXZNC1idx97YrKd62bnYlDWncBnRcjGEpbnglJ9Aitqct+1bCoE5a5TjCnPFFGZF1niwV+5aE1HmZMOnGd4NzfCV/uwrrZ/OpleOZiK0gFNEIJnwX+1zSeXzyPQC11QCQq7wJr2bflPa1QwMAcUepMaWzrwNwTtrBa8qC+4AAAAAElFTkSuQmCC",
+  "symbol": "P",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/phosphorus",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/015.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/015",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Phosphorus",
+    "de": "Phosphor",
+    "fr": "Phosphore"
+  }
+}

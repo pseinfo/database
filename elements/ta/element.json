@@ -1,0 +1,117 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.08,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 20,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1700,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.002,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "gray blue",
+    "de": "grau",
+    "fr": "bleu gris"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 19,
+    "goldschmidt": "lithophile",
+    "group": 5,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Ekeberg",
+    "value": 1802,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tantalum_single_crystal_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Tantalum",
+    "de": "Tantal",
+    "la": "Tantalum",
+    "fr": "Tantale"
+  },
+  "number": 73,
+  "price": {
+    "value": 305,
+    "deviation": 7,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-25-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-135-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.304"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23956"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSWW5505000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAADAFBMVEUOADgUADEARQZFGgBFDgAwAAAKADsOAAAIAAAMABdEAABGHgALABQFAD8bRQAMRQATACcOABoGRQAAK0UCAEIqAAAnAAAcAABGQAAAQUUhAABIAQAAAUUVACoRACBFCAAADkUQAB4ARhFNAAAfAAAKABEUADY+AABFIQAAFUVFEgBVGgBFBAAUAC1FCwAAGkUXAAA7AABHFgAaADAAIUUARTMAO0YARRdTAQBERQBHJAA5RQATACNYAABHNwBFKwAARR0AMEUjAAAAHkVUIwA5AABXPgASAAAABUVpBAAwRQAANEVeDgAARkFVBgAuAFQ1AAAARi4zVwBBAACGKgBTKgAuAFuXKwAbXAAARScLAFt0KwBKDgAiRgBOHAAUSwAARSRKBgAjAF03AGMgADpNCwCYAwAARjk9AHBYTwAATk6KAABoGAD6AgBSFABAdQBOBgB8JwAANkUOAEY1AHuBAgAnUQBaIwAqTABqUQBnbgAARSHTAABFLQAnAExEAH1SbABPWQBfAwAE2wBfNwBGXgAzYQAcAOadNgB4AgCFYwBHAJFWDAAmAERHEwAHAG1aYwAASQA/AMRGAIgAKkodVQBHSwBwEQCZDwANANUrRQAADFI9SgAAVUCwBAAjAG8AA1N3NgD0VQAAaLYAEHZzHQC6HQAfAL5AVAAAomWNIQDhMwBcLACDbgBgHgCogwD/gQAHAJwmAN0A/9bc6QB6SQBxZwDtOwAAFunsxQAAFqsCAInSLwA+ALKdVwAAqs66VgAAFVPkUwAwAIgEAKo3AACP2QBmYwBkMgADVQAVAIjBAADhogACALTRlAAAMK3mGQAsAI8A6M3RKwARAPDbSgBEXAD/tgAAx4CQPwA6AGkAcM5TEQAAa2fiAAC0TgCYlQD/GwAAryRIbAAApLcArSL/OgD/1wDRWgBRhgCOUAAAv7wAiP8AIcr/mgC5tAAlgQAAM2AGbAAAV2EAvuiT7wBHAKaPMgAAxrIAXqqtMQAARf//QgAAI/80rQADAPsOhRjzAAAC8UlEQVQYGQXBC0wUBAAA0IcEd6L8RPCDXg4z/KCZtEzRnKUlQ7fUzZjMlubSNLOpK3NUszWb5TJttDWn5hKjXNnCNB2aU9CMxMvwW7EUhBXUcUIoEdF7MSMATRv3XZXdOwxIzbgEjB6ipgWCMCY7XIfEmcLjYz5n/kvF3z02+KNYkUKazgOhtIe3oWdJePzNI0suN8Ij6U4dxfBC29tAYsPahN2kjAodATrDz1fXAhgxpd9XsHN3UWnlK22ul++vWQwAEA/s6VO2L37VtIFTWPVAefmcscE7/dYBBHYO31QeAAiWpBXunlFzMiFQDORQOLBlrzWP7jLvcDHAnsm1C4F4QH+IAse6IqEdyaKvA8YBEiCbyuPVL4Nj0U0/1APM3XjrRdh/rfpcvoPUAEOYnfejsiACyKQK3AY0gxOxU38DgK23JG08fHT1MIBuAJ7oFLAtaeHU7w/w1qlDgOUplw3qDPS66e+hva/dm7Qovu+iWb5ZN3QZnvq1astnFpxuGPk+KGrObI/qlHGP09+CT5KvnH8D5s4pP4C5B0omX2jfRt6DWwWf+7kiNzUyv8/t9e4EJ3ISZq4483bGfZ6tLUZmkYEN7/4F9Ft28Mn+JYcAkwa8tnJH7yMrTDrjTnBSblOp6blbAIq6PX6xaen21hmrNwy4VMvH5zYHij8d9s/RUYH5b2bFdtdZu8kz9Zvv7wGWni39otLvT7fHHu/1AZZvuDRLYX7chPMjN5cBowkVVLUubAy3DjqLidOjX8+uPAWw6qLVqSu7h/z7Z52srrisiqy0agsyrlRkZbdURwoeulAReaHzw6H1CgK/tGtMr48wrrkpdXE0vblzb77DudOyXu1Lzvq0mXfV5/8xLrSrfk3ky9Ett5JMrrs2r7b4HT+lR0J1TV0AcjpGXb+7SquUvOtX88JiepLmvZeKbFdz1PaMvQISCN2goyu5LbGjOzEa153YZkxH3WDatQ1Cuhsy48L/TeAESBYFiAE9MYD/Af4AGhkxqeakAAAAAElFTkSuQmCC",
+  "symbol": "Ta",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/tantalum",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/073.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/073",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Tantalum",
+    "de": "Tantal",
+    "fr": "Tantale"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 60,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1200,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00022,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.01,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 13,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Soret",
+    "value": 1878,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Holmium2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Holmium2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Holmium",
+    "de": "Holmium",
+    "la": "Holmium",
+    "fr": "Holmium"
+  },
+  "number": 67,
+  "price": {
+    "value": 57.1,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-60-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-169-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.335"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23988"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Ho",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/holmium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/067.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/067",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Holmium",
+    "de": "Holmium",
+    "fr": "Holmium"
+  }
+}

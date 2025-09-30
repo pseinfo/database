@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 180,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 3000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0009,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.05,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 14,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Mosander",
+    "value": 1842,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Erbium_%2868_Er%29.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Erbium_(68_Er).jpg\">Hi-Res Images of Chemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Erbium",
+    "de": "Erbium",
+    "la": "Erbium",
+    "fr": "Erbium"
+  },
+  "number": 68,
+  "price": {
+    "value": 26.4,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-52-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-160-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.327"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23980"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Er",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/erbium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/068.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/068",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Erbium",
+    "de": "Erbium",
+    "fr": "Erbium"
+  }
+}

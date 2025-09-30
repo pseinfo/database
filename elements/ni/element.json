@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 60000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 80000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 13000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 90000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.3,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 100,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "lustrous, metallic, and silver with a gold tinge",
+    "de": "glänzend, metallisch, silbrig",
+    "fr": "brillant, métallisé et argenté avec une teinte dorée"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 24,
+    "goldschmidt": "siderophile",
+    "group": 10,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Cronstedt",
+    "value": 1751,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nickel_chunk.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Nickel_chunk.jpg\">Materialscientist at English Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Nickel",
+    "de": "Nickel",
+    "la": "Niccolum",
+    "fr": "Nickel"
+  },
+  "number": 28,
+  "price": {
+    "value": 13.9,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-02-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-111-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.283"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID935"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSQR5950000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADfUlEQVRIx7WWXWgcZRSGnzMzm4VssqzZ3bg0pm4k1WJ/lGJNQ4ORihDSK1HQIvGiIEhFvPBGTNubKgWDbS+aohWlWkkUpf6A1cZFsVaKtqQSG8GmdqVNlE2ars3vOpmZz4vMNjvZTdwlCQzffOc973nfM98ZZlcCVNWwEQQYok+hAEFq2QSMkpwiDcyCq9ksCMggF2xMFwagktuj1F/lvOXi2cSte144jyDI3TwKgLpEQhWhkA3mEfJdlpEghThLzcpyKqNyQuXNGgTXsU8h/bRbTChvucqxmN37qKpjv0KG+SjKUwq5wosO08pj57EoFLqI8j5CfigEQhwzuWCT9POEQqZ52+SU8s4mayF+OqF2hg6bH/LtICB0KroVPR4r42WMbWiQaUWsrFhOnQiVzxB8mvRuyrdw8ygq42YrGrhjH6nXuZlAQIRwK9FWLr+Ek3HLI82sbWfwPa51udMQCK2n4QADR7n+Ew+/w8VD1DTR/ybjVz3WmkbrYcL1fPw4M1M0Po+vjDMHUTa6j8adpPq58uPckG+tsxtdZ/dJdEHDvXTo+5aznzP4Ow89Rksb5eW8/xq/fI8IR06hwcnjfPkBm5uJ1/PpMWzLI35nHQfeQoNzZ+h4FYFDh1lTT9sO0qPEYhzs4JV2kknqVvPCs7x7nDf2cq6XBzeAxa49HNnDFwk6u7k3zvatdH/F9kY+/IZ/xkFlh6byroLgypGLVCj0voCAFsOIY50Ha/5YZjfxTzCC6HC5BRwPQdMJrMX8G+vGgvoFcU2n6h6mU2gGtU0EV/FbF9Oj2dfBoK6J0QEmUkTuYuwvzIk5HZ+fUIz0EI6Fv5xILcN/4FgAoWoeaOHsCf6dJL4Oy2RoAF1n5142bOH0CXq6mBwr3Gd1jLbn6PkMn4+Lvdj2Yv3PHfCiqwib1oOi91eUmp8tM3ikgb5LDKWKUvOsqvSSRda8D99CSE0F91WT+BPTLq1wVYD7IySuYdrUBNgYJjHIjFOokMJgPMC2GF1JMvaCnFww5KM5SiLFpFWEviqqh+WkrbR+HlitsStI5xgj9gq24Rf2lzGi+M7iZwdnCfqqxE0lbIXTMFlEiSrdZelMgTBMQQaehBvwtftN/X9NA6IwDDOgwW0whvu3tch+NAjCOFhegkAFZMBcptMoAwuCoMN1UOCDCKTBhDA4MJL7y1TiUf8HtXaxFlep8DgAAAAASUVORK5CYII=",
+  "symbol": "Ni",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/nickel",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/028.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/028",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Nickel",
+    "de": "Nickel",
+    "fr": "Nickel"
+  }
+}

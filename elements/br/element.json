@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 7,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1200,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 3000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 67300,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 20,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 2900,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "reddish-brown",
+    "de": "rotbraun (gasförmig); rotbraun (flüssig); metallisch glänzend (fest)",
+    "fr": "marron-rougeâtre"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 31,
+    "goldschmidt": "lithophile",
+    "group": 17,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "liquid",
+    "set": "halogen",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Balard",
+    "value": 1826,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bromine-ampoule.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bromine-ampoule.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Bromine",
+    "de": "Brom",
+    "la": "Bromum",
+    "fr": "Brome"
+  },
+  "number": 35,
+  "price": {
+    "value": 4.39,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7726-95-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-778-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.890"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID24408"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSEF9100000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAD8klEQVRIx62VO2xcRRSGvzP33n151/uwN7uJkXEgVoCQNBRQ8CogEVgQSEVDkcipoADRRUIoKZJIIBcoKaCgCREdUkgkCiSiSCl4NSgSSMQg7NjGXr92s97nvTtD4XW8d9fGa+PRaO7MOf/8558z594rEZIAIKgYGY1bp+xSBaNwFJZHjfUmD2YWtsJu8YpDWONpvAARjedRDxJ1CLtUQDQeiEdVYVvYbnPiuFTwNVHYIWJVCoLay5E8kyUW2zQIKkDEpWzQrao6dYp/2Q1AYQfoAXEpNfD8AFl7WGFSVfIaT2EHiNYoGkxrCMFKc6jM/AqzCjtArMZ9g6aDUNol2UESNQqGRqfgTjGtXkXgKc5Xyd/hoqFh/F7jx68uHfoGeHuaq3UWFKGDjBnkL87VmH3AbyDFSIo3DBhkhrEaE728VOS2xzJgkVCEs1zwWM5xMcvHBqlxd4ELhoZFWoh4TK6lSNaiqxjvBHh2iVHNSstxQkJCkwM7yuUGUxU+FSKaWdAGAVvIGHJgQ8KQA91yQFt4zHDPcB8sGII5KMN+pAozCKhHUGn0HVQSllFJTAE7S+MeybM4AyycAg9nL6aELuBkGLqCAj3P36PoCiIE+jF1GgVEiD6BFaT4K6u3JqvdIjqIcqjO4K2s22kZN1sKiCI5SDVPbA+9GSZ+RNexbOJZinM03PZdTpAz17Hg/Gu4ta5iBUMkUizOojVKkc5QLFArd6WwWRqriW/rtC/744QcpnPYit4IB/axVGB8irBDvIe5JbTelCFocTDN3RyV+gbh4gEcYbGC8dsVDITI1ym6PtqHHI5EuJmn0thcsN8uhhcgbrhhaLTkwMY6jJTQ46g4IpglxEIcqDaTpHpInmTlG9x7OH2IwpvH6QcPK4K3AC6RA3jLuPNdFcXGdiGapVGhlu+2uHZsd2z6siz5C3Bn/OuJXxtti+we5nK4btMyPMTZD3jvI3ILG+C7Hx2Ld19nfIobP2F0y4Wze2PHp3ZLiwinD3NimBPXKHtNo6X49ngT88o1emxCNvNlDAzHufw8J79nemUr/u3I6B4m8EyKF/sZGwe4/nTT++oPeGZr/oDiyyf5vcS5P5v/p+5lCBxLcDTBmQmq2odxhJEEv1X4o+rbmLG58jDAeI0P/+GrwabrrUlGYtwu8dm+Zhkcm8RsFHGkhwGLm2UupZvIo7P/dcyo8HUfGL6r8nIQDG8uUzLtsLTiahQMx4tU/Gwx+CLMpTq3vNV/OqdsHlfkNc8pgNN1Jsx2bhNi8Al8Dr+0VD2bT7YEdIMERuEQGHi/421jV2XsbIsNHujtkAsMwX64Bd7/k/EopMDAz91dCrudwH8BjsrzFqRZvG0AAAAASUVORK5CYII=",
+  "symbol": "Br",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/bromine",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/035.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/035",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Bromine",
+    "de": "Brom",
+    "fr": "Brome"
+  }
+}

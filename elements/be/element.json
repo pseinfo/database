@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1900,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0006,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 0.4,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "white-gray metallic",
+    "de": "weiß-grau metallisch",
+    "fr": "gris-blanc métallique"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 2,
+    "goldschmidt": "lithophile",
+    "group": 2,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalineearthmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Vauquelin",
+    "value": 1797,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Be-140g.jpg\">Alchemist-hp = Alchemist-hp (pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Beryllium",
+    "de": "Beryllium",
+    "la": "Beryllium",
+    "fr": "Béryllium"
+  },
+  "number": 4,
+  "price": {
+    "value": 857,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-41-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-150-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.318"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5460467"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSDS1750000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAABAUlEQVRIx+1USw6CMBB9A0oIC6M3cOfea7l34wXcexNP4cp4CI9gQiLYsWD4FCjylxiaCXkzfX3zoSk5WCFZpCJCdlEOUSmBDJgCrwYKBAPg0LQpKtdZgyDzzuF4cBmiiEBFIm13ZVIT1gvPsN8vZyU5JLFGWW5QCiu7rPI1bhBhdVwlblGK4oystq93PxGL4SP8C5xtsLwFIyYyNNeNUqCW2/kpI7rn7XOZM7AIjIZsk6PBZ6x6cCTkigoNJxcDe4P1Ce4V9wPk09hY5z/iyYB/9e1WMPfw5SMmYbfFwsLxAl9oaWWRbmmTfv9l2ITzMnBvHvaPodvk+qAP5iQ+tjLeBcMAFlGKkVAAAAAASUVORK5CYII=",
+  "symbol": "Be",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/beryllium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/004.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/004",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Beryllium",
+    "de": "Beryllium",
+    "fr": "Beryllium"
+  }
+}

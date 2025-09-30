@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.7,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 170,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 3300,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.008,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "steel gray",
+    "de": "stahlgrau",
+    "fr": "gris acier"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 18,
+    "goldschmidt": "lithophile",
+    "group": 4,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Coster, de Hevesy",
+    "value": 1923,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Hafnium_bits.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Hafnium_bits.jpg\">Deglr6328 at the English-language Wikipedia</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Hafnium",
+    "de": "Hafnium",
+    "la": "Hafnium",
+    "fr": "Hafnium"
+  },
+  "number": 72,
+  "price": {
+    "value": 900,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-58-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-166-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.333"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23986"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSMG4600000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC7lBMVEVFEAAOABoLADo2AABFHQAHAABFBgBFDQBFIABFCQBFGABBAABFEgAPAAAVAC5FBAATAABEAAABAEQRADVFFQAbAAAAA0UXAAAACUUgAAA7AABFNgAJADwDAEEUACguRQAmAAAAHkUAMUVHAQAAI0UlAEETACMjAAAxAFdCRQAPABw5AAAtAFAMAAAAFUUGAD8oRgAAJ0VFKAAMRQAhRQAARSs+AAArAEwAK0U5RQAARiVFQAADSwFFMAAAEUUAPUUnAEQCRQBEAIUARg8GWwEbWgARACBYAgBGAJUtAAAiADxLALoWADYcRQAARUAQRgApAElhHQAARS9DAH8oAAAlAFw0AF4PADdFGgBFPAAxAABNUgA9RQB7BQAATU4MABVmAABFOgBKAQBmIgAARgcAUD5GLQA0RgAAQ0QAanorAAAAGEVFJAAASRwAUxAJAPMzAHZUBABBAHc4eQBUQQA/AHQAOEVQJwAAOk9IGQAAWlkAYSkKAHtIAKFyAAA+AHBMHQBKCQAVRQBcVQBGRAAARTxIAMBPAgAwUAABAFJbDwBTHAAyAAALAGFQMgADYgAaTQAaAN8ZAD4AbjRrYgBoDAAvAABpKgAASBMQAFZHSwBrPgBWIgBIJAAAkjoQADw5AGcKlgJvLwAWagAzANJHXQAAaoQAbllJDACzAwCBXgAtWAAiAEgZAOgAj5gAhCsAKHxpNQBMFQAbAGPkBACXOgAA/8ALegA9AMkudwAAR0c7XwCYKwAApNR6UAAAiRRtHwAA2CJxQAAnAH5KAKw4AM0STgAAFnIAWGEAow+ESgAA/1sAcyKZAACsbgAAFmwIAMxedwAAIVgLcwAAVCAAwBAAgUMALLkoUADQYQAPAJwA/4gA3kRh/wB/ngALAKYAmlQAo3cA4bM1AMASiQBHMwCE9wCJNAAAqso+tQA9AJJaegAAnOkuAHFe/wCAdQAAim/L/wAAYv+IEQAAXovjkwAAPv/UWAAAM/+XAADkNlg5AAACvElEQVQYGQXBC0wUBAAA0AeI3EATpaIh6VWax0eXG+bEwGa6cCxJZAVCNp3Osjk/tenK5ty0jbTf1kZOZ2KZOWt+ss10MfKmMyFYVno5KnZSgwbEx2PKt/fiZmIqyQOm02uwyyS9Yhgcb3DB0VnASMuyCc0tWbmcz7xJFsDwmzX9gtEM0RcdD7aW5JyeOfJVmaZFA791ZTYEjJ/VEGjPm3wxz+249ryN28wYn9KgJ59x180ZXndoXv/foQd2srbso+8oPPxOS+1q4oxZ2FxwR3MdgNOxoc7zRUuit86r6hV7FQAywNt3H93ZJe25uc1H0uDkL237p1gd3VIIYnWfZlQDbOzPeA9APIBTc29udmD6hffpgQLYEKzbCpAAmAiSwNNvBOYAvLC04/ooT4R37b4B1f9cjCUPPN/YrbS+rUdq5q/zoXVx3b6+y3Ur5Ozpwm0g0RdDQ+tUaO+b+0fffRXXZrfVLZ7d0+hG9knkWDl6jPUTNiQmvPTZyNDKrxNZ/u3I0FuZW++uf6ZkS21KGzJt35Ws7GiBcHFf+POq4tX/tXyMx/0A22dXLXr98l7lX8K+n2oAiuy5cElhbrCrEh4bW3SJMU2ASmPpHZFWLEutPHZ8GgKkTfrzAkCFJy0shyzK5/9eHwlNbGjEh4Gfa/JJye+8ld/5GsDmtT9eOwQMA8AnlUc2URaaF025+RdLig/cLm14F4DdkQf9G7oSOkhJdxhAwebhgVVYumYV3AEAIAkA1EanvUw8+2O7AGDHto3Fa15J3QsAH5y9CrCj/qr7l5/ttPLZc1c6xVtR6vsbLd1MmTF11BkGAR7Kzz4l90ROG5gMKdnhQASQ3iFdR7Umzhw+t8A3mHwiFNlA7VPx6ZtyK2kESAL0gYeLODjMOIZBPBh9ZFrYPZB0DyNISBqAIK1BrYKICEUA/gcNLgUWnkzYAAAAAABJRU5ErkJggg==",
+  "symbol": "Hf",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/hafnium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/072.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/072",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Hafnium",
+    "de": "Hafnium",
+    "fr": "Hafnium"
+  }
+}

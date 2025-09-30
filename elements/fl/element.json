@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 28,
+    "goldschmidt": "synthetic",
+    "group": 14,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "JINR",
+    "value": 1999,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Flerovium",
+    "de": "Flerovium",
+    "la": "Flerovium",
+    "fr": "Flérovium"
+  },
+  "number": 114,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54085-16-4"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Fl",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/flerovium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/114.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/114",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Flerovium",
+    "de": "Flerovium",
+    "fr": "Flérovium"
+  }
+}

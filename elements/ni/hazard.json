@@ -1,0 +1,75 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "h": [
+    "228",
+    "351",
+    "372",
+    "317",
+    "412"
+  ],
+  "p": [
+    "210",
+    "302+352",
+    "201",
+    "280",
+    "308+313"
+  ],
+  "hazard": [
+    "F",
+    "X"
+  ],
+  "ghs": [
+    "02",
+    "07",
+    "08"
+  ],
+  "nfpa": {
+    "h": "2",
+    "f": "0",
+    "i": "0",
+    "s": ""
+  },
+  "toxicity": [
+    {
+      "type": "LC{50}",
+      "organism": "fish",
+      "application": "#",
+      "time": 345600,
+      "value": {
+        "value": null,
+        "range": [
+          0.0000475,
+          350
+        ],
+        "unit": "mg·l[-1]"
+      }
+    },
+    {
+      "type": "LC{50}",
+      "organism": "crayfish",
+      "application": "#",
+      "time": 172800,
+      "value": {
+        "value": null,
+        "range": [
+          1.28,
+          9.28
+        ],
+        "unit": "mg·l[-1]"
+      }
+    },
+    {
+      "type": "EC{50}",
+      "organism": "crayfish",
+      "application": "#",
+      "time": 172800,
+      "value": {
+        "value": 1,
+        "unit": "mg·l[-1]"
+      }
+    }
+  ]
+}

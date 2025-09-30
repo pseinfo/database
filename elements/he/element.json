@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 230000000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 230000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 5.5,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0072,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas, exhibiting a gray, cloudy glow",
+    "de": "farbloses Gas",
+    "fr": "gaz incolore, présentant une lueur grise et nuageuse"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "atmophile",
+    "group": 18,
+    "occurrence": "primordial",
+    "period": 1,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "noblegas",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Ramsay, Crookes",
+    "value": 1895,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Helium_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Helium_discharge_tube.jpg\">Alchemist-hp (Diskussion) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Helium",
+    "de": "Helium",
+    "la": "Helium",
+    "fr": "Hélium"
+  },
+  "number": 2,
+  "price": {
+    "value": 24,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-59-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-168-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.334"
+      }
+    ],
+    "atc": [
+      {
+        "value": "V03AN03"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23987"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSMH6520000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAABj0lEQVRIx+2Wzy4DURTGf+ealo4QaiNELNjbCBIba7HxFJZ2FhIrEYl4AFtPIBGJVxAPoLEgIYIF1RAa7XSORf/NtFMz1aIJN5Ob+53z3e/8S25GbAapLomTUFyH9yKkdkndSYA4vaNMCXLHWZZMPSFUwSZp0f3CvQZQK1dEEEUBQcaY7mM4xbFSCMsztBCJYdskn7lV3HIsuogXcMD15hAk0qpX2qmMeqCWquuPMfDGTaU6j9cHDT2gLjmtbZeZZE+RNEdpDtUXzpdAECxZ1F9CY+grIQh+VoIHJoUdl10494QSzDzWIs4mZEtEoXr4HEakteuWCONziHB9QnF2rYRO9LJ9gIG1JfI5n9cYxid4fiLz4NMJj6Xlxtd80Y0dQo6oACAWkoQ04kQd9b890F5tcDP7wgzrK+CyukXq4isKvsHSvr3u4WvO8iu0v6SfMIxYXOVx9FvSiAtHQwDLj7xqp7SxYjNgwyvVfyZtcNAwwheYUa5YsAEu7MNlu8W/KXMDs1CA07oX5ecb2BTzAyYRHxZ7HfRbAAAAAElFTkSuQmCC",
+  "symbol": "He",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/helium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/002.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/002",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Helium",
+    "de": "Helium",
+    "fr": "Hélium"
+  }
+}

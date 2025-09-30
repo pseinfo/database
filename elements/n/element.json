@@ -1,0 +1,127 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1000000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1000000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 1400000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 20000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 500,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 240,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 26000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas, liquid or solid",
+    "de": "farbloses Gas",
+    "fr": "Incolore"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 29,
+    "goldschmidt": "atmophile",
+    "group": 15,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "nonmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Scheele",
+    "value": 1771,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nitrogen_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Nitrogen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Nitrogen",
+    "de": "Stickstoff",
+    "la": "Nitrogenium",
+    "fr": "Azote"
+  },
+  "number": 7,
+  "price": {
+    "value": 0.14,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7727-37-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-783-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.895"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID947"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSQW9700000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADn0lEQVRIx+2Uf0zUZRzHX89z6N2hgBwK2CFN0FCLFi2VP8q0hkst50oXRAvUGaj9+MNRDFsy12Zas/zDGW0YMXTTrTWwGdbc/EN0U2PYRC51SEYwvnqccgGHx32f/rg7775yp55Rf/Xdd8/38/k878/7/Xw+z/N9RDzJhB5htGQmT4Popk1nNBLAEIkEEFPJTsKu4XCjAQKZQpaHW4PcABJIm06uF89VWiIxiDm85DdAuOn7k1ZlFEtiRgZ5IAQCaOcHgchhaT9dGg6FEmMWOQHr46z0EwzQk4T9Ao2jeO5dSLg3mfQcVvTS1kOrvyg7C9N5SkEbdT5G7iDjsORRBmKIG/GkggBxji8VKpxwzCJFdAMQAplGvkLXOGsmeS5vO9g/jOafVkHwRGxP8NEIznZ2+BWVkS3ctZI1ky3X+UmjaTolieQDDjaBAqGMzQl3VZDBTI6NUjD3Ue3DbWZeCpUe2p3sMsoF8NFdUxKHQCiECpQTsv3VjdIieU6Bh9cU3ogVjZUIfUWYEZMrLTzWhAl+exl0co9iAkcpIz1Rs9IXk1vF6VJ0D3PL6TzIwh10N3OpPlicH5bHCzv5tZaOQwDSxOJKUrJo3IjvNgKm2Cn+hlP7mJTMgkIktB7m5H4yn6RoF52n+a46UHFcHNuOIkGCiYARbtd+TPl2XH1Ul6B0LBb2NiHhwzdxajE2RwU7fdf74MFxAi9I5ZNnKD/BX7dpeJaKs5x3BWYTTWx+lN4h3kijxUmOhXUOPL6HkrtPSx48bpnJ7BokXFgGvgh4cyr5DQx38ssm0MdNN2LcbKWiEQknailYHzosrT/y/RfBsy/Z3YyEmioc5yIQLltD0YZA7oZVrH+XRS+yuRjn9ai6oQYDCin5eg+Zj/D6Wlw3A3HzBI7Ugc6KErxeA/6+o4CqYp7PBZ2LXczLAMXWOraswhZP4ef0u437HDYKQdF8SvMpa6CmkANnqD+D0u8parwWY45Eh021cnApvYOsPY6u/inb+CRGhwmonMUSG+cH+MCBMl7Er6ZSlsHGDvbNCeC7htnbzWfZoHjnMleGWG7jPTtA2SVqZgGsvMhb01idEvojK6/x6Qx+vkVBIu//TsfwuK1fCprtoDjg5tgg9WnsdnFsiHQT307jqwHKEwCuecmMA8UrGiOx8BdMpMJKiZte/b/YJhW78W8g/yd/aGQC2GEAJsFN6AMF2aDABf2gwA4SFPwRlhsPk0GBFknubzu5whafQ4/+AAAAAElFTkSuQmCC",
+  "symbol": "N",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/nitrogen",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/007.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/007",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Nitrogen",
+    "de": "Stickstoff",
+    "fr": "Azote"
+  }
+}

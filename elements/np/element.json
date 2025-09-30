@@ -1,0 +1,88 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery metallic",
+    "de": "silbrig",
+    "fr": "métallique argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 7,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "decay",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "McMillan, Abelson",
+    "value": 1940,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Np_sphere.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Np_sphere.jpg\">Los Alamos National Lab.</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Neptunium",
+    "de": "Neptunium",
+    "la": "Neptunium",
+    "fr": "Neptunium"
+  },
+  "number": 93,
+  "price": {
+    "value": 660000,
+    "unit": "USD"
+  },
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-99-8"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-108-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.280"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAACOElEQVRIx82WTWgTQRTHf5NNUqvWfkRFxJ5iiBZU8FRQQSyKPQseDKaIB+tBD1VEqCDVixIPjVpPPbQlFxEKHkQ8SVERRbAaEE9a0VKLgglKasJmp4d06W6yk2w+qh2W3ffxf/95783s7Iq1tLM8hF0SFA9RIomVAAhoozNA8DMvDHQVg+s8GwgQTph6vaKRzEiLKu1eaccrVEBIezfKqE5TOM8o7SWoVVsJTmrFEhwqsj2FRahKXf1RNZB4vZy9QuY3E8MY+Srnkmaniy73xlUCdslQY7//mV142BOhs5snA+Sz5fBC0NVDzxlGT5H9s+J5trYyOkE8xsvnJa999fdNHSRucinGu481MiwvbEUYbN/IveOcTvA1pYzya8QOM/2d8WkMSbOPkaMk5+kN0v+YTyn7GWcGbmhivJfhN0x9Kz6zQGEBJFvXMXaIc8+YyzB2kNtJpuYQEA2xN8DFV+QMd2wKfuvo7mBwJ9HX/MotWdZ4iO/m6Q/uzyJlvfx1waoM1ATnA7RrXJtH/x9pNAtG1vMox2TW9JuwA14u+OnLkFbzhwV3fAzpXNVAEtEJwWWNqE5KkUbB5ocb8BYSkC9JsCCE4Tp8gDTEQYctcAsk9LH0KyYt39QTsBl2QGGv9VtPSYvggQiEoQmGIF1YCDgJKXiozmcXHIG7sKAAlAplAG1wDCahBfbDA/jrjrMiuQb7YAZaQEASDAVyGwTgvdmxIoAXuuALZCEEP2HWdPkgCDOw0IiEgUUYdDQX3CcvuQAAAABJRU5ErkJggg==",
+  "symbol": "Np",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/neptunium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/093.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/093",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Neptunium",
+    "de": "Neptunium",
+    "fr": "Neptunium"
+  }
+}

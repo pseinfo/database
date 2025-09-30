@@ -1,0 +1,130 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 20000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 40000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 5600000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 23000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 11050000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 8000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 1400000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white metallic",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 1,
+    "goldschmidt": "lithophile",
+    "group": 1,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalimetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Davy",
+    "value": 1807,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Na_%28Sodium%29.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Na_(Sodium).jpg\">The original uploader was Dnn87 at English Wikipedia.</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Sodium",
+    "de": "Natrium",
+    "la": "Natrium",
+    "fr": "Sodium"
+  },
+  "number": 11,
+  "price": {
+    "value": 3,
+    "deviation": 0.43,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "mononuclidic",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-23-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-132-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.302"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5360545"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVY0686000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACoUlEQVRIx+2V20tUURTGf+uc46VGSiN78BJjUorY5SGhqIcEe8iXQEmslBoQoYLoyYgQu0gPBZM9mEH+A4FgNyIIMl8kxEwFK9CHrLygY06OjqZn3D3YODPOTDleqKDNZrP22t/69trf2mcfWU8CviaBlrC4SZAlfxCw5DxlF4UgA3Q66PEHCNoeikC+0R9PCkgXDR5mwkshoXb51aqg7eU8yEJv47YKhAlaFBZBn8EFKomDKeSCvMVuMp1D5XzgF16mkgdaG9UKTw7XFji7sE8xPM8Yy5ZsLipQiEI6uLybG/O2gm6qsriuoJtLJm4dSxQJJi6TcW9WksldheBlGOWZg8eCkU7dPC3IAr8CvMYglXEctnDIf2mS5gmeCpYN2AzSp3njxA4sEkEhG7mpYZ2k7jtN/uVUgSVWfvKqQLXDTINuk4CWxboaNNBBA7OJ2Fw0cJ5kbsQHs+SRWIHnMwNloBCdjCfoBj1FeJw+WPw+tl+l6zizXxHQdDIq0GP4UI0yfTC8FVvKdHlRq0ISQZTyKu3XRSgtoOQoBeVMTPgtBSG3J1N7hkct1D+nxkZ6IpjY6ugfDQEORxLWGRE4PEMCPDConWVkjitKzkEvRhnGMWbLUR+XpNy/5dd14hIwdDSNsSHfF7jq+/qEX+5oaBQfYczJxCTt73G5I2RYcQIBY+AjFbHnd7BYncZ8XnyippM5rz97E/b9VLymwxHiR1hopXwHJc0MT3sfU6FkG6Vp2Frod5OfxIVMzrbS6wqx6YHNVGVxqpXBqdDZGoJ9J5kWn54Ph7jXR3ESp5MpbMc1G/Exg53Rwq003rm5P+Q7uD9mawz1VhrHeDXOndSf/rI+nB4arAAzc0QLJ/pwmKtclJUGrj2/itxYC+R/8r8tjR9E/XkW4+s1+wAAAABJRU5ErkJggg==",
+  "symbol": "Na",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/sodium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/011.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/011",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Sodium",
+    "de": "Natrium",
+    "fr": "Sodium"
+  }
+}

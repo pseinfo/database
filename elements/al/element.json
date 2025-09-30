@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 50000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 60000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 9300000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 82000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 400,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 900,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery gray metallic",
+    "de": "silbrig",
+    "fr": "gris métallique argenté"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 27,
+    "goldschmidt": "lithophile",
+    "group": 13,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Ørsted",
+    "value": 1825,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Aluminium-4.jpg\">http://images-of-elements.com/aluminium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Aluminum",
+    "de": "Aluminium",
+    "la": "Aluminium",
+    "fr": "Aluminium"
+  },
+  "number": 13,
+  "price": {
+    "value": 1.79,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7429-90-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-072-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.248"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5359268"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSBD0330000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACd0lEQVRIx9WWS0wTURSGv9PpTDotqMVoirKAtIngghhZooJxgzsXhsREEzdq2KBuiDsXLnwt3LNQlurGYIwaURcKkUDiAgNGCRopjxDRlqd9THtdCNRpM9AW8HEzuTnn3P/85z935s6MePGTGWK3hOwhOVYWRnyUBdg7Sr9FPAvgxgBJYYVoEARkmJc6ZhX1gCAf6ALR0D1s+UFEkQaXl7IE88ts2RXz0ymCq4QdFnETf5RwmtSaDAamh62V1Bv4PtPznU851cXZWLLdmEGOhule5OsquVI4s/OqVkpVjOkEM4Cyryo73sEFRNl3Y8X1UhugFWSEM78yVKbZQDnXFuj9RjvIbjoUTHMjzmAuf44rOvs09sR4rJizV0fZb5ByaMFFg0ZbkhZFOKeiG5qRCDyDNLJMsDLn6W5qltugvI6yIJFhJvpsjf6Dgr0mgQDhUVIWqJwLUJR4qa5i4D3JJMEKrCRfJlAO4LyCzuBgKaf3sN9Py2tG5zJxUVSaHPITTfBoilR67XI+OKjTE2cuF1zkzm1IXDOoOcvsR8a7lk7F7wDDx/EHvLvD0N3Ms7PeusK5m4RquXedty8y8Zo6Wq8y0E37lcz5LII/s/HOs0uoDhGJMjmVF76wWQGUeDh5gM5+JiM2gKnT2QJpFmKcuE0suRqVrlG7k/kEFaUoxaV6UFx+xZux7JcROETyg+3y0nEEFMeesGihCQ+b0IXm50SXv5OacCrENoPGAOd7mUlwv5FbgzwdR6l1yRBoCnAxSHMf0UQx+jcYttn865ChQZuPwwYXZhmy/lqbqnBjM5DFpXigEkZY+gX8X5QXivTBdhiD1B+U8RM491cWtsowVQAAAABJRU5ErkJggg==",
+  "symbol": "Al",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/aluminum",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/013.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/013",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Aluminum",
+    "de": "Aluminium",
+    "fr": "Aluminium"
+  }
+}

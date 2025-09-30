@@ -1,0 +1,24 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "amphoterism",
+  "negativity": {
+    "pauling": 2.54,
+    "allred": 1.42,
+    "mulliken": 1.87,
+    "nagle": 1.53,
+    "pearson": {
+      "value": 5.77,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "-1, 0, +1, +2, '''+3''', +5",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": 1.52,
+    "unit": "V",
+    "info": "Au[3+] + 3e[-] → Au"
+  }
+}

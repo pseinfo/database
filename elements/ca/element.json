@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 70000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 70000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 11000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 50000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 4220,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 1500,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 14000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "dull gray, silver; with a pale yellow tint",
+    "de": "silbrig weiß",
+    "fr": "gris terne, argenté ; avec une teinte jaune pâle"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 2,
+    "goldschmidt": "lithophile",
+    "group": 2,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalineearthmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Davy",
+    "value": 1808,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg\">Matthias Zepper</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Calcium",
+    "de": "Calcium",
+    "la": "Calcium",
+    "fr": "Calcium"
+  },
+  "number": 20,
+  "price": {
+    "value": 2.28,
+    "deviation": 0.14,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-70-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-179-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.344"
+      }
+    ],
+    "atc": [
+      {
+        "value": "A12AA"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5460341"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC8VBMVEVFAAATADRFFQBFCQBFGwAQAB1FAwBFBwBFGAAPABsCRQAEAEABAENBAAAlAAA5AAAcAAA9AABFEgAGAAAVAChFCwAMABYIAD0qAAAfAAALABNFIAAKABE0AABFIgASAABFDQAvAAAPAAAARS0/RQBFMQBFPwAsAAAYAABFLABFHgAIRQA6RQA1RQAAJkUpRQASACIADUUAREQTACsVRQASACAMRQAtRQAAKkVFJgAACUU2AAAAFkUABUUARQQMAAAlRQBFKQBFOABFQwAxAAAQRQAxRQBDRQAAE0UAPUUART0UAAAAH0UNAEMARTgJAAAhAAAOADdFOwABAEU0AF4AI0UvAG4TACYAMEUARhgwAFcAGkX/PgAZRQChHgAALUVFNQBPEgAfAD0bADUARTQARUD/bAB9/wAAQUUUAC0WAFEARQkLAAAAP0U6AMwRAElFAJYARyQYAOmlSgBOJABoGgAUAHBHAJEA/3IAAF41AHkAN0UAHkwsAE1IAJk3AIRJBQArAFl8KwAfAKR1/wAAu/8bRQB3AABIEQAkVQBWFAAAOU0AAn4Ah0oWAD41AJIAhRlKAK5CAHgAXn1BAHY0ANGRKAD9dAAARSj/NwAXACwA/3kAlydOHwAAxv8ADP9LOAAOAHUUAK4nAIgjANAUAFsAVw0AjR8fbQAcRQD3PQCdSAAAbopSAACSAAAAThIAdyklAK8AUhcbAHsCAOBaIwAAaBoAhjYhAGgWAMKiQAAABmoA/2TxOQAAB9YAOJFMRAAAkD4ATFoXAG1yHgAA10IAYzgZXAAAsDpmAAAASqhKAK/FrgBJFgArALwAFlkA/1HhMgApAEgAsNIAOkf/QQAAX90sAHQAI1pNFgBLDQDQNQAzZAC9LABF+AAA/zXQJABClAAALLoARlEzAH4ATDgAp3g3AKkAfpNLowBpMwBKAL4A/ysAdj5CmwAAp0CCHAAA3qO7jABKAKiPKgAAhJ/fEgCXcgAAPv/aEQDz2ADuv7z4AAACHUlEQVQYGQXBW0wNAAAA0NO65XlvjKlMcVfTSgxNK3zVZvzUV6iZL7Gaxociw+aa2PDn/diYTxtj5jlpo43YEFuyhUSZIVc1dW8P5yTMA4wDGB2vcXRm/6JewHi0ghvTmkvKEtrn0zIEAEYBsPTTmgfh6pgnq7x+C3EURFvKoy2lHtV13ypV2uVvLCj0PnvS2Nc3oJBfl/b3FiVaeTvSmBSpKK7IQMWpn3kANfvfdDQHZE6seGG0T+ZC9wLpWzpC5xt+X8wNtrUVFg6MrGi/AjB4OiH1Pt33AJAAgLpVrR9QbHm3eREwBv4BN+d0NMIgmC9cmn5IuGowAlOgE5gKOTCCgpiQ4VlCr1SGP/YvjG+FbOK0AQX4BgGYw8HpQwceA/XHaovbO/dd/ipPl3VnNycV1NqQNnnoZOWPub2zhotu2vSgFW/BSwCEAdNACoikth0HuciV9bn6wsar1Rd6UL8F9AOTQQroAyYAw4AsMAp6gPMr26vy4Q/IxJn49cOAACANDINvAOsndi8DlVmzd6ZEN2Z33QGsRjBvG+BcRrwcEADAXk0QA4AXOQdP6Hg0uGcGaAgtKSvfldwUL7tF+toF1zrHUjc9s2EpoPadxNvQmnzgLvwGgAAAAI0NiUeaAABADAAQBEAAgHEA8sEXQA7oAiSDKIAdOY19ACWaHzYfKeE54B9AGvgeHEgz0bR9ObwDSARkgMX0AJ4C/wEvWbgVFuy1xgAAAABJRU5ErkJggg==",
+  "symbol": "Ca",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/calcium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/020.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/020",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Calcium",
+    "de": "Calcium",
+    "fr": "Calcium"
+  }
+}

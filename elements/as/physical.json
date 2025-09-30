@@ -1,0 +1,116 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": [
+    {
+      "label": "gray",
+      "value": 5.73,
+      "unit": "g·cm[−3]"
+    },
+    {
+      "label": "yellow",
+      "value": 1.97,
+      "unit": "g·cm[−1]"
+    },
+    {
+      "label": "black",
+      "value": 4.9,
+      "range": [
+        4.7,
+        5.1
+      ],
+      "unit": "g·cm[−1]"
+    }
+  ],
+  "elastic": {
+    "young": {
+      "value": 8,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 22,
+      "unit": "GPa"
+    }
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 3030000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 3.3e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 27.7,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 32.4,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 302,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 3.5,
+    "brinell": {
+      "value": 1440,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 328.5,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 50,
+      "unit": "W·m[-1]·K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "diamagnetic",
+    "magnetic_susceptibility": {
+      "value": -0.0000055,
+      "unit": "cm[3]·mol[−1]"
+    }
+  },
+  "molar_volume": {
+    "value": 0.00001295,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "refractive_index": 1.001552
+  },
+  "phase": "solid",
+  "temperature": {
+    "sublimation": {
+      "value": 887,
+      "unit": "K"
+    },
+    "triple": {
+      "value": 1090,
+      "unit": "K",
+      "@": {
+        "value": 3628,
+        "unit": "kPa"
+      }
+    },
+    "critical": {
+      "value": 1673,
+      "*": true,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 2.7,
+      "unit": "K"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 80,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 530,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.001,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 27,
+    "goldschmidt": "chalcophile",
+    "group": 13,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Crookes",
+    "value": 1861,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Thallium_pieces_in_ampoule.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thallium_pieces_in_ampoule.jpg\">W. Oelen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Thallium",
+    "de": "Thallium",
+    "la": "Thallium",
+    "fr": "Thallium"
+  },
+  "number": 81,
+  "price": {
+    "value": 4200,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-28-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-138-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.307"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5359464"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSXG3425000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAB6UlEQVRIx9WUu27UUBCGvzl21vYmGwUFNqJJFC4KBV16CipqqKjyCCl5C4RExVsg0SAUWgo6LhKCKEUqlKAksMEEX46HYnezdrxeHNglwbLsufzzz8yZo5EmFxg8ciwZHI+ZiO9KVgYIMoWfEne9gvGZjQgz0hJXntN18RKOFDU4oEqWB5zAlxnKqgwBlEkqAS7eFMFPOqDVDOLiKWqJi1RSLQBicJq0j9izJGVvHuYz32IxJdznI2je6xCs8mCb5zu87hc5Iq9xaFhi7bcjuIJjibuqFvEVKiDF4xiiCk6DpYQdy4+8T4ud5lNosf1qFS2OrKT+toUhHRX+khMAcfHvkn0ifdPLJhVgGUFyPqKm57h5i7cvicIxpBa4cp1793nyiEaDsEMcF6O0f9InXkBpeqyv8WyD95v0Non2Tnipzdw077awdhRDXfufglc8Hl8GC5bPEeu7JBlhNqhzRbgEr1LscSzmGuYG2Qskrju0KrsToAndxfk3PP+pfTCNiX0bLvOz7B4MLtryAmu3efiUTjjudKXFdzpLPdhCwMWAD/tkWovNc7jaYuuQyI6zjNGwxQDfsBmik+E/VeCM4U6LjUO+2rMsQ6AtxHCQ/bvbkrfVF2oiDSzDN/gyAfKJVn5+yM+kDAGFXyJDOBdi5ZtiAAAAAElFTkSuQmCC",
+  "symbol": "Tl",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/thallium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/081.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/081",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Thallium",
+    "de": "Thallium",
+    "fr": "Thallium"
+  }
+}

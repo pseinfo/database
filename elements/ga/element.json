@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 7800,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 19000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.03,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.15,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery blue",
+    "de": "silbrig weiß",
+    "fr": "bleu argenté"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 27,
+    "goldschmidt": "chalcophile",
+    "group": 13,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Lecoq de Boisbaudran",
+    "value": 1875,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gallium_crystals.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Gallium_crystals.jpg\">en:user:foobar</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Gallium",
+    "de": "Gallium",
+    "la": "Gallium",
+    "fr": "Gallium"
+  },
+  "number": 31,
+  "price": {
+    "value": 148,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-55-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-163-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.330"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5360835"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSLW8600000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAABy0lEQVRIx+WWMU/bUBDHf2eHpAQCKSCQkIpQS9eiqAtdWVqpICY+BwMLa5dKFR+gEurSL1GpnTtCh4i9A2KpFDUlgTh28HWoE2zi1zwrSZHok/V8/7v//Z/vbD9bijx0mchT9GgoSndIb0oM6bPEhlCgpIQ+V2lUGWIJmaSsqMevv4oMLMSeIC75EssXnId0+siSpnDbmGThCa/zzPygusyLKkdt6pa5FlG0CwW3wiGIwjf2QTXJN0D+pGAHNXkBaTDyaLIEM7wpwQAHlpBSUeIsMSMTHDJrvsLGOxz49ArCsazVg4sr7H3AhTc7+K2xlandTt867J1p/qkCKJfe6JV7TkdxIQhBcaAIXkhR8EL80Kxw0wOZBkF8UCSIHtOsHf3P/fNzPF3j5IQgiDU7Nq8+YneL9x9pNlOiI5gNoekC2+t8OaXWzCLYt/Fl89wJLWOiIzyboeZz1rJVO3jM5lwUennM5+dR599+52udTloDHZjN0bwmCO9nG/+lvmY3RsJ0QKBjkeLCA7iMPooDxB0oQwMCcODa8CL2GznQ2PUIlLp7UT2+v5vXXYSf4JkJOfAtpHojDx2iX8mBqy9BDdrWd8eFBahBYCD8Bm/BIRaaXXKzAAAAAElFTkSuQmCC",
+  "symbol": "Ga",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/gallium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/031.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/031",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Gallium",
+    "de": "Gallium",
+    "fr": "Gallium"
+  }
+}

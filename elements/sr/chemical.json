@@ -1,0 +1,30 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "strongly-alkaline",
+  "negativity": {
+    "pauling": 0.95,
+    "sanderson": 0.72,
+    "allred": 0.99,
+    "mulliken": 1,
+    "allen": 0.963,
+    "ghosh_gupta": {
+      "value": 2.5849,
+      "unit": "eV"
+    },
+    "nagle": 1.06,
+    "pearson": {
+      "value": 2,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "+2",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -2.89,
+    "unit": "V",
+    "info": "Sr[2+] + 2e[-] → Sr"
+  }
+}

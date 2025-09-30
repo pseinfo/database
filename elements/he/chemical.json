@@ -1,0 +1,16 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "negativity": {
+    "allred": 5.5,
+    "mulliken": 3.49,
+    "ghosh_gupta": {
+      "value": 12.0568,
+      "unit": "eV"
+    },
+    "nagle": 3.92
+  },
+  "oxidation_state": "0"
+}

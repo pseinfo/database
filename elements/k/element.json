@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 3000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 710000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 15000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 416000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 2300,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 2000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white, faint bluish-purple hue when exposed to air",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté, légère teinte bleu-violet lorsqu'il est exposé à l'air"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 1,
+    "goldschmidt": "lithophile",
+    "group": 1,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalimetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Davy",
+    "value": 1807,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/KaliumunterTetrahydrofuran.JPG",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:KaliumunterTetrahydrofuran.JPG\">Schmid &amp; Rauch</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Potassium",
+    "de": "Kalium",
+    "la": "Kalium",
+    "fr": "Potassium"
+  },
+  "number": 19,
+  "price": {
+    "value": 12.85,
+    "deviation": 1.5,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-09-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-119-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.290"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5462222"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSTS6460000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADQ0lEQVRIx9WUXWhURxiGn29ms+j6E9ekktVgQGssStyqMd6kor2oAZXohWhNRVBEUbBSUWgx4l8RQVtpgxaU3okY/Fc0VpG2EKiV3phmNVETfzDGNMaYxhyT3T3jxW6Sc5I1/i7iYTgz837f977vzDAj2Uxv5n4rjYLKJAjSSI3FEwEQen7diEJnkQcIUk9I0BaPB5A+jLEWj+sJdZX48A9nAkgdFW00KfRopglykz9SGTGM7DoqIrRnkRfjr6W8g7aYWCqZAXIEAbnF78P51MfQai5GaHcYkkFkZDE1BlzjXJQOt+Nu2yn0H8ecVhpq+NNgAB/+sRQ0c+825YCgJvIlSAXHIrRPokiQqxwJY9FzT2QMBamMrOFSE7d6R9P4ZBRfgIQofUp9jyjQn/QcltlE/mEPmET7rCax3oMPpJpDzVQ5owrvFLaCXGGjTbSr2DiEDAhqPMUp+K+zq437TgbjlnM4ELcb78eUGOQmqw3hHlGDeBkRYLtFZQO7TUzTYaBLwrgXmHCqCAzm53YuWhwYTKmBVtZFuYNb0cdJgxh4xlyD8bBEMT/MajuemWBFrl4cg/i0H0NPoUDD/9vwF6Og5QfaylxpA6eSuQ0NCiSC9qChbh+Nxzt5hLyjpAykagtN5QDay+dnUMSb7hz8d5m/N3UfV29jCfHJC8hf5qKqLCNYgIbdhYStBCTaw46zKNixmOaHfW2C1vx6Dg3ffMWjhm48LY39h9CwqJDirQSDaFiyiNxc1q2FKAWzsKNgHA33tA8wyckz0vl2NN+FCLVwIggRFlfysIOlH7FwCES5a7H8Hv3gZACirGigNvxi5r4O50W4dySZB+i4yoP18QOXN+J5J7jAmM+YXczpTdT8lXTdmbNZsYYNq/hxLwo2fE3VNZRQdh5lwI63M2f5qQRgYg47N4NNYRGW5bjGSfobtKIon1aLE1ew7bcj7PXwvRSZksH3+dQ+YeUFzCsWvlHaBD+7cjlym/03MOblhQJrspkVYMu/lD96Cxt9Fvo9HM7h+lPWVmObd8//6mkK5g1igHCwhah5bzaSwW9eZ1AKsUuwsPPJE9gJGWCgBC53Zmr4BQz8BqWvo5KMzA+X/D3aeA6PcKcWObd5aQAAAABJRU5ErkJggg==",
+  "symbol": "K",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/potassium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/019.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/019",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Potassium",
+    "de": "Kalium",
+    "fr": "Potassium"
+  }
+}

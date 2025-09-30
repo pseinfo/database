@@ -1,0 +1,130 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 15000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 20000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 3100000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 140000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.6,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 30,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery metallic",
+    "de": "silbrig metallisch",
+    "fr": "métallique argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 20,
+    "goldschmidt": "lithophile",
+    "group": 6,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Vauquelin",
+    "value": 1797,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Chromium_crystals_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Chromium_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Chromium",
+    "de": "Chrom",
+    "la": "Chromium",
+    "fr": "Chrome"
+  },
+  "number": 24,
+  "price": {
+    "value": 9.4,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-47-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-157-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.324"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23976"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSGB4200000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAADAFBMVEVFAQAHAABFEgBFDgBFBQBFGABFHQBFCABFDABFGwBFHwBFEAAXAAAMAAAmAABFFgBFFAAQAAA/AAAsAAA2AAARAB8aAAApAAAeADYSACJFIgAAQkUdAAAFRQAgAAAQRQBFJgA7AAAzAABFQQBFKgAVACYpAEgiAAAVRQA2AGJFLgAAOEVFOAAwAABFMgAARgQZRQBFPgA/RQAkRQAUAABFIQBFNQAlAEBFOwAgRQA5AGodRQAqRgAVADFKAL0uAAAALkYJAPcAE0UAMUUQAPALRQAuAFIQAD45AAAxAFcbADEADEYAUVJJAKYmAEMATRoWAOsvAFRDAAAANEUOADgARjkCBFJIAKEeAEc0AF4ARQoDAFwhAOEsAE5FRAAVACsMABUjAGcKAGtGAIhFAMFAVgApAFQAKEcxRgAAGUUAI0UA/3MFTAAANV0/SwBAAHkAH0U6RgA1AJpIBwAFAHUUADo4RQAgAD0sSgAaAHEAUBAADbMkAN8AU48A/y5LALkABP8NADknAEpNAAAA/6Y+SAALAEksAF4AEXgWAEgAEV00SAAXAKMART8AV0MAZ3IxAGUvRQAAfzsrANkAVyoaAGcBYwEkAH4AIv9SbgAGAuoRAFotAGYARigAGl8ARVARAIUAGEYAWxoAApdAAIAAgUdKAKtTBQATAFQWAMUMUQAASz8AJ1wAdwJEAJIAG1QAV04AjGYAX0BhAABgZAA5XQAAK1EAQFxPGAAAcWsAnCsxTgAA/60AObQArlYAcAAAOopXCgAAAGYBAIwAoWJKAKw7AG4sANgHAM8APUY8AI0AZDYPSQAAFo4ATEgAPEUAjCQNAGUAQJAADpUAL8EActUAYX8mAJoRWAAH/wAAjHEBAEUA/1tNYgAF/wAAPZoAuE0AIVMA/z4A/1gAVF8ADssAZk+6wQAbAOMAJqcAZiYAYZsKALwATboACsRYGwAA/4QAtX4fAJQAUTMkAFgApXUUAKwAi/8AHIUAc/wA8IChqAAAT4EAOP9mIQD5/wCRkki9AAACdElEQVQYGQXBC2gUBAAA0Ldu17xNr2Ospgm3mK7NIc65RRGFtFUDo4QNP0GiiRFEKkIRBf0DI4qSMSEM+hAok8ZsTqRpBzp1tYFimzvT3JoZHM4u705v3e5c7xVtGTcVrUyoHG47DZLP6I+knyJxfkUZzDASWRo8s7WnfQrnQLJxZE1qNF2tYvzeK6sm8ulwasXEpkvH8ihu5OzTlx4avlKEuZ6PajJXl2Vcb66OPXGiPvrps6EL/7EwcmTzABu6b6F0rarg+WPXPHL1q23XWhBDc/2QQkA4WWG6LlHT2zL/r2jvAqS/+K7h60edfvHGpjEj89y8seD+y5ik/vLOPW2rw3sHly7vfX6/u4MJiPqkp7tgd+ffml5+b9HU9sk/tMRDR2t2fPbKXhs/tCoi1TpwEj8Ep79d8+v38EJVSmoIrU13zf+t19bavsFcYPXPCjuqY4fu499cV3LdG0cuFAhAxLaqderi4DUrc4sPOv52O9C4vfNsVzRmSSg72836hsNn9hxYUjT3ZH7YkJ2x8j9nZB9uuN2/aPSi2ouvHx6wL1Uy3qVDfH15/JsHislPYgzvJL58vOOfxtnju8Fah9R5yT46Mx1ACDAPlMEdkAOhN08Oekzr+97N9S2T+335eKHZyIPtH4cCQWZVJCoTg+CDtumF/d3gFAiDEpABpWAG5IEcIA/IASwGYwCQB4AAAAB5ACgFSP60QRFM/LIRUgAQAoAZAAgCADAHAPDqcz82b4ECAAB5AAAA7UBP37nPAXat3HwPUAtH97+VBggDykA5jAIUA7IAQhGQBULZO4Ac4DZAHcRLArMACuGbACDTFL8F8D9rwOoDNo1mEwAAAABJRU5ErkJggg==",
+  "symbol": "Cr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/chromium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/024.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/024",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Chromium",
+    "de": "Chrom",
+    "fr": "Chrome"
+  }
+}

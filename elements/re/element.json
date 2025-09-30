@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 50,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 2.6,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.001,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery-grayish",
+    "de": "gräulich weiß",
+    "fr": "grisâtre-argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 21,
+    "goldschmidt": "siderophile",
+    "group": 7,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Noddack, Tacke, Berg",
+    "value": 1925,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rhenium_single_crystal_bar_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rhenium_single_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Rhenium",
+    "de": "Rhenium",
+    "la": "Rhenium",
+    "fr": "Rhénium"
+  },
+  "number": 75,
+  "price": {
+    "value": 3580,
+    "deviation": 570,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-15-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-124-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.294"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23947"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVI0780000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC/VBMVEUBAEMiAAAQAB4WAABFDAABRQBFDwBFIABFAgAOABoPADcTACZFEwBFGwBFEQBFBQAKAABFHQAAAUUKABIGAABEAAAmAABFFgAQAAAcAAAsAABFIgA3AAAvAAAMADkAB0VFBwApAAAARQsARTwUADEqRQAMABYSAAANRQBFCgAFAEAANEVFLQAAC0VFRQAjAD5FPQA9AAAfAAAHAD4/AAA7AAAAF0UAIkVIBgAhRgAALUUARSsnAEZFNwBFJgAARTAAOEU/RQBBAABFOgAnANwRRQAZRQAxAAAAEUUvRQAUAC0AFEUAKkUYACtEAH5JGgAARRkIRwANAAAcADMAQEUAG0VHAJYzRQBFMwAAMUUWADNRDQAgTgAJVQAAPUU0AAAsAFM4RQAmRQAARUQAJ0UARSI7AGoSADQUACNRHQAZAABCAHg2AGZdDAByFQBFKAAHAFhFQQA6RQAZADoAYxwAHUVpAQAATSlMOQBJAQA6AABSNwBUGABMAABYIAAibQAsAEwwAFhKDABJAL8AVFF1JwATAMVtKABXCQAwAFVIGABOTQApUQAVRwAUACwAYEwIAD0HAEVKFABJHgBDVQA0AF1cKQARAJ9bIAAASBU1AII8WQAfAEYdAFULAFJhJgAWAGwUWABBAMUAkAwrYgATACs+AI1RMgAQAD4ARUD/VAAA/2xTVgAARTYAdf8A/3L/AwAAgAwATS0hAFsAOWsAVRwAgR82ALFOHgBNYwBSBQAVAERcDwAASkwAgUMHAHRJAKwuAJgwANQ/AHMWADcHXwA5SgAwAJhkEAAATUC6rAAARHp/EwAAhh8Ach+JnACHmAA0gQAAYBUAKrpIMQBXNABZAABJAKEAEE0fALx6NQBbQAAAPUcAT1oAlwyKYwC7xwApAHhOBgBGAIpmBgAoALQAUz4AX20qTwAAkJRgZQBxJgClMwAAW1+zqAAAdS8AfF5+vQCEAAClGQAAbz8AMGZLALcAi/9oIQAAP44OAGOTQAAANvb+AwD/7QALNCATAAACbklEQVQYGQXBa0wUBAAA4I8inCey8tRQ4qEerm6dS3Mm/HHgqdBWPiofDH6crcF0o7EmbThYgrMNKxiTTexHLRCXt/lYomUmawq61s2tOZiZY2NNb5C0CKjwdH1fWjA4t2h8UZyZlb8GQLCCs/+A3yIqfPTqpu9D8dZTCZ+4ehEg+ufgnP+Kw0Nhs19tDz7oA5FjrX3MjU3Nux7KTs6mQe5oju6YL+r3NsaBDZnIfZDafCaavbplrSvYEUicr1954idsbelptc6+fkvvv3IBDT/KmA5PpQLlACykefmKa/XQ3AM6BybTMt4tquqG/cmxy9i8eOxydcaLJWFDAIAFAOYDsoB4aPgAPA3jIB8KONxnSylo3Hi7C0mYAPnwC7AI5DXNmznEDHSlbvdimUIaQO/gsVajsZk9IAU+LG2ZWLDluwlelxKNwXv9he5W9JY+/8w2wKGsyMBeANhdc3xK5pTM6LlhIBeUTS4/WeQGWHzgqLLOFWWd8JbKBnANhHbsPH0GWfD+33cl8By3Pkurw/61gV0Pm0a6oap7o8Znfz7VDwTBLMgpMJBDQXXqyz272eo8Dlp1glvgHsAfANCmDgHNNSOvAVKQ/vGjBh1L3ukYaStdP9qjMu+m8kvll5Yu+9QHjwpLXq4tfDMfqmvbPzeNI2Pt4MhY+1MA/AsAajyMe4KmO18D32bGrAkuVHeniqgr1txLeiPnOMjedm4YXjodAYiH31bSBoDa4sGOusPfJI5iPoiASXgM0sEmKl/YMA7EUvf9cLNrVBIMAR4DzAFMA4wDsBr8npfIBmx3dsl6dAGEAH8BFAOuAtIB/A+oqc8WivgXWwAAAABJRU5ErkJggg==",
+  "symbol": "Re",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/rhenium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/075.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/075",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Rhenium",
+    "de": "Rhenium",
+    "fr": "Rhénium"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig-weißes Metall",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 9,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1944,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Americium_microscope.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Americium_microscope.jpg\">Bionerd</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Americium",
+    "de": "Americium",
+    "la": "Americium",
+    "fr": "Américium"
+  },
+  "number": 95,
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-35-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-144-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.313"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAACAklEQVRIx9WVT0gUcRTHP29mZ2wXYZVlTUpoW4wgwS4dQlOPde0SQkRgRBBkUSfp4CGCCoNuQcfAg3jpKBEeuhV4ETxEgSJG/guDZXdzd3Zeh6bV327lro5u/Rh+vPd939/3vfd7w4zEaGVriWkJlUuqLKmF0MkASJb1L8yVCTZOirNrfMywUlcKQSK4HgVFBStBukA2w/KOjaTojXMEZJZJ3anTCE1KycczBcWsxD7BhRxfP/Ne0Yron43AFiTO8U4uzvKiSPZn4BCJbm6CzPCkRAEQIjHa8qz7FKMc7mZ4lZl5Xv22X0C3uWpG1eRXuxbuSZ4p8oE7PoWyvpqXo0Y6QFxS7YwqssSNbQeNFGoWrCA0JXip8I0Rj3mwYgwJySxjGtx8ZUdmUza0AkrOZVIRj6c+0yBCvzDi80h5C8AA3EcmsC/hX4OlQKC81+iGc8qi5zHJ07y5Qn4l5FxlN57EcdhYprmF7xm8YoCnuxge48FVNlbDSK2/ZlLx1A5W4VGHoy0srOGVQlbeo4Kt3MKKow8RL/gEOIO458jfhc3dvDh7xwU6+jhzm6khihm6BjnWy+t7lBpUT1341gU3ag9JyoKpy4F7fhzVql9KLUhDaAeon47y/BTX51jMH1D9FvQ1s+nzLrfPQ/mHx6T1G38n2NAPi/BpH8R3x/x/xRtVxg9wcE4XPKyj1QAAAABJRU5ErkJggg==",
+  "symbol": "Am",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/americium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/095.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/095",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Americium",
+    "de": "Americium",
+    "fr": "Américium"
+  }
+}

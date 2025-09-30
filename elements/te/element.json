@@ -1,0 +1,113 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 9,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 2100,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery lustrous gray (crystalline); brown-black powder (amorphous)",
+    "de": "silberweiß, metallisch glänzend",
+    "fr": "gris lustré argenté (crystallin); poudre noir-marron (amorphe)"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 30,
+    "goldschmidt": "chalcophile",
+    "group": 16,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metalloid",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "von Reichenstein",
+    "value": 1782,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tellurium2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tellurium2.jpg\">http://images-of-elements.com/tellurium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Tellurium",
+    "de": "Tellur",
+    "la": "Tellurium",
+    "fr": "Tellure"
+  },
+  "number": 52,
+  "price": {
+    "value": 63.5,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "semiconductor",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "13494-80-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "236-813-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.033.452"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID6327182"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSWY2625000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADsElEQVRIx8WWX2hbZRjGf+93kpN0aVPbYkuWVmfXzqirOooggoperU42sSBlKqKICN6oq38uZHgzUIcI3qwgOqQVxUrFzVEY1Ytd7MJV1JtN22Ztl0Jb0z9J/6RJTno+L5J0OWlqW+nc4fDxvc953ue83/N+5+NIgHuSxFMsAyDkL3GGDtgxk/UEharmjmWiSRY9lPsJzHJVowO0JInPM67BjbeGxhnCq6SzmX52B9gfZWgX1RYrS0QTzIHOapr49vJokvgi01k1QWoJeaiY4FeNrTDu5kmQvzhvsbJWTRlVZVTNM66x16pUuJp4fI7RWcJrrxDU/XQI8ge9q1jrrJAA99bQ7MEPcoWzd/LEZX5IES8wQYByAkEeDNOfIR2ivYLgFb5dYgpEkHoevoWmZaYiXDjAayALjE/zWzPtVzkbY6SVTlCDfGhjFSmbVB6gM0zfDL87zZf8usxWToBoZJC3q2mt47EFhm/lkTCnXfjq6QhzapGhLF8703VBH7WzrTrHMxrp0sgsvTHOF2Rd3wZFoY82P8/G+DLBgAbBqKVbI7O8kyFSWH/hG7VzX+VDMXnJxeEk73k4oZEU72rmTT7TkOI5iDtXFFR8rsHmK3geLiF+jBD6A/TPecn8WDJ01RLsQYGC6U5SQzSfQUH4GVZjpbN8jdzXhQIDfungoW9QcOkVlscQUAZt/TnBcwfRNrtqOPQ1CvrasFcxDI72o6DvKCszW6jQzbFzKPjkCNZKCbKvkuO9xCY5+SLa3tKq1+Omyb4QYyMkEuue6nzbi25QQmMD0RniC9fBEsyNFf5X8hYVNndODKpPYe7h7yNkj6IivqeevV8Q7WLu+5x/m3agJO72cvgMCgZeZvHa9nSUwZv9KOj/iMsDlJVzrA8FJ58inSit8/qn7Amh4I2DZE9TAZeL25uYvEYqkUNCLRz/GAUvHCJjOXSU0NCAwEQErQs++xs/1lXR/RbdA/T8hC5qLAicfpXdlbz/HReHnZ3f1ug8B7eN3AxasAxTMbaM1v9Fv9ZDpZvwEjaYih8fIGXz9CCWXSLREO7yEUkStzbRV9DoJWoRz9w0f+oM/IoRy+lMvrz9buZtJjIEDLzCaKaY5hduM/gzQ0bvRLUagSaFaIZ1/vkGtFahBXo0FhjQDlNwAdb3ZKOJ3mmmCfsgDIk8LlAPFkzuRBnbTREIgkDkX21RUAczkHLi9eCGUbBBoALSIOAl99uqb4DVm6YoMCGZD72QBjdkyP1NGmAViPwDBo/ZFg7MqLEAAAAASUVORK5CYII=",
+  "symbol": "Te",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/tellurium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/052.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/052",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Tellurium",
+    "de": "Tellur",
+    "fr": "Tellure"
+  }
+}

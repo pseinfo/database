@@ -1,0 +1,25 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-alkaline",
+  "negativity": {
+    "pauling": 1.62,
+    "sanderson": 2.25,
+    "allred": 1.44,
+    "mulliken": 1.96,
+    "nagle": 1.59,
+    "pearson": {
+      "value": 3.2,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "'''1''', 3",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -0.3363,
+    "unit": "V",
+    "info": "Tl[+] + e[-] → Tl"
+  }
+}

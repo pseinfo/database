@@ -1,0 +1,121 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 200,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 200,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 21000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1400,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.06,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "grayish-white",
+    "de": "gräulich weiß",
+    "fr": "blanc grisâtre"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 28,
+    "goldschmidt": "chalcophile",
+    "group": 14,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metalloid",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Winkler",
+    "value": 1886,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Polycrystalline-germanium.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Polycrystalline-germanium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Germanium",
+    "de": "Germanium",
+    "la": "Germanium",
+    "fr": "Germanium"
+  },
+  "number": 32,
+  "price": {
+    "value": 962,
+    "deviation": 48,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "semiconductor",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-56-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-164-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.331"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID6326954"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSLY5200000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACSklEQVRIx72Vz2sTQRTHPzO7OyE/lOZiLUihXgQFRfwBevCqBwU9KXrwYMGTCoJU/wARPAkFEfwHNBd/kLs/bh4URDzoQdGipFJI0SbZZnbzPKQlmWa3IWnTYVnem/m873tvZthVOYp0hnKtFdeQB5rUSUAV4GMEYmwakJ5iQ8CaOvs2shlA21C7ODrO/i+Ul6j0rHZsQ2GKkz94FVIFpVABhZjlGKvxD3MT1HsetGh2i+SZ2Mf0N14s8ClNOcUAkC5X3FVx+RQXUOLuxjpuUorkjOK2kO46LSS567fgwxgsgsCk4pHwTHjsxKkuo/3WYxRLaGg8pPF87WpaVNvwDAfLaLC/qDwlWmTxXafqtKi+7nBR64uYDNk8S1VENim1rG68oBU3rnL8ENduU5lfmXQeQDAe5fsQc/YO9RAFgYe1SBIcaDQs2x4RjY3xFYGibpNydcHDT/bOD3lofeeVwsshIRL3500BiYjD9OusyWzD1tAaL8DzaNZWlNfwQQbfEDUoFKlVaUWOTiaLHxD+I5MltsQWwPcIDM3QueOD9msMO3dQqWBt1zYP9T59gusXQDg/Q/XvgAqDwManPA0tbr3k4+8kxv1I+Zon59huOFNiOer5yQgJQ7YOu7ybS1O8rnDvM0Yzs5e3f3gzj/QL3FNg9gBXPjBX3+r6jxS4O8nFryzYgfWVIqcIhVhGUO0oT3NCccqjFFGTYfRlcGMUZFqID8fgO8xtQNwDDU0AsjAOPyEaceWDkgo8iFxGg0ArKcRzW9Cr2GYV/B/PVVAWseu9DAAAAABJRU5ErkJggg==",
+  "symbol": "Ge",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/germanium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/032.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/032",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Germanium",
+    "de": "Germanium",
+    "fr": "Germanium"
+  }
+}

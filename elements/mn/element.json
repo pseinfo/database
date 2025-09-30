@@ -1,0 +1,124 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 8000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 10000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 2800000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1100000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 5,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 200,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery metallic",
+    "de": "silbrig metallisch (Stahlweiß)",
+    "fr": "métallique argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 21,
+    "goldschmidt": "siderophile",
+    "group": 7,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Gahn",
+    "value": 1774,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Manganese_electrolytic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Manganese_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Manganese",
+    "de": "Mangan",
+    "la": "Manganum",
+    "fr": "Manganèse"
+  },
+  "number": 25,
+  "price": {
+    "value": 1.82,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "mononuclidic",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-96-5"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-105-1"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.277"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23930"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADxklEQVRIx82VT2hcVRTGf+e9eW9mkplJJtM0mU5TUkspDQ0DkSJ0EVCkaC1qdiIUN3YV6EZBAoogVDddKG5EKejOboRqN6KCbiqFii5aiqGpSdqkSdpmZjLOmz/vvXtdzMtkZvKnTmvBx+W+cw/f+c553z33PtnHWIQECJDnTohInN2C1D0No8hyjjs0PdL23rQUAAkRtumu4SQZyjHvUWsCSBd9LmWXcsMZJtZDRqF2cUCQm/zsUW1OEKN/H88IssZSgrQEGWUHY4lraUbrngV+X2OxRlkgQk+Y+DDHpvmxTK4O7mN4gMNFlkvcdynHSVcp5pgD3fgsA2uY8XvcKHLXJj5IdpHffNwEQw73FH6CTIE7CrceYtOd5TRIlcIiVzyqBWaf4kSKkRkuHeDl63zlsGzTk2Uyx/QtvlOBUIGeFrFu9q4xI4S6GCyxoPCa1G7ZBR3sndlFpkrepq/MYr0YvYGXXo4OcSrPHyt8X2ERdIjkQc7O8onDtM2e/bynkfoAPByD2ALnfCouSybJ3Uyu8NkAb5skC/yQ42vQurWepowN+6FLNGLQG2KsxmWo6ED2tMFBj181biOFblVAYwh7NHkotXIasB8cjAzmBP6HiAOCdRz7OSrvY+wi+hrlz2GN5EdEnsYAEwww4PYr6DK9Jxk4gwHTL4BaPxxNc+9RDp/FgCsn0B4Chkk4RW01WAbat0Ztt/z3sGiCaIz83eCLN5NEY6CoOh2njkQZOcLUB7wzydytwHlklFcn+PgcjoMpnHyJvWm+OI9bA70+AE0synCGP2dw3Q1n2xDIpDDg9gpatzO0D+jv4o0sM/e5NI3r7QjengSNqXm9DxQXVukWCj5KY2lejHCjxk2XEZMB+MXF15ia54WSYkVLEeMY+jIiGEOIg7qGRDD7UQuIH4hkZ4lPUPgU9QAxiI6SehPvLwrfoAr4uQ2lxSQ8gPsAFLFDVGbx/w52wAzTPYQzh3YxLOw4tXzQeqaNCKaFV1o/85000Zb+vjQj41y9iFvpjMcKgcb3t8UbgmXhuRsd2nbs7RCeh1JNm/Zk5v4E588w9SXX51t7ZMdZhOOHeOtZylWiJqcvMJfbCrnp4uvM89iwdBfjg1yco+IDjKV4N8vUVcZSfDtPyWsPFBjtZTDCT0v4+r+v1hKUbmXePtAUYiZFD/Uw/pCQDLHq4j8ZGR8F9j/m150bW/pDYEF5m8bXTf9aCyodkjcbAmGosNEJj1n55goFvE5CNJig1kvaDAhDDRoXWBg0VFuTxqAIfucF60cN2RnwD4W82RZjPquAAAAAAElFTkSuQmCC",
+  "symbol": "Mn",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/manganese",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/025.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/025",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Manganese",
+    "de": "Mangan",
+    "fr": "Manganèse"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "unknown, probably metallic",
+    "de": "metallisch",
+    "fr": "inconnu, probablement métallique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 31,
+    "goldschmidt": "synthetic",
+    "group": 17,
+    "occurrence": "decay",
+    "period": 6,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "phase": "solid",
+    "set": "halogen",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Segrè",
+    "value": 1940,
+    "era": "quantum"
+  },
+  "names": {
+    "en": "Astatine",
+    "de": "Astat",
+    "la": "Astaton",
+    "fr": "Astate"
+  },
+  "number": 85,
+  "properties": [
+    "natural",
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-68-8"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "At",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/astatine",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/085.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/085",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Astatine",
+    "de": "Astat",
+    "fr": "Astate"
+  }
+}

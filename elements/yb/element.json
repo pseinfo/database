@@ -1,0 +1,124 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 180,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 2800,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0008,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.05,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white; with a pale yellow tint",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté; avec une tinte jaune pâle"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 16,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "de Marignac",
+    "value": 1878,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ytterbium-3.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Ytterbium-3.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Ytterbium",
+    "de": "Ytterbium",
+    "la": "Ytterbium",
+    "fr": "Ytterbium"
+  },
+  "number": 70,
+  "price": {
+    "value": 17.1,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-64-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-173-2"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.339"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23992"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSZG1925000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADY0lEQVRIx82Wy4scVRTGf+fWs7umH0mcTKZjjGHUqBkDiuImoouAIooriYjgwoWrgEs3LgVXrtya/0FxoeBGFEQZAwGJeTiaOEnMTCfp6Zl+VHVV3euip+muTle6h4B6KarO47vnnu/cew8lRfYwHJKVxMavsXyT33q0xwAeQY3jLepNrmu0oFLiOR6Y51FBmvwdsb3A43+xEtMFHAqHeV6Q3/nOYEZiCZkh/eBHOCEISIc71zirSYvsSelFO5lwjNcBQS7wdUrcN7oEc+zfZE2T9i0KVabmUapzucjeR3gppnuJb4GUyICAYB3iuZBmnYsG41MJmG/wJ8jTvC3Ieb4KaS6wHNLc4sYRXnQpFZkHOcsZwVri5B1WG/yhSRX2M7wPqp//Cp/1+WaZyqgg9/SyOy9mRDVZr8nic1RATHZT7qFOWmLyiiZLIV/NUJikTqUwgVHmKyPCrtT//6x/e2kzqPTYM7vxPwU78EKRJ11OFvhwnXaKMqzF6BGwZajCpiY15JXERgWYLcSA4ByGmPT6eM2sgOJx9Bbh+Z1jLaB8gsfoXkKHCIjgVNFddIjlcPANtn5l+wIivPwNChT8eJroNmmHpAMgQmmRysOs/0IazbST/YUWj+L6rJ0bXqohQHA9kh5Gj8fxC3z6Bee+58zHGA2gFOUKnRYCjoNAEpPECJTKzAVs3MSY8QR8D2OIIjBYCt+n08FoCj7LT9Buc/EyaQqGahnPZaOOMSMXO/v2HLQmTqgEYGi2cpG2wrXpRhgzJF4tEie0QgBHcaxGs8OVW0PMlDfMOTy1n9UGG+1sO7urGeVaskbf4kSNlXU2o1mjBQ7vHeXLq1zZHocp4aGAekg7zsyrOjy7jx82CNO7mqxQtmknJAYMIrx2gNNLnPqJRjwhDYGiRZhi4N0HOejxySqJ3vHudajYXO3SNyy6KLgRYSCw8IRGMtjfwbBgwcFVXItIBtU+5PH5Ej9v89EaZoYyzljt2WE27FPcGvYDBN4q8maBd273/zpomSnxFRxQbGo6+bCK4EHdjNN8VfGBDYZXeugZ8je7F0ZVgRL0oDsNCQQg0D99BbBgO2eKAhdisCDKiXb/mXsQQ3LfwS3QkO5migIDNsSgc5AWkJPemKAGjKrQhDgHKaAgAQXptJj/AKbUwBbePTbYAAAAAElFTkSuQmCC",
+  "symbol": "Yb",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/ytterbium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/070.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/070",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Ytterbium",
+    "de": "Ytterbium",
+    "fr": "Ytterbium"
+  }
+}

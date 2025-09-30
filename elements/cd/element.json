@@ -1,0 +1,129 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 6,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 450,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 150,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.05,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 700,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery bluish-gray metallic",
+    "de": "silbrig grau metallisch",
+    "fr": "métallique bleuâtre-gris argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 26,
+    "goldschmidt": "chalcophile",
+    "group": 12,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Stromeyer, Hermann",
+    "value": 1817,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cadmium-crystal_bar.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cadmium-crystal_bar.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Cadmium",
+    "de": "Cadmium",
+    "la": "Cadmium",
+    "fr": "Cadmium"
+  },
+  "number": 48,
+  "price": {
+    "value": 2.73,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-43-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-152-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.320"
+      }
+    ],
+    "atc": [
+      {
+        "value": "D11AC02"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23973"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSEU9800000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACMElEQVRIx+2UQWsTURSFvzczaZJWAsWFO6lVg7GlWCq4KC5cKEgFEQQrCK4UXIhrEUHwBwiCdeMfKEgVsYqKW90YLWKhQiwJVYrUxipN00xm3nOTcWaS6cwkWkVwCI97zpx77rv3DhHd9OI+wh8Jmh/REonNEBh0SaTCCnHQ0HcwWmVlkXegQqtENuKF2jCnQXzklYX5lSIoj0AEmfzq25930EkPc6nE0yVmnLrCIG1jKux4zigPVP63zpiEQB/kBggFc1yt841GPb2HXI1Fk7L3tv75+mBQiYCK+JYUDn0tBEG3hMc/CV2KVUAwqnFFMiGZdiT+z014AhcKEjmoYc83WmwVu4HO4GM0KFxg/cPGnqG8ptN/jNUFlt64bUVmtQUD+VSaw6fIP+fzQqyshMHkI3TQ4MQR/ySVs4emn0PqgnSSyhpKbqCMcgjhewzuHQeb2zPcL6BiO+9KMtEHNheLvK8GKFPwIAM22JyvUJQew05W/Z8P5N3Bt5xCMDKEkrx+6yzWr8n1M5Rl6hn1ephPxNlxYuDZ8sfXxGzPcOcoKMbuMraTswOceUilHp0YTXYsi5kIB3q5PsDNAi+XWTZd2eUsh7Y24Hiestm2v4An+xrrODnLd6vBb9GY2guK8TnK1m9rvFtjT5LZdWryj49RASQE0xlQXFvjhdUs261xK8W5KiUJYMB+jYLkS6fXUO0Hm6H8F811yMInWAlV6nAQSjAf27wPtoGEPFh/qccf1rhHFs2/AQwAAAAASUVORK5CYII=",
+  "symbol": "Cd",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/cadmium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/048.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/048",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Cadmium",
+    "de": "Cadmium",
+    "fr": "Cadmium"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 19,
+    "goldschmidt": "synthetic",
+    "group": 5,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "set": "transitionmetal"
+  },
+  "discovery": {
+    "by": "Ghiorso",
+    "value": 1967,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Dubnium",
+    "de": "Dubnium",
+    "la": "Dubnium",
+    "fr": "Dubnium"
+  },
+  "number": 105,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "53850-35-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "611-058-7"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.126.367"
+      }
+    ]
+  },
+  "spectrum": null,
+  "symbol": "Db",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/dubnium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/105.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/105",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Dubnium",
+    "de": "Dubnium",
+    "fr": "Dubnium"
+  }
+}

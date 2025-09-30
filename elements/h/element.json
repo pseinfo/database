@@ -1,75 +1,75 @@
 {
   "@metadata": {
-    "lastModified": "2025-09-27T08:01:20.336Z",
+    "lastModified": "2025-09-30T13:52:31.987Z",
     "schemaVersion": "1"
   },
   "abundance": {
-    "crust": {
-      "unit": "ppb",
-      "value": 1500000
-    },
-    "human": {
-      "unit": "ppb",
-      "value": 100000000
-    },
-    "meteorite": {
-      "unit": "ppb",
-      "value": 24000000
-    },
-    "stream": {
-      "unit": "ppb",
-      "value": 115000000
+    "universe": {
+      "value": 750000000,
+      "unit": "ppb"
     },
     "sun": {
-      "unit": "ppb",
-      "value": 750000000
+      "value": 750000000,
+      "unit": "ppb"
     },
-    "universe": {
-      "unit": "ppb",
-      "value": 750000000
+    "meteorite": {
+      "value": 24000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1500000,
+      "unit": "ppb"
     },
     "water": {
-      "unit": "ppb",
-      "value": 107800000
+      "value": 107800000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 115000000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 100000000,
+      "unit": "ppb"
     }
   },
   "appearance": {
-    "de": "farbloses Gas (H{2})",
     "en": "colorless gas (H{2})",
+    "de": "farbloses Gas (H{2})",
     "fr": "gaz incolore (H{2})"
   },
   "classification": {
     "block": "s",
-    "color": "colorless",
+    "color": "",
     "column": 1,
     "goldschmidt": "atmophile",
     "group": 1,
     "occurrence": "primordial",
     "period": 1,
+    "radioactive": false,
     "phase": "gas",
     "set": "nonmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Cavendish",
-    "country": "GB",
-    "era": "enlightenment",
-    "value": 1766
+    "value": 1766,
+    "era": "enlightenment"
   },
   "image": {
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Hydrogen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hydrogen_discharge_tube.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hydrogen_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Hydrogen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
   },
   "names": {
-    "de": "Wasserstoff",
     "en": "Hydrogen",
-    "fr": "Hydrogène",
-    "la": "Hydrogenium"
+    "de": "Wasserstoff",
+    "la": "Hydrogenium",
+    "fr": "Hydrogène"
   },
   "number": 1,
   "price": {
-    "unit": "USD",
-    "value": 1.39
+    "value": 1.39,
+    "unit": "USD"
   },
   "properties": [
     "natural",
@@ -79,22 +79,12 @@
   "registry": {
     "cas": [
       {
-        "label": "H",
-        "value": "12385-13-6"
+        "value": "12385-13-6",
+        "label": "H"
       },
       {
-        "label": "H[2]",
-        "value": "1333-74-0"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID783"
-      }
-    ],
-    "echa": [
-      {
-        "value": "100.014.187"
+        "value": "1333-74-0",
+        "label": "H[2]"
       }
     ],
     "eg": [
@@ -102,24 +92,14 @@
         "value": "215-605-7"
       }
     ],
-    "inchi": [
+    "echa": [
       {
-        "label": "H",
-        "value": "InChI=1S/H"
-      },
-      {
-        "label": "H[2]",
-        "value": "InChI=1S/H2/h1H"
+        "value": "100.014.187"
       }
     ],
-    "inchi_key": [
+    "cid": [
       {
-        "label": "H",
-        "value": "YZCKVEUIGOORGS-UHFFFAOYSA-N"
-      },
-      {
-        "label": "H[2]",
-        "value": "UFHFLCQGNIYNRP-UHFFFAOYSA-N"
+        "value": "CID783"
       }
     ],
     "rtecs": [
@@ -132,21 +112,21 @@
   "symbol": "H",
   "weblinks": [
     {
-      "text": "WebElements",
-      "url": "https://webelements.com/hydrogen"
+      "url": "https://webelements.com/hydrogen",
+      "text": "WebElements"
     },
     {
-      "text": "The Periodic Table of Videos",
-      "url": "http://periodicvideos.com/videos/001.htm"
+      "url": "http://periodicvideos.com/videos/001.htm",
+      "text": "The Periodic Table of Videos"
     },
     {
-      "text": "PeriodicTable.com",
-      "url": "https://periodictable.com/Elements/001"
+      "url": "https://periodictable.com/Elements/001",
+      "text": "PeriodicTable.com"
     }
   ],
   "wiki": {
-    "de": "Wasserstoff",
     "en": "Hydrogen",
+    "de": "Wasserstoff",
     "fr": "Hydrogène"
   }
 }

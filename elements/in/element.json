@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.3,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 45,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 160,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0001,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery lustrous gray",
+    "de": "silbrig glänzend grau",
+    "fr": "gris lustré argenté"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 27,
+    "goldschmidt": "chalcophile",
+    "group": 13,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Reich, Richter",
+    "value": 1863,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Indium_wetting_glass.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Indium_wetting_glass.jpg\">Schtone</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Indium",
+    "de": "Indium",
+    "la": "Indium",
+    "fr": "Indium"
+  },
+  "number": 49,
+  "price": {
+    "value": 167,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-74-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-180-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.345"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5359967"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSNL1050000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADyElEQVRIx82UbWzTVRTGf7ft+ka7FEnXlQ0iywZM2WTEuLl9cIk6HYmJZgsgUyERX0ZIcEQXA4kjISYmQpTgB4JBEoMTDOwDI74wCEY+GDOzDZH5BpRZSmWuL6OjXV+vH9p1XdfWNirx5p//Pffc5zzPveeeHKFnIbNDpFjCwgoNBh/jBswOLmowFqH1MS6RKdDEXIS+GIsHO0gTS/y4g/jiABUaDUY/bsCAeZrJMMFUBgPmxTwwxndBfHPPMDsXY9VhcnGtjDUTXAnjX0SFi6uLqfNin+RGMspAyTKappi4xWiIqeU85sXh5BLIJPFq1sUNgRjhOBlG2jHEfP98pwp9Fa12vjVSFsBtouIWIwHcaTAFKiv1txmb4qbMIJFRLv9dJEKgsNKiwminL0YsZWsOPssSEHJuNnIsiyg3s83LqUW8LBEg7LwkCc+TKDLQHuSHEKMzoWojr4a5qucFiXCzURJNXiGppeIhHW9KRJgLShr9bNewQ1AV4wYsmeZ5Ne9BSZSBCAdkQlAIGgQ9IGLskgylJ0+kGAUt/90ooUBA/IGSToWSyie44+SPEZAolCxr5LYD97W/0Vpaw9ptHO3GP3k3rqlS0txMLMLObohClK3bqavh7Hk8XpCZPlDAGx08WsemPXSv58N+Rseyguc77yvh/VZ2fsV1D94AWiV3QshYZnC8jhrvob2UXaP4I7mYszGk+wGECeXj8CvqLYR2gwsBqhqK9+HbSvRKvhk11GBux7EPawfaUhY+jP0DIhOs3M2lTvw2rK0sKMd2GBlBgKWJNT2c30DInajylc+yajOfryfoyesl1Xq2HOPiSZw/Yqlk6CTRSH6lCguKefsEZz7mTC+Wcjq6+LqPPx04bInEiMIrK5ngUgvPPMXRT/H5UhqHBDAZ+ewgBz7i9ABSpu+m/uvvZ88rDP9MzyFOvQOSvb0MDOaMyklY8B+0KrrqOWdj8OaM7kxT06job+cXF6+dZZWZdx9h7yCvP8jmL3AF6H86ATtymU3VfOOguYzDlznxG12raVnKhi9xT6e3coVgRy3VJjovEIrOqll0vFVHlRGg7Ry+cHogZPcAErOGTxo49jtHbMjssOS4V8+hWg5ep8+ZF3+ex1AI9lewQkfbT/iiBQTGm02nmSeNrLMRiP2jY/yHgSnOagX7dbzoxx6jQUmPho0BPBJguaBJQW+EYCH8aohBJL1IZw0lHAcBz0EwJzKbkT+S/wd5MbTBOJwuXEUNLfA9OGc8WmiGYXCmIAVUghGGIZqdE6gFNQylZP5uJvAvjGbIFuQzdWIAAAAASUVORK5CYII=",
+  "symbol": "In",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/indium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/049.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/049",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Indium",
+    "de": "Indium",
+    "fr": "Indium"
+  }
+}

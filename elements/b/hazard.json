@@ -1,0 +1,37 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "h": [
+    "302",
+    "412"
+  ],
+  "p": [
+    "264",
+    "270",
+    "273",
+    "301+312",
+    "501"
+  ],
+  "ghs": [
+    "07"
+  ],
+  "nfpa": {
+    "h": "1",
+    "f": "0",
+    "i": "0",
+    "s": ""
+  },
+  "toxicity": [
+    {
+      "type": "LD{50}",
+      "organism": "rats",
+      "application": "oral",
+      "value": {
+        "value": 650,
+        "unit": "mg·kg[-1]"
+      }
+    }
+  ]
+}

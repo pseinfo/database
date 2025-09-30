@@ -1,0 +1,69 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "semimetallic (predicted)",
+    "de": "semi-métallique (prédiction)"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 31,
+    "goldschmidt": "synthetic",
+    "group": 17,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "JINR",
+    "value": 2010,
+    "era": "recent"
+  },
+  "names": {
+    "en": "Tennessine",
+    "de": "Tenness",
+    "la": "Tennessum",
+    "fr": "Tennesse"
+  },
+  "number": 117,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54101-14-3"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Ts",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/tennessine",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/117.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/117",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Tennessine",
+    "de": "Tenness",
+    "fr": "Tennesse"
+  }
+}

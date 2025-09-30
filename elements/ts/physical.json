@@ -1,0 +1,42 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 7.2,
+    "*": true,
+    "unit": "g·cm[−3]"
+  },
+  "magnetic": {},
+  "molar_volume": {
+    "value": 0.000041,
+    "*": true,
+    "unit": "m[3]·mol[−1]"
+  },
+  "temperature": {
+    "melting": {
+      "value": 723,
+      "*": true,
+      "unit": "K",
+      "range": [
+        623,
+        823
+      ]
+    },
+    "boiling": {
+      "value": 883,
+      "*": true,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 160,
+      "*": true,
+      "unit": "K",
+      "range": [
+        60,
+        260
+      ]
+    }
+  }
+}

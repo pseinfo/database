@@ -1,0 +1,44 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "electron_config": "Rn 5f[7] 6d[1] 7s[2]",
+  "ionization": {
+    "values": [
+      5.99141,
+      12.4,
+      20.1,
+      37.7,
+      51
+    ],
+    "unit": "eV"
+  },
+  "mass": {
+    "atomic_mass": {
+      "value": 247.0703,
+      "*": true,
+      "unit": "u"
+    }
+  },
+  "radius": {
+    "empirical": {
+      "value": 174,
+      "unit": "pm"
+    },
+    "covalent": {
+      "value": 169,
+      "deviation": 3,
+      "unit": "pm"
+    }
+  },
+  "shell": [
+    2,
+    8,
+    18,
+    32,
+    25,
+    9,
+    2
+  ]
+}

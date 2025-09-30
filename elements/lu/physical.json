@@ -1,0 +1,102 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 9.84,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 298.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 69,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 27,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 48,
+      "unit": "GPa"
+    },
+    "poisson": 0.26
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 1720000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 5.8e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 22,
+      "*": true,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 415,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 428,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "brinell": {
+      "value": 893,
+      "unit": "NM·m[-2]"
+    },
+    "vickers": {
+      "value": 1160,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 16,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000099,
+      "unit": "K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic"
+  },
+  "molar_volume": {
+    "value": 0.00001778,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "temperature": {
+    "melting": {
+      "value": 1925,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 3675,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 1750,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 0.1,
+      "unit": "K"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 510,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 33000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0028,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.2,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrigweiß, gelblicher Farbton",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 6,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "von Welsbach",
+    "value": 1895,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Neodymium2.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Neodymium2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Neodymium",
+    "de": "Neodym",
+    "la": "Neodymium",
+    "fr": "Néodyme"
+  },
+  "number": 60,
+  "price": {
+    "value": 57.5,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-00-8"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-109-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.281"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23934"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSQO8575000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Nd",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/neodymium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/060.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/060",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Neodymium",
+    "de": "Neodym",
+    "fr": "Néodyme"
+  }
+}

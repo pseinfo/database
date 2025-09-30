@@ -1,0 +1,65 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 24,
+    "goldschmidt": "synthetic",
+    "group": 10,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "GSI",
+    "value": 1994,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Darmstadtium",
+    "de": "Darmstadtium",
+    "la": "Darmstadtium",
+    "fr": "Darmstadtium"
+  },
+  "number": 110,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54083-77-1"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Ds",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/darmstadtium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/110.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/110",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Darmstadtium",
+    "de": "Darmstadtium",
+    "fr": "Darmstadtium"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "metallic (predicted)",
+    "fr": "métallique (prédiction)"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "synthetic",
+    "group": 18,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "extremely-radioactive",
+    "phase": "solid",
+    "set": "unknown"
+  },
+  "discovery": {
+    "by": "JINR",
+    "value": 2006,
+    "era": "recent"
+  },
+  "names": {
+    "en": "Oganesson",
+    "de": "Oganesson",
+    "la": "Oganesson",
+    "fr": "Oganesson"
+  },
+  "number": 118,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "54144-19-3"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Og",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/oganesson",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/118.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/118",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Oganesson",
+    "de": "Oganesson",
+    "fr": "Oganesson"
+  }
+}

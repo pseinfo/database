@@ -1,0 +1,91 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "sun": {
+      "value": 0.005,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "metallic",
+    "de": "metallisch",
+    "fr": "métallique"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 7,
+    "goldschmidt": "synthetic",
+    "group": 19,
+    "occurrence": "decay",
+    "period": 6,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Marinsky",
+    "value": 1945,
+    "era": "quantum"
+  },
+  "names": {
+    "en": "Promethium",
+    "de": "Promethium",
+    "la": "Promethium",
+    "fr": "Prométhium"
+  },
+  "number": 61,
+  "price": {
+    "value": 460000,
+    "unit": "USD"
+  },
+  "properties": [
+    "heavy",
+    "rare",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-12-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-121-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.292"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC9FBMVEURAB9GAgATACMrAAAHAAAUACgWAABFEAARAABFFAA3AAAbAAAfAAAARQE7AAAzAABFHwAjAAAMAABFFwAnAAAvAABFPgAUAC0LABNFHAAOABkHAPhCAABFDAAUACUeADcIRQAnAEgTAO5FCQAARQk/AABKHAAgAOH/GwAuAFISADUmRQBHNgA1RQAANUghRQAaADAxRQAAOUUARQ8NRQAAMEUJA/FMAwBFJwD/EQAMAmQtRQAhAD0nAF4ARkJFRAAXADoAKUZDRQCYCQAAJEeAMAAARTMAZ/8TRQAAAkY9RQBVIQA5AM0APv8ASzJiKwANWwA4AGUrALhaDwA6RQDiRAAUAHL/JgBnMABnEgAqRgAkAFVvGAAeSQAmAGYARRuDawBXBwA2AH1gIwAzAFsAU0NUFAAuAHJdAwAAAU9uBAASAIwdAGe1DwAAD0wAT5sGfgAWSgAADZkAQEhJJAAAWhsARhYAj5YdAIMaAOioDQAAJMMpAKIAFP8AIFmTdwCAPwBXQQAAV2Y+AHBXMgAAYit5UgD+eAAgAJQAMnuIBAAAci9WYwAAWHyoNQAAWV0tANccbABvNQAAVv/DUAAAfEwAJP85AJHwFwAAP2F9CQAAbiMATFNmSwAiANoHC+RKOwAxfQCzQgABALi/XgAAZGcA+9EAVSsALPA+AL8AKp0Aw7d4ggBhPwCEVgAylAAAdkGGFwD/NADLiwBUVADUTwAAN6Rl/AA+owAA9f8AMpAA04rCKwAARiMAi10A5YNwOgAAbO0YAEd3XwAAedMAZEhJTwDpLABl6AAARSIAFksA/+H0AgAGSgCYXwDndgAFANMASpVxawAUAEZnUAAHAIUSAEv/rgDkagAaALIAuWIAPt7sAgBkeQAMtwAA1NkA16gAl9IALZASAKiaaAA+aQANAFHjGwAAZowAZ7cAo3MAZtBJAKvJeQDIKgAAdv//iQBIdgAgXQAA+4wAWLkAhHEAtZmrdgAAof/KRwAA62nm2wCdJaecAAAC80lEQVQYGQXBaUwWBAAA0AeByCcMPEAT/UQLiDSlQkDHKlCBtM28srWYtlimFtPUasvyT2s6G2st5pjmciwntsR5RDqPDDxCA0KXB+UQgYkTlWyfgJi9FzYqPHJsXYYbhE/oaB8Oup/svTY2oFdfnKi+vxJEztqRXRcssG00EQWHB26kPdVwfa6GoU25bW2CwesltrYJn9sUeu9QHQCCj8U1A4wZ1pOUerQTJvaEboNhzHSE9LSfe1Or56Wc6S6M/rdNytSzLcFGiYtPR9cmBs15/F3yW4vVHqva0J+hadKFQOKKffVPj/g19Upq/OBTCY1j2l/b8lHRwm77Tm6af+LZI/NZsab9xuIqXq5hxC373+pI6sDBOdi4M/n390+1khxdV8iE8wbOvanj3vTzz3w/Xmyz4kpljcm3Jm1LkFaXc/4YZJ+alTM58pP1nWtM1GxXy6fwysodu14vj0Lf/qiCqD4ivDqk8zjyIoaM7uzx3M3Ylnype6tZ1pzp8OW0d1rmhhUNHpc3vbSXDSklvR8/3D1ne2HS9tWZB57/Mzbmanv/us1XMCm+xSNhKVeOgR5AF8CM5OKX3i79ungBIEM7KD7eS3py60XpL5hxMuxQxsiusskr76yNAAaAKZtjlnMNhMAAkLap+gwhyE8e3Tm4DB7CusKLMwHMHnfN+PJEa584Ynzmjz+srj3njZGJ/bNbY+sjG2o+vFT0k+W/bAZFqw58szHu4IX7XZdWRf1hTNBnJSXVY3e8ePYEoCi3ZurUxnJi0y/eQ1boArGl/TXFn9/rJ2dU7frKhpw9K/aSE7gbrJ2ydKGAEAAW9A2txH9Ycmfa2T0AWLR0d81NSzbWhtl9gtzSL+tlqQe5/dEPJN6MO6ps5/D9g1j8d+CLPKadXvWVD76NWdR8P+acvOOByx35IeZdrVBRlf1bSoVlfd9ZbgtZ5fEpNt09Sn0SIBrQBcAAACIBGATAbQAMBeAhAA8AeAQAHgCAcAAgAAD+AcD/QLwXFUG9m7QAAAAASUVORK5CYII=",
+  "symbol": "Pm",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/promethium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/061.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/061",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Promethium",
+    "de": "Promethium",
+    "fr": "Prométhium"
+  }
+}

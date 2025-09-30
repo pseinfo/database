@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 700000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 900000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 140000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 270000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 1000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 5000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 260000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "crystalline, reflective with bluish-tinged faces",
+    "de": "dunkelgrau, bläulicher Farbton",
+    "fr": "cristallin, réfléchissant avec des visages teintés de bleuâtre"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 28,
+    "goldschmidt": "lithophile",
+    "group": 14,
+    "occurrence": "primordial",
+    "period": 3,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metalloid",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Berzelius",
+    "value": 1824,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SiliconCroda.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg\">Enricoros at English Wikipedia</a>, Public domain, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Silicon",
+    "de": "Silicium",
+    "la": "Silicium",
+    "fr": "Silicone"
+  },
+  "number": 14,
+  "price": {
+    "value": 1.7,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "semiconductor"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-21-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-130-8"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.300"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5461123"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVW0400000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC+lBMVEVEAQASACENABc9AAAPABsKADtFDQBFEgALABMQAB5FCgBFDwATACkAAERFGABFFgAKAABBAAANADgACEU4AABFIgAsAAATACwHAD4UAC8vAAAARQIUADNFCAAyAAAARTknAAATAAAGAAAXAABFHwATACNFGgBFJgAPADdFBQAhAAAVACYSADRFHABFKwADAFMpAAAAG0UALUUARREART86AABFMgAaRQAAF0UPRQAARRxFPwAEAEEARSQARSoARQsANkUPAAAVAABFHQBSJgAgRQAcAABHAAA0AAAAREUYAC9fAgAAJEUoAEgjRQAAIEUAMUX/YAAAKUUAElQARQcXAD9IRQAAGFRFOQAARSAAD0UWRQD/cACp/wBkAwBGNgBwAAADAE4AQEWNAAAJaAAAPkUAAkX/TwAsUQAbdgAFVQAAT1EHAFhLAwBGBgA4RQACAEgARxYVvwDIBgAcADbC/wAuAFUkAABDAHwUADcAM15wEQBaAAAr/wBLVQBpbwAA1P9lIwAAK1spRgBWTgBBUQD/swAASFtTGgB1AAATSgC1/gBbZwACTgB6ogBSAgCBkQALAFu5UwBKIgB+AACeAAD/SwAAHWJMPAARADX8oQCXDgAABU1oCgBTQwCOKwAA/7Y5XABLEwCXhQC8AAD/rQAAV17/+wAA/61oMAAQAPAA3f/+/wAASRlUcQAAIk4MYACwAAC4/wAAR3bbEQBU7gB9gwBAdAA8TAC2QwCEGAAAOEq9xwCGmgBUCQCG5wCKDwA3AGQAPUWnAACY/wACkQAAW2/UKgBJBgAOAEQ3RQD/3ABDYADapwCA1AAdUQAAzpxRugBcJwBRfgAAVyAAcICZHwAPAG6mSACK4QAAJ7IARy7TiQCjpwDD3AAg6QAABF4AIKJx/wAviAAAeSsAO2MXAEoA/765gAB8CABwvwD/2wBqYAD7/wAAZ4r/xAAC5wB5cgAaswA+/wAdYwA8/wAAt38Arn9GAIqzwABaYADVXwAANuz1GwDtClVUAAAChUlEQVQYGQXBXUwUBAAA4I8TOX4cIUxSYcKAxcAtXFTM9QOunGPjMreUeshatmBsjcSV05z2UOCKaEZbLR+0UbM2J6MeUESv0I2hifxMcGkQW7aCflQ2hbvjru9LSo0kggCRlOIinAUiirdpJ5G6CAHLo8QDS6lRpVP504DlACzsmQgvlE/YE2qayCiY2MtYLyWAlAKntpfFe2eeHgCQASAALLPk1S4bDUIWoZslhdB/pLMbYBbAPBefBEAO4b42+9y48BeUwPy7eoc33TlZMfrCcFV6uCr9XsqFqhMvwVBPq8ftBbDFYkdLW1G9oCU1P6r5CiwCB8evwPrUS/Cw6zqHDxX6DayDqoYrH4DWPg/NlCj/p4sl0kyh6ImOVXNgDqDnwazv7Phe5S6QAPmYAV9mDV1kAFgBVsEgaNl1bcdWPS2TMi1E6ipy3svw9wg2tMc/77Zt+qMGHB5b2wgy21e2Xs0kDR57dHawfv0v6Rmf5D3/IZqFld4sHGTN/crsb8gN3q0ef+54dmx+f9JAZGhnVlhUt1t5Rzt75YVqt1Lb4HS0DzUpfcGN9VOfTkJZqdfOObLg1HmfwSLgX4AKowdzj3Y88wDQnHDpWO1qoYr339kNs2ARECzBhpHG7QCSkNjfRsu6ZW++yLfsy5TWCAAAkgEQBSN3brwOb1fXIRkAcgDsLAwUP/XTK6zYfLt69Oyx8eubzvR79sC1j00BkwBb1szFQld/P+PA6uhuWAlwF4BHYFpl0+Uv8N9bio53jB1KL3vZ135OF5MshhjAWrgN4pudq3e+rL/58Bs/wL2arqb8E7nDdX/GcTl0Ol7l1jxQAKaBQPB+Ifi13ISYrD8AyAb8D1ZW5CQhcaKYAAAAAElFTkSuQmCC",
+  "symbol": "Si",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/silicon",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/014.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/014",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Silicon",
+    "de": "Silicium",
+    "fr": "Silicone"
+  }
+}

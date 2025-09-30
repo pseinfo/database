@@ -1,0 +1,128 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 1100000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1000000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 220000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 63000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 670,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 60000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "lustrous metallic with a grayish tinge",
+    "de": "metallisch glänzend mit einem gräulichen Farbton",
+    "fr": "métallisé lustré avec une teinte grisâtre"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 22,
+    "goldschmidt": "siderophile",
+    "group": 8,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Iron_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Iron",
+    "de": "Eisen",
+    "la": "Ferrum",
+    "fr": "Fer"
+  },
+  "number": 26,
+  "price": {
+    "value": 0.424,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "antiquity"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-89-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-096-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.270"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23925"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSNO4565500"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC9FBMVEVFAQAEAEALAAAAAERFFABFEAAHAABFBABFCgBFBwAqAABJEwAxAABFHwBFDAAcAAASACAZAAA9AAAIADxFDQBCAABFFgAtAABFHAASAAAiAAA2AAAUACQCAEMqRQAPADcPAABFQgAwRQBFGAALADsAAkUQAB4ADUUACEUTACIPABtFJgAWADUmAEI6AAAnAABJHAAlAABFMgBGGAAeAABHHgAXRgA0RQAAQEUbADIzAAATADIASSZGPABERQAUAAAAFEUHAD4GAD84RQAAIkYARwsaADcAPUU/AABHNgAAEUUVACcNABgARxgfRQAYACsALkVFIQA+RgAWADArAEwbAEINAEIMRgBJLQAnAEQAJ0VBRQAjRQAtAE9HPwBFKQAAF0UpAEkURQBJOQA7RQBHIwBFIgAbRQA9AG5JDgATSwA4AAAAGUUCTgEAR0NHGQAxAFcORQBFPwAjAEsdADkARTMaAC8AREgBUwMAMkZFOQAAOkkWAAAARFQJUgABRwICWwBMHQBKMAAASjAAPk0WAE4nRwAATxhRIAAOAEcRADtIAKcASD8AHkwvAFQiAD1DAMVONAAhAEIANkUARUJTEwBGIAAALUVHAABNJwAAKGEpAFgAKUUQSQAyTAAAHUUAVlIASDkATkVLALZLIgBFLQAARyAjUgABbQYABkkXADsAc0UKTAAAUg0oWAAAJ1RLCABJAKVHHAAAVyMANlEeADVKQwAARxQmAFMAUDYAqScVAD82ZAAA/3IAS2RDSAAA/8wBhAAHRQAAYlgKABEVTwBFAH4ARS0iAHQWAF4AkwEAglwAUiY/AK4AaEszAI4xAGwKjABMOwA0AHRIFQA2AGEaSAAAd0gAJkYvAGA1AKlZIQAAd95KALAAXUwAgB4A/z4hAIklAEgYAHAA/5cIZQAqAJIOZgAAJUsAkFQAmh4hAGsAU2MAsBENcgAAS01XJgAAof4AdTIAn/8/AIpMNQAAroh0HAAASJoANGMAZWQAOGjtEdfEAAACnElEQVQYGQXBa0wUBAAA4O9YepK8InnEJFKWjCTDMNpidLNJD9ePrNggnOmGDLWEVpv+SZ1zK3JuESMNXbPNhhtzuWaxGmlGuGJizkADhmyw8YpdARYcENf3BX6uWsy9mwdWzLWGkmfseueVu7HM9uZvDJzI76seIusHBtaGkwejMwnRURmLuTk9Q3/Fj8bdy7A40dHgsj29keBkz2gqE3HxM/ceSkrtyizN8UBDe2Zq1xPWL3UU7f9kMBQ7e0lD0++PB6Ilp+1O3/7L4JEdGkt8cehozfeFrx5054C6REzl3klU0/9izFXrK53p2XpxV9OyZx8+1wiePj724+ndizvedQPgyYKPgA0QcGUzVwBYbYU5MALWAnDMYSAKyIZ/4RHEsUbygpnWiqSXWhvPbeeb4ayBo3hOemjpzRd8h1yK7nctspRuLHY2pqaiMNiOqdBVCB38MPeN99bps2kp+1epEynFQwpbuin/L9xpy/T0H6/HL/upHvZ++vGUpy7Fa+IZ1/Zys2Bd9EZ8fgVUL5QcD0b+SQ5s/XbzaMfKYPjBbas+29JWe7noZG9pi4yR57vldan4cg7dcLYeRss12+msBOzUySnAEccAKSAO1ggnC3v7zGwslYeBYdDYxuSqSWUfoLi9eDxtXNpvdfUj42nGof1EoqlsA7cfux0UCboO9l8PiBKIbur6E23UJUwfAE6+XOK1C8PI9H5V5kLZ+bGmKnu+Mpa+beOh0FsXIl/7G5BkuFwzyBwWBuBmviARQcwvN285k5/XAirzahMp1QKUtsyDeThfBgABgGblgCUAACIAADilOgWgADoBrEYxuAiQBbcAG26tBDADeBToz4FeSUgbhwzQDxADLMXsa7RPO/QBBAFDALgPAP8DzCDzCBWfRwMAAAAASUVORK5CYII=",
+  "symbol": "Fe",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/iron",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/026.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/026",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Iron",
+    "de": "Eisen",
+    "fr": "Fer"
+  }
+}

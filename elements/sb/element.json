@@ -1,0 +1,122 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.4,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 120,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 200,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.2,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 2,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery lustrous gray",
+    "de": "silbrig glänzend grau",
+    "fr": "gris lustré argenté"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 29,
+    "goldschmidt": "chalcophile",
+    "group": 15,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "metalloid",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "era": "antiquity"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Antimony-4.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Antimony-4.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Antimony",
+    "de": "Antimon",
+    "la": "Stibium",
+    "fr": "Antimoine"
+  },
+  "number": 51,
+  "price": {
+    "value": 5.79,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "heavy"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-36-0"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-146-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.314"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5354495"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSCC4025000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADHklEQVRIx+2UWWgTURSGvzszMU001drWUCouVSxUrbiAovigUhDBjeKC1gXRB8XlQRSqKOhDH0RE61IXREStCG6IUtCCO6iooFIXFOpWTdNUa0ptlnGuDzUmk3RMqhZ88HK5nPOf//znnjt3rnCSQXQIsxV10+juJr+OxzpBM1VgGiLB6kSCDUc+RUA9z328TKWRpAQF21BmfuJ1VzI91HzhPcgYgkgUUdD6M6mZD15qfoa60quAOTWc/EqjVa5AGc5KDecj9ofwt7e9nyXsw1nr5cE7qkHGRl30czOmBwUqjqdUNFMrYwpJc91IplCw5zK7kdst1CZGu+DOZoaHSp3mNkSaTy/WlQCKk5F2BgZ53Y1JDewwCMRpxtiWrkpuOjslQkKYh+D8SpmkVZq/YKSpLmmcloggxZJwTChN47DBTYNDEgMGCPZJDsA5AJGHbT/iIXopRIS1vjgW0roL6f+hreXiPsKXbWStx6jj4zKkjuZiwBlCL3i7BgxUJ4NP4TtF/YkfUiLSTdZ4CjZxbx4hnwlvW9sMZy8mH+fuZjx32olaZQlQFEbPx5XJ1T0YehKyFR7raholq2hq4FIlhpFqloi9CzJhJoAuJ6vncrIKXWfLEkor8PgsyXFgup3Tiyi/zuUXqNAaTl4uReW2ma1yIoctXm63JiN38LwVupegZfB5L+gRXOBeSvYsXi0m/KED3y23iGHreFZO3RVGbcR7hzdV8VdPCMasIX8KZ0to8ZrwRZW4MlFBgXvHuHs8+i9Z1bU7MMJ8000EzYaqEg6YmCneuzg8esCARAh2b2NQHnsOcqEKVaF3DvVeAsF4Ztw6bBDLi1m/E39LEmb8+msCjOpD2TQwmFpBULdkKrB0BEX9WXCegB5Nn9CX0rGsreZJg+nJI+EFLJ9IfgYbbnHfEwWn57GikOJLNIcscy0RM2hTKMzgpR+/hZSA7DS+GTSGEDAuiyHpHK4lbKSk/9sb+1Na5+jnaBx1U+rjQbAdWqGN7T0pa+JaoH0ph2Cri4sBbgTNkb/Xph1GCx5LmmQSfdlxozOY/8X/tW18BxdsnBaKHKFdAAAAAElFTkSuQmCC",
+  "symbol": "Sb",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/antimony",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/051.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/051",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Antimony",
+    "de": "Antimon",
+    "fr": "Antimoine"
+  }
+}

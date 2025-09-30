@@ -1,0 +1,36 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 6.4,
+    "*": true,
+    "unit": "g·cm[−3]"
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 6,
+      "*": true,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 40,
+      "*": true,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 2,
+      "unit": "W·m[-1]·K[-1]"
+    }
+  },
+  "magnetic": {},
+  "molar_volume": {
+    "value": 0.000033,
+    "*": true,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid"
+}

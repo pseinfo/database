@@ -1,0 +1,88 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "en": "shiny gray metal",
+    "de": "silbrig grau metallisch",
+    "fr": "métal gris brillant"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 21,
+    "goldschmidt": "synthetic",
+    "group": 7,
+    "occurrence": "decay",
+    "period": 5,
+    "radioactive": true,
+    "radioactivity": "slightly-radioactive",
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Segrè",
+    "value": 1937,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Technetium-sample-cropped.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Technetium-sample-cropped.jpg\">GFDL</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Technetium",
+    "de": "Technetium",
+    "la": "Technetium",
+    "fr": "Technétium"
+  },
+  "number": 43,
+  "price": {
+    "value": 100000,
+    "unit": "USD"
+  },
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-26-8"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-136-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.305"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Tc",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/technetium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/043.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/043",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Technetium",
+    "de": "Technetium",
+    "fr": "Technétium"
+  }
+}

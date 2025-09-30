@@ -1,0 +1,96 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 0.0009,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 273,
+        "unit": "K"
+      }
+    ]
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 0.34,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 1.75,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 0,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 1030.4,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 0.0491,
+      "unit": "W·m[-1]·K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "diamagnetic",
+    "magnetic_susceptibility": {
+      "value": -0.00000674,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 298,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "label": "phase-solid",
+    "value": 0.00001323,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "refractive_index": 1.000067
+  },
+  "phase": "gas",
+  "sound_speed": {
+    "value": 435,
+    "unit": "m·s[−1]"
+  },
+  "temperature": {
+    "melting": {
+      "value": 24.56,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 27.104,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 2.544,
+      "unit": "K"
+    },
+    "triple": {
+      "value": 24.556,
+      "unit": "K",
+      "@": {
+        "value": 43.37,
+        "unit": "kPa"
+      }
+    },
+    "critical": {
+      "value": 44.4918,
+      "unit": "K",
+      "@": {
+        "value": 2.7686,
+        "unit": "MPa"
+      }
+    }
+  }
+}

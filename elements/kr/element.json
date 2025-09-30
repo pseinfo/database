@@ -1,0 +1,116 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 0.15,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.21,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless gas, exhibiting a whitish glow in an electric field",
+    "de": "farbloses Gas",
+    "fr": "gaz incolore présentant une lueur blanchâtre lorsqu'il est placé dans un champ électrique"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 32,
+    "goldschmidt": "atmophile",
+    "group": 18,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "noblegas",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Ramsay, Travers",
+    "value": 1898,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Krypton_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Krypton_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Krypton",
+    "de": "Krypton",
+    "la": "Krypton",
+    "fr": "Krypton"
+  },
+  "number": 36,
+  "price": {
+    "value": 290,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-90-9"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-098-5"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.271"
+      }
+    ],
+    "atc": [
+      {
+        "value": "V09EX01",
+        "label": "[81m]Kr"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5416"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSOC6772500"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAADhElEQVRIx8WSW2xUVRSGv3XOzGnn1k4bygztcBOsRG4pkdYYE3kyUB5MjIYQjMGkTYjRGsTwZAjypPJgAvFFMOiLCQEv0USMkRiNoIXEAEGsl1o6cWin9GIdpzN0ztnbh5nDMM5QZgzVnZOdlX///7/WWWuJnyYAhNIjlcA8IgjgoU6QAAv+ZETh/IMQImKTzTAtmC2sTDGaYRoQDI2mJKVUyOxGJlaYxTkyKUZdocxdpxffKjYP0x9l9SzpOOe1W14r61toH+BUgIVhYlf5to6QB+svxm7KTbwmVo4ZkDY6BDPB9178OTIapzSX3D6Y6zXIoiBtY1xQOCACYVbey5Mglzli0ZhmZAMvgcT5AkjSr9EWjR3sAUkRH+AdhX2rc4hl9/OsRjSADPFBkGXNPKCRi+xrp2+C/iRfemiI8USCj2cZh0JDDepDrPGxoplHNJLm52EOgW7goShPX+PtKL3AEC+38oKHyO+8lmXQz/oIfQn220wt5rBGhukBR4OHSJSDk7w1w9lbp6ZB8AR43GYky5n8k0VXiBc14jA+zV4vnYopm0uu0AxwyKBVI2l2K+J+3oWGDHsUg65nvcVJjdgcdPgqrzJ4A9oV2zRNQo/mBzgBqtAzoRgA4qHpUwwwYPJRl1BH7JMCGN8CTpnKDXxLWX2EgV1khoh0s3QnViMmnNuO/QebTmHCN9sJLcfXzLXT5BeyciVV4OE2dh7j+PMkf6rZxGvh87PlKX48x5XzhRWoJnXLQl55ldcPEL9a+pofk+bhB9m3l57niMfdzdJlX0XQxQV2d7N5LTsOc336DuQqnQ3YGsUnvJ/AUQUwYPDhKkazPPNrEaw2Xe1DE/xd+DcwdRRmy/iC4UXnCg248zwNNh4g2llYTJXmdC/BRUxeQTs1LJGAP8ySdfzWj32jBBdh41Ye6+PNXWzaxpmTJH6peUmrxIsNvnnD8iU0hrh0GaUqvH5+DDQounux7UoONd2VQIHOe9jRxf6PmEzfXg6Wge2gNGhEiIXI2IzPFAmmgYCtikjxlCP8H7Q5hYZgCjl19/0XWLy3hqMJTiTRZbSgSV8bx8cYzNz9HxdYV0/My2cpHD2/bRSImcxoJtQ8jmlumq4u8EAHDMH1qiXUwvwXkv/SXOA+aILvIAg+SIKq2tyAtdACX0N2fgo2YQVMwLiLeEGBA82QghtVmHtciYa/AW4UuRboNvRZAAAAAElFTkSuQmCC",
+  "symbol": "Kr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/krypton",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/036.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/036",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Krypton",
+    "de": "Krypton",
+    "fr": "Krypton"
+  }
+}

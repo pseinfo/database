@@ -1,0 +1,67 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 16,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1958,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Nobelium",
+    "de": "Nobelium",
+    "la": "Nobelium",
+    "fr": "Nobélium"
+  },
+  "number": 102,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "10028-14-5"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "No",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/nobelium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/102.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/102",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Nobelium",
+    "de": "Nobelium",
+    "fr": "Nobélium"
+  }
+}

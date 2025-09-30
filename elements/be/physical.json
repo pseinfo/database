@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 1.848,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 287,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 132,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 130,
+      "unit": "GPa"
+    },
+    "poisson": 0.032
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 25000000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 3.8e-8,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 7.95,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 297,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 324,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 5.5,
+    "brinell": {
+      "value": 600,
+      "unit": "NM·m[-2]"
+    },
+    "vickers": {
+      "value": 1670,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 1825,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 190,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000113,
+      "unit": "K[-1]"
+    },
+    "work_function": {
+      "value": 4.98,
+      "unit": "eV"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "diamagnetic",
+    "magnetic_susceptibility": {
+      "value": -0.000009,
+      "unit": "cm[3]·mol[−1]"
+    }
+  },
+  "molar_volume": {
+    "value": 0.00000485,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 13000,
+    "unit": "m·s[−1]"
+  },
+  "temperature": {
+    "melting": {
+      "value": 1560,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 2742,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 1182,
+      "unit": "K"
+    },
+    "critical": {
+      "value": 5205,
+      "*": true,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 26,
+      "unit": "K"
+    }
+  }
+}

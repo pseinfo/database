@@ -1,0 +1,133 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 10000000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 9000000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 410000000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 460000000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 857000000,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 880000000,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 610000000,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "colorless (gas); pale blue (liquid and solid)",
+    "de": "farbloses Gas",
+    "fr": "Incolore, bleu pâle"
+  },
+  "classification": {
+    "block": "p",
+    "color": "",
+    "column": 30,
+    "goldschmidt": "lithophile",
+    "group": 16,
+    "occurrence": "primordial",
+    "period": 2,
+    "radioactive": false,
+    "phase": "gas",
+    "set": "nonmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Priestley, Scheele",
+    "value": 1774,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oxygen_discharge_tube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Oxygen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Oxygen",
+    "de": "Sauerstoff",
+    "la": "Oxygenium",
+    "fr": "Oxygène"
+  },
+  "number": 8,
+  "price": {
+    "value": 0.154,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "vital",
+    "stable"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7782-44-7",
+        "label": "O{2}"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-956-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.029.051"
+      }
+    ],
+    "atc": [
+      {
+        "value": "V03AN01"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID977"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSRS2060000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAC6UlEQVRIx82WXUiTURzGf/93W87p1qaFzpnS6Ev6sI+biKC6CKluKiy6sCisCCKiuoi6ighvugoKoqIuJEopo+hDCoo+CaILo+hDW2hqUprZrLm2vacL3dp0c66ZdHg5/P/P+5znPOc58PLKBNw5FHXwJogfRJBcJiv0rzQTZ8iQSuISBPKZmUVuAJ8JSzsvfHyLEASZyrJI3c/x8NBFqRl7D212JgFvuQN6oi2iGonrU5BiFtooEARop8HJHA1DM0/zmdVJUyELBGmg1kDGbNYAXjraaZjBig886qbFjM1Kng2Xg+KXXPHjjU1Am89WQUBaePyZV7FOIrVkkuNiUTN3A/j6jeWxIAvnB+p1Qv1INoUmsrppjD2y5mB6EJ+XFhvuEjZ/ocFDHSAYSqi04vZw2c06kDbutnIbcFHmZPkn7rdyXaEiarksKmR9Eyd6aQLGM7+ILQreUeWnA1B/rGdM4xigE2pkr2Ao4pCRnBaq/DRHM8O1DNsOICo2nCGtWDloZK5CFPSwQXCYqfRxVqcz9nbzzZzqpykExM8mE9UKCVCuwEidghBrFX1h/U1QgQYa6Guhd8BjZB5hO/arLA421gw4r9lK3ze2X+JnJ+c2okL/gWEVvudBz8jBsSUXZXBmKoQof833YOoKCSIxYL+FBj8OEHieQqJp4hNLWXKU+gp8n8l2svIkva0YjdTvIvTrH+47WvifgMd8zrVyYQ/orKoiEBhM0ISymTgyqXlGKDSclFHjZgXo7LxBY9fgDx/EQTKNHF7M9fc8+IhSCWnA8aVMs4Nixz08PQlp8ZEEtAILu0vIM3P6HU++DDGQhr7FwJHpXO2g1EZPgOo2dJWCsciYaOJ8CSg++dn8NpYb1Vg0zk+htouLXUliTCmfDGGHnUc+nvclUZs3jm3Z7O/G+1fHTI2Whr5KvRgV5mpYBjrsg+BoiyddAkyGMrjBwO9s+uKrQQcF15KJjM0ZR8gUmBB23hX16jeRxJUWUnwc4AAAAABJRU5ErkJggg==",
+  "symbol": "O",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/oxygen",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/008.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/008",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Oxygen",
+    "de": "Sauerstoff",
+    "fr": "Oxygène"
+  }
+}

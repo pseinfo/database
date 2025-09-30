@@ -1,0 +1,29 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "slightly-alkaline",
+  "negativity": {
+    "pauling": 1.69,
+    "sanderson": 1.98,
+    "allred": 1.46,
+    "mulliken": 1.53,
+    "ghosh_gupta": {
+      "value": 3.7958,
+      "unit": "eV"
+    },
+    "nagle": 1.45,
+    "pearson": {
+      "value": 4.33,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "2",
+  "oxide_character": "basic",
+  "standard_potential": {
+    "value": -0.403,
+    "unit": "V",
+    "info": "Cd[2+] + 2e[-] → Cd"
+  }
+}

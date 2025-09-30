@@ -1,0 +1,122 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 11.99,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 121,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 44,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 180,
+      "unit": "GPa"
+    },
+    "poisson": 0.39
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 9260000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 1.08e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 16.7,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 380,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 377,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 4.75,
+    "brinell": {
+      "value": 37.3,
+      "unit": "NM·m[-2]"
+    },
+    "vickers": {
+      "value": 461,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "thermal_conductivity": {
+      "value": 72,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000118,
+      "unit": "K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.000567,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 288,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00000856,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "reflectivity": {
+      "value": 72,
+      "unit": "%"
+    }
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 3070,
+    "unit": "m·s[−1]"
+  },
+  "temperature": {
+    "melting": {
+      "value": 1828.05,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 3236,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 1407.95,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 3.2,
+      "unit": "K"
+    }
+  }
+}

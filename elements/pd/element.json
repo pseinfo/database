@@ -1,0 +1,118 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 670,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 6.3,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig, weiß, metallisch",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 24,
+    "goldschmidt": "siderophile",
+    "group": 10,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Wollaston",
+    "value": 1803,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Palladium_crystals.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Palladium_crystals.jpg\">Hi-Res Images ofChemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Palladium",
+    "de": "Palladium",
+    "la": "Palladium",
+    "fr": "Palladium"
+  },
+  "number": 46,
+  "price": {
+    "value": 49500,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "platinum"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-05-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-115-6"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.286"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23938"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSRT3480500"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACJklEQVRIx+2WP2gTYRjGf+99adMEqf9bMSitVDsIRSiCQ6nFbikEWjCD7qLuUsHQTTepIg5OloJdnApa1KF0cBOtGRxUCIUuSjVUTCR6ubwOSehd7tKQEGkHj+O+98/zPu/7fN9xnETZz9Yl5cXQEWMIEGSdVaVUA3BZldXC9HGu7K7z1qYgvhI/Q4iuE4yUg59ZVkrbtCDIlQCAf04Bohw4yTiQ4fVPvrTAAHSx7zRTIKvMl3B8YBFkmGsgYGX5lOGVOxvEL0EzSH2jYRZ1uerNqhdfxwVEvbuhEGEgxrTCGjeK/Ni2RXBH9Uqo73okBLkNJQQo8qziMppyrQinFjHwMYEWXPEQw0sYeDeFk6ut8rOJYfQeBwd5PkkxH9xL2jHwv6syFo/nONoDDjhMJsnnQKs3Llvpj/EoBQ6XbvJt05Pyg2uCZ49zO86LD8yuoKUG4PLL8nIcHN5scCuNKIleBqPMZrAdD1iUsT30h5jPUtQg2iq4U3lmwGGihN3KzrUcDx9iZAELLFieQO3meCxD/A7dPTy9QsmuxPf2MnaVlYfks5yJI5BeoiPM9CIG7ib5tQkQiXLhMucvYiCVwC4E9z1yjOspHszw/WvTerdOY6ee7SX0ffiai+wI7D//Lh6jW3gS5r5Nn5A0zBVZKDYoPCyIsuFKtmC0HdkJo/Ce5gbbDZO3TC4Qg99VyQ05DQyBQprKz6VCGAZgDXJt0hgFG/6Awl86GDYWl1/yzwAAAABJRU5ErkJggg==",
+  "symbol": "Pd",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/palladium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/046.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/046",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Palladium",
+    "de": "Palladium",
+    "fr": "Palladium"
+  }
+}

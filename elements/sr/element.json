@@ -1,0 +1,123 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 40,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 50,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 8900,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 360000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 8100,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 60,
+      "unit": "ppb"
+    },
+    "human": {
+      "value": 4600,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white metallic; with a pale yellow tint",
+    "de": "silbrig weiß metallisch",
+    "fr": "blanc argenté métallisé ; avec une teinte jaune pâle"
+  },
+  "classification": {
+    "block": "s",
+    "color": "",
+    "column": 2,
+    "goldschmidt": "lithophile",
+    "group": 2,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "alkalineearthmetal",
+    "superconductivity": "special"
+  },
+  "discovery": {
+    "by": "Klaproth",
+    "value": 1798,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Strontium_destilled_crystals.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Strontium_destilled_crystals.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Strontium",
+    "de": "Strontium",
+    "la": "Strontium",
+    "fr": "Strontium"
+  },
+  "number": 38,
+  "price": {
+    "value": 6.61,
+    "deviation": 0.08,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "light"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-24-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-133-4"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.303"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID5359327"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAC1ElEQVRIx8WVS2xMURjHf98589LO6BRdCSHUglJJJWJjoR6RSJQEC1urbkUisSBeC0SCWFhgoYsSLISISIgQjbJhgZIIiT60ktKOmte9n0XvmN55darByc253/e///P/HufkXKmhnvwQvyUUjqkSijlisJZglhRojiCgllCUOaMMujiVFX6/IsRnsWCQt1lS5dKwBJpoGwdfcQNUchFzNK2uUgkQdsgobhHHZwjSQjsYQV5wXr0yCwopWFL2qyEYIpbie3FcwWip/HWCq35l9SsUuwFiEMjyTf3dqOCWClE6ovoLLO+iSJSDlhUKPzmX5hFlIk5WkUw4ZhPeAhKn5hpOB+kriCJCZAuRjYzsg2Se9vuEAsYS34ozROKJpz2Ox1ez+AifzzJ0G8AYmk5Qv4KuNpwxj2bDxBaS+ICbJlLP0j3M34CFe7tJDmFDLGhl6CWJvsKgld1AkL13MNDzkO7rDLwvJFcjUux6hmAEdSuu0lzjFdTjq5sHrWHVMvq+8Lkf1TzT91CICKxdwoHNZNI8eE3nCy7v4tBdnn4EZd5MLm6h6xOHH+M4hQoGXLeS8pwAKYeR7CQ5TMSNoooqk3ZOEIOdS3QniQvoKCL5PtU0M+8kBr6cZuQ+OIhh0THqWnjVhjuGsTQeIDSTN/sJxlh5ilQf4tBzhvRwFTs2DdyYElttDOMXz1+Km2/8/5oVIBIkYEgk/WfhD+aii29qyH+hTUO/1mKFkUzeDQozLN8zZJTW2XxNsybOzQF6k96OdyynIcSlXjr7S+vHLAoJxwPDhlrDcDb33Z9GveVqIyibe3C0dLYhYVsd66OcHORdagplCuypY0ct2/tJuHk8KrSEeZ5kTP/1NjUbdlqOZ/gxFX0tMjZBOxyFbmiAdXALT1PLLClnVM+sfkkztMFdeDaNfAAD478HC2H46V1m1WoKBCFddCtUmUYQ1sB76PvnDayS+Qte93kWWxrl7gAAAABJRU5ErkJggg==",
+  "symbol": "Sr",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/strontium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/038.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/038",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Strontium",
+    "de": "Strontium",
+    "fr": "Strontium"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.6,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 180,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 0.7,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white metallic",
+    "de": "silbrig weiß metallisch",
+    "fr": "métallique blanc argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 23,
+    "goldschmidt": "siderophile",
+    "group": 9,
+    "occurrence": "primordial",
+    "period": 5,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Wollaston",
+    "value": 1803,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rhodium_powder_pressed_melted.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rhodium_powder_pressed_melted.jpg\">Alchemist-hp (talk) www.pse-mendelejew.dederivative work: Purpy Pupple</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Rhodium",
+    "de": "Rhodium",
+    "la": "Rhodium",
+    "fr": "Rhodium"
+  },
+  "number": 45,
+  "price": {
+    "value": 147000,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "mononuclidic",
+    "stable",
+    "noble",
+    "heavy",
+    "platinum"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-16-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-125-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.295"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23948"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSVI9069000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC8VBMVEUBAURFIQBFHQAUADEWAABFBABFCQBFEABFAABFGgBFCwBFBgBFFAAIAAATACQFAEBFEgAQAB49AABFOQASAAARADUADEVBAABFFgAwAAAPAABFPgA2AGEqAAAAPUUiAAAbAAAvAFZAAHQOADdARQANADkMAAAcRQAAOEUmAAAVACk2AAAtAAAARUUfAAAAM0UTACtFDQA7AAAqAEozAFsAI0VqAQAPABsAH0VFLQAKADskAABFJAAuRQAURQAzAAAARhUAG0U7RQAYADpDAHtHAJAARQkAFUYsAE0pRQBTAAAAEkUARTwAJ0UoAEUlRQBcBABLAABKIAACRQBKGQAAMEUgRQAJRQAARh8LABRFKAABBUsARSMmAEFFMAAeADZKAKpIAKU4RQBZPgAYTgA1RQAMAIVFMwBeHgAmAENFWgAK/wMASTQQRQABSwkXAHwdAOUAKkVFAIBFRQALAEAKAVkAXC0AThwDUQA8AG0+AIsADWMOAGEA/7YAZgUGA5IAhFE0VgAAZ08cAEQenQAAllsyRQBcKAAJjg0IAHNKDwAXdwBiCAAAf3oA/9YALXpqIABFJwA2AGtFJgB2KwCBNQAJoQANVwAAXgRWIwBGAMEA/yZVOABFAMODGwAi8gBSIQBXVQAAUHk/XgD/oAAAW//bBwBlFQAYAHIAZypeSgBSTwAAQGUdAM0FAPoAZFwkaAA7sQBiSwB2AQAAWBnAtABOPQAaZQBiPQACAHcEAPAsTACnNwAAebEA9hF8AAAAd1oFAGxKZwAAcDJ4cACh4QBgKwAAUlgScwAAUQ4AfC4AF+IA6JYA1zQAHW8AlHMAsgMAVC4fAJhDUQAXAFSiFgAAwy1OSgBGiAAAzZkAhXwAKUUAdyM+dwAuAHMAlZzMygAAN6CmqQBWEgCdmwAA/8QAJ49btABWsAAAdk9jYgAAXE8ArP81kwAhXgAcAJQAho4A/46PkgAAkFR//wAAo/8AZD67VwByAAAAHf8A8v/evGLEAAACgklEQVQYGQXBXUwUBAAA4E/g5McTCE4GoxEjuhFr+NAIV0rKyqYMC9jURltly+XmymyJs7lq5Nr6keZWMiVrNiweGCPdyLVhC6RZDy2aCw9G2DgpkPQU7/SQ6PuW1YQRFMX4ahEkSnDtntmw77b05qP2x3zEp+9naSxb4d9wK0xkxb6OlRHKNvpmLpXtZ7FuUMbtdYNloKpT9ladgHuLjZdjNnmpvW8uv+bCHDRPKLqCZScBrD/e9Q7yqrZJdWoEIFtK20ON/0EKsOrVypMZbxwaRt3NwPDwa7WDgfSZLPFuwIH4uy1VrTnEdrY8Ds7eCm4E8GbWeBcte6p2lDoOoJq2wheBY0MzBTPfggRYBArh8Gc8tqnndMPm3zqIAHcAcYDuB7OiW8ALvuy5+Dm++Mr8z6UvFYwVdS+45mDnU2f2fRA/eGT35Idwt6Th05KHe+9r7rmAztGPfJzZMbK87Vy+30dpCv9g7uW2B0pSvle8aOWf65cy//kVr/8RTXdnMpNE8/sg3LBUu9Q6CFiNI8GbscBeJNc8ehjzT5Qdg51li0OmLLAoY1f7JPgL8PTb189tiqe1WxN/ZCJnG8BtAEeDffV9aaj+KS3BGFRuEJoaQI0U3eA8AGjsOrG7sfqX3vORHQDg6L9vPVMX2AOA+g0r9sd4vmJvwdrQ1SGsfWV0fxDzAEgDtle0ZpIAAKDy2dCTQ4mrX4NLAHAXsPlQ/wFAAACSAOq3fnIxCal4b2AA1O060Q+qQgM5Yv2tl8ECoBQofK6pKT06XsR0+eUQIcgbrogA8sGV8pHyGCD7RhDkwRQgmRsAbqB4ldkomAJALuC6XJaDIOaTeSYKgtOgaBr8D7ka4A+6RVl9AAAAAElFTkSuQmCC",
+  "symbol": "Rh",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/rhodium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/045.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/045",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Rhodium",
+    "de": "Rhodium",
+    "fr": "Rhodium"
+  }
+}

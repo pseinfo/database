@@ -1,0 +1,31 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "basicity": "strongly-acidic",
+  "negativity": {
+    "pauling": 3.16,
+    "sanderson": 3.48,
+    "allred": 2.83,
+    "mulliken": 3.1,
+    "allen": 2.869,
+    "ghosh_gupta": {
+      "value": 7.2923,
+      "unit": "eV"
+    },
+    "boyd": 3.05,
+    "nagle": 2.82,
+    "pearson": {
+      "value": 8.3,
+      "unit": "eV"
+    }
+  },
+  "oxidation_state": "'''±1''', 3, 4, 5, 6, 7",
+  "oxide_character": "acidic",
+  "standard_potential": {
+    "value": 1.36,
+    "unit": "V",
+    "info": "Cl + e[-] → Cl[-]"
+  }
+}

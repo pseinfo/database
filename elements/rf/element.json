@@ -1,0 +1,69 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "appearance": {
+    "de": "unbekannt, vermutlich silber-weiß oder grau metallisch"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 18,
+    "goldschmidt": "synthetic",
+    "group": 4,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "highly-radioactive",
+    "set": "transitionmetal"
+  },
+  "discovery": {
+    "by": "Ghiorso",
+    "value": 1964,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Rutherfordium",
+    "de": "Rutherfordium",
+    "la": "Rutherfordium",
+    "fr": "Rutherfordium"
+  },
+  "number": 104,
+  "properties": [
+    "heavy",
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "53850-36-5"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Rf",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/rutherfordium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/104.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/104",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Rutherfordium",
+    "de": "Rutherfordium",
+    "fr": "Rutherfordium"
+  }
+}

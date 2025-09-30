@@ -1,0 +1,67 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 15,
+    "goldschmidt": "synthetic",
+    "group": 20,
+    "occurrence": "synthetic",
+    "period": 7,
+    "radioactive": true,
+    "radioactivity": "significantly-radioactive",
+    "phase": "solid",
+    "set": "actinoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Seaborg",
+    "value": 1955,
+    "era": "synthesis"
+  },
+  "names": {
+    "en": "Mendelevium",
+    "de": "Mendelevium",
+    "la": "Mendelevium",
+    "fr": "Mendélévium"
+  },
+  "number": 101,
+  "properties": [
+    "radioactive",
+    "artificial",
+    "synthetic"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-11-1"
+      }
+    ],
+    "eg": null,
+    "echa": null
+  },
+  "spectrum": null,
+  "symbol": "Md",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/mendelevium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/101.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/101",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Mendelevium",
+    "de": "Mendelevium",
+    "fr": "Mendélévium"
+  }
+}

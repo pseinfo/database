@@ -1,0 +1,118 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 3,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 670,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1.8,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery, blue cast",
+    "de": "bläulich grau",
+    "fr": "bleu, argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 22,
+    "goldschmidt": "siderophile",
+    "group": 8,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Tennant",
+    "value": 1803,
+    "era": "revolution"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Osmium_crystals.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Osmium",
+    "de": "Osmium",
+    "la": "Osmium",
+    "fr": "Osmium"
+  },
+  "number": 76,
+  "price": {
+    "value": 12000,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "noble",
+    "heavy",
+    "platinum"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-04-2"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-114-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.285"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23937"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSRN1100000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAADAFBMVEVEAABFDABFCQBFFABFHwBFDwAKADxFHABFBgBFAwBFFgATAAABAEMaAAAHAAALAAA8AAAPAABFQgAmAAAfAAANADkFAD8AE0VFEgAKABEXAAAqAAAARQVFIQAkAAAAAUUAK0UpAEg4AAATACMAGEUAMEUPABwuAAAABUUMABYAHkUsAAAARRMHAD5FJAAANEUAJkU+AAAARSYzRQAsAE01AABFLQA9RQATACoAO0UAIkUARTVFGQAACUUxAAA2AGAjRQAQRQBBAAAzAAAERQAADUVFPAAUACYqAFIZAC1FOAAAQkYARStEAHxTDQAART9FMAAUADFHAJJJAgAxAFhGGQAVfQBFMgBGKQAvSABGAIkWADoXRQBJAKM4AGYpRgBBAMYARh0SADURACA7AGxERgBVRQBFNABIIgBBAHgAWQ9LALg+AI4gTgAfADYdRQAnVwBJCwBYIgAAUyM/AHRMWABIAMAATwhMAQBbGAAbAEs+AHA5AM1MHAA4RQAOSQA8AMo0AF0gADxRIQBJALINAPNFAIUK/wAAaCUGAIVBVAASAFRdDwBKAKwGAG5MbABIEQAmaABHCAA5VQACSgBNMQAlAFkAkkNGAABtNgBoVgAASFIA/61gIgAYVgABbA1VEAAASQ9HAI4ldAAyUwBqbwA0qwAdAEQLZABOhgA2XwBeBAAAj5xKRgAmAENrIQAOhAAAO/8iAH9sAwAATUwAbmEAT018mwAAgGY2AM8VsQAAmLsApDhUTQAAKGIAio0AbU4A/914SQAKALgASzsjAEsgAONO/wAATWAAVmkrAMQSWgAFAFsQbgBdSQBDlQA0AIH/4AAAdDtULwBAAJtXkABdcgAAjGMAdG/N/wAAZTQgAOJUKQAY2gBIAJkAenviyQAAplIAjDJOLwBv8AAAVUQA/9poQgArAMoAsrJbYQAAMXwAX1AAiaYUAJIAwA0AqLeNjQAtAK0ANvUmTAC2vgAAfFYA/RUeAGQAS0cA8vXEdwB7CQAAZ/+PNwDy/wC2u28kAAACZ0lEQVQYGQXBXUwUBAAA4A84EDn56exCoih+3GjOhivdkEVFuvlb6YM2eGjVYk1dtCXI1gMtZbFGK9qy2UNryzFnxZjUrRYT/4ZKF3PERjadPagcgcJVHHci0PelFQFU/cHOPionX5wa5J8M7V82vgclubNBI3l3Mhs4jexkzvWFGhOPzLvElgQGMp5ZRer7Og84s75osNRfwRTcuwbeMIot3er1UhVRcHT8XTwdx7auomKllv+S84Tyk4e/kB9fE337hzHFBGKkMvFw7GgHwdn7NiyrLgfiF0pK8sUB0P7yZOWzwASgdS7wceTn2q3gg7nAYWAlYDkQBtnQc1ojQC7gYujsAaAAJIAZQCYgBzj2b15Fz1cg9Nqm/uleHKy5lfNrelnpHjSuWJ31kpO/rziE9sLHuvWC23Aimf9ZhSFC4auhpj+jx4HmxXSXOYWG95NrqfTUuqlgTG4vDqy9nug+dMoYu8tboLZiXnbpjQjWh+5ey1hIZ/H1cOcVVUd2sG9p+36bs9aM/h29t3GQjfcdB3v9V122cMKcc1BbdWakL5x4h+d29L8J8O3Msehw/PJ3eNxNHIlG0zCDFNyGV3f3nN9XHWvmk6kGYHr7wc4fgXEAoO2hmx+2TX8OALC/s23g+ayRcRTV3/WTR4MDwwCQAkDYZMuGocIOgNaJwo47AABb6wqYagbYqQ9paCq+1QXg0/5NLQCAb3btjQCAppqvI9te+a0LcwCgtaMOe95aBzcAL2z+COSLWwnyYB4Ehp+cgACYASQfvFqWSiLIrCBmV8XSACwFEykAcgHiAJAFYBGAJQD8D4YF0xAlhIaqAAAAAElFTkSuQmCC",
+  "symbol": "Os",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/osmium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/076.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/076",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Osmium",
+    "de": "Osmium",
+    "fr": "Osmium"
+  }
+}

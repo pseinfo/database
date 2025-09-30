@@ -1,0 +1,121 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 3000,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4000,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 550000,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 6600000,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 3,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery grey-white metallic",
+    "de": "silbrig metallisch",
+    "fr": "gris-blanc métallique argenté"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 18,
+    "goldschmidt": "lithophile",
+    "group": 4,
+    "occurrence": "primordial",
+    "period": 4,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Gregor, Klaproth",
+    "value": 1791,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Titan-crystal_bar.JPG",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Titan-crystal_bar.JPG\">Alchemist-hp (pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Titanium",
+    "de": "Titan",
+    "la": "Titanum",
+    "fr": "Titane"
+  },
+  "number": 22,
+  "price": {
+    "value": 11.4,
+    "deviation": 0.3,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "stable",
+    "light",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-32-6"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-142-3"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.311"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23963"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC+lBMVEVFAQBFDAAQAAAUACYWACtFCAALAABFFABFDwAWAAA4AAAHAABFEQAsAAAcADRFFwA6AABGBQBBAABFIgAOABlFGgAzAAA9AABFHABJDQAQAB0ARREWADtKCQAwAFYALEokRQAmAAAZAABGRQBFHwBFJQAsSABGMwBFPwAZRQAKABE3AGJPIABKALAaAC8gAAAeAAAvAAA4AGcSADUtAFAKUQBJBQAfRgAASw1nSwASACEGAEEATBtFKgAAGmoARQY3AABMBQAAD1JJIABBVgAASDgeADlTVwACAk9DAAA0AF0GAEZVJwAkAN8rAABNHQBOGAAFSgAAIEdHOwAiAIgGAGwgADwzAHcpAAAAuf8YADICWQYoAABASwBJGAAACFIURQAAR0EHAHMgAOMhAEEAUAIARYIFYAAkAAAzAFsnANweAEgAJWZKAKoAsP8UXAAAFksAAGsHAH0CAl5NRAAhAD1JKgAzRwBLUAA4RQAZAH9NdwAAQUViLwAAyP8AQ0k1ANBFTgAOAFQABElIAABPTABaPwAoAH4AEEcASypQNgAAwf8AdCwbAAAACmIHAIwAdXUtAMIAS0wALlkbiAAAXTEcAHAVSgBOQAADRQAfAFgAT1VYAwAGAPkEAFlWDAAARx8AcToAajktAJEtVAAZAFAA/7YAWT4APFwAkV0lWwAAbIABB4UAHk8AQGkAcDMmUQAkAFAYeQAYZgBdJAAUAF4AH3MAYE9XSQAOANBPCgAAHFpMZQBtLQA9AG4aAEIeTgAPAPEjAAD/XQAAf4sAWmo6AMsAUJ0A0f9ViAAA/6aobABdIAA2TgAAlYI8RQBlEgALRgB1TgAAc1ScZAAAUscAOXwAbAA5AH4pALAAOZkpAGQAWYZ/YACRdAAALnMJALQpAK0Ab21fcAAAt8w80AAAIOdjVwAApmMAtowA/8eHUQAAGKIAn7UA0/0A/5s8AJBmggAAVsA3WABjEgAAw6oAWq4YAJxH/wAATN0Agy9zNgDFqgAA4v+ATLMjAAADMklEQVQYGQXBaUwWBAAA0PchIKIpKCEaAiZKWjTRJR6twimb02TlYm3WVPrhluUSbTMztxhLXYqNzVqlkjN/gJuKRzksKcsDStRESYEFCHJIggokoNJ7gSnQRsfohBvRbaFtA5Gd4T3hCaEXU8vXlLZFa+uMIOKWN6hHuWlNYHB7VNDTwysknuhOrdMV8d2B/cOivlj3V7TWwAyVM39eEl//d12Cq9k7hM+MU2BJzTOFgbnnexgIZBZZ3lM0NyoyPel6STvR8Av8tjL3zW3VORnFZBTvq84ZTeuq2KCGUV9nP258Wd5cp7JLqNz+4OMVNRLPxDYK04KbKHoPz90OuzLxVyJ0PjGoM2LJhAcK78ctjs+5P+7ZE3FTRtz7fc69hriGQOSZyVVzhjZdTb/s1aOJNZtDM6WXLDqWXvKQ9Vs+OZ6+ZVpMy8PtazPuJeenTev56lbassaNPixov1D1wYoCydt2NG2DrUKfz8dtTOM+yWOCTaq6NqVkdUTzucpH0Y+H1hs0akj36w1/Xk65yPtJ11vzyJ4+8Ja8KwKCxqsNSu/da0zzmAFdxrpr19raw07lH/4HMI6br9QO1jsh/AYjox9n5wnqeonTw9oaY0VXYNeeicQPNAwqG2He/H+PlFlelQ98ajtbOzf7qGsjkJvDviPrp9t35GHmwbLpmR0nXWD9C3+MKiIsa0N2XmLNUxdnn01xUQ1Zp2tk7cnaE8KiYxYdU/rkT9+On1fn5Pz0pWMrjfy+cK93DrmzbH7p7gMrgxcs/uEoB+sOnJvlELgDZqV8iXdtes1/9QhLWJMZGV8fZnR9fGs7RE0o4xEFhuSfhdkj7q5zd0UfyCjOWJ1fkagUaaUPwILhhQCE9AsB8BBApI5IHehFzGcbqmtSYrTEtEDs7oViWsS0xLQgRgvHmzYlXury4iVMrJ7aPbS7emL1576p1gEAAOTayK79YT/mnilDapmQ/tQK9IfoD+lFH6H6ZigPnXpJn2EQmHzNlPIkTX19SZq6kmqQRumjpCTHFwafgeTSjGHsj9prWWtYevAVAtRmFC89b0DgbTsBVu1sBpNuMKZZLwCCASAEgP8BL2REHCE//70AAAAASUVORK5CYII=",
+  "symbol": "Ti",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/titanium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/022.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/022",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Titanium",
+    "de": "Titan (Element)",
+    "fr": "Titane"
+  }
+}

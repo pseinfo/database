@@ -1,0 +1,126 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.5,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 4,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 120,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 1100,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.12,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.03,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "grayish white, lustrous",
+    "de": "gräulich weiß, glänzend",
+    "fr": "blanc grisâtre, lustré"
+  },
+  "classification": {
+    "block": "d",
+    "color": "",
+    "column": 20,
+    "goldschmidt": "siderophile",
+    "group": 6,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "transitionmetal",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "Fausto und Juan de Elhuyar",
+    "value": 1783,
+    "era": "enlightenment"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Wolfram_evaporated_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Tungsten",
+    "de": "Wolfram",
+    "la": "Wolframium",
+    "fr": "Tungstène"
+  },
+  "number": 74,
+  "price": {
+    "value": 35.3,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "native",
+    "vital",
+    "stable",
+    "heavy",
+    "refractory"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-33-7"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-143-9"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.312"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23964"
+      }
+    ],
+    "rtecs": [
+      {
+        "value": "RTECSYO7175000"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAMAAAB30CwHAAAC/VBMVEVFAQBFDgApAABFHABFCAAWAAAARQFFEQBFFQAlAAAABEULAABFBAA7AABFGgAHAAAcAABFBgAwAAAGAEESAABCAABFIAA7AGsNRQBFGAA1AF8AJ0U1AAAARRcJADwAE0UAK0UOAAAAIkVFCwATACVARQAfRQAqAElAAHgPADcARSQAD0UuAAAAAEQ+AAAIRQAsAAAARREARR42RQAERQAmAEEARQsAOEVJAKVVAQAAREQART1JAABFNAAhAAA1ANFLIQBKAL0sAE4NABdGAMIVAOwyAFoARThMGABjAQA+AHFKAK4QAB0ARQdQAABDAHsbADFKDAAAQUUaRQAAC0UoAEYyAAA5AGcoANsARTAAHEVIJAB5OABFAH4AGkUARTMQAABFQgCAdQACAPwARUFHAJoARSxAAHRSCAAMABQJAPckRQA+AMhGAIQxRQBKOwA6SAAPADsUADA4AAAaSwADAFgA3P9pZwAAN0sAWf9IAJ5oFAAnRQAuAFJHAJVgbgBGAI8JAGN6aABFKQAVADZKAKpG/wAA/5siXwB2DgBuGACVSwAihgAbAOc7XgAQAE2bNwBDYQCGHwCBQwCT8ABsAQAgAEe0RQBkCQBYTwBdHAAtRwB9EAAgAOP/sABROgCjbAAAsP9GKgASRQA4ZgCBZACbQQAcAEAAxP9mJACKPgAbAFpLALiNgwBBSAB6SQDMjQAAGbZdLQCcZwBcDgAuigAhAOF+HgAAMUUAvf9gKAAuANYAQUwA5v9eSgARAORVRgCmGQBjhgCf/wCVdwD/QACEVgBReAAAtfC6egDbkQDKVwAUACy43QBpNQAwTAAAVHwjAJ0pAHcJAMuZ+QBXGQAcAJAbAMeVlwACANI8dgAjaQDXOwBxcgBFQQBpWAAydwCWGQD/kwBVKQDGRQALAIQFAGmv/wAAGUzQdgAAdP//ygAAWTQqnwAAkJ5NQgD3VQCgUgDErwAAeYhUXgAAI//T+gAAZNZnlACWiAD4iQAAcv99RAC1GwD//ADC3IMiAAAClklEQVQYGQXBaUwVBAAA4C8ejFSeiEBmSuaxzAOQSpkOK7ZIZOjUXEaLLStwbB380S0352KlNTeL2dpiZk50MbY20ozLQpRK3Ey5QtlYyGQIxkMFmzwg+r5Hirruw3AatIJ5MDOZyvnAzUWm98WR/i2wZoJwHHAerBYZhiTQiKUwE7+8qnplksogeJOK11g2fJVE275J/BVswu9YG2LJY64vLgMBcPj0qZJGRNVQ8lVyVI3sP7GlrGJQe6+CEtTPwINy/dZt8M78uwd8EFOz6prjb9m7Hdo+KXpj+wAXZYfsORry/WK6AeTkv3yuHDqBUUBzKX2YwKUbw8EVwBggClDVovMl5zPF9kiY2A+f1vFK+mVp78JtYDmdIAY8jjCCWEjBC8CjgDtAAhAF5kAtAClgHBgAHBoI7/ouLGJeS+bTXQ1/Q1tdxTEg68PLfxDnmbuzri9YOxxzIRDuyXsqbg8R266eANbnL6u5EMvuNODz5p1R17Z+NIh99c0SS4q+LE5P6Hj/SH750Na+nI6lbfvx7JrwMW9PzQ4MzQqtnJrsip8YucmC4HPRlbsivphTu+PF7sNT9Veqfvgra1VLHTj60I99hT/XDVWfuLXj+d0XAawvDBQAsC57bjH4OOdM3us7+2taDAMAuNJb2uBQznsNgCMrftsHCAN7HcCWzIezz1YtovT22eWFxa0gKy+j+qeFl84ACHLw3mcORh7vYBwgOfUkyaknGQWbx0eCcms31J5GxmSgKdGdzaEbmKt/SeA+zEhsAKmT7YXKMkaaNjbF4lZGzz0bcQ48AZF6pyf4598nWyHeUDSbkr4GYykT7dNWa5LRlCHUHQ1Iud8aPe2/sfjRBwDEAnI5FZvbCBgEEAkmIvE/XhnwEZsymUQAAAAASUVORK5CYII=",
+  "symbol": "W",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/tungsten",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/074.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/074",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Tungsten",
+    "de": "Wolfram",
+    "fr": "Tungstène"
+  }
+}

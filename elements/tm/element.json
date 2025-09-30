@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 0.2,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 450,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.0002,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.009,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery gray",
+    "de": "silbrig grau",
+    "fr": "gris argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 15,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "none"
+  },
+  "discovery": {
+    "by": "Cleve",
+    "value": 1879,
+    "era": "classifying"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Thulium_sublimed_dendritic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thulium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Thulium",
+    "de": "Thulium",
+    "la": "Thulium",
+    "fr": "Thulium"
+  },
+  "number": 69,
+  "price": {
+    "value": 3000,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "mononuclidic",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7440-30-4"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-140-2"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.309"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23961"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,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",
+  "symbol": "Tm",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/thulium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/069.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/069",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Thulium",
+    "de": "Thulium",
+    "fr": "Thulium"
+  }
+}

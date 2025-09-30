@@ -1,0 +1,120 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 0.001429,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 273.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 0.222,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 3.41,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 249,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 920,
+      "unit": "J·kg[−1]·K[−1]",
+      "condition": [
+        {
+          "value": 298,
+          "unit": "K"
+        }
+      ]
+    },
+    "thermal_conductivity": {
+      "value": 0.02658,
+      "unit": "W·m[-1]·K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.00345,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 293,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00001736,
+    "unit": "m[3]·mol[−1]"
+  },
+  "optical": {
+    "refractive_index": [
+      {
+        "label": "phase-gas",
+        "value": 1.000271
+      },
+      {
+        "label": "phase-liquid",
+        "value": 1.221
+      }
+    ]
+  },
+  "phase": "gas",
+  "sound_speed": {
+    "value": 317.5,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 54.36,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 90.188,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 35.828,
+      "unit": "K"
+    },
+    "triple": {
+      "value": 54.361,
+      "unit": "K",
+      "@": {
+        "value": 0.1463,
+        "unit": "kPa"
+      }
+    },
+    "critical": {
+      "value": 154.581,
+      "unit": "K",
+      "@": {
+        "value": 5.043,
+        "unit": "MPa"
+      }
+    },
+    "transition": {
+      "value": 0.6,
+      "unit": "K"
+    }
+  }
+}

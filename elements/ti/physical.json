@@ -1,0 +1,130 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 4.5,
+    "unit": "g·cm[−3]",
+    "condition": [
+      {
+        "value": 298.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "elastic": {
+    "young": {
+      "value": 116,
+      "unit": "GPa"
+    },
+    "rigidity": {
+      "value": 44,
+      "unit": "GPa"
+    },
+    "bulk": {
+      "value": 110,
+      "unit": "GPa"
+    },
+    "poisson": 0.32
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 2500000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 4e-7,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 18.7,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 425,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 471,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 6,
+    "brinell": {
+      "value": 716,
+      "unit": "NM·m[-2]"
+    },
+    "vickers": {
+      "value": 970,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 523,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 22,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000086,
+      "unit": "K[-1]"
+    },
+    "work_function": {
+      "value": 4.33,
+      "unit": "eV"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "paramagnetic",
+    "magnetic_susceptibility": {
+      "value": 0.000153,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 293,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00001064,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 4140,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 1941,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 3560,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 1619,
+      "unit": "K"
+    },
+    "transition": {
+      "value": 0.5,
+      "unit": "K"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "abundance": {
+    "universe": {
+      "value": 0.1,
+      "unit": "ppb"
+    },
+    "sun": {
+      "value": 1,
+      "unit": "ppb"
+    },
+    "meteorite": {
+      "value": 30,
+      "unit": "ppb"
+    },
+    "crust": {
+      "value": 560,
+      "unit": "ppb"
+    },
+    "water": {
+      "value": 0.00015,
+      "unit": "ppb"
+    },
+    "stream": {
+      "value": 0.008,
+      "unit": "ppb"
+    }
+  },
+  "appearance": {
+    "en": "silvery white",
+    "de": "silbrig weiß",
+    "fr": "blanc argenté"
+  },
+  "classification": {
+    "block": "f",
+    "color": "",
+    "column": 17,
+    "goldschmidt": "lithophile",
+    "group": 19,
+    "occurrence": "primordial",
+    "period": 6,
+    "radioactive": false,
+    "phase": "solid",
+    "set": "lanthanoide",
+    "superconductivity": "normal"
+  },
+  "discovery": {
+    "by": "von Welsbach, Urbain",
+    "value": 1907,
+    "era": "quantum"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lutetium_sublimed_dendritic_and_1cm3_cube.jpg",
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lutetium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+  },
+  "names": {
+    "en": "Lutetium",
+    "de": "Lutetium",
+    "la": "Lutetium",
+    "fr": "Lutécium"
+  },
+  "number": 71,
+  "price": {
+    "value": 643,
+    "unit": "USD"
+  },
+  "properties": [
+    "natural",
+    "stable",
+    "heavy",
+    "rare"
+  ],
+  "registry": {
+    "cas": [
+      {
+        "value": "7439-94-3"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-103-0"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.275"
+      }
+    ],
+    "cid": [
+      {
+        "value": "CID23929"
+      }
+    ]
+  },
+  "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAAESElEQVRIx6WWTWhcVRTHf+fe9+Y7SSfNR5um2EStprQVLRQVF3VjoK0WC6LVRQuiLsSNHwVFFATBhbgSQURcuBMMKKJ0Y7HtwoW0sdRiTFqLiU3SJmkzbebjfdzr4s1k3qSTj9pheO/cc//nnP+5595zn3Rxb5kbARUAhOpLJcj4lJLkutgKXOYcGId0hRsWG0ETZHvYWWBqjktA3AMgiMY1GIdEQEXjhviRbSM0estmdmVoH+VnQxhNKJRLxqcYt4qHqA3qGo27jf3AOb63mFsBgMJJky9xzWJc0g4pwKe4g4MggkxweobRiIZAjg33MTjG8RtMLnIDMnQO8LQgp/nKENzCTZYTkqzr4ZEJTvgUo4g9PNpKX5HpPANjfLvApCa1k1cnOH6VYYd0J7tmOOOzUPMjaboMvse8QzagGCUb/WyMhm1kZRuZWNCkE3SUmWpjt8UUOKNIBxQU6Q6eusZxjysRUpHUrPOZAWPBYX2eA3MMCQmDH3IdAGczX1qwyASHl0RclIUEaEMJEJKgLaV4jS0iZDX9ASPg2cYK1pLKOOwTegNOubxvEYv4PKs4avnb8LXwonAw5Bnoh5fhbaignkOGsX+h8kgrEsAc4qC3EJ6BAL0elSe8CAaVQK8jnEFMNWaqn/Q2CsewPrK4eUFnyW3l5h9Yr650s7itlKeQWB2UxkkSlup5SKwmSth+iAePMHSI0mzsfNSEZIbdz3P+GNfH6ezjyOd88xbjvzc4icDJNO99hwYFCt7dT+A1gUWCEhyHwMdx2NjLlcv4XhNYk6Gt1cSC5Z4+PvsIQl56nU3d+B6/ncWa6mzC5fGHGB5herZuIsJjA7jCyfNs62FiltlCbbPYZn/WqhTIu1QCFoKVwO2absVIBbNaONcyhEpi9yMeaJyH0VsIhqCEaNwHMJcxUwioDJLAzleJiND/I0qjYXSwviOWLK1KkNlMeRwbQthkyZcrxZ3rHRcTNLSMpnjHQSkCr67fvYdX3uHjNxk5i1ZYW+9BESDXQmsr05O05Ojq5tJFTEhnB+3tjI1iTGyZl38KtLdR8Ugl2NDBnxcIgqp+UycLJa4V1uRn6bNxmEsx9BoY9n5C0uGJAXraOLADDIOfVlNb4qQtiR9S9LmrlS+e5INfODVOw5XV2HxX0gAWJTgKr3bVpDX7+jj5L9PFJrZa+GkvwNFfGZ6pKgd7eWM7wJETzHvc3cJcmT0b+WGcckA5XBONVTUCvSk8y9UKKUU5xEKLQzEgsP/HvxJyGs9QMdX5w9280MmJeT78B4E2TSEktCu5atNkFZM+1t5RmhrymushCoLozluDoUBWqFj8NS+jBlglqbgmAwpuNoNFzd63y8Zcu5CGLMxQ/7CI9A4EzU7S7Qop8Kmt0vJIe0v0sEYpnmUGDCyej4hknHnUjsyKzpcTVFSg28wxMrwfKnAh1mlWzfF2o8SHEsuRFYNGwn8F1f4WeMN+2wAAAABJRU5ErkJggg==",
+  "symbol": "Lu",
+  "weblinks": [
+    {
+      "url": "https://webelements.com/lutetium",
+      "text": "WebElements"
+    },
+    {
+      "url": "http://periodicvideos.com/videos/071.htm",
+      "text": "The Periodic Table of Videos"
+    },
+    {
+      "url": "https://periodictable.com/Elements/071",
+      "text": "PeriodicTable.com"
+    }
+  ],
+  "wiki": {
+    "en": "Lutetium",
+    "de": "Lutetium",
+    "fr": "Lutécium"
+  }
+}

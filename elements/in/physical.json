@@ -1,0 +1,115 @@
+{
+  "@metadata": {
+    "lastModified": "2025-09-30T13:52:31.987Z",
+    "schemaVersion": "1"
+  },
+  "density": {
+    "value": 7.31,
+    "unit": "g·cm[−3]"
+  },
+  "elastic": {
+    "young": {
+      "value": 11,
+      "unit": "GPa"
+    }
+  },
+  "electrical": {
+    "conductivity": {
+      "value": 12500000,
+      "unit": "S·m[-1]"
+    },
+    "resistivity": {
+      "value": 8e-8,
+      "unit": "Ωm"
+    }
+  },
+  "enthalpy": {
+    "fusion": {
+      "value": 3.26,
+      "unit": "kJ·mol[-1]"
+    },
+    "vaporisation": {
+      "value": 230,
+      "unit": "kJ·mol[-1]"
+    },
+    "atomisation": {
+      "value": 243,
+      "unit": "kJ·mol[-1]"
+    }
+  },
+  "hardness": {
+    "mohs": 1.2,
+    "brinell": {
+      "value": 8.83,
+      "unit": "NM·m[-2]"
+    }
+  },
+  "heat": {
+    "heat_capacity": {
+      "value": 233,
+      "unit": "J·kg[−1]·K[−1]"
+    },
+    "thermal_conductivity": {
+      "value": 81.6,
+      "unit": "W·m[-1]·K[-1]"
+    },
+    "thermal_expansion": {
+      "value": 0.0000321,
+      "unit": "K[-1]"
+    }
+  },
+  "magnetic": {
+    "magnetic_ordering": "diamagnetic",
+    "magnetic_susceptibility": {
+      "value": -0.000064,
+      "unit": "cm[3]·mol[−1]",
+      "condition": [
+        {
+          "value": 298,
+          "unit": "K"
+        }
+      ]
+    }
+  },
+  "molar_volume": {
+    "value": 0.00001576,
+    "unit": "m[3]·mol[−1]"
+  },
+  "phase": "solid",
+  "sound_speed": {
+    "value": 1215,
+    "unit": "m·s[−1]",
+    "condition": [
+      {
+        "value": 293.15,
+        "unit": "K"
+      }
+    ]
+  },
+  "temperature": {
+    "melting": {
+      "value": 429.7485,
+      "unit": "K"
+    },
+    "boiling": {
+      "value": 2345,
+      "unit": "K"
+    },
+    "liquid": {
+      "value": 1915.2515,
+      "unit": "K"
+    },
+    "triple": {
+      "value": 429.7445,
+      "unit": "K",
+      "@": {
+        "value": 1,
+        "unit": "kPa"
+      }
+    },
+    "transition": {
+      "value": 3.4,
+      "unit": "K"
+    }
+  }
+}
