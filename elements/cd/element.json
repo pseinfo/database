@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 6,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 150
     },
     "meteorite": {
-      "value": 450,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 150,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.05,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 450
     },
     "stream": {
-      "value": 700,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 700
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 6
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.05
     }
   },
   "appearance": {
-    "en": "silvery bluish-gray metallic",
     "de": "silbrig grau metallisch",
+    "en": "silvery bluish-gray metallic",
     "fr": "métallique bleuâtre-gris argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 12,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Stromeyer, Hermann",
-    "value": 1817,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1817
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cadmium-crystal_bar.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cadmium-crystal_bar.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cadmium-crystal_bar.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cadmium-crystal_bar.jpg"
   },
   "names": {
-    "en": "Cadmium",
     "de": "Cadmium",
-    "la": "Cadmium",
-    "fr": "Cadmium"
+    "en": "Cadmium",
+    "fr": "Cadmium",
+    "la": "Cadmium"
   },
   "number": 48,
   "price": {
-    "value": 2.73,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2.73
   },
   "properties": [
     "natural",
@@ -74,14 +74,19 @@
     "heavy"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "D11AC02"
+      }
+    ],
     "cas": [
       {
         "value": "7440-43-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-152-8"
+        "value": "CID23973"
       }
     ],
     "echa": [
@@ -89,14 +94,9 @@
         "value": "100.028.320"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "D11AC02"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID23973"
+        "value": "231-152-8"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Cadmium",
     "de": "Cadmium",
+    "en": "Cadmium",
     "fr": "Cadmium"
   }
 }

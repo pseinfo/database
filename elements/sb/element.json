@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.4,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 200
     },
     "meteorite": {
-      "value": 120,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 200,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.2,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 120
     },
     "stream": {
-      "value": 2,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.4
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.2
     }
   },
   "appearance": {
-    "en": "silvery lustrous gray",
     "de": "silbrig glänzend grau",
+    "en": "silvery lustrous gray",
     "fr": "gris lustré argenté"
   },
   "classification": {
@@ -42,8 +42,8 @@
     "group": 15,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
@@ -51,19 +51,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Antimony-4.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Antimony-4.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Antimony-4.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Antimony-4.jpg"
   },
   "names": {
-    "en": "Antimony",
     "de": "Antimon",
-    "la": "Stibium",
-    "fr": "Antimoine"
+    "en": "Antimony",
+    "fr": "Antimoine",
+    "la": "Stibium"
   },
   "number": 51,
   "price": {
-    "value": 5.79,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 5.79
   },
   "properties": [
     "natural",
@@ -77,9 +77,9 @@
         "value": "7440-36-0"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-146-5"
+        "value": "CID5354495"
       }
     ],
     "echa": [
@@ -87,9 +87,9 @@
         "value": "100.028.314"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5354495"
+        "value": "231-146-5"
       }
     ],
     "rtecs": [
@@ -115,8 +115,8 @@
     }
   ],
   "wiki": {
-    "en": "Antimony",
     "de": "Antimon",
+    "en": "Antimony",
     "fr": "Antimoine"
   }
 }

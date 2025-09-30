@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "Ghiorso",
-    "value": 1967,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1967
   },
   "names": {
-    "en": "Dubnium",
     "de": "Dubnium",
-    "la": "Dubnium",
-    "fr": "Dubnium"
+    "en": "Dubnium",
+    "fr": "Dubnium",
+    "la": "Dubnium"
   },
   "number": 105,
   "properties": [
@@ -38,14 +38,14 @@
         "value": "53850-35-4"
       }
     ],
-    "eg": [
-      {
-        "value": "611-058-7"
-      }
-    ],
     "echa": [
       {
         "value": "100.126.367"
+      }
+    ],
+    "eg": [
+      {
+        "value": "611-058-7"
       }
     ]
   },
@@ -66,8 +66,8 @@
     }
   ],
   "wiki": {
-    "en": "Dubnium",
     "de": "Dubnium",
+    "en": "Dubnium",
     "fr": "Dubnium"
   }
 }

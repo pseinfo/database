@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 30,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 40,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 26000
     },
     "meteorite": {
-      "value": 6500,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 26000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0015,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 6500
     },
     "stream": {
-      "value": 0.004,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.004
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 40
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 30
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0015
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 3,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Nilson",
-    "value": 1879,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1879
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Scandium_sublimed_dendritic_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Scandium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Scandium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Scandium_sublimed_dendritic_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Scandium",
     "de": "Scandium",
-    "la": "Scandium",
-    "fr": "Scandium"
+    "en": "Scandium",
+    "fr": "Scandium",
+    "la": "Scandium"
   },
   "number": 21,
   "price": {
-    "value": 3460,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 3460
   },
   "properties": [
     "natural",
@@ -80,9 +80,9 @@
         "value": "7440-20-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-129-2"
+        "value": "CID23952"
       }
     ],
     "echa": [
@@ -90,9 +90,9 @@
         "value": "100.028.299"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23952"
+        "value": "231-129-2"
       }
     ]
   },
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Scandium",
     "de": "Scandium",
+    "en": "Scandium",
     "fr": "Scandium"
   }
 }

@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 8700
     },
     "meteorite": {
-      "value": 100,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 8700,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0006,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 100
     },
     "stream": {
-      "value": 0.03,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.03
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0006
     }
   },
   "appearance": {
-    "en": "grayish white",
     "de": "silbrig weiß, gelblicher Farbton",
+    "en": "grayish white",
     "fr": "blanc grisâtre"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "von Welsbach",
-    "value": 1895,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1895
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Praseodymium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Praseodymium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Praseodymium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Praseodymium.jpg"
   },
   "names": {
-    "en": "Praseodymium",
     "de": "Praseodym",
-    "la": "Praseodymium",
-    "fr": "Praséodyme"
+    "en": "Praseodymium",
+    "fr": "Praséodyme",
+    "la": "Praseodymium"
   },
   "number": 59,
   "price": {
-    "value": 103,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 103
   },
   "properties": [
     "natural",
@@ -80,9 +80,9 @@
         "value": "7440-10-0"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-120-3"
+        "value": "CID23942"
       }
     ],
     "echa": [
@@ -90,9 +90,9 @@
         "value": "100.028.291"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23942"
+        "value": "231-120-3"
       }
     ]
   },
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Praseodymium",
     "de": "Praseodym",
+    "en": "Praseodymium",
     "fr": "Praséodyme"
   }
 }

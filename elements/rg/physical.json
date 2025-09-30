@@ -4,14 +4,14 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 24.4,
     "*": true,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 24.4
   },
   "magnetic": {},
   "molar_volume": {
-    "value": 0.000012,
     "*": true,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.000012
   }
 }

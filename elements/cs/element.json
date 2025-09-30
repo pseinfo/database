@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.8,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 8,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 140,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1900,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.5,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.05,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1900
     },
     "human": {
-      "value": 20,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 20
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 140
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.05
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 8
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.8
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.5
     }
   },
   "appearance": {
-    "en": "pale gold",
     "de": "goldgelb glänzend",
+    "en": "pale gold",
     "fr": "or pâle"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 1,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalimetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Kirchhoff, Bunsen",
-    "value": 1860,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1860
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cesium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cesium.jpg\">Dnn87 Contact email: Dnn87yahoo.dk</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cesium.jpg\">Dnn87 Contact email: Dnn87yahoo.dk</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cesium.jpg"
   },
   "names": {
-    "en": "Caesium",
     "de": "Caesium",
-    "la": "Caesium",
-    "fr": "Césium"
+    "en": "Caesium",
+    "fr": "Césium",
+    "la": "Caesium"
   },
   "number": 55,
   "price": {
-    "value": 61800,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 61800
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7440-46-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-155-4"
+        "value": "CID5354618"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.323"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5354618"
+        "value": "231-155-4"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Caesium",
     "de": "Caesium",
+    "en": "Caesium",
     "fr": "Césium"
   }
 }

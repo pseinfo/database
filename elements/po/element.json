@@ -5,13 +5,13 @@
   },
   "abundance": {
     "water": {
-      "value": 2e-11,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2e-11
     }
   },
   "appearance": {
-    "en": "silvery",
     "de": "silbrig",
+    "en": "silvery",
     "fr": "argenté"
   },
   "classification": {
@@ -22,22 +22,22 @@
     "group": 16,
     "occurrence": "decay",
     "period": 6,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "solid",
     "set": "metal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Marie und Pierre Curie",
-    "value": 1898,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1898
   },
   "names": {
-    "en": "Polonium",
     "de": "Polonium",
-    "la": "Polonium",
-    "fr": "Polonium"
+    "en": "Polonium",
+    "fr": "Polonium",
+    "la": "Polonium"
   },
   "number": 84,
   "properties": [
@@ -53,9 +53,9 @@
         "label": "[209]Po"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-118-2"
+        "value": "CIDNone"
       }
     ],
     "echa": [
@@ -63,9 +63,9 @@
         "value": "100.028.289"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CIDNone"
+        "value": "231-118-2"
       }
     ]
   },
@@ -86,8 +86,8 @@
     }
   ],
   "wiki": {
-    "en": "Polonium",
     "de": "Polonium",
+    "en": "Polonium",
     "fr": "Polonium"
   }
 }

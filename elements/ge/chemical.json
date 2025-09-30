@@ -5,27 +5,27 @@
   },
   "basicity": "amphoterism",
   "negativity": {
-    "pauling": 2.01,
-    "sanderson": 2.62,
-    "allred": 2.02,
-    "mulliken": 2.33,
     "allen": 1.994,
-    "ghosh_gupta": {
-      "value": 5.1318,
-      "unit": "eV"
-    },
+    "allred": 2.02,
     "boyd": 1.99,
+    "ghosh_gupta": {
+      "unit": "eV",
+      "value": 5.1318
+    },
+    "mulliken": 2.33,
     "nagle": 1.81,
+    "pauling": 2.01,
     "pearson": {
-      "value": 4.6,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 4.6
+    },
+    "sanderson": 2.62
   },
   "oxidation_state": "-4, 2, '''4'''",
   "oxide_character": "amphoteric",
   "standard_potential": {
-    "value": 0.247,
+    "info": "Ge[2+] + 2e[-] → Ge",
     "unit": "V",
-    "info": "Ge[2+] + 2e[-] → Ge"
+    "value": 0.247
   }
 }

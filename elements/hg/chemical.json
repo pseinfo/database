@@ -5,21 +5,21 @@
   },
   "basicity": "slightly-alkaline",
   "negativity": {
-    "pauling": 2,
-    "sanderson": 2.2,
     "allred": 1.44,
     "mulliken": 1.81,
     "nagle": 1.54,
+    "pauling": 2,
     "pearson": {
-      "value": 4.91,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 4.91
+    },
+    "sanderson": 2.2
   },
   "oxidation_state": "1, '''2''', 4",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": 0.8535,
+    "info": "Hg[2+] + 2e[-] → Hg",
     "unit": "V",
-    "info": "Hg[2+] + 2e[-] → Hg"
+    "value": 0.8535
   }
 }

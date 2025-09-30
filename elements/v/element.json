@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 400,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 62000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 190000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 1.5,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 190000
     },
     "human": {
-      "value": 30,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 30
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 62000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 400
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 1.5
     }
   },
   "appearance": {
-    "en": "blue-silver-grey metal",
     "de": "stahlgrau metallisch, bläulich schimmernd",
+    "en": "blue-silver-grey metal",
     "fr": "métal gris-bleu-argenté"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 5,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "del Río",
-    "value": 1801,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1801
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vanadium_crystal_bar_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Vanadium_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (pse-mendelejew.de).</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Vanadium_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (pse-mendelejew.de).</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vanadium_crystal_bar_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Vanadium",
     "de": "Vanadium",
-    "la": "Vanadium",
-    "fr": "Vanadium"
+    "en": "Vanadium",
+    "fr": "Vanadium",
+    "la": "Vanadium"
   },
   "number": 23,
   "price": {
-    "value": 371,
     "deviation": 14,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 371
   },
   "properties": [
     "natural",
@@ -86,9 +86,9 @@
         "value": "7440-62-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-171-1"
+        "value": "CID23990"
       }
     ],
     "echa": [
@@ -96,9 +96,9 @@
         "value": "100.028.337"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23990"
+        "value": "231-171-1"
       }
     ]
   },
@@ -119,8 +119,8 @@
     }
   ],
   "wiki": {
-    "en": "Vanadium",
     "de": "Vanadium",
+    "en": "Vanadium",
     "fr": "Vanadium"
   }
 }

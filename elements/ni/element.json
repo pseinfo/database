@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 60000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 80000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 13000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 90000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.3,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 90000
     },
     "human": {
-      "value": 100,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 100
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 13000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.3
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 80000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 60000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 2
     }
   },
   "appearance": {
-    "en": "lustrous, metallic, and silver with a gold tinge",
     "de": "glänzend, metallisch, silbrig",
+    "en": "lustrous, metallic, and silver with a gold tinge",
     "fr": "brillant, métallisé et argenté avec une teinte dorée"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 10,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Cronstedt",
-    "value": 1751,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1751
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nickel_chunk.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Nickel_chunk.jpg\">Materialscientist at English Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Nickel_chunk.jpg\">Materialscientist at English Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nickel_chunk.jpg"
   },
   "names": {
-    "en": "Nickel",
     "de": "Nickel",
-    "la": "Niccolum",
-    "fr": "Nickel"
+    "en": "Nickel",
+    "fr": "Nickel",
+    "la": "Niccolum"
   },
   "number": 28,
   "price": {
-    "value": 13.9,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 13.9
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7440-02-0"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-111-4"
+        "value": "CID935"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.283"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID935"
+        "value": "231-111-4"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Nickel",
     "de": "Nickel",
+    "en": "Nickel",
     "fr": "Nickel"
   }
 }

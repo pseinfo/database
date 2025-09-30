@@ -5,19 +5,19 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 1.9,
     "allred": 1.46,
     "nagle": 1.35,
+    "pauling": 1.9,
     "pearson": {
-      "value": 4.02,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 4.02
     }
   },
   "oxidation_state": "-3 … 7",
   "oxide_character": "acidic",
   "standard_potential": {
-    "value": -0.276,
+    "info": "ReO{2} + 4H[+] + 4e[-] → Re + 2H{2}O",
     "unit": "V",
-    "info": "ReO{2} + 4H[+] + 4e[-] → Re + 2H{2}O"
+    "value": -0.276
   }
 }

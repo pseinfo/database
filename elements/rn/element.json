@@ -4,18 +4,18 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "water": {
-      "value": 6e-13,
-      "unit": "ppb"
-    },
     "stream": {
-      "value": 2e-13,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2e-13
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 6e-13
     }
   },
   "appearance": {
-    "en": "colorless gas",
     "de": "farbloses Gas",
+    "en": "colorless gas",
     "fr": "gaz incolore"
   },
   "classification": {
@@ -26,22 +26,22 @@
     "group": 18,
     "occurrence": "decay",
     "period": 6,
+    "phase": "gas",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "gas",
     "set": "noblegas",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Dorn",
-    "value": 1900,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1900
   },
   "names": {
-    "en": "Radon",
     "de": "Radon",
-    "la": "Radon",
-    "fr": "Radon"
+    "en": "Radon",
+    "fr": "Radon",
+    "la": "Radon"
   },
   "number": 86,
   "properties": [
@@ -55,9 +55,9 @@
         "value": "10043-92-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "233-146-0"
+        "value": "CID24857"
       }
     ],
     "echa": [
@@ -65,9 +65,9 @@
         "value": "100.030.120"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID24857"
+        "value": "233-146-0"
       }
     ],
     "rtecs": [
@@ -93,8 +93,8 @@
     }
   ],
   "wiki": {
-    "en": "Radon",
     "de": "Radon",
+    "en": "Radon",
     "fr": "Radon"
   }
 }

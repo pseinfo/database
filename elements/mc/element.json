@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "JINR",
-    "value": 2006,
-    "era": "recent"
+    "era": "recent",
+    "value": 2006
   },
   "names": {
-    "en": "Moscovium",
     "de": "Moscovium",
-    "la": "Moscovium",
-    "fr": "Moscovium"
+    "en": "Moscovium",
+    "fr": "Moscovium",
+    "la": "Moscovium"
   },
   "number": 115,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54085-64-2"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Mc",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Moscovium",
     "de": "Moscovium",
+    "en": "Moscovium",
     "fr": "Moscovium"
   }
 }

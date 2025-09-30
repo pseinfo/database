@@ -5,15 +5,15 @@
   },
   "basicity": "slightly-alkaline",
   "negativity": {
-    "pauling": 1.22,
     "allred": 1.1,
-    "nagle": 1.09
+    "nagle": 1.09,
+    "pauling": 1.22
   },
   "oxidation_state": "3",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.29,
+    "info": "Dy[3+] + 3e[-] → Dy",
     "unit": "V",
-    "info": "Dy[3+] + 3e[-] → Dy"
+    "value": -2.29
   }
 }

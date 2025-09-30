@@ -11,8 +11,8 @@
   "oxidation_state": "3",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.423,
+    "info": "Pm[3+] + 3e[-] → Pm",
     "unit": "V",
-    "info": "Pm[3+] + 3e[-] → Pm"
+    "value": -2.423
   }
 }

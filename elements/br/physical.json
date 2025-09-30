@@ -4,97 +4,97 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 3.12,
-    "unit": "g·cm[−3]",
     "condition": [
       {
         "value": 300,
         "unit": "K"
       }
-    ]
+    ],
+    "unit": "g·cm[−3]",
+    "value": 3.12
   },
   "elastic": {
     "bulk": {
-      "value": 1.9,
-      "unit": "GPa"
+      "unit": "GPa",
+      "value": 1.9
     }
   },
   "electrical": {
     "resistivity": {
-      "value": 100000000000,
-      "unit": "Ωm"
+      "unit": "Ωm",
+      "value": 100000000000
     }
   },
   "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 112
+    },
     "fusion": {
-      "value": 5.8,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 5.8
     },
     "vaporisation": {
-      "value": 14.8,
-      "unit": "kJ·mol[-1]"
-    },
-    "atomisation": {
-      "value": 112,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 14.8
     }
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 0.12,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 0.12
     }
   },
   "magnetic": {
     "magnetic_ordering": "diamagnetic",
     "magnetic_susceptibility": {
-      "value": -0.0000564,
-      "unit": "cm[3]·mol[−1]"
+      "unit": "cm[3]·mol[−1]",
+      "value": -0.0000564
     }
   },
   "molar_volume": {
     "#": {
       "phase": "solid"
     },
-    "value": 0.00001978,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00001978
   },
   "optical": {
     "refractive_index": 1.001132
   },
   "phase": "liquid",
   "temperature": {
-    "melting": {
-      "value": 265.8,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 332,
-      "unit": "K"
-    },
-    "liquid": {
-      "value": 66.2,
-      "unit": "K"
-    },
-    "triple": {
-      "value": 265.9,
       "unit": "K",
-      "@": {
-        "value": 5.8,
-        "unit": "kPa"
-      }
+      "value": 332
     },
     "critical": {
-      "value": 588,
-      "unit": "K",
       "@": {
-        "value": 10.34,
-        "unit": "MPa"
-      }
+        "unit": "MPa",
+        "value": 10.34
+      },
+      "unit": "K",
+      "value": 588
+    },
+    "liquid": {
+      "unit": "K",
+      "value": 66.2
+    },
+    "melting": {
+      "unit": "K",
+      "value": 265.8
     },
     "transition": {
-      "value": 1.4,
-      "unit": "K"
+      "unit": "K",
+      "value": 1.4
+    },
+    "triple": {
+      "@": {
+        "unit": "kPa",
+        "value": 5.8
+      },
+      "unit": "K",
+      "value": 265.9
     }
   }
 }

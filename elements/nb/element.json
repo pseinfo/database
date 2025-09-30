@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 17000
     },
     "meteorite": {
-      "value": 190,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 190
     },
-    "crust": {
-      "value": 17000,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 4
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
     },
     "water": {
-      "value": 0.001,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.001
     }
   },
   "appearance": {
-    "en": "gray metallic, bluish when oxidized",
     "de": "grau metallisch glänzend",
+    "en": "gray metallic, bluish when oxidized",
     "fr": "gris méttallique, bleuâtre quand oxydé"
   },
   "classification": {
@@ -38,31 +38,31 @@
     "group": 5,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Hatchet",
-    "value": 1801,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1801
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Niobium_crystals_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Niobium_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Niobium_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Niobium_crystals_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Niobium",
     "de": "Niob",
-    "la": "Niobium",
-    "fr": "Niobium"
+    "en": "Niobium",
+    "fr": "Niobium",
+    "la": "Niobium"
   },
   "number": 41,
   "price": {
-    "value": 73.5,
     "deviation": 12.1,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 73.5
   },
   "properties": [
     "natural",
@@ -77,9 +77,9 @@
         "value": "7440-03-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-113-5"
+        "value": "CID23936"
       }
     ],
     "echa": [
@@ -87,9 +87,9 @@
         "value": "100.028.284"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23936"
+        "value": "231-113-5"
       }
     ],
     "rtecs": [
@@ -115,8 +115,8 @@
     }
   ],
   "wiki": {
-    "en": "Niobium",
     "de": "Niob",
+    "en": "Niobium",
     "fr": "Niobium"
   }
 }

@@ -5,15 +5,15 @@
   },
   "basicity": "slightly-alkaline",
   "negativity": {
-    "pauling": 1.12,
     "allred": 1.08,
-    "nagle": 1.05
+    "nagle": 1.05,
+    "pauling": 1.12
   },
   "oxidation_state": "'''3''', 4",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.34,
+    "info": "Ce[3+] + 3e[-] → Ce",
     "unit": "V",
-    "info": "Ce[3+] + 3e[-] → Ce"
+    "value": -2.34
   }
 }

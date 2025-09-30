@@ -11,22 +11,22 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1955,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1955
   },
   "names": {
-    "en": "Mendelevium",
     "de": "Mendelevium",
-    "la": "Mendelevium",
-    "fr": "Mendélévium"
+    "en": "Mendelevium",
+    "fr": "Mendélévium",
+    "la": "Mendelevium"
   },
   "number": 101,
   "properties": [
@@ -40,8 +40,8 @@
         "value": "7440-11-1"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Md",
@@ -60,8 +60,8 @@
     }
   ],
   "wiki": {
-    "en": "Mendelevium",
     "de": "Mendelevium",
+    "en": "Mendelevium",
     "fr": "Mendélévium"
   }
 }

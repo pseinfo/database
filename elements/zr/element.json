@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 50,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 40,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 6700,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 130000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.026,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 3,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 130000
     },
     "human": {
-      "value": 50,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 6700
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 3
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 40
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 50
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.026
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 4,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Klaproth",
-    "value": 1789,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1789
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zirconium_crystal_bar_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Zirconium_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (pse-mendelejew.de).</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Zirconium_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (pse-mendelejew.de).</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zirconium_crystal_bar_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Zirconium",
     "de": "Zirconium",
-    "la": "Zirconium",
-    "fr": "Zirconium"
+    "en": "Zirconium",
+    "fr": "Zirconium",
+    "la": "Zirconium"
   },
   "number": 40,
   "price": {
-    "value": 36.4,
     "deviation": 0.7,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 36.4
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7440-67-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-176-9"
+        "value": "CID23995"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.342"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23995"
+        "value": "231-176-9"
       }
     ]
   },
@@ -117,8 +117,8 @@
     }
   ],
   "wiki": {
-    "en": "Zirconium",
     "de": "Zirconium",
+    "en": "Zirconium",
     "fr": "Zirconium"
   }
 }

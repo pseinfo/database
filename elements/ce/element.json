@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 60000
     },
     "meteorite": {
-      "value": 760,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 60000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0012,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 760
     },
     "stream": {
-      "value": 0.06,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.06
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 4
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0012
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,31 +42,31 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "von Hisinger, Berzelius, Klaproth",
-    "value": 1803,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1803
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cerium2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cerium2.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Cerium2.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cerium2.jpg"
   },
   "names": {
-    "en": "Cerium",
     "de": "Cer",
-    "la": "Cerium",
-    "fr": "Cérium"
+    "en": "Cerium",
+    "fr": "Cérium",
+    "la": "Cerium"
   },
   "number": 58,
   "price": {
-    "value": 4.64,
     "deviation": 0.07,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 4.64
   },
   "properties": [
     "natural",
@@ -80,9 +80,9 @@
         "value": "7440-45-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-154-9"
+        "value": "CID23974"
       }
     ],
     "echa": [
@@ -90,9 +90,9 @@
         "value": "100.028.322"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23974"
+        "value": "231-154-9"
       }
     ]
   },
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Cerium",
     "de": "Cer",
+    "en": "Cerium",
     "fr": "Cérium"
   }
 }

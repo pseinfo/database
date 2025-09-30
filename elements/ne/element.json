@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1300000,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 3
     },
     "sun": {
-      "value": 1000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1000000
     },
-    "crust": {
-      "value": 3,
-      "unit": "ppb"
+    "universe": {
+      "unit": "ppb",
+      "value": 1300000
     },
     "water": {
-      "value": 0.12,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.12
     }
   },
   "appearance": {
-    "en": "colorless gas exhibiting an orange-red glow when placed in an electric field",
     "de": "farbloses Gas",
+    "en": "colorless gas exhibiting an orange-red glow when placed in an electric field",
     "fr": "Incolore"
   },
   "classification": {
@@ -34,30 +34,30 @@
     "group": 18,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "noblegas",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Ramsay, Travers",
-    "value": 1898,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1898
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Neon_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Neon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Neon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Neon_discharge_tube.jpg"
   },
   "names": {
-    "en": "Neon",
     "de": "Neon",
-    "la": "Neon",
-    "fr": "Néon"
+    "en": "Neon",
+    "fr": "Néon",
+    "la": "Neon"
   },
   "number": 10,
   "price": {
-    "value": 240,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 240
   },
   "properties": [
     "natural",
@@ -69,9 +69,9 @@
         "value": "7440-01-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-110-9"
+        "value": "CID23935"
       }
     ],
     "echa": [
@@ -79,9 +79,9 @@
         "value": "100.028.282"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23935"
+        "value": "231-110-9"
       }
     ],
     "rtecs": [
@@ -107,8 +107,8 @@
     }
   ],
   "wiki": {
-    "en": "Neon",
     "de": "Neon",
+    "en": "Neon",
     "fr": "Néon"
   }
 }

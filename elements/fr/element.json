@@ -11,26 +11,26 @@
     "group": 1,
     "occurrence": "decay",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "highly-radioactive",
-    "phase": "solid",
     "set": "alkalimetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Perey",
-    "value": 1939,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1939
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pichblende.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Pichblende.jpg\">Template:Farhan</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Pichblende.jpg\">Template:Farhan</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pichblende.jpg"
   },
   "names": {
-    "en": "Francium",
     "de": "Francium",
-    "la": "Francium",
-    "fr": "Francium"
+    "en": "Francium",
+    "fr": "Francium",
+    "la": "Francium"
   },
   "number": 87,
   "properties": [
@@ -45,13 +45,13 @@
         "value": "7440-73-5"
       }
     ],
-    "eg": null,
-    "echa": null,
     "cid": [
       {
         "value": "CIDNone"
       }
-    ]
+    ],
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Fr",
@@ -70,8 +70,8 @@
     }
   ],
   "wiki": {
-    "en": "Francium",
     "de": "Francium",
+    "en": "Francium",
     "fr": "Francium"
   }
 }

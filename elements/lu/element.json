@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.1,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 560
     },
     "meteorite": {
-      "value": 30,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 560,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00015,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 30
     },
     "stream": {
-      "value": 0.008,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.008
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.1
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00015
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "von Welsbach, Urbain",
-    "value": 1907,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1907
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lutetium_sublimed_dendritic_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lutetium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lutetium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lutetium_sublimed_dendritic_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Lutetium",
     "de": "Lutetium",
-    "la": "Lutetium",
-    "fr": "Lutécium"
+    "en": "Lutetium",
+    "fr": "Lutécium",
+    "la": "Lutetium"
   },
   "number": 71,
   "price": {
-    "value": 643,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 643
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7439-94-3"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-103-0"
+        "value": "CID23929"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.275"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23929"
+        "value": "231-103-0"
       }
     ]
   },
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Lutetium",
     "de": "Lutetium",
+    "en": "Lutetium",
     "fr": "Lutécium"
   }
 }

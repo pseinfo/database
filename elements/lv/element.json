@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "JINR",
-    "value": 2000,
-    "era": "recent"
+    "era": "recent",
+    "value": 2000
   },
   "names": {
-    "en": "Livermorium",
     "de": "Livermorium",
-    "la": "Livermorium",
-    "fr": "Livermorium"
+    "en": "Livermorium",
+    "fr": "Livermorium",
+    "la": "Livermorium"
   },
   "number": 116,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54100-71-9"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Lv",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Livermorium",
     "de": "Livermorium",
+    "en": "Livermorium",
     "fr": "Livermorium"
   }
 }

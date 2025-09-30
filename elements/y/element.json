@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 7,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 10,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 29000
     },
     "meteorite": {
-      "value": 1900,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 29000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.013,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1900
     },
     "stream": {
-      "value": 50,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 7
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.013
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 3,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Gadolin",
-    "value": 1794,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1794
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yttrium_sublimed_dendritic_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Yttrium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Yttrium_sublimed_dendritic_and_1cm3_cube.jpg\">Alchemist-hp (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yttrium_sublimed_dendritic_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Yttrium",
     "de": "Yttrium",
-    "la": "Yttrium",
-    "fr": "Yttrium"
+    "en": "Yttrium",
+    "fr": "Yttrium",
+    "la": "Yttrium"
   },
   "number": 39,
   "price": {
-    "value": 31,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 31
   },
   "properties": [
     "natural",
@@ -80,9 +80,9 @@
         "value": "7440-65-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-174-8"
+        "value": "CID23993"
       }
     ],
     "echa": [
@@ -90,9 +90,9 @@
         "value": "100.028.340"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23993"
+        "value": "231-174-8"
       }
     ],
     "rtecs": [
@@ -118,8 +118,8 @@
     }
   ],
   "wiki": {
-    "en": "Yttrium",
     "de": "Yttrium",
+    "en": "Yttrium",
     "fr": "Yttrium"
   }
 }

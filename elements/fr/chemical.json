@@ -4,17 +4,17 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "pauling": 0.7,
     "allred": 0.86,
     "mulliken": 0.68,
-    "nagle": 0.82
+    "nagle": 0.82,
+    "pauling": 0.7
   },
   "oxidation_state": "+1",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.92,
     "*": true,
+    "info": "Fr[+] + e[-] → Fr",
     "unit": "V",
-    "info": "Fr[+] + e[-] → Fr"
+    "value": -2.92
   }
 }

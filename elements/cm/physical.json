@@ -4,48 +4,48 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 13.51,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 13.51
   },
   "enthalpy": {
     "vaporisation": {
-      "value": 320,
       "*": true,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 320
     }
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 10,
-      "unit": "W·m[-1]·K[-1]",
       "condition": [
         {
           "value": 300,
           "unit": "K"
         }
-      ]
+      ],
+      "unit": "W·m[-1]·K[-1]",
+      "value": 10
     }
   },
   "magnetic": {
     "magnetic_ordering": "antiferromagnetic"
   },
   "molar_volume": {
-    "value": 0.00001805,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00001805
   },
   "phase": "solid",
   "temperature": {
-    "melting": {
-      "value": 1613,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 3383,
-      "unit": "K"
+      "unit": "K",
+      "value": 3383
     },
     "liquid": {
-      "value": 1770,
-      "unit": "K"
+      "unit": "K",
+      "value": 1770
+    },
+    "melting": {
+      "unit": "K",
+      "value": 1613
     }
   }
 }

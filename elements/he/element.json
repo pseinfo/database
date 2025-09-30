@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 230000000,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 5.5
     },
     "sun": {
-      "value": 230000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 230000000
     },
-    "crust": {
-      "value": 5.5,
-      "unit": "ppb"
+    "universe": {
+      "unit": "ppb",
+      "value": 230000000
     },
     "water": {
-      "value": 0.0072,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.0072
     }
   },
   "appearance": {
-    "en": "colorless gas, exhibiting a gray, cloudy glow",
     "de": "farbloses Gas",
+    "en": "colorless gas, exhibiting a gray, cloudy glow",
     "fr": "gaz incolore, présentant une lueur grise et nuageuse"
   },
   "classification": {
@@ -34,44 +34,49 @@
     "group": 18,
     "occurrence": "primordial",
     "period": 1,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "noblegas",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Ramsay, Crookes",
-    "value": 1895,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1895
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Helium_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Helium_discharge_tube.jpg\">Alchemist-hp (Diskussion) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Helium_discharge_tube.jpg\">Alchemist-hp (Diskussion) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Helium_discharge_tube.jpg"
   },
   "names": {
-    "en": "Helium",
     "de": "Helium",
-    "la": "Helium",
-    "fr": "Hélium"
+    "en": "Helium",
+    "fr": "Hélium",
+    "la": "Helium"
   },
   "number": 2,
   "price": {
-    "value": 24,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 24
   },
   "properties": [
     "natural",
     "stable"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "V03AN03"
+      }
+    ],
     "cas": [
       {
         "value": "7440-59-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-168-5"
+        "value": "CID23987"
       }
     ],
     "echa": [
@@ -79,14 +84,9 @@
         "value": "100.028.334"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "V03AN03"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID23987"
+        "value": "231-168-5"
       }
     ],
     "rtecs": [
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Helium",
     "de": "Helium",
+    "en": "Helium",
     "fr": "Hélium"
   }
 }

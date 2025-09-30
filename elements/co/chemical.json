@@ -5,24 +5,24 @@
   },
   "basicity": "neutral",
   "negativity": {
-    "pauling": 1.88,
-    "sanderson": 2.56,
     "allred": 1.7,
     "ghosh_gupta": {
-      "value": 3.7305,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 3.7305
     },
     "nagle": 1.44,
+    "pauling": 1.88,
     "pearson": {
-      "value": 4.3,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 4.3
+    },
+    "sanderson": 2.56
   },
   "oxidation_state": "'''2''', 3",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -0.28,
+    "info": "Co[2+] + 2e[-] → Co",
     "unit": "V",
-    "info": "Co[2+] + 2e[-] → Co"
+    "value": -0.28
   }
 }

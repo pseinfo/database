@@ -5,16 +5,16 @@
   },
   "basicity": "amphoterism",
   "negativity": {
-    "pauling": 2,
     "allred": 1.76,
     "mulliken": 2.48,
-    "nagle": 1.96
+    "nagle": 1.96,
+    "pauling": 2
   },
   "oxidation_state": "(-2), 2, '''4''', 6",
   "oxide_character": "acidic",
   "standard_potential": {
-    "value": 0.37,
+    "info": "Po[2+] + 2e[-] → Po",
     "unit": "V",
-    "info": "Po[2+] + 2e[-] → Po"
+    "value": 0.37
   }
 }

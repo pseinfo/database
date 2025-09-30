@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 0.4
     },
     "meteorite": {
-      "value": 550,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 550
     },
-    "crust": {
-      "value": 0.4,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -34,31 +34,31 @@
     "group": 9,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Tennant",
-    "value": 1803,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1803
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Iridium_foil.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Iridium_foil.jpg\">Dschwen</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Iridium_foil.jpg\">Dschwen</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Iridium_foil.jpg"
   },
   "names": {
-    "en": "Iridium",
     "de": "Iridium",
-    "la": "Iridium",
-    "fr": "Iridium"
+    "en": "Iridium",
+    "fr": "Iridium",
+    "la": "Iridium"
   },
   "number": 77,
   "price": {
-    "value": 55850,
     "deviation": 350,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 55850
   },
   "properties": [
     "natural",
@@ -74,9 +74,9 @@
         "value": "7439-88-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-095-9"
+        "value": "CID23924"
       }
     ],
     "echa": [
@@ -84,9 +84,9 @@
         "value": "100.028.269"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23924"
+        "value": "231-095-9"
       }
     ]
   },
@@ -107,8 +107,8 @@
     }
   ],
   "wiki": {
-    "en": "Iridium",
     "de": "Iridium",
+    "en": "Iridium",
     "fr": "Iridium"
   }
 }

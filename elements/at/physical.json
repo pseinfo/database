@@ -4,33 +4,33 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 6.4,
     "*": true,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 6.4
   },
   "enthalpy": {
     "fusion": {
-      "value": 6,
       "*": true,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 6
     },
     "vaporisation": {
-      "value": 40,
       "*": true,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 40
     }
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 2,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 2
     }
   },
   "magnetic": {},
   "molar_volume": {
-    "value": 0.000033,
     "*": true,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.000033
   },
   "phase": "solid"
 }

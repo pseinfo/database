@@ -5,13 +5,13 @@
   },
   "abundance": {
     "sun": {
-      "value": 0.005,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.005
     }
   },
   "appearance": {
-    "en": "metallic",
     "de": "metallisch",
+    "en": "metallic",
     "fr": "métallique"
   },
   "classification": {
@@ -22,27 +22,27 @@
     "group": 19,
     "occurrence": "decay",
     "period": 6,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "solid",
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Marinsky",
-    "value": 1945,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1945
   },
   "names": {
-    "en": "Promethium",
     "de": "Promethium",
-    "la": "Promethium",
-    "fr": "Prométhium"
+    "en": "Promethium",
+    "fr": "Prométhium",
+    "la": "Promethium"
   },
   "number": 61,
   "price": {
-    "value": 460000,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 460000
   },
   "properties": [
     "heavy",
@@ -56,14 +56,14 @@
         "value": "7440-12-2"
       }
     ],
-    "eg": [
-      {
-        "value": "231-121-9"
-      }
-    ],
     "echa": [
       {
         "value": "100.028.292"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-121-9"
       }
     ]
   },
@@ -84,8 +84,8 @@
     }
   ],
   "wiki": {
-    "en": "Promethium",
     "de": "Promethium",
+    "en": "Promethium",
     "fr": "Prométhium"
   }
 }

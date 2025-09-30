@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "Oganessian",
-    "value": 1974,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1974
   },
   "names": {
-    "en": "Seaborgium",
     "de": "Seaborgium",
-    "la": "Seaborgium",
-    "fr": "Seaborgium"
+    "en": "Seaborgium",
+    "fr": "Seaborgium",
+    "la": "Seaborgium"
   },
   "number": 106,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54038-81-2"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Sg",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Seaborgium",
     "de": "Seaborgium",
+    "en": "Seaborgium",
     "fr": "Seaborgium"
   }
 }

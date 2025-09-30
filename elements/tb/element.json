@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 0.1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 940
     },
     "meteorite": {
-      "value": 40,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 940,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00014,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 40
     },
     "stream": {
-      "value": 0.008,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.008
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 0.1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.5
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00014
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Mosander",
-    "value": 1843,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1843
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Terbium-2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Terbium-2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Terbium-2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Terbium-2.jpg"
   },
   "names": {
-    "en": "Terbium",
     "de": "Terbium",
-    "la": "Terbium",
-    "fr": "Terbium"
+    "en": "Terbium",
+    "fr": "Terbium",
+    "la": "Terbium"
   },
   "number": 65,
   "price": {
-    "value": 658,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 658
   },
   "properties": [
     "natural",
@@ -80,9 +80,9 @@
         "value": "7440-27-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-137-6"
+        "value": "CID23958"
       }
     ],
     "echa": [
@@ -90,9 +90,9 @@
         "value": "100.028.306"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23958"
+        "value": "231-137-6"
       }
     ]
   },
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Terbium",
     "de": "Terbium",
+    "en": "Terbium",
     "fr": "Terbium"
   }
 }

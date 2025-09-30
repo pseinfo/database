@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.6,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 80
     },
     "meteorite": {
-      "value": 140,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 80,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 140
     },
     "stream": {
-      "value": 0.3,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.3
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.6
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.1
     }
   },
   "appearance": {
-    "en": "lustrous white metal",
     "de": "weißglänzend, metallisch",
+    "en": "lustrous white metal",
     "fr": "métal blanc lustré"
   },
   "classification": {
@@ -42,8 +42,8 @@
     "group": 11,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
@@ -51,19 +51,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Silver_crystal.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Silver_crystal.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Silver_crystal.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Silver_crystal.jpg"
   },
   "names": {
-    "en": "Silver",
     "de": "Silber",
-    "la": "Argentum",
-    "fr": "Argent"
+    "en": "Silver",
+    "fr": "Argent",
+    "la": "Argentum"
   },
   "number": 47,
   "price": {
-    "value": 521,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 521
   },
   "properties": [
     "natural",
@@ -74,14 +74,19 @@
     "antiquity"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "D08AL30"
+      }
+    ],
     "cas": [
       {
         "value": "7440-22-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-131-3"
+        "value": "CID23954"
       }
     ],
     "echa": [
@@ -89,14 +94,9 @@
         "value": "100.028.301"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "D08AL30"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID23954"
+        "value": "231-131-3"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Silver",
     "de": "Silber",
+    "en": "Silver",
     "fr": "Argent"
   }
 }

@@ -5,42 +5,42 @@
   },
   "electron_config": "Ne 3s[2] 3p[3]",
   "ionization": {
+    "unit": "eV",
     "values": [
       10.486686,
       19.76949,
       30.20264,
       51.44387,
       65.02511
-    ],
-    "unit": "eV"
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 30.9737619985,
-      "unit": "u"
+      "unit": "u",
+      "value": 30.9737619985
     },
     "standard_atomic_weight": {
-      "value": 30.973762,
-      "deviation": 5e-9
+      "deviation": 5e-9,
+      "value": 30.973762
     }
   },
   "radius": {
-    "empirical": {
-      "value": 100,
-      "unit": "pm"
-    },
     "calculated": {
-      "value": 98,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 98
     },
     "covalent": {
-      "value": 107,
       "deviation": 3,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 107
+    },
+    "empirical": {
+      "unit": "pm",
+      "value": 100
     },
     "vdw": {
-      "value": 180,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 180
     }
   },
   "shell": [

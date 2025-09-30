@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "GSI",
-    "value": 1996,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1996
   },
   "names": {
-    "en": "Copernicium",
     "de": "Copernicium",
-    "la": "Copernicium",
-    "fr": "Copernicium"
+    "en": "Copernicium",
+    "fr": "Copernicium",
+    "la": "Copernicium"
   },
   "number": 112,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54084-26-3"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Cn",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Copernicium",
     "de": "Copernicium",
+    "en": "Copernicium",
     "fr": "Copernicium"
   }
 }

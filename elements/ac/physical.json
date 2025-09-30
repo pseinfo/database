@@ -4,48 +4,48 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 10.07,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 10.07
   },
   "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 406
+    },
     "fusion": {
-      "value": 14,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 14
     },
     "vaporisation": {
-      "value": 400,
-      "unit": "kJ·mol[-1]"
-    },
-    "atomisation": {
-      "value": 406,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 400
     }
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 12,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 12
     }
   },
   "magnetic": {},
   "molar_volume": {
-    "value": 0.00002255,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00002255
   },
   "phase": "solid",
   "temperature": {
-    "melting": {
-      "value": 1500,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 3500,
       "deviation": 300,
-      "unit": "K"
+      "unit": "K",
+      "value": 3500
     },
     "liquid": {
-      "value": 2000,
-      "unit": "K"
+      "unit": "K",
+      "value": 2000
+    },
+    "melting": {
+      "unit": "K",
+      "value": 1500
     }
   }
 }

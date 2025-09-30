@@ -5,21 +5,21 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 2.02,
-    "sanderson": 2.34,
     "allred": 1.67,
     "mulliken": 2.15,
     "nagle": 1.83,
+    "pauling": 2.02,
     "pearson": {
-      "value": 4.69,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 4.69
+    },
+    "sanderson": 2.34
   },
   "oxidation_state": "(-3), 1, '''3''', 5",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": 0.317,
+    "info": "Bi[3+] + 3e[-] → Bi",
     "unit": "V",
-    "info": "Bi[3+] + 3e[-] → Bi"
+    "value": 0.317
   }
 }

@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 40,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 50,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 8900,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 360000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 8100,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 60,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 360000
     },
     "human": {
-      "value": 4600,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 4600
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 8900
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 60
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 50
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 40
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 8100
     }
   },
   "appearance": {
-    "en": "silvery white metallic; with a pale yellow tint",
     "de": "silbrig weiß metallisch",
+    "en": "silvery white metallic; with a pale yellow tint",
     "fr": "blanc argenté métallisé ; avec une teinte jaune pâle"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 2,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalineearthmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Klaproth",
-    "value": 1798,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1798
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Strontium_destilled_crystals.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Strontium_destilled_crystals.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Strontium_destilled_crystals.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Strontium_destilled_crystals.jpg"
   },
   "names": {
-    "en": "Strontium",
     "de": "Strontium",
-    "la": "Strontium",
-    "fr": "Strontium"
+    "en": "Strontium",
+    "fr": "Strontium",
+    "la": "Strontium"
   },
   "number": 38,
   "price": {
-    "value": 6.61,
     "deviation": 0.08,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 6.61
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7440-24-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-133-4"
+        "value": "CID5359327"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.303"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5359327"
+        "value": "231-133-4"
       }
     ]
   },
@@ -116,8 +116,8 @@
     }
   ],
   "wiki": {
-    "en": "Strontium",
     "de": "Strontium",
+    "en": "Strontium",
     "fr": "Strontium"
   }
 }

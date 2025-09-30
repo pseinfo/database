@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 8000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 380000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 170000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 19870000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 8000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 170000
     },
     "human": {
-      "value": 1200000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1200000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 380000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 8000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 8000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 19870000
     }
   },
   "appearance": {
-    "en": "pale yellow-green gas",
     "de": "gelblich-grün",
+    "en": "pale yellow-green gas",
     "fr": "gaz vert-jaune pâle"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 17,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "halogen",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Scheele",
-    "value": 1774,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1774
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Die_chemischen_elemente_cl.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Die_chemischen_elemente_cl.jpg\">Alexander C. Wimmer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/at/deed.en\">CC BY-SA 3.0 AT</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Die_chemischen_elemente_cl.jpg\">Alexander C. Wimmer</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/at/deed.en\">CC BY-SA 3.0 AT</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Die_chemischen_elemente_cl.jpg"
   },
   "names": {
-    "en": "Chlorine",
     "de": "Chlor",
-    "la": "Chlorum",
-    "fr": "Chlore"
+    "en": "Chlorine",
+    "fr": "Chlore",
+    "la": "Chlorum"
   },
   "number": 17,
   "price": {
-    "value": 0.082,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.082
   },
   "properties": [
     "natural",
@@ -82,9 +82,9 @@
         "value": "7782-50-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-959-5"
+        "value": "CID24526"
       }
     ],
     "echa": [
@@ -92,9 +92,9 @@
         "value": "100.029.053"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID24526"
+        "value": "231-959-5"
       }
     ],
     "rtecs": [
@@ -120,8 +120,8 @@
     }
   ],
   "wiki": {
-    "en": "Chlorine",
     "de": "Chlor",
+    "en": "Chlorine",
     "fr": "Chlore"
   }
 }

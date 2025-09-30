@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "GSI",
-    "value": 1994,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1994
   },
   "names": {
-    "en": "Darmstadtium",
     "de": "Darmstadtium",
-    "la": "Darmstadtium",
-    "fr": "Darmstadtium"
+    "en": "Darmstadtium",
+    "fr": "Darmstadtium",
+    "la": "Darmstadtium"
   },
   "number": 110,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54083-77-1"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Ds",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Darmstadtium",
     "de": "Darmstadtium",
+    "en": "Darmstadtium",
     "fr": "Darmstadtium"
   }
 }

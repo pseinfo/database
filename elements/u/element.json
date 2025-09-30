@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 10,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1800,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 3.3,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.04,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1800
     },
     "human": {
-      "value": 1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.04
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 3.3
     }
   },
   "appearance": {
-    "en": "silvery gray metallic; corrodes to a spalling black oxide coat in air",
     "de": "silberweiß",
+    "en": "silvery gray metallic; corrodes to a spalling black oxide coat in air",
     "fr": "gris argenté métallisé ; se corrode en une couche d'oxyde noir écaillée à l'air"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 20,
     "occurrence": "primordial",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "slightly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Klaproth",
-    "value": 1789,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1789
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vacuum_capacitor_with_uranium_glass.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Vacuum_capacitor_with_uranium_glass.jpg\">Warut Roonguthai</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Vacuum_capacitor_with_uranium_glass.jpg\">Warut Roonguthai</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vacuum_capacitor_with_uranium_glass.jpg"
   },
   "names": {
-    "en": "Uranium",
     "de": "Uran",
-    "la": "Uranium",
-    "fr": "Uranium"
+    "en": "Uranium",
+    "fr": "Uranium",
+    "la": "Uranium"
   },
   "number": 92,
   "price": {
-    "value": 101,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 101
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7440-61-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-170-6"
+        "value": "CID23989"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.336"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23989"
+        "value": "231-170-6"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Uranium",
     "de": "Uran",
+    "en": "Uranium",
     "fr": "Uranium"
   }
 }

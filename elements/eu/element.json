@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 0.5,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1800
     },
     "meteorite": {
-      "value": 60,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 1800,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00013,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 60
     },
     "stream": {
-      "value": 0.007,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.007
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 0.5
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.5
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00013
     }
   },
   "appearance": {
-    "en": "silvery white, with a pale yellow tint; but rarely seen without oxide discoloration",
     "de": "silbrig weiß",
+    "en": "silvery white, with a pale yellow tint; but rarely seen without oxide discoloration",
     "fr": "blanc argenté, avec une lueur jaune pâle; mais rarement vu sans décoloration d'oxide"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Demarçay",
-    "value": 1901,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1901
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Europium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Europium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Europium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Europium.jpg"
   },
   "names": {
-    "en": "Europium",
     "de": "Europium",
-    "la": "Europium",
-    "fr": "Europium"
+    "en": "Europium",
+    "fr": "Europium",
+    "la": "Europium"
   },
   "number": 63,
   "price": {
-    "value": 31.4,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 31.4
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7440-53-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-161-7"
+        "value": "CID23981"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.328"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23981"
+        "value": "231-161-7"
       }
     ]
   },
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Europium",
     "de": "Europium",
+    "en": "Europium",
     "fr": "Europium"
   }
 }

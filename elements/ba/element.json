@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 2800,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 340000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 30,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 25,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 340000
     },
     "human": {
-      "value": 300,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 300
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 2800
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 25
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 30
     }
   },
   "appearance": {
-    "en": "silvery gray; with a pale yellow tint",
     "de": "weiß-grau metallisch",
+    "en": "silvery gray; with a pale yellow tint",
     "fr": "gris argenté; avec une lueur jaune pâle"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 2,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalineearthmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Davy",
-    "value": 1808,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1808
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Barium_dendritic.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Barium_dendritic.jpg\">La2O3</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Barium_dendritic.jpg\">La2O3</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Barium_dendritic.jpg"
   },
   "names": {
-    "en": "Barium",
     "de": "Barium",
-    "la": "Barium",
-    "fr": "Baryum"
+    "en": "Barium",
+    "fr": "Baryum",
+    "la": "Barium"
   },
   "number": 56,
   "price": {
-    "value": 0.26,
     "deviation": 0.015,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.26
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7440-39-3"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-149-1"
+        "value": "CID5355457"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.317"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5355457"
+        "value": "231-149-1"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Barium",
     "de": "Barium",
+    "en": "Barium",
     "fr": "Baryum"
   }
 }

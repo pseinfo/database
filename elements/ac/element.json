@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "silvery-white, glowing with an eerie blue light; sometimes with a golden cast",
     "de": "silbrig",
+    "en": "silvery-white, glowing with an eerie blue light; sometimes with a golden cast",
     "fr": "blanc argenté, brillant d'une étrange lumière bleue"
   },
   "classification": {
@@ -16,26 +16,26 @@
     "group": 20,
     "occurrence": "decay",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Debierne",
-    "value": 1899,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1899
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Actinium_sample_%2831481701837%29.png",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Actinium_sample_(31481701837).png\">Oak Ridge National Laboratory</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Actinium_sample_(31481701837).png\">Oak Ridge National Laboratory</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Actinium_sample_%2831481701837%29.png"
   },
   "names": {
-    "en": "Actinium",
     "de": "Actinium",
-    "la": "Actinium",
-    "fr": "Actinium"
+    "en": "Actinium",
+    "fr": "Actinium",
+    "la": "Actinium"
   },
   "number": 89,
   "properties": [
@@ -50,8 +50,8 @@
         "value": "7440-34-8"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAABCAIAAADPbEtiAAACDklEQVRIx92Uz0tUURTHP+c9nHIswikpi0ImdxGCgbSQCAJhIgyChDZB0KrA/oQW0qoIVxEt0k1URImBoBJtooUIQdqmXyQuiiamyEpt5s09Ld789L03zptmCLs8Lud+z/d8v+ce3nsSpZXikvJIWLukgx4XF2SBGS+hJLL20wuyyGyGlQALr0sIQkCfsp34broEec10mp8uYSs74xxxCXM8VEzlm3otIrQcZAAEZIFnHRwFecV9h9/76P3M3DKpGJ1x+kBeMpphuVxK/PTFrwcJDgKzNpFDXFH4wuwHHhRS3VxXUOQtN2IcTvJ0hY9tHNvFSRCFeQZdqpZYaFHabiWRIbXETJ4iJUwUIuxtZ8h1WeQc5dlCh6X6QvMObiuiyFcGDUktm3/TNu4porDEaUU9muLVDz563ia7i01XsSD7iPRNJI8X9qCjL949jQUWvDiOOtVW1eYlQv8Q8R6e32J+gkvjOetrCUy2wda+R81Pes1TJQh7YjQ38f4TaqpQCGX3l7354utNbjNtj7Hg2wWcd7VPekPg0RaGx7Bh8i5jI8XUnfwHcfYEmXQlneKA67SLMDUMBgxnLpP6vl5VfRvw/PjCIQHgQCfnD+S67Z9gNRtOTYSpvlx54glZU1MbFWm2cKqdXw6TSYzWX78hhQ1uIypcjDK+yhvnH19TwweNYP734hZsgR9gNsgd/wBPC0gWbilWcQAAAABJRU5ErkJggg==",
   "symbol": "Ac",
@@ -70,8 +70,8 @@
     }
   ],
   "wiki": {
-    "en": "Actinium",
     "de": "Actinium",
+    "en": "Actinium",
     "fr": "Actinium"
   }
 }

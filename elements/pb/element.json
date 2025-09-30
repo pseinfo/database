@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1400,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 10000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.03,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 3,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 10000
     },
     "human": {
-      "value": 1700,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1700
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1400
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 3
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.03
     }
   },
   "appearance": {
-    "en": "metallic gray",
     "de": "bläulich weiß",
+    "en": "metallic gray",
     "fr": "gris métallique"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 14,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metal",
     "superconductivity": "normal"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lead-2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lead-2.jpg\">Chemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Lead-2.jpg\">Chemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lead-2.jpg"
   },
   "names": {
-    "en": "Lead",
     "de": "Blei",
-    "la": "Plumbum",
-    "fr": "Plomb"
+    "en": "Lead",
+    "fr": "Plomb",
+    "la": "Plumbum"
   },
   "number": 82,
   "price": {
-    "value": 2,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2
   },
   "properties": [
     "natural",
@@ -82,9 +82,9 @@
         "value": "7439-92-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-100-4"
+        "value": "CID5352425"
       }
     ],
     "echa": [
@@ -92,9 +92,9 @@
         "value": "100.028.273"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5352425"
+        "value": "231-100-4"
       }
     ],
     "rtecs": [
@@ -120,8 +120,8 @@
     }
   ],
   "wiki": {
-    "en": "Lead",
     "de": "Blei",
+    "en": "Lead",
     "fr": "Plomb"
   }
 }

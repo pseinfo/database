@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 200,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 200,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1400
     },
     "meteorite": {
-      "value": 21000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 21000
     },
-    "crust": {
-      "value": 1400,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 200
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 200
     },
     "water": {
-      "value": 0.06,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.06
     }
   },
   "appearance": {
-    "en": "grayish-white",
     "de": "gräulich weiß",
+    "en": "grayish-white",
     "fr": "blanc grisâtre"
   },
   "classification": {
@@ -38,31 +38,31 @@
     "group": 14,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Winkler",
-    "value": 1886,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1886
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Polycrystalline-germanium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Polycrystalline-germanium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Polycrystalline-germanium.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Polycrystalline-germanium.jpg"
   },
   "names": {
-    "en": "Germanium",
     "de": "Germanium",
-    "la": "Germanium",
-    "fr": "Germanium"
+    "en": "Germanium",
+    "fr": "Germanium",
+    "la": "Germanium"
   },
   "number": 32,
   "price": {
-    "value": 962,
     "deviation": 48,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 962
   },
   "properties": [
     "natural",
@@ -76,9 +76,9 @@
         "value": "7440-56-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-164-3"
+        "value": "CID6326954"
       }
     ],
     "echa": [
@@ -86,9 +86,9 @@
         "value": "100.028.331"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID6326954"
+        "value": "231-164-3"
       }
     ],
     "rtecs": [
@@ -114,8 +114,8 @@
     }
   ],
   "wiki": {
-    "en": "Germanium",
     "de": "Germanium",
+    "en": "Germanium",
     "fr": "Germanium"
   }
 }

@@ -5,19 +5,19 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 1.5,
     "allred": 1.33,
     "nagle": 1.26,
+    "pauling": 1.5,
     "pearson": {
-      "value": 4.11,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 4.11
     }
   },
   "oxidation_state": "5",
   "oxide_character": "amphoteric",
   "standard_potential": {
-    "value": -0.81,
+    "info": "½Ta{2}O{5} + 5H[+] + 5e[-] → Ta + 2½H{2}O",
     "unit": "V",
-    "info": "½Ta{2}O{5} + 5H[+] + 5e[-] → Ta + 2½H{2}O"
+    "value": -0.81
   }
 }

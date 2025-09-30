@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 40,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 19000
     },
     "meteorite": {
-      "value": 7800,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 19000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.03,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 7800
     },
     "stream": {
-      "value": 0.15,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.15
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 40
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.03
     }
   },
   "appearance": {
-    "en": "silvery blue",
     "de": "silbrig weiß",
+    "en": "silvery blue",
     "fr": "bleu argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 13,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Lecoq de Boisbaudran",
-    "value": 1875,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1875
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gallium_crystals.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Gallium_crystals.jpg\">en:user:foobar</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Gallium_crystals.jpg\">en:user:foobar</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gallium_crystals.jpg"
   },
   "names": {
-    "en": "Gallium",
     "de": "Gallium",
-    "la": "Gallium",
-    "fr": "Gallium"
+    "en": "Gallium",
+    "fr": "Gallium",
+    "la": "Gallium"
   },
   "number": 31,
   "price": {
-    "value": 148,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 148
   },
   "properties": [
     "natural",
@@ -78,9 +78,9 @@
         "value": "7440-55-3"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-163-8"
+        "value": "CID5360835"
       }
     ],
     "echa": [
@@ -88,9 +88,9 @@
         "value": "100.028.330"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5360835"
+        "value": "231-163-8"
       }
     ],
     "rtecs": [
@@ -116,8 +116,8 @@
     }
   ],
   "wiki": {
-    "en": "Gallium",
     "de": "Gallium",
+    "en": "Gallium",
     "fr": "Gallium"
   }
 }

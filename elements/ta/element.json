@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.08,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1700
     },
     "meteorite": {
-      "value": 20,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 20
     },
-    "crust": {
-      "value": 1700,
-      "unit": "ppb"
+    "universe": {
+      "unit": "ppb",
+      "value": 0.08
     },
     "water": {
-      "value": 0.002,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.002
     }
   },
   "appearance": {
-    "en": "gray blue",
     "de": "grau",
+    "en": "gray blue",
     "fr": "bleu gris"
   },
   "classification": {
@@ -34,31 +34,31 @@
     "group": 5,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Ekeberg",
-    "value": 1802,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1802
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tantalum_single_crystal_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tantalum_single_crystal_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Tantalum",
     "de": "Tantal",
-    "la": "Tantalum",
-    "fr": "Tantale"
+    "en": "Tantalum",
+    "fr": "Tantale",
+    "la": "Tantalum"
   },
   "number": 73,
   "price": {
-    "value": 305,
     "deviation": 7,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 305
   },
   "properties": [
     "natural",
@@ -72,9 +72,9 @@
         "value": "7440-25-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-135-5"
+        "value": "CID23956"
       }
     ],
     "echa": [
@@ -82,9 +82,9 @@
         "value": "100.028.304"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23956"
+        "value": "231-135-5"
       }
     ],
     "rtecs": [
@@ -110,8 +110,8 @@
     }
   ],
   "wiki": {
-    "en": "Tantalum",
     "de": "Tantal",
+    "en": "Tantalum",
     "fr": "Tantale"
   }
 }

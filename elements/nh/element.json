@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "JINR",
-    "value": 2006,
-    "era": "recent"
+    "era": "recent",
+    "value": 2006
   },
   "names": {
-    "en": "Nihonium",
     "de": "Nihonium",
-    "la": "Nihonium",
-    "fr": "Nihonium"
+    "en": "Nihonium",
+    "fr": "Nihonium",
+    "la": "Nihonium"
   },
   "number": 113,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54084-70-7"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Nh",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Nihonium",
     "de": "Nihonium",
+    "en": "Nihonium",
     "fr": "Nihonium"
   }
 }

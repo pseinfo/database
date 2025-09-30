@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1100
     },
     "meteorite": {
-      "value": 120,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 1100,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.12,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 120
     },
     "stream": {
-      "value": 0.03,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.03
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 4
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.5
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.12
     }
   },
   "appearance": {
-    "en": "grayish white, lustrous",
     "de": "gräulich weiß, glänzend",
+    "en": "grayish white, lustrous",
     "fr": "blanc grisâtre, lustré"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 6,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Fausto und Juan de Elhuyar",
-    "value": 1783,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1783
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Wolfram_evaporated_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Wolfram_evaporated_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Tungsten",
     "de": "Wolfram",
-    "la": "Wolframium",
-    "fr": "Tungstène"
+    "en": "Tungsten",
+    "fr": "Tungstène",
+    "la": "Wolframium"
   },
   "number": 74,
   "price": {
-    "value": 35.3,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 35.3
   },
   "properties": [
     "natural",
@@ -81,9 +81,9 @@
         "value": "7440-33-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-143-9"
+        "value": "CID23964"
       }
     ],
     "echa": [
@@ -91,9 +91,9 @@
         "value": "100.028.312"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23964"
+        "value": "231-143-9"
       }
     ],
     "rtecs": [
@@ -119,8 +119,8 @@
     }
   ],
   "wiki": {
-    "en": "Tungsten",
     "de": "Wolfram",
+    "en": "Tungsten",
     "fr": "Tungstène"
   }
 }

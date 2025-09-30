@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.3,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 160
     },
     "meteorite": {
-      "value": 45,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 45
     },
-    "crust": {
-      "value": 160,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 4
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.3
     },
     "water": {
-      "value": 0.0001,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.0001
     }
   },
   "appearance": {
-    "en": "silvery lustrous gray",
     "de": "silbrig glänzend grau",
+    "en": "silvery lustrous gray",
     "fr": "gris lustré argenté"
   },
   "classification": {
@@ -38,30 +38,30 @@
     "group": 13,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Reich, Richter",
-    "value": 1863,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1863
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Indium_wetting_glass.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Indium_wetting_glass.jpg\">Schtone</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Indium_wetting_glass.jpg\">Schtone</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Indium_wetting_glass.jpg"
   },
   "names": {
-    "en": "Indium",
     "de": "Indium",
-    "la": "Indium",
-    "fr": "Indium"
+    "en": "Indium",
+    "fr": "Indium",
+    "la": "Indium"
   },
   "number": 49,
   "price": {
-    "value": 167,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 167
   },
   "properties": [
     "natural",
@@ -75,9 +75,9 @@
         "value": "7440-74-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-180-0"
+        "value": "CID5359967"
       }
     ],
     "echa": [
@@ -85,9 +85,9 @@
         "value": "100.028.345"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5359967"
+        "value": "231-180-0"
       }
     ],
     "rtecs": [
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Indium",
     "de": "Indium",
+    "en": "Indium",
     "fr": "Indium"
   }
 }

@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 3,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 6.3
     },
     "meteorite": {
-      "value": 670,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 670
     },
-    "crust": {
-      "value": 6.3,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 3
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig, weiß, metallisch",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -34,30 +34,30 @@
     "group": 10,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Wollaston",
-    "value": 1803,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1803
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Palladium_crystals.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Palladium_crystals.jpg\">Hi-Res Images ofChemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Palladium_crystals.jpg\">Hi-Res Images ofChemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Palladium_crystals.jpg"
   },
   "names": {
-    "en": "Palladium",
     "de": "Palladium",
-    "la": "Palladium",
-    "fr": "Palladium"
+    "en": "Palladium",
+    "fr": "Palladium",
+    "la": "Palladium"
   },
   "number": 46,
   "price": {
-    "value": 49500,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 49500
   },
   "properties": [
     "natural",
@@ -73,9 +73,9 @@
         "value": "7440-05-3"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-115-6"
+        "value": "CID23938"
       }
     ],
     "echa": [
@@ -83,9 +83,9 @@
         "value": "100.028.286"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23938"
+        "value": "231-115-6"
       }
     ],
     "rtecs": [
@@ -111,8 +111,8 @@
     }
   ],
   "wiki": {
-    "en": "Palladium",
     "de": "Palladium",
+    "en": "Palladium",
     "fr": "Palladium"
   }
 }

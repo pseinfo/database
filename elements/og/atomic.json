@@ -5,29 +5,29 @@
   },
   "electron_config": "Rn 5f[14] 6d[10] 7s[2] 7p[6]",
   "ionization": {
+    "*": true,
+    "unit": "eV",
     "values": [
       8.7
-    ],
-    "unit": "eV",
-    "*": true
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 294,
       "*": true,
-      "unit": "u"
+      "unit": "u",
+      "value": 294
     }
   },
   "radius": {
-    "empirical": {
-      "value": 152,
-      "*": true,
-      "unit": "pm"
-    },
     "covalent": {
-      "value": 157,
       "*": true,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 157
+    },
+    "empirical": {
+      "*": true,
+      "unit": "pm",
+      "value": 152
     }
   },
   "shell": [

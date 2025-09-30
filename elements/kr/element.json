@@ -4,22 +4,22 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 40,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 0.15,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.15
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 40
     },
     "water": {
-      "value": 0.21,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.21
     }
   },
   "appearance": {
-    "en": "colorless gas, exhibiting a whitish glow in an electric field",
     "de": "farbloses Gas",
+    "en": "colorless gas, exhibiting a whitish glow in an electric field",
     "fr": "gaz incolore présentant une lueur blanchâtre lorsqu'il est placé dans un champ électrique"
   },
   "classification": {
@@ -30,44 +30,50 @@
     "group": 18,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "noblegas",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Ramsay, Travers",
-    "value": 1898,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1898
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Krypton_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Krypton_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Krypton_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Krypton_discharge_tube.jpg"
   },
   "names": {
-    "en": "Krypton",
     "de": "Krypton",
-    "la": "Krypton",
-    "fr": "Krypton"
+    "en": "Krypton",
+    "fr": "Krypton",
+    "la": "Krypton"
   },
   "number": 36,
   "price": {
-    "value": 290,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 290
   },
   "properties": [
     "natural",
     "stable"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "V09EX01",
+        "label": "[81m]Kr"
+      }
+    ],
     "cas": [
       {
         "value": "7439-90-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-098-5"
+        "value": "CID5416"
       }
     ],
     "echa": [
@@ -75,15 +81,9 @@
         "value": "100.028.271"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "V09EX01",
-        "label": "[81m]Kr"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID5416"
+        "value": "231-098-5"
       }
     ],
     "rtecs": [
@@ -109,8 +109,8 @@
     }
   ],
   "wiki": {
-    "en": "Krypton",
     "de": "Krypton",
+    "en": "Krypton",
     "fr": "Krypton"
   }
 }

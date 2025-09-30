@@ -5,18 +5,18 @@
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 10,
       "*": true,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 10
     }
   },
   "magnetic": {},
   "phase": "solid",
   "temperature": {
     "melting": {
-      "value": 1100,
       "*": true,
-      "unit": "K"
+      "unit": "K",
+      "value": 1100
     }
   }
 }

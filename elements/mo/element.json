@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 9,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1200,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1100,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.8,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1100
     },
     "human": {
-      "value": 100,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 100
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1200
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.8
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 9
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 5
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 10
     }
   },
   "appearance": {
-    "en": "gray metallic",
     "de": "grau metallisch",
+    "en": "gray metallic",
     "fr": "gris métallique"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 6,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Scheele",
-    "value": 1778,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1778
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Molybdenum_crystaline_fragment_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Molybdenum_crystaline_fragment_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Molybdenum_crystaline_fragment_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Molybdenum_crystaline_fragment_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Molybdenum",
     "de": "Molybdän",
-    "la": "Molybdenum",
-    "fr": "Molybdène"
+    "en": "Molybdenum",
+    "fr": "Molybdène",
+    "la": "Molybdenum"
   },
   "number": 42,
   "price": {
-    "value": 40.1,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 40.1
   },
   "properties": [
     "natural",
@@ -85,9 +85,9 @@
         "value": "7439-98-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-107-2"
+        "value": "CID23932"
       }
     ],
     "echa": [
@@ -95,9 +95,9 @@
         "value": "100.028.279"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23932"
+        "value": "231-107-2"
       }
     ],
     "rtecs": [
@@ -123,8 +123,8 @@
     }
   ],
   "wiki": {
-    "en": "Molybdenum",
     "de": "Molybdän",
+    "en": "Molybdenum",
     "fr": "Molybdène"
   }
 }

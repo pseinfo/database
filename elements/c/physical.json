@@ -32,28 +32,28 @@
   ],
   "elastic": {
     "bulk": {
-      "value": 33,
-      "unit": "GPa"
+      "unit": "GPa",
+      "value": 33
     }
   },
   "electrical": {
     "resistivity": {
-      "value": 0.00001,
-      "unit": "Ωm"
+      "unit": "Ωm",
+      "value": 0.00001
     }
   },
   "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 717
+    },
     "fusion": {
-      "value": 117,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 117
     },
     "vaporisation": {
-      "value": 715,
-      "unit": "kJ·mol[-1]"
-    },
-    "atomisation": {
-      "value": 717,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 715
     }
   },
   "hardness": {
@@ -77,33 +77,33 @@
       }
     ],
     "thermal_conductivity": {
-      "value": 140,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 140
     },
     "thermal_expansion": {
-      "value": 0.0000071,
-      "unit": "K[-1]"
+      "unit": "K[-1]",
+      "value": 0.0000071
     },
     "work_function": {
-      "value": 4.81,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 4.81
     }
   },
   "magnetic": {
     "magnetic_ordering": "diamagnetic",
     "magnetic_susceptibility": {
-      "value": -0.0000059,
-      "unit": "cm[3]·mol[−1]"
+      "unit": "cm[3]·mol[−1]",
+      "value": -0.0000059
     }
   },
   "molar_volume": {
-    "value": 0.00000531,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00000531
   },
   "optical": {
     "reflectivity": {
-      "value": 27,
-      "unit": "%"
+      "unit": "%",
+      "value": 27
     },
     "refractive_index": {
       "#": {
@@ -117,31 +117,31 @@
     "#": {
       "allotrope": "diamond"
     },
-    "value": 18350,
-    "unit": "m·s[−1]",
     "condition": [
       {
         "value": 293.15,
         "unit": "K"
       }
-    ]
+    ],
+    "unit": "m·s[−1]",
+    "value": 18350
   },
   "temperature": {
     "sublimation": {
-      "value": 3915,
-      "unit": "K"
-    },
-    "triple": {
-      "value": 4600,
       "unit": "K",
-      "@": {
-        "value": 10.8,
-        "unit": "MPa"
-      }
+      "value": 3915
     },
     "transition": {
-      "value": 15,
-      "unit": "K"
+      "unit": "K",
+      "value": 15
+    },
+    "triple": {
+      "@": {
+        "unit": "MPa",
+        "value": 10.8
+      },
+      "unit": "K",
+      "value": 4600
     }
   }
 }

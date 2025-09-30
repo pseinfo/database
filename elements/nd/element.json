@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 3,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 33000
     },
     "meteorite": {
-      "value": 510,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 33000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0028,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 510
     },
     "stream": {
-      "value": 0.2,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.2
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 3
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0028
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrigweiß, gelblicher Farbton",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "von Welsbach",
-    "value": 1895,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1895
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Neodymium2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Neodymium2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Neodymium2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Neodymium2.jpg"
   },
   "names": {
-    "en": "Neodymium",
     "de": "Neodym",
-    "la": "Neodymium",
-    "fr": "Néodyme"
+    "en": "Neodymium",
+    "fr": "Néodyme",
+    "la": "Neodymium"
   },
   "number": 60,
   "price": {
-    "value": 57.5,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 57.5
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7440-00-8"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-109-3"
+        "value": "CID23934"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.281"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23934"
+        "value": "231-109-3"
       }
     ],
     "rtecs": [
@@ -117,8 +117,8 @@
     }
   ],
   "wiki": {
-    "en": "Neodymium",
     "de": "Neodym",
+    "en": "Neodymium",
     "fr": "Néodyme"
   }
 }

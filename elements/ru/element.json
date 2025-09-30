@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 4,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 5,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1
     },
     "meteorite": {
-      "value": 830,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 830
     },
-    "crust": {
-      "value": 1,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 5
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 4
     },
     "water": {
-      "value": 0.0007,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.0007
     }
   },
   "appearance": {
-    "en": "silvery white metallic",
     "de": "silbrig weiß metallisch",
+    "en": "silvery white metallic",
     "fr": "métallique blanc argenté"
   },
   "classification": {
@@ -38,31 +38,31 @@
     "group": 8,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Claus",
-    "value": 1844,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1844
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruthenium_a_half_bar.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Ruthenium_a_half_bar.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Ruthenium_a_half_bar.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ruthenium_a_half_bar.jpg"
   },
   "names": {
-    "en": "Ruthenium",
     "de": "Ruthenium",
-    "la": "Ruthenium",
-    "fr": "Ruthénium"
+    "en": "Ruthenium",
+    "fr": "Ruthénium",
+    "la": "Ruthenium"
   },
   "number": 44,
   "price": {
-    "value": 10500,
     "deviation": 100,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 10500
   },
   "properties": [
     "natural",
@@ -78,9 +78,9 @@
         "value": "7440-18-8"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-127-1"
+        "value": "CID23950"
       }
     ],
     "echa": [
@@ -88,9 +88,9 @@
         "value": "100.028.297"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23950"
+        "value": "231-127-1"
       }
     ]
   },
@@ -111,8 +111,8 @@
     }
   ],
   "wiki": {
-    "en": "Ruthenium",
     "de": "Ruthenium",
+    "en": "Ruthenium",
     "fr": "Ruthénium"
   }
 }

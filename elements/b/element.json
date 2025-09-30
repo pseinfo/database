@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1600,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 8700,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 4440,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 10,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 8700
     },
     "human": {
-      "value": 700,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 700
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1600
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 4440
     }
   },
   "appearance": {
-    "en": "black-brown",
     "de": "schwarz",
+    "en": "black-brown",
     "fr": "noir"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 13,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Davy, Gay-Lussac",
-    "value": 1808,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1808
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Boron_R105.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Boron_R105.jpg\">James L Marshall</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Boron_R105.jpg\">James L Marshall</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Boron_R105.jpg"
   },
   "names": {
-    "en": "Boron",
     "de": "Bor",
-    "la": "Boron",
-    "fr": "Bore"
+    "en": "Boron",
+    "fr": "Bore",
+    "la": "Boron"
   },
   "number": 5,
   "price": {
-    "value": 3.68,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 3.68
   },
   "properties": [
     "natural",
@@ -82,9 +82,9 @@
         "value": "7440-42-8"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-151-2"
+        "value": "CID5462311"
       }
     ],
     "echa": [
@@ -92,9 +92,9 @@
         "value": "100.028.319"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5462311"
+        "value": "231-151-2"
       }
     ],
     "rtecs": [
@@ -120,8 +120,8 @@
     }
   ],
   "wiki": {
-    "en": "Boron",
     "de": "Bor",
+    "en": "Boron",
     "fr": "Bore"
   }
 }

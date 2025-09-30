@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 5200
     },
     "meteorite": {
-      "value": 230,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 5200,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0007,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 230
     },
     "stream": {
-      "value": 0.04,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.04
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0007
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "de Marignac",
-    "value": 1880,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1880
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gadolinium-4.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Gadolinium-4.jpg\">http://images-of-elements.com/gadolinium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Gadolinium-4.jpg\">http://images-of-elements.com/gadolinium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gadolinium-4.jpg"
   },
   "names": {
-    "en": "Gadolinium",
     "de": "Gadolinium",
-    "la": "Gadolinium",
-    "fr": "Gadolinium"
+    "en": "Gadolinium",
+    "fr": "Gadolinium",
+    "la": "Gadolinium"
   },
   "number": 64,
   "price": {
-    "value": 28.6,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 28.6
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7440-54-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-162-2"
+        "value": "CID23982"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.329"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23982"
+        "value": "231-162-2"
       }
     ],
     "rtecs": [
@@ -117,8 +117,8 @@
     }
   ],
   "wiki": {
-    "en": "Gadolinium",
     "de": "Gadolinium",
+    "en": "Gadolinium",
     "fr": "Gadolinium"
   }
 }

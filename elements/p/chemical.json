@@ -5,21 +5,21 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 2.19,
-    "sanderson": 2.52,
-    "allred": 2.06,
-    "mulliken": 2.3,
     "allen": 2.253,
-    "ghosh_gupta": {
-      "value": 6.3405,
-      "unit": "eV"
-    },
+    "allred": 2.06,
     "boyd": 2.17,
+    "ghosh_gupta": {
+      "unit": "eV",
+      "value": 6.3405
+    },
+    "mulliken": 2.3,
     "nagle": 2.22,
+    "pauling": 2.19,
     "pearson": {
-      "value": 5.62,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 5.62
+    },
+    "sanderson": 2.52
   },
   "oxidation_state": "±3, 4, '''5'''",
   "oxide_character": "acidic"

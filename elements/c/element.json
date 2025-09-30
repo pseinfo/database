@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 5000000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 3000000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 15000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1800000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 28000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 1200,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1800000
     },
     "human": {
-      "value": 230000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 230000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 15000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 1200
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 3000000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 5000000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 28000
     }
   },
   "appearance": {
-    "en": "black, metallic-looking (graphite); clear (diamond)",
     "de": "schwarz (Graphit); farblos (Diamant)",
+    "en": "black, metallic-looking (graphite); clear (diamond)",
     "fr": "noir (graphite), clair (diamand)"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 14,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "nonmetal",
     "superconductivity": "special"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79.jpg"
   },
   "names": {
-    "en": "Carbon",
     "de": "Kohlenstoff",
-    "la": "Carbo",
-    "fr": "Carbone"
+    "en": "Carbon",
+    "fr": "Carbone",
+    "la": "Carbo"
   },
   "number": 6,
   "price": {
-    "value": 0.122,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.122
   },
   "properties": [
     "natural",
@@ -92,9 +92,9 @@
         "label": "D"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-153-3"
+        "value": "CID5462310"
       }
     ],
     "echa": [
@@ -102,9 +102,9 @@
         "value": "100.028.321"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5462310"
+        "value": "231-153-3"
       }
     ],
     "rtecs": [
@@ -130,8 +130,8 @@
     }
   ],
   "wiki": {
-    "en": "Carbon",
     "de": "Kohlenstoff",
+    "en": "Carbon",
     "fr": "Carbone"
   }
 }

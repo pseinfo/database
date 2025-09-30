@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.7,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 10,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 25
     },
     "meteorite": {
-      "value": 70,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 70
     },
-    "crust": {
-      "value": 25,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.7
     },
     "water": {
-      "value": 0.02,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.02
     }
   },
   "appearance": {
-    "en": "lustrous brownish silver",
     "de": "glänzend silberweiß",
+    "en": "lustrous brownish silver",
     "fr": "argent marron lustré"
   },
   "classification": {
@@ -38,31 +38,31 @@
     "group": 15,
     "occurrence": "primordial",
     "period": 6,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "slightly-radioactive",
-    "phase": "solid",
     "set": "metal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Agricola",
-    "value": 1540,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1540
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bismuth_crystals_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bismuth_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bismuth_crystals_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bismuth_crystals_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Bismuth",
     "de": "Bismut",
-    "la": "Bismutum",
-    "fr": "Bismuth"
+    "en": "Bismuth",
+    "fr": "Bismuth",
+    "la": "Bismutum"
   },
   "number": 83,
   "price": {
-    "value": 6.36,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 6.36
   },
   "properties": [
     "natural",
@@ -78,9 +78,9 @@
         "value": "7440-69-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-177-4"
+        "value": "CID5359367"
       }
     ],
     "echa": [
@@ -88,9 +88,9 @@
         "value": "100.028.343"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5359367"
+        "value": "231-177-4"
       }
     ],
     "rtecs": [
@@ -116,8 +116,8 @@
     }
   ],
   "wiki": {
-    "en": "Bismuth",
     "de": "Bismut",
+    "en": "Bismuth",
     "fr": "Bismuth"
   }
 }

@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 6000
     },
     "meteorite": {
-      "value": 170,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 6000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00045,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 170
     },
     "stream": {
-      "value": 0.03,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.03
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 5
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00045
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Lecoq de Boisbaudran",
-    "value": 1879,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1879
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Samarium-2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Samarium-2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Samarium-2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Samarium-2.jpg"
   },
   "names": {
-    "en": "Samarium",
     "de": "Samarium",
-    "la": "Samarium",
-    "fr": "Samarium"
+    "en": "Samarium",
+    "fr": "Samarium",
+    "la": "Samarium"
   },
   "number": 62,
   "price": {
-    "value": 13.9,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 13.9
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7440-19-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-128-7"
+        "value": "CID23951"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.298"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23951"
+        "value": "231-128-7"
       }
     ]
   },
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Samarium",
     "de": "Samarium",
+    "en": "Samarium",
     "fr": "Samarium"
   }
 }

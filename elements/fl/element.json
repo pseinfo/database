@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "JINR",
-    "value": 1999,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1999
   },
   "names": {
-    "en": "Flerovium",
     "de": "Flerovium",
-    "la": "Flerovium",
-    "fr": "Flérovium"
+    "en": "Flerovium",
+    "fr": "Flérovium",
+    "la": "Flerovium"
   },
   "number": 114,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54085-16-4"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Fl",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Flerovium",
     "de": "Flerovium",
+    "en": "Flerovium",
     "fr": "Flérovium"
   }
 }

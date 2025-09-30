@@ -5,16 +5,16 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 2.2,
     "allred": 1.42,
     "ghosh_gupta": {
-      "value": 3.336,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 3.336
     },
     "nagle": 1.35,
+    "pauling": 2.2,
     "pearson": {
-      "value": 4.5,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 4.5
     }
   },
   "oxidation_state": "2, 3, '''4''', 6, 8",

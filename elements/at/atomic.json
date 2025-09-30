@@ -5,6 +5,7 @@
   },
   "electron_config": "Xe 4f[14] 5d[10] 6s[2] 6p[5]",
   "ionization": {
+    "unit": "eV",
     "values": [
       9.31751,
       17.88,
@@ -13,20 +14,19 @@
       50.39,
       72,
       85.1
-    ],
-    "unit": "eV"
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 209.9871,
       "*": true,
-      "unit": "u"
+      "unit": "u",
+      "value": 209.9871
     }
   },
   "radius": {
     "calculated": {
-      "value": 127,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 127
     }
   },
   "shell": [

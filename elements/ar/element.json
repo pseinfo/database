@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 200000,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1500
     },
     "sun": {
-      "value": 70000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 70000
     },
-    "crust": {
-      "value": 1500,
-      "unit": "ppb"
+    "universe": {
+      "unit": "ppb",
+      "value": 200000
     },
     "water": {
-      "value": 450,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 450
     }
   },
   "appearance": {
-    "en": "colorless gas exhibiting a lilac/violet glow when placed in an electric field",
     "de": "farbloses Gas",
+    "en": "colorless gas exhibiting a lilac/violet glow when placed in an electric field",
     "fr": "gaz incolore présentant une lueur lilas/violette lorsqu'il est placé dans un champ électrique"
   },
   "classification": {
@@ -34,30 +34,30 @@
     "group": 18,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "noblegas",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Ramsay, Strutt",
-    "value": 1894,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1894
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Argon_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Argon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Argon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Argon_discharge_tube.jpg"
   },
   "names": {
-    "en": "Argon",
     "de": "Argon",
-    "la": "Argon",
-    "fr": "Argon"
+    "en": "Argon",
+    "fr": "Argon",
+    "la": "Argon"
   },
   "number": 18,
   "price": {
-    "value": 0.931,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.931
   },
   "properties": [
     "natural",
@@ -69,9 +69,9 @@
         "value": "7440-37-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-147-0"
+        "value": "CID23968"
       }
     ],
     "echa": [
@@ -79,9 +79,9 @@
         "value": "100.028.315"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23968"
+        "value": "231-147-0"
       }
     ],
     "rtecs": [
@@ -107,8 +107,8 @@
     }
   ],
   "wiki": {
-    "en": "Argon",
     "de": "Argon",
+    "en": "Argon",
     "fr": "Argon"
   }
 }

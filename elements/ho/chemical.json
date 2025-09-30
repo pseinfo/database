@@ -5,15 +5,15 @@
   },
   "basicity": "slightly-alkaline",
   "negativity": {
-    "pauling": 1.23,
     "allred": 1.1,
-    "nagle": 1.1
+    "nagle": 1.1,
+    "pauling": 1.23
   },
   "oxidation_state": "3",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.33,
+    "info": "Ho[3+] + 3e[-] → Ho",
     "unit": "V",
-    "info": "Ho[3+] + 3e[-] → Ho"
+    "value": -2.33
   }
 }

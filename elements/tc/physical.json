@@ -4,79 +4,79 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 11.5,
-    "unit": "g·cm[−3]",
     "condition": [
       {
         "value": 298.15,
         "unit": "K"
       }
-    ]
+    ],
+    "unit": "g·cm[−3]",
+    "value": 11.5
   },
   "electrical": {
     "conductivity": {
-      "value": 4540000,
-      "unit": "S·m[-1]"
+      "unit": "S·m[-1]",
+      "value": 4540000
     },
     "resistivity": {
-      "value": 2.2e-7,
-      "unit": "Ωm"
+      "unit": "Ωm",
+      "value": 2.2e-7
     }
   },
   "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 661
+    },
     "fusion": {
-      "value": 23,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 23
     },
     "vaporisation": {
-      "value": 550,
-      "unit": "kJ·mol[-1]"
-    },
-    "atomisation": {
-      "value": 661,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 550
     }
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 51,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 51
     }
   },
   "magnetic": {
     "magnetic_ordering": "paramagnetic",
     "magnetic_susceptibility": {
-      "value": 0.00027,
-      "unit": "cm[3]·mol[−1]",
       "condition": [
         {
           "value": 298,
           "unit": "K"
         }
-      ]
+      ],
+      "unit": "cm[3]·mol[−1]",
+      "value": 0.00027
     }
   },
   "molar_volume": {
-    "value": 0.00000863,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00000863
   },
   "phase": "solid",
   "temperature": {
-    "melting": {
-      "value": 2430,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 4538,
-      "unit": "K"
+      "unit": "K",
+      "value": 4538
     },
     "liquid": {
-      "value": 2108,
-      "unit": "K"
+      "unit": "K",
+      "value": 2108
+    },
+    "melting": {
+      "unit": "K",
+      "value": 2430
     },
     "transition": {
-      "value": 8.2,
-      "unit": "K"
+      "unit": "K",
+      "value": 8.2
     }
   }
 }

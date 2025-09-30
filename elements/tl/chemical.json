@@ -5,21 +5,21 @@
   },
   "basicity": "slightly-alkaline",
   "negativity": {
-    "pauling": 1.62,
-    "sanderson": 2.25,
     "allred": 1.44,
     "mulliken": 1.96,
     "nagle": 1.59,
+    "pauling": 1.62,
     "pearson": {
-      "value": 3.2,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 3.2
+    },
+    "sanderson": 2.25
   },
   "oxidation_state": "'''1''', 3",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -0.3363,
+    "info": "Tl[+] + e[-] → Tl",
     "unit": "V",
-    "info": "Tl[+] + e[-] → Tl"
+    "value": -0.3363
   }
 }

@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 3000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 600000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 30000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.08,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.2,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 30000
     },
     "human": {
-      "value": 20,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 20
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 600000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.2
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 4000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 3000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.08
     }
   },
   "appearance": {
-    "en": "hard lustrous bluish gray metal",
     "de": "stahlgrauer metallisch glänzender Feststoff",
+    "en": "hard lustrous bluish gray metal",
     "fr": "métal gris bleuté dur et brillant"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 9,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Brandt",
-    "value": 1735,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1735
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Kobalt_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Kobalt_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Cobalt",
     "de": "Cobalt",
-    "la": "Cobaltum",
-    "fr": "Cobalt"
+    "en": "Cobalt",
+    "fr": "Cobalt",
+    "la": "Cobaltum"
   },
   "number": 27,
   "price": {
-    "value": 32.8,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 32.8
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7440-48-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-158-0"
+        "value": "CID104730"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.325"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID104730"
+        "value": "231-158-0"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Cobalt",
     "de": "Cobalt",
+    "en": "Cobalt",
     "fr": "Cobalt"
   }
 }

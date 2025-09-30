@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "silvery white, tarnishing to dark gray in air",
     "de": "silbriges Metall",
+    "en": "silvery white, tarnishing to dark gray in air",
     "fr": "blanc argenté, ternissant à gris foncé à l'air"
   },
   "classification": {
@@ -16,26 +16,26 @@
     "group": 20,
     "occurrence": "decay",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "slightly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1940,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1940
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Plutonium_ring.jpg\">Los Alamos National Laboratory</a>, Attribution, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Plutonium_ring.jpg\">Los Alamos National Laboratory</a>, Attribution, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg"
   },
   "names": {
-    "en": "Plutonium",
     "de": "Plutonium",
-    "la": "Plutonium",
-    "fr": "Plutonium"
+    "en": "Plutonium",
+    "fr": "Plutonium",
+    "la": "Plutonium"
   },
   "number": 94,
   "properties": [
@@ -51,9 +51,9 @@
         "value": "7440-07-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-117-7"
+        "value": "CID23940"
       }
     ],
     "echa": [
@@ -61,9 +61,9 @@
         "value": "100.028.288"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23940"
+        "value": "231-117-7"
       }
     ]
   },
@@ -84,8 +84,8 @@
     }
   ],
   "wiki": {
-    "en": "Plutonium",
     "de": "Plutonium",
+    "en": "Plutonium",
     "fr": "Plutonium"
   }
 }

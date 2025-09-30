@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "silvery",
     "de": "silbriges Metall",
+    "en": "silvery",
     "fr": "argenté"
   },
   "classification": {
@@ -16,26 +16,26 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1950,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1950
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Californium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Californium.jpg\">United States Department of Energy (see File:Einsteinium.jpg)</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Californium.jpg\">United States Department of Energy (see File:Einsteinium.jpg)</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Californium.jpg"
   },
   "names": {
-    "en": "Californium",
     "de": "Californium",
-    "la": "Californium",
-    "fr": "Californium"
+    "en": "Californium",
+    "fr": "Californium",
+    "la": "Californium"
   },
   "number": 98,
   "properties": [
@@ -50,8 +50,8 @@
         "value": "7440-71-3"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAABnElEQVRIx+2UMUsDQRCFv12DEgVJfoGIQhIUQbCxkVSaSsGUgp0IwULEIkU6G3sRKxuxFFJoETsRbEQCWlgIIqJCEEXQiCR4WQsNyeX2LncSTRCX5XZm7s2beXPHik6CVJYwW4LaJSyWKB+yl1EQBfJ3nFoBdRmsgHb8fUSBG05eedAyhIj5aAdxzp6i5EaIxDdEHMhzf8kBrpQKNN0Ke0MT7KYnRBzEGZsFnqvfCi/MAcIhZkF87mNSVcIBVBVYmXOVmc3GBYQyT8PB1ZXQV1RmgfauSYLOrStBo8h0iirDk9v6Wb9dWpUnXbNtgsszjI+AAQYbadKHGnCHj91FMMhekdxxxRzvZz4CBvEML0UNuEuSHgaDrVu2c0hFJvzVxsQFyq5haxy5QNskEt6n4M3t5P5YXArW95EgIRFDlb7JUxlws56NJbRcfN4iTYH98ztGUkHG/JWvnHwkW7RNDPlYCwDMPXFttIpM5WgMwAooSEDO/DtHIAUKliBnQ6LcVfGaMg2DUIJVKDaa/Ec7V+XLLQoKCnDUvDYcAB+d6g4XkMoRngAAAABJRU5ErkJggg==",
   "symbol": "Cf",
@@ -70,8 +70,8 @@
     }
   ],
   "wiki": {
-    "en": "Californium",
     "de": "Californium",
+    "en": "Californium",
     "fr": "Californium"
   }
 }

@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 260,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 490,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 60,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 5,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 490
     },
     "human": {
-      "value": 200,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 200
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 260
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 5
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 60
     }
   },
   "appearance": {
-    "en": "lustrous metallic gray (solid); black/violet (liquid); violet (gas)",
     "de": "dunkel-violett (gasförmig); grauschwarz, glänzend (fest)",
+    "en": "lustrous metallic gray (solid); black/violet (liquid); violet (gas)",
     "fr": "gris métallique lustré (solide); violet/noir (liquide); violet (gaz)"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 17,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "halogen",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Courtois",
-    "value": 1811,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1811
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sample_of_iodine.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Sample_of_iodine.jpg\">LHcheM</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Sample_of_iodine.jpg\">LHcheM</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sample_of_iodine.jpg"
   },
   "names": {
-    "en": "Iodine",
     "de": "Iod",
-    "la": "Iodum",
-    "fr": "Iode"
+    "en": "Iodine",
+    "fr": "Iode",
+    "la": "Iodum"
   },
   "number": 53,
   "price": {
-    "value": 35,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 35
   },
   "properties": [
     "natural",
@@ -74,21 +74,6 @@
     "stable"
   ],
   "registry": {
-    "cas": [
-      {
-        "value": "7553-56-2"
-      }
-    ],
-    "eg": [
-      {
-        "value": "231-442-4"
-      }
-    ],
-    "echa": [
-      {
-        "value": "100.028.585"
-      }
-    ],
     "atc": [
       {
         "value": "D08AG03"
@@ -113,9 +98,24 @@
         "label": "[131]I"
       }
     ],
+    "cas": [
+      {
+        "value": "7553-56-2"
+      }
+    ],
     "cid": [
       {
         "value": "CID807"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.585"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-442-4"
       }
     ],
     "rtecs": [
@@ -141,8 +141,8 @@
     }
   ],
   "wiki": {
-    "en": "Iodine",
     "de": "Iod",
+    "en": "Iodine",
     "fr": "Iode"
   }
 }

@@ -11,22 +11,22 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "highly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Ghiorso",
-    "value": 1961,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1961
   },
   "names": {
-    "en": "Lawrencium",
     "de": "Lawrencium",
-    "la": "Lawrencium",
-    "fr": "Lawrencium"
+    "en": "Lawrencium",
+    "fr": "Lawrencium",
+    "la": "Lawrencium"
   },
   "number": 103,
   "properties": [
@@ -40,8 +40,8 @@
         "value": "22537-19-5"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Lr",
@@ -60,8 +60,8 @@
     }
   ],
   "wiki": {
-    "en": "Lawrencium",
     "de": "Lawrencium",
+    "en": "Lawrencium",
     "fr": "Lawrencium"
   }
 }

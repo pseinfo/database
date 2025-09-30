@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 20000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 40000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 5600000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 23000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 11050000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 8000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 23000000
     },
     "human": {
-      "value": 1400000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1400000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 5600000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 8000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 40000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 20000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 11050000
     }
   },
   "appearance": {
-    "en": "silvery white metallic",
     "de": "silbrig weiß",
+    "en": "silvery white metallic",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 1,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalimetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Davy",
-    "value": 1807,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1807
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Na_%28Sodium%29.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Na_(Sodium).jpg\">The original uploader was Dnn87 at English Wikipedia.</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Na_(Sodium).jpg\">The original uploader was Dnn87 at English Wikipedia.</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Na_%28Sodium%29.jpg"
   },
   "names": {
-    "en": "Sodium",
     "de": "Natrium",
-    "la": "Natrium",
-    "fr": "Sodium"
+    "en": "Sodium",
+    "fr": "Sodium",
+    "la": "Natrium"
   },
   "number": 11,
   "price": {
-    "value": 3,
     "deviation": 0.43,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 3
   },
   "properties": [
     "natural",
@@ -85,9 +85,9 @@
         "value": "7440-23-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-132-9"
+        "value": "CID5360545"
       }
     ],
     "echa": [
@@ -95,9 +95,9 @@
         "value": "100.028.302"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5360545"
+        "value": "231-132-9"
       }
     ],
     "rtecs": [
@@ -123,8 +123,8 @@
     }
   ],
   "wiki": {
-    "en": "Sodium",
     "de": "Natrium",
+    "en": "Sodium",
     "fr": "Sodium"
   }
 }

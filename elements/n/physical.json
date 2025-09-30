@@ -4,111 +4,113 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 0.00125,
-    "unit": "g·cm[−3]",
     "condition": [
       {
         "value": 273.15,
         "unit": "K"
       }
-    ]
+    ],
+    "unit": "g·cm[−3]",
+    "value": 0.00125
   },
   "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 473
+    },
     "fusion": {
-      "value": 0.36,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 0.36
     },
     "vaporisation": {
-      "value": 2.79,
-      "unit": "kJ·mol[-1]"
-    },
-    "atomisation": {
-      "value": 473,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 2.79
     }
   },
   "heat": {
     "adiabatic_index": {
-      "_ref": [ "web_pt.adiabaticIndex" ],
+      "_ref": [
+        "web_pt.adiabaticIndex"
+      ],
       "value": 1.4
     },
     "heat_capacity": {
-      "value": 1040,
-      "unit": "J·kg[−1]·K[−1]",
       "condition": [
         {
           "value": 298,
           "unit": "K"
         }
-      ]
+      ],
+      "unit": "J·kg[−1]·K[−1]",
+      "value": 1040
     },
     "thermal_conductivity": {
-      "value": 0.02583,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 0.02583
     }
   },
   "magnetic": {
     "magnetic_ordering": "diamagnetic"
   },
   "molar_volume": {
-    "value": 0.00001354,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00001354
   },
   "optical": {
     "refractive_index": [
       {
         "#": {
-      "phase": "gas"
-    },
+          "phase": "gas"
+        },
         "value": 1.000298
       },
       {
         "#": {
-      "phase": "liquid"
-    },
+          "phase": "liquid"
+        },
         "value": 1.197
       }
     ]
   },
   "phase": "gas",
   "sound_speed": {
-    "value": 333.6,
-    "unit": "m·s[−1]",
     "condition": [
       {
         "value": 298.15,
         "unit": "K"
       }
-    ]
+    ],
+    "unit": "m·s[−1]",
+    "value": 333.6
   },
   "temperature": {
-    "melting": {
-      "value": 63.23,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 77.355,
-      "unit": "K"
-    },
-    "liquid": {
-      "value": 14.125,
-      "unit": "K"
-    },
-    "triple": {
-      "value": 63.151,
       "unit": "K",
-      "@": {
-        "value": 12.52,
-        "unit": "kPa"
-      }
+      "value": 77.355
     },
     "critical": {
-      "value": 126.21,
-      "unit": "K",
       "@": {
-        "value": 3.39,
-        "unit": "MPa"
-      }
+        "unit": "MPa",
+        "value": 3.39
+      },
+      "unit": "K",
+      "value": 126.21
+    },
+    "liquid": {
+      "unit": "K",
+      "value": 14.125
+    },
+    "melting": {
+      "unit": "K",
+      "value": 63.23
+    },
+    "triple": {
+      "@": {
+        "unit": "kPa",
+        "value": 12.52
+      },
+      "unit": "K",
+      "value": 63.151
     }
   }
 }

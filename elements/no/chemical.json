@@ -4,9 +4,9 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "pauling": 1.3,
     "allred": 1.2,
-    "nagle": 1.18
+    "nagle": 1.18,
+    "pauling": 1.3
   },
   "oxidation_state": "+2 +3"
 }

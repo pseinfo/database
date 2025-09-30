@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "GSI",
-    "value": 1984,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1984
   },
   "names": {
-    "en": "Hassium",
     "de": "Hassium",
-    "la": "Hassium",
-    "fr": "Hassium"
+    "en": "Hassium",
+    "fr": "Hassium",
+    "la": "Hassium"
   },
   "number": 108,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54037-57-9"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Hs",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Hassium",
     "de": "Hassium",
+    "en": "Hassium",
     "fr": "Hassium"
   }
 }

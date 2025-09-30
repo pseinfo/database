@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10000000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 9000000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 410000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 460000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 857000000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 880000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 460000000
     },
     "human": {
-      "value": 610000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 610000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 410000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 880000000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 9000000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10000000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 857000000
     }
   },
   "appearance": {
-    "en": "colorless (gas); pale blue (liquid and solid)",
     "de": "farbloses Gas",
+    "en": "colorless (gas); pale blue (liquid and solid)",
     "fr": "Incolore, bleu pâle"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 16,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "nonmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Priestley, Scheele",
-    "value": 1774,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1774
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oxygen_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Oxygen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Oxygen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oxygen_discharge_tube.jpg"
   },
   "names": {
-    "en": "Oxygen",
     "de": "Sauerstoff",
-    "la": "Oxygenium",
-    "fr": "Oxygène"
+    "en": "Oxygen",
+    "fr": "Oxygène",
+    "la": "Oxygenium"
   },
   "number": 8,
   "price": {
-    "value": 0.154,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.154
   },
   "properties": [
     "natural",
@@ -77,15 +77,20 @@
     "stable"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "V03AN01"
+      }
+    ],
     "cas": [
       {
         "value": "7782-44-7",
         "label": "O{2}"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-956-9"
+        "value": "CID977"
       }
     ],
     "echa": [
@@ -93,14 +98,9 @@
         "value": "100.029.051"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "V03AN01"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID977"
+        "value": "231-956-9"
       }
     ],
     "rtecs": [
@@ -126,8 +126,8 @@
     }
   ],
   "wiki": {
-    "en": "Oxygen",
     "de": "Sauerstoff",
+    "en": "Oxygen",
     "fr": "Oxygène"
   }
 }

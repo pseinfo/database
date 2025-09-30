@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.7,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 3300
     },
     "meteorite": {
-      "value": 170,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 170
     },
-    "crust": {
-      "value": 3300,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.7
     },
     "water": {
-      "value": 0.008,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.008
     }
   },
   "appearance": {
-    "en": "steel gray",
     "de": "stahlgrau",
+    "en": "steel gray",
     "fr": "gris acier"
   },
   "classification": {
@@ -38,30 +38,30 @@
     "group": 4,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Coster, de Hevesy",
-    "value": 1923,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1923
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Hafnium_bits.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Hafnium_bits.jpg\">Deglr6328 at the English-language Wikipedia</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Hafnium_bits.jpg\">Deglr6328 at the English-language Wikipedia</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Hafnium_bits.jpg"
   },
   "names": {
-    "en": "Hafnium",
     "de": "Hafnium",
-    "la": "Hafnium",
-    "fr": "Hafnium"
+    "en": "Hafnium",
+    "fr": "Hafnium",
+    "la": "Hafnium"
   },
   "number": 72,
   "price": {
-    "value": 900,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 900
   },
   "properties": [
     "natural",
@@ -75,9 +75,9 @@
         "value": "7440-58-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-166-4"
+        "value": "CID23986"
       }
     ],
     "echa": [
@@ -85,9 +85,9 @@
         "value": "100.028.333"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23986"
+        "value": "231-166-4"
       }
     ],
     "rtecs": [
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Hafnium",
     "de": "Hafnium",
+    "en": "Hafnium",
     "fr": "Hafnium"
   }
 }

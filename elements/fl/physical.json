@@ -4,22 +4,22 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 14,
     "*": true,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 14
   },
   "magnetic": {},
   "molar_volume": {
-    "value": 0.000021,
     "*": true,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.000021
   },
   "temperature": {
     "melting": {
-      "value": 284,
-      "deviation": 50,
       "*": true,
-      "unit": "K"
+      "deviation": 50,
+      "unit": "K",
+      "value": 284
     }
   }
 }

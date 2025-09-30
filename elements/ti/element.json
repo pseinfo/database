@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 3000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4000,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 6600000
     },
     "meteorite": {
-      "value": 550000,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 6600000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 550000
     },
     "stream": {
-      "value": 3,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 3
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 4000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 3000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 1
     }
   },
   "appearance": {
-    "en": "silvery grey-white metallic",
     "de": "silbrig metallisch",
+    "en": "silvery grey-white metallic",
     "fr": "gris-blanc métallique argenté"
   },
   "classification": {
@@ -42,31 +42,31 @@
     "group": 4,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Gregor, Klaproth",
-    "value": 1791,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1791
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Titan-crystal_bar.JPG",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Titan-crystal_bar.JPG\">Alchemist-hp (pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Titan-crystal_bar.JPG\">Alchemist-hp (pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Titan-crystal_bar.JPG"
   },
   "names": {
-    "en": "Titanium",
     "de": "Titan",
-    "la": "Titanum",
-    "fr": "Titane"
+    "en": "Titanium",
+    "fr": "Titane",
+    "la": "Titanum"
   },
   "number": 22,
   "price": {
-    "value": 11.4,
     "deviation": 0.3,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 11.4
   },
   "properties": [
     "natural",
@@ -81,9 +81,9 @@
         "value": "7440-32-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-142-3"
+        "value": "CID23963"
       }
     ],
     "echa": [
@@ -91,9 +91,9 @@
         "value": "100.028.311"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23963"
+        "value": "231-142-3"
       }
     ]
   },
@@ -114,8 +114,8 @@
     }
   ],
   "wiki": {
-    "en": "Titanium",
     "de": "Titan (Element)",
+    "en": "Titanium",
     "fr": "Titane"
   }
 }

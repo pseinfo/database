@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.4,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 0.3,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 6000
     },
     "meteorite": {
-      "value": 40,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 6000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00004,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 40
     },
     "stream": {
-      "value": 0.1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.1
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 0.3
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.4
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00004
     }
   },
   "appearance": {
-    "en": "silvery",
     "de": "silbrig weiß",
+    "en": "silvery",
     "fr": "argenté"
   },
   "classification": {
@@ -42,31 +42,31 @@
     "group": 20,
     "occurrence": "decay",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "slightly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Berzelius",
-    "value": 1829,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1829
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Thorium_sample_0.1g.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thorium_sample_0.1g.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thorium_sample_0.1g.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Thorium_sample_0.1g.jpg"
   },
   "names": {
-    "en": "Thorium",
     "de": "Thorium",
-    "la": "Thorium",
-    "fr": "Thorium"
+    "en": "Thorium",
+    "fr": "Thorium",
+    "la": "Thorium"
   },
   "number": 90,
   "price": {
-    "value": 287,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 287
   },
   "properties": [
     "natural",
@@ -81,9 +81,9 @@
         "value": "7440-29-1"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-139-7"
+        "value": "CID23960"
       }
     ],
     "echa": [
@@ -91,9 +91,9 @@
         "value": "100.028.308"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23960"
+        "value": "231-139-7"
       }
     ],
     "rtecs": [
@@ -119,8 +119,8 @@
     }
   ],
   "wiki": {
-    "en": "Thorium",
     "de": "Thorium",
+    "en": "Thorium",
     "fr": "Thorium"
   }
 }

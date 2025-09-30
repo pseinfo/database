@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.6,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 0.7
     },
     "meteorite": {
-      "value": 180,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 180
     },
-    "crust": {
-      "value": 0.7,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.6
     }
   },
   "appearance": {
-    "en": "silvery white metallic",
     "de": "silbrig weiß metallisch",
+    "en": "silvery white metallic",
     "fr": "métallique blanc argenté"
   },
   "classification": {
@@ -34,30 +34,30 @@
     "group": 9,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Wollaston",
-    "value": 1803,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1803
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rhodium_powder_pressed_melted.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rhodium_powder_pressed_melted.jpg\">Alchemist-hp (talk) www.pse-mendelejew.dederivative work: Purpy Pupple</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rhodium_powder_pressed_melted.jpg\">Alchemist-hp (talk) www.pse-mendelejew.dederivative work: Purpy Pupple</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rhodium_powder_pressed_melted.jpg"
   },
   "names": {
-    "en": "Rhodium",
     "de": "Rhodium",
-    "la": "Rhodium",
-    "fr": "Rhodium"
+    "en": "Rhodium",
+    "fr": "Rhodium",
+    "la": "Rhodium"
   },
   "number": 45,
   "price": {
-    "value": 147000,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 147000
   },
   "properties": [
     "natural",
@@ -74,9 +74,9 @@
         "value": "7440-16-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-125-0"
+        "value": "CID23948"
       }
     ],
     "echa": [
@@ -84,9 +84,9 @@
         "value": "100.028.295"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23948"
+        "value": "231-125-0"
       }
     ],
     "rtecs": [
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Rhodium",
     "de": "Rhodium",
+    "en": "Rhodium",
     "fr": "Rhodium"
   }
 }

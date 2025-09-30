@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 9,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 37
     },
     "meteorite": {
-      "value": 1000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1000
     },
-    "crust": {
-      "value": 37,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 9
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 5
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "grau-weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -34,30 +34,30 @@
     "group": 10,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Scaliger",
-    "value": 1557,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1557
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Platinum_crystals.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Platinum_crystals.jpg\">Periodictableru</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Platinum_crystals.jpg\">Periodictableru</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Platinum_crystals.jpg"
   },
   "names": {
-    "en": "Platinum",
     "de": "Platin",
-    "la": "Platinum",
-    "fr": "Platine"
+    "en": "Platinum",
+    "fr": "Platine",
+    "la": "Platinum"
   },
   "number": 78,
   "price": {
-    "value": 27800,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 27800
   },
   "properties": [
     "natural",
@@ -73,9 +73,9 @@
         "value": "7440-06-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-116-1"
+        "value": "CID23939"
       }
     ],
     "echa": [
@@ -83,9 +83,9 @@
         "value": "100.028.287"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23939"
+        "value": "231-116-1"
       }
     ],
     "rtecs": [
@@ -111,8 +111,8 @@
     }
   ],
   "wiki": {
-    "en": "Platinum",
     "de": "Platin",
+    "en": "Platinum",
     "fr": "Platine"
   }
 }

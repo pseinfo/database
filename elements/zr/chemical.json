@@ -5,24 +5,24 @@
   },
   "basicity": "amphoterism",
   "negativity": {
-    "pauling": 1.33,
-    "sanderson": 0.9,
     "allred": 1.22,
     "ghosh_gupta": {
-      "value": 2.8489,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 2.8489
     },
     "nagle": 1.17,
+    "pauling": 1.33,
     "pearson": {
-      "value": 3.64,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 3.64
+    },
+    "sanderson": 0.9
   },
   "oxidation_state": "4, 2",
   "oxide_character": "amphoteric",
   "standard_potential": {
-    "value": -1.553,
+    "info": "ZrO{2} + 4H[+] + 4e[-] → Zr + 2H{2}O",
     "unit": "V",
-    "info": "ZrO{2} + 4H[+] + 4e[-] → Zr + 2H{2}O"
+    "value": -1.553
   }
 }

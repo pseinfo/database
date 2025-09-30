@@ -5,25 +5,25 @@
   },
   "abundance": {
     "crust": {
-      "value": 0.0001,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 1e-8,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 4e-7,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.0001
     },
     "human": {
-      "value": 0.000001,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.000001
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 4e-7
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 1e-8
     }
   },
   "appearance": {
-    "en": "silvery white metallic",
     "de": "silbrig-weiß-metallisch",
+    "en": "silvery white metallic",
     "fr": "métal blanc lustré"
   },
   "classification": {
@@ -34,26 +34,26 @@
     "group": 2,
     "occurrence": "decay",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "radioactive",
-    "phase": "solid",
     "set": "alkalineearthmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Marie und Pierre Curie",
-    "value": 1898,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1898
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Radium226.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Radium226.jpg\">grenadier</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Radium226.jpg\">grenadier</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Radium226.jpg"
   },
   "names": {
-    "en": "Radium",
     "de": "Radium",
-    "la": "Radium",
-    "fr": "Radium"
+    "en": "Radium",
+    "fr": "Radium",
+    "la": "Radium"
   },
   "number": 88,
   "properties": [
@@ -68,9 +68,9 @@
         "value": "7440-14-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-122-4"
+        "value": "CID6328144"
       }
     ],
     "echa": [
@@ -78,9 +78,9 @@
         "value": "100.028.293"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID6328144"
+        "value": "231-122-4"
       }
     ]
   },
@@ -101,8 +101,8 @@
     }
   ],
   "wiki": {
-    "en": "Radium",
     "de": "Radium",
+    "en": "Radium",
     "fr": "Radium"
   }
 }

@@ -5,16 +5,16 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 2.6,
-    "sanderson": 2.34,
-    "allred": 2.4,
-    "mulliken": 2.73,
     "allen": 2.582,
+    "allred": 2.4,
     "ghosh_gupta": {
-      "value": 5.8121,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 5.8121
     },
-    "nagle": 2.45
+    "mulliken": 2.73,
+    "nagle": 2.45,
+    "pauling": 2.6,
+    "sanderson": 2.34
   },
   "oxide_character": "acidic"
 }

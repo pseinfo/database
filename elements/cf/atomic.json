@@ -5,20 +5,20 @@
   },
   "electron_config": "Rn 5f[10] 7s[2]",
   "ionization": {
+    "unit": "eV",
     "values": [
       6.28166,
       12,
       22.4,
       37.7,
       51.9
-    ],
-    "unit": "eV"
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 251,
       "*": true,
-      "unit": "u"
+      "unit": "u",
+      "value": 251
     }
   },
   "shell": [

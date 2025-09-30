@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 3000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 4000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 710000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 15000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 416000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 2300,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 15000000
     },
     "human": {
-      "value": 2000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 710000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 2300
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 4000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 3000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 416000
     }
   },
   "appearance": {
-    "en": "silvery white, faint bluish-purple hue when exposed to air",
     "de": "silbrig weiß",
+    "en": "silvery white, faint bluish-purple hue when exposed to air",
     "fr": "blanc argenté, légère teinte bleu-violet lorsqu'il est exposé à l'air"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 1,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalimetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Davy",
-    "value": 1807,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1807
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/KaliumunterTetrahydrofuran.JPG",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:KaliumunterTetrahydrofuran.JPG\">Schmid &amp; Rauch</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:KaliumunterTetrahydrofuran.JPG\">Schmid &amp; Rauch</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/KaliumunterTetrahydrofuran.JPG"
   },
   "names": {
-    "en": "Potassium",
     "de": "Kalium",
-    "la": "Kalium",
-    "fr": "Potassium"
+    "en": "Potassium",
+    "fr": "Potassium",
+    "la": "Kalium"
   },
   "number": 19,
   "price": {
-    "value": 12.85,
     "deviation": 1.5,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 12.85
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7440-09-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-119-8"
+        "value": "CID5462222"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.290"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5462222"
+        "value": "231-119-8"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Potassium",
     "de": "Kalium",
+    "en": "Potassium",
     "fr": "Potassium"
   }
 }

@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 400,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 500,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 89000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 540000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 1300,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 100,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 540000
     },
     "human": {
-      "value": 37000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 37000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 89000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 100
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 500
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 400
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 1300
     }
   },
   "appearance": {
-    "en": "very pale yellow (gas); bright yellow (liquid); alpha is opaque, beta is transparent (solid)",
     "de": "blasses, gelbliches Gas",
+    "en": "very pale yellow (gas); bright yellow (liquid); alpha is opaque, beta is transparent (solid)",
     "fr": "Jaune verdâtre clair"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 17,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "halogen",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Moissan",
-    "value": 1886,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1886
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fluoro_liquido_a_-196%C2%B0C_1.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Fluoro_liquido_a_-196%C2%B0C_1.jpg\">Fulvio314</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Fluoro_liquido_a_-196%C2%B0C_1.jpg\">Fulvio314</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fluoro_liquido_a_-196%C2%B0C_1.jpg"
   },
   "names": {
-    "en": "Fluorine",
     "de": "Fluor",
-    "la": "Fluor",
-    "fr": "Fluor"
+    "en": "Fluorine",
+    "fr": "Fluor",
+    "la": "Fluor"
   },
   "number": 9,
   "price": {
-    "value": 2,
     "deviation": 0.16,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7782-41-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-954-8"
+        "value": "CID24524"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.029.049"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID24524"
+        "value": "231-954-8"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Fluorine",
     "de": "Fluor",
+    "en": "Fluorine",
     "fr": "Fluor"
   }
 }

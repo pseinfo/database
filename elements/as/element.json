@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 8,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1800,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 2100,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 2.3,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2100
     },
     "human": {
-      "value": 50,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1800
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 8
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 2.3
     }
   },
   "appearance": {
-    "en": "metallic grey",
     "de": "metallisch grau, gelb oder schwarz",
+    "en": "metallic grey",
     "fr": "gris métallique"
   },
   "classification": {
@@ -42,31 +42,31 @@
     "group": 15,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Albertus Magnus",
-    "value": 1300,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1300
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Native_arsenic.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Native_arsenic.jpg\">Aram Dulyan (User:Aramgutang)</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Native_arsenic.jpg\">Aram Dulyan (User:Aramgutang)</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Native_arsenic.jpg"
   },
   "names": {
-    "en": "Arsenic",
     "de": "Arsen",
-    "la": "Arsenicum",
-    "fr": "Arsenic"
+    "en": "Arsenic",
+    "fr": "Arsenic",
+    "la": "Arsenicum"
   },
   "number": 33,
   "price": {
-    "value": 1.15,
     "deviation": 0.16,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 1.15
   },
   "properties": [
     "natural",
@@ -81,9 +81,9 @@
         "value": "7440-38-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-148-6"
+        "value": "CID5359596"
       }
     ],
     "echa": [
@@ -91,9 +91,9 @@
         "value": "100.028.316"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5359596"
+        "value": "231-148-6"
       }
     ],
     "rtecs": [
@@ -119,8 +119,8 @@
     }
   ],
   "wiki": {
-    "en": "Arsenic",
     "de": "Arsen",
+    "en": "Arsenic",
     "fr": "Arsenic"
   }
 }

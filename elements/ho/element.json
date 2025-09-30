@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.5,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1200
     },
     "meteorite": {
-      "value": 60,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 1200,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00022,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 60
     },
     "stream": {
-      "value": 0.01,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.01
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.5
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00022
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -38,30 +38,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Soret",
-    "value": 1878,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1878
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Holmium2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Holmium2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Holmium2.jpg\">http://images-of-elements.com/</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Holmium2.jpg"
   },
   "names": {
-    "en": "Holmium",
     "de": "Holmium",
-    "la": "Holmium",
-    "fr": "Holmium"
+    "en": "Holmium",
+    "fr": "Holmium",
+    "la": "Holmium"
   },
   "number": 67,
   "price": {
-    "value": 57.1,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 57.1
   },
   "properties": [
     "natural",
@@ -76,9 +76,9 @@
         "value": "7440-60-0"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-169-0"
+        "value": "CID23988"
       }
     ],
     "echa": [
@@ -86,9 +86,9 @@
         "value": "100.028.335"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23988"
+        "value": "231-169-0"
       }
     ]
   },
@@ -109,8 +109,8 @@
     }
   ],
   "wiki": {
-    "en": "Holmium",
     "de": "Holmium",
+    "en": "Holmium",
     "fr": "Holmium"
   }
 }

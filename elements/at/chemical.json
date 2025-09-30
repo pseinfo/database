@@ -4,10 +4,10 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "pauling": 2.2,
     "allred": 1.9,
     "mulliken": 2.85,
-    "nagle": 2.12
+    "nagle": 2.12,
+    "pauling": 2.2
   },
   "oxidation_state": "±1, 3, 5, 7",
   "oxide_character": "acidic"

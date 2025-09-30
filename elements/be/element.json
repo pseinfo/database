@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 0.1,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 30,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1900,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0006,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1900
     },
     "human": {
-      "value": 0.4,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.4
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 30
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.1
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 0.1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0006
     }
   },
   "appearance": {
-    "en": "white-gray metallic",
     "de": "weiß-grau metallisch",
+    "en": "white-gray metallic",
     "fr": "gris-blanc métallique"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 2,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalineearthmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Vauquelin",
-    "value": 1797,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1797
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Be-140g.jpg\">Alchemist-hp = Alchemist-hp (pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Be-140g.jpg\">Alchemist-hp = Alchemist-hp (pse-mendelejew.de)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg"
   },
   "names": {
-    "en": "Beryllium",
     "de": "Beryllium",
-    "la": "Beryllium",
-    "fr": "Béryllium"
+    "en": "Beryllium",
+    "fr": "Béryllium",
+    "la": "Beryllium"
   },
   "number": 4,
   "price": {
-    "value": 857,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 857
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7440-41-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-150-7"
+        "value": "CID5460467"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.318"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5460467"
+        "value": "231-150-7"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Beryllium",
     "de": "Beryllium",
+    "en": "Beryllium",
     "fr": "Beryllium"
   }
 }

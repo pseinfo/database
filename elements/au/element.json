@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.6,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 170,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 3.1,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.05,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.002,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 3.1
     },
     "human": {
-      "value": 100,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 100
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 170
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.002
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.6
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.05
     }
   },
   "appearance": {
-    "en": "metallic yellow",
     "de": "metallisch gelb",
+    "en": "metallic yellow",
     "fr": "jaune métallique"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 11,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Or_natif1.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Or_natif1.jpg\">Urban</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Or_natif1.jpg\">Urban</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Or_natif1.jpg"
   },
   "names": {
-    "en": "Gold",
     "de": "Gold",
-    "la": "Aurum",
-    "fr": "Or"
+    "en": "Gold",
+    "fr": "Or",
+    "la": "Aurum"
   },
   "number": 79,
   "price": {
-    "value": 44800,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 44800
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7440-57-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-165-9"
+        "value": "CID23985"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.332"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23985"
+        "value": "231-165-9"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Gold",
     "de": "Gold",
+    "en": "Gold",
     "fr": "Or"
   }
 }

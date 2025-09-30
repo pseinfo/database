@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 7,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1200,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 3000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 67300,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 20,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 3000
     },
     "human": {
-      "value": 2900,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2900
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1200
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 20
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 7
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 67300
     }
   },
   "appearance": {
-    "en": "reddish-brown",
     "de": "rotbraun (gasförmig); rotbraun (flüssig); metallisch glänzend (fest)",
+    "en": "reddish-brown",
     "fr": "marron-rougeâtre"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 17,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "liquid",
+    "radioactive": false,
     "set": "halogen",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Balard",
-    "value": 1826,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1826
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bromine-ampoule.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bromine-ampoule.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bromine-ampoule.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bromine-ampoule.jpg"
   },
   "names": {
-    "en": "Bromine",
     "de": "Brom",
-    "la": "Bromum",
-    "fr": "Brome"
+    "en": "Bromine",
+    "fr": "Brome",
+    "la": "Bromum"
   },
   "number": 35,
   "price": {
-    "value": 4.39,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 4.39
   },
   "properties": [
     "natural",
@@ -78,9 +78,9 @@
         "value": "7726-95-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-778-1"
+        "value": "CID24408"
       }
     ],
     "echa": [
@@ -88,9 +88,9 @@
         "value": "100.028.890"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID24408"
+        "value": "231-778-1"
       }
     ],
     "rtecs": [
@@ -116,8 +116,8 @@
     }
   ],
   "wiki": {
-    "en": "Bromine",
     "de": "Brom",
+    "en": "Bromine",
     "fr": "Brome"
   }
 }

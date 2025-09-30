@@ -5,9 +5,9 @@
   },
   "basicity": "slightly-alkaline",
   "negativity": {
-    "pauling": 1.17,
     "allred": 1.07,
-    "nagle": 1.05
+    "nagle": 1.05,
+    "pauling": 1.17
   },
   "oxidation_state": "2, '''3'''",
   "oxide_character": "basic"

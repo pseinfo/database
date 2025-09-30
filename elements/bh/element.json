@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "Oganessian",
-    "value": 1976,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1976
   },
   "names": {
-    "en": "Bohrium",
     "de": "Bohrium",
-    "la": "Bohrium",
-    "fr": "Bohrium"
+    "en": "Bohrium",
+    "fr": "Bohrium",
+    "la": "Bohrium"
   },
   "number": 107,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54037-14-8"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Bh",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Bohrium",
     "de": "Bohrium",
+    "en": "Bohrium",
     "fr": "Bohrium"
   }
 }

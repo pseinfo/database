@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 30,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 3300,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 60000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 120,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 1,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 60000
     },
     "human": {
-      "value": 4600,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 4600
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 3300
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 30
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 120
     }
   },
   "appearance": {
-    "en": "grey white",
     "de": "silbrig weiß",
+    "en": "grey white",
     "fr": "blanc gris"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 1,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalimetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Bunsen, Kirchhoff",
-    "value": 1861,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1861
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rb5.JPG",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rb5.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rb5.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rb5.JPG"
   },
   "names": {
-    "en": "Rubidium",
     "de": "Rubidium",
-    "la": "Rubidium",
-    "fr": "Rubidium"
+    "en": "Rubidium",
+    "fr": "Rubidium",
+    "la": "Rubidium"
   },
   "number": 37,
   "price": {
-    "value": 15500,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 15500
   },
   "properties": [
     "natural",
@@ -82,9 +82,9 @@
         "value": "7440-17-7"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-126-6"
+        "value": "CID5357696"
       }
     ],
     "echa": [
@@ -92,9 +92,9 @@
         "value": "100.028.296"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5357696"
+        "value": "231-126-6"
       }
     ],
     "rtecs": [
@@ -120,8 +120,8 @@
     }
   ],
   "wiki": {
-    "en": "Rubidium",
     "de": "Rubidium",
+    "en": "Rubidium",
     "fr": "Rubidium"
   }
 }

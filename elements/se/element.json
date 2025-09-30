@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 30,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 13000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 50,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.45,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 0.2,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50
     },
     "human": {
-      "value": 50,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 13000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 0.2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 30
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.45
     }
   },
   "appearance": {
-    "en": "grey metallic-looking, red, and vitreous black allotropes",
     "de": "grau, glänzend",
+    "en": "grey metallic-looking, red, and vitreous black allotropes",
     "fr": "allotropes gris métallisé, rouge et noir vitreux"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 16,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Berzelius",
-    "value": 1817,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1817
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Selenium_in_sandstone_Westwater_Canyon_Section_23_Mine_Grants%2C_New_Mexico.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Selenium_in_sandstone_Westwater_Canyon_Section_23_Mine_Grants,_New_Mexico.jpg\">James St. John</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Selenium_in_sandstone_Westwater_Canyon_Section_23_Mine_Grants,_New_Mexico.jpg\">James St. John</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Selenium_in_sandstone_Westwater_Canyon_Section_23_Mine_Grants%2C_New_Mexico.jpg"
   },
   "names": {
-    "en": "Selenium",
     "de": "Selen",
-    "la": "Selenum",
-    "fr": "Sélénium"
+    "en": "Selenium",
+    "fr": "Sélénium",
+    "la": "Selenum"
   },
   "number": 34,
   "price": {
-    "value": 21.4,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 21.4
   },
   "properties": [
     "natural",
@@ -80,9 +80,9 @@
         "value": "7782-49-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-957-4"
+        "value": "CID6326970"
       }
     ],
     "echa": [
@@ -90,9 +90,9 @@
         "value": "100.029.052"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID6326970"
+        "value": "231-957-4"
       }
     ],
     "rtecs": [
@@ -118,8 +118,8 @@
     }
   ],
   "wiki": {
-    "en": "Selenium",
     "de": "Selen",
+    "en": "Selenium",
     "fr": "Sélénium"
   }
 }

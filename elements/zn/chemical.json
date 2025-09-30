@@ -5,25 +5,25 @@
   },
   "basicity": "amphoterism",
   "negativity": {
-    "pauling": 1.65,
-    "sanderson": 2.23,
     "allred": 1.66,
-    "mulliken": 1.65,
     "ghosh_gupta": {
-      "value": 4.1332,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 4.1332
     },
+    "mulliken": 1.65,
     "nagle": 1.46,
+    "pauling": 1.65,
     "pearson": {
-      "value": 4.45,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 4.45
+    },
+    "sanderson": 2.23
   },
   "oxidation_state": "2",
   "oxide_character": "amphoteric",
   "standard_potential": {
-    "value": -0.7926,
+    "info": "Zn[2+] + 2e[-] → Zn",
     "unit": "V",
-    "info": "Zn[2+] + 2e[-] → Zn"
+    "value": -0.7926
   }
 }

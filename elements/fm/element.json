@@ -11,22 +11,22 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1952,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1952
   },
   "names": {
-    "en": "Fermium",
     "de": "Fermium",
-    "la": "Fermium",
-    "fr": "Fermium"
+    "en": "Fermium",
+    "fr": "Fermium",
+    "la": "Fermium"
   },
   "number": 100,
   "properties": [
@@ -40,8 +40,8 @@
         "value": "7440-72-4"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Fm",
@@ -60,8 +60,8 @@
     }
   ],
   "wiki": {
-    "en": "Fermium",
     "de": "Fermium",
+    "en": "Fermium",
     "fr": "Fermium"
   }
 }

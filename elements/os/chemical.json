@@ -5,19 +5,19 @@
   },
   "basicity": "slightly-acidic",
   "negativity": {
-    "pauling": 2.2,
     "allred": 1.52,
     "nagle": 1.39,
+    "pauling": 2.2,
     "pearson": {
-      "value": 4.9,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 4.9
     }
   },
   "oxidation_state": "-2, 0, 2, 3, '''4''', 6, 8",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": 0.85,
+    "info": "OsO{4} + 8H[+] + 8e[-] → Os + 4H{2}O",
     "unit": "V",
-    "info": "OsO{4} + 8H[+] + 8e[-] → Os + 4H{2}O"
+    "value": 0.85
   }
 }

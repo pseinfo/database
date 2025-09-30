@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 60,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 700,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 110000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 68000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 3,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 6,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 68000
     },
     "human": {
-      "value": 1000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 110000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 6
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 700
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 60
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 3
     }
   },
   "appearance": {
-    "en": "red-orange metallic luster",
     "de": "rotbraun, metallisch",
+    "en": "red-orange metallic luster",
     "fr": "lustre métallisé rouge-orangé"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 11,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NatCopper.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:NatCopper.jpg\">Native_Copper_Macro_Digon3.jpg: “Jonathan Zander (Digon3)&quot;derivative work: Materialscientist</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:NatCopper.jpg\">Native_Copper_Macro_Digon3.jpg: “Jonathan Zander (Digon3)&quot;derivative work: Materialscientist</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NatCopper.jpg"
   },
   "names": {
-    "en": "Copper",
     "de": "Kupfer",
-    "la": "Cuprum",
-    "fr": "Cuivre"
+    "en": "Copper",
+    "fr": "Cuivre",
+    "la": "Cuprum"
   },
   "number": 29,
   "price": {
-    "value": 6,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 6
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7440-50-8"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-159-6"
+        "value": "CID23978"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.326"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23978"
+        "value": "231-159-6"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Copper",
     "de": "Kupfer",
+    "en": "Copper",
     "fr": "Cuivre"
   }
 }

@@ -5,6 +5,7 @@
   },
   "electron_config": "He 2s[2] 2p[5]",
   "ionization": {
+    "unit": "eV",
     "values": [
       17.42282,
       34.97081,
@@ -13,35 +14,34 @@
       114.249,
       157.16311,
       185.1868
-    ],
-    "unit": "eV"
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 18.9984031636,
-      "unit": "u"
+      "unit": "u",
+      "value": 18.9984031636
     },
     "standard_atomic_weight": {
-      "value": 18.99840316,
-      "deviation": 5e-9
+      "deviation": 5e-9,
+      "value": 18.99840316
     }
   },
   "radius": {
-    "empirical": {
-      "value": 50,
-      "unit": "pm"
-    },
     "calculated": {
-      "value": 42,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 42
     },
     "covalent": {
-      "value": 64,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 64
+    },
+    "empirical": {
+      "unit": "pm",
+      "value": 50
     },
     "vdw": {
-      "value": 135,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 135
     }
   },
   "shell": [

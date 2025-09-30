@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 300,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 180000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 79000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 5,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 10,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 79000
     },
     "human": {
-      "value": 33000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 33000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 180000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 10
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 2000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 300
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 5
     }
   },
   "appearance": {
-    "en": "silver-gray",
     "de": "bläulich blassgrau",
+    "en": "silver-gray",
     "fr": "gris-argenté"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 12,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zinc_fragment_sublimed_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Zinc_fragment_sublimed_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Zinc_fragment_sublimed_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zinc_fragment_sublimed_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Zinc",
     "de": "Zink",
-    "la": "Zincum",
-    "fr": "Zinc"
+    "en": "Zinc",
+    "fr": "Zinc",
+    "la": "Zincum"
   },
   "number": 30,
   "price": {
-    "value": 2.55,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2.55
   },
   "properties": [
     "natural",
@@ -78,14 +78,19 @@
     "antiquity"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "A12CB"
+      }
+    ],
     "cas": [
       {
         "value": "7440-66-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-175-3"
+        "value": "CID23994"
       }
     ],
     "echa": [
@@ -93,14 +98,9 @@
         "value": "100.028.341"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "A12CB"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID23994"
+        "value": "231-175-3"
       }
     ],
     "rtecs": [
@@ -126,8 +126,8 @@
     }
   ],
   "wiki": {
-    "en": "Zinc",
     "de": "Zink",
+    "en": "Zinc",
     "fr": "Zinc"
   }
 }

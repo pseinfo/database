@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 70000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 70000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 11000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 50000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 4220,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 1500,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50000000
     },
     "human": {
-      "value": 14000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 14000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 11000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 1500
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 70000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 70000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 4220
     }
   },
   "appearance": {
-    "en": "dull gray, silver; with a pale yellow tint",
     "de": "silbrig weiß",
+    "en": "dull gray, silver; with a pale yellow tint",
     "fr": "gris terne, argenté ; avec une teinte jaune pâle"
   },
   "classification": {
@@ -46,31 +46,31 @@
     "group": 2,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalineearthmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Davy",
-    "value": 1808,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1808
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg\">Matthias Zepper</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg\">Matthias Zepper</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg"
   },
   "names": {
-    "en": "Calcium",
     "de": "Calcium",
-    "la": "Calcium",
-    "fr": "Calcium"
+    "en": "Calcium",
+    "fr": "Calcium",
+    "la": "Calcium"
   },
   "number": 20,
   "price": {
-    "value": 2.28,
     "deviation": 0.14,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2.28
   },
   "properties": [
     "natural",
@@ -79,14 +79,19 @@
     "light"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "A12AA"
+      }
+    ],
     "cas": [
       {
         "value": "7440-70-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-179-5"
+        "value": "CID5460341"
       }
     ],
     "echa": [
@@ -94,14 +99,9 @@
         "value": "100.028.344"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "A12AA"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID5460341"
+        "value": "231-179-5"
       }
     ]
   },
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Calcium",
     "de": "Calcium",
+    "en": "Calcium",
     "fr": "Calcium"
   }
 }

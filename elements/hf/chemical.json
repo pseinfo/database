@@ -5,19 +5,19 @@
   },
   "basicity": "amphoterism",
   "negativity": {
-    "pauling": 1.3,
     "allred": 1.23,
     "nagle": 1.2,
+    "pauling": 1.3,
     "pearson": {
-      "value": 3.8,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 3.8
     }
   },
   "oxidation_state": "2, 4",
   "oxide_character": "amphoteric",
   "standard_potential": {
-    "value": -1.505,
+    "info": "HfO{2} + 4H[+] + 4e[-] → Hf + 2H{2}O",
     "unit": "V",
-    "info": "HfO{2} + 4H[+] + 4e[-] → Hf + 2H{2}O"
+    "value": -1.505
   }
 }

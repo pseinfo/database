@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "pauling": 3.44,
-    "sanderson": 3.65,
-    "allred": 3.5,
-    "mulliken": 3.41,
     "allen": 3.61,
-    "ghosh_gupta": {
-      "value": 8.7861,
-      "unit": "eV"
-    },
+    "allred": 3.5,
     "boyd": 3.62,
+    "ghosh_gupta": {
+      "unit": "eV",
+      "value": 8.7861
+    },
+    "mulliken": 3.41,
     "nagle": 3.62,
+    "pauling": 3.44,
     "pearson": {
-      "value": 7.54,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 7.54
+    },
+    "sanderson": 3.65
   },
   "oxidation_state": "'''-2''', -1, 0, +1, +2",
   "oxide_character": "acidic",
   "standard_potential": {
-    "value": 1.23,
-    "unit": "V"
+    "unit": "V",
+    "value": 1.23
   }
 }

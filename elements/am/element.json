@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig-weißes Metall",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -16,26 +16,26 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1944,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1944
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Americium_microscope.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Americium_microscope.jpg\">Bionerd</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Americium_microscope.jpg\">Bionerd</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Americium_microscope.jpg"
   },
   "names": {
-    "en": "Americium",
     "de": "Americium",
-    "la": "Americium",
-    "fr": "Américium"
+    "en": "Americium",
+    "fr": "Américium",
+    "la": "Americium"
   },
   "number": 95,
   "properties": [
@@ -50,14 +50,14 @@
         "value": "7440-35-9"
       }
     ],
-    "eg": [
-      {
-        "value": "231-144-4"
-      }
-    ],
     "echa": [
       {
         "value": "100.028.313"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-144-4"
       }
     ]
   },
@@ -78,8 +78,8 @@
     }
   ],
   "wiki": {
-    "en": "Americium",
     "de": "Americium",
+    "en": "Americium",
     "fr": "Américium"
   }
 }

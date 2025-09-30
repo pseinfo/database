@@ -4,113 +4,113 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 22.56,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 22.56
   },
   "elastic": {
-    "young": {
-      "value": 528,
-      "unit": "GPa"
-    },
-    "rigidity": {
-      "value": 210,
-      "unit": "GPa"
-    },
     "bulk": {
-      "value": 320,
-      "unit": "GPa"
+      "unit": "GPa",
+      "value": 320
     },
-    "poisson": 0.26
+    "poisson": 0.26,
+    "rigidity": {
+      "unit": "GPa",
+      "value": 210
+    },
+    "young": {
+      "unit": "GPa",
+      "value": 528
+    }
   },
   "electrical": {
     "conductivity": {
-      "value": 19700000,
-      "unit": "S·m[-1]"
+      "unit": "S·m[-1]",
+      "value": 19700000
     },
     "resistivity": {
-      "value": 4.7e-8,
-      "unit": "Ωm"
+      "unit": "Ωm",
+      "value": 4.7e-8
     }
   },
   "enthalpy": {
+    "atomisation": {
+      "unit": "kJ·mol[-1]",
+      "value": 671
+    },
     "fusion": {
-      "value": 26,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 26
     },
     "vaporisation": {
-      "value": 560,
-      "unit": "kJ·mol[-1]"
-    },
-    "atomisation": {
-      "value": 671,
-      "unit": "kJ·mol[-1]"
+      "unit": "kJ·mol[-1]",
+      "value": 560
     }
   },
   "hardness": {
-    "mohs": 6.5,
     "brinell": {
-      "value": 1670,
-      "unit": "NM·m[-2]"
+      "unit": "NM·m[-2]",
+      "value": 1670
     },
+    "mohs": 6.5,
     "vickers": {
-      "value": 1760,
-      "unit": "NM·m[-2]"
+      "unit": "NM·m[-2]",
+      "value": 1760
     }
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 150,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 150
     },
     "thermal_expansion": {
-      "value": 0.0000064,
-      "unit": "K[-1]"
+      "unit": "K[-1]",
+      "value": 0.0000064
     }
   },
   "magnetic": {
     "magnetic_ordering": "paramagnetic",
     "magnetic_susceptibility": {
-      "value": 0.0000256,
-      "unit": "cm[3]·mol[−1]",
       "condition": [
         {
           "value": 298,
           "unit": "K"
         }
-      ]
+      ],
+      "unit": "cm[3]·mol[−1]",
+      "value": 0.0000256
     }
   },
   "molar_volume": {
-    "value": 0.00000852,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.00000852
   },
   "optical": {
     "reflectivity": {
-      "value": 78,
-      "unit": "%"
+      "unit": "%",
+      "value": 78
     }
   },
   "phase": "solid",
   "sound_speed": {
-    "value": 4825,
-    "unit": "m·s[−1]"
+    "unit": "m·s[−1]",
+    "value": 4825
   },
   "temperature": {
-    "melting": {
-      "value": 2719,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 4403,
-      "unit": "K"
+      "unit": "K",
+      "value": 4403
     },
     "liquid": {
-      "value": 1684,
-      "unit": "K"
+      "unit": "K",
+      "value": 1684
+    },
+    "melting": {
+      "unit": "K",
+      "value": 2719
     },
     "transition": {
-      "value": 0.1,
-      "unit": "K"
+      "unit": "K",
+      "value": 0.1
     }
   }
 }

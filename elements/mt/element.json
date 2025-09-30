@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "GSI",
-    "value": 1982,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1982
   },
   "names": {
-    "en": "Meitnerium",
     "de": "Meitnerium",
-    "la": "Meitnerium",
-    "fr": "Meitnerium"
+    "en": "Meitnerium",
+    "fr": "Meitnerium",
+    "la": "Meitnerium"
   },
   "number": 109,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54038-01-6"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Mt",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Meitnerium",
     "de": "Meitnerium",
+    "en": "Meitnerium",
     "fr": "Meitnerium"
   }
 }

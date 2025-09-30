@@ -15,26 +15,26 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "significantly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1952,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1952
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Einsteinium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Einsteinium.jpg\">Haire, R. G., US Department of Energy.Touched up by Materialscientist at en.wikipedia.</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Einsteinium.jpg\">Haire, R. G., US Department of Energy.Touched up by Materialscientist at en.wikipedia.</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Einsteinium.jpg"
   },
   "names": {
-    "en": "Einsteinium",
     "de": "Einsteinium",
-    "la": "Einsteinium",
-    "fr": "Einsteinium"
+    "en": "Einsteinium",
+    "fr": "Einsteinium",
+    "la": "Einsteinium"
   },
   "number": 99,
   "properties": [
@@ -49,8 +49,8 @@
         "value": "7429-92-7"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA/8AAAABCAIAAAAHEIn1AAABfklEQVRIx+2Uu0oDURCGv9kkZJtgCkGLgChBYvARLKysRGwsLSSVjdhYiG0KfQBttLCxEVKIpYXY+AAieAGD2IgogorRXHaPRYjuSbLJbqIkqIfl7Pwz//xzWVgZZhy45cyiAELlyOelHamxxCMhQn8fCeCKI+UoYRAEbEouChIkbFFQKOpV9NJnEDPJJIggJ2QUdpkQJTbIWI7HSw6aTSpOZBBKMn3PxR2noKqiNXbzqLSRW7sT5YBKjyqd7wIBUfo23KAQFsIWL14qKn0Ed6iNoEND6FG8KorlRCEOls11WaDBRNpbHIYvKGDGGdogm6L0wOgez4fcrIHdJKu1Wo1poTCL+xiwPsPbU7ulYwOkNzEgvUD2vFFWwGAuxUiClWWK+cqmq56KU6A3ys4qWGAxMV+fHDHJLIHF1gG7x5qCm3Jzpy+yR4UWP1pH/GaE2QwGbE9Reu/GPr8W3Kn7ewVrfnz+PB2h/V59gWiAnE1e/ek1Kv/GTzD/xbuqjQ8bQxkX41ZFCgAAAABJRU5ErkJggg==",
   "symbol": "Es",
@@ -69,8 +69,8 @@
     }
   ],
   "wiki": {
-    "en": "Einsteinium",
     "de": "Einsteinium",
+    "en": "Einsteinium",
     "fr": "Einsteinium"
   }
 }

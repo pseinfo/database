@@ -4,26 +4,26 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 3,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1.8
     },
     "meteorite": {
-      "value": 670,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 670
     },
-    "crust": {
-      "value": 1.8,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 3
     }
   },
   "appearance": {
-    "en": "silvery, blue cast",
     "de": "bläulich grau",
+    "en": "silvery, blue cast",
     "fr": "bleu, argenté"
   },
   "classification": {
@@ -34,30 +34,30 @@
     "group": 8,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Tennant",
-    "value": 1803,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1803
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Osmium_crystals.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Osmium_crystals.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg"
   },
   "names": {
-    "en": "Osmium",
     "de": "Osmium",
-    "la": "Osmium",
-    "fr": "Osmium"
+    "en": "Osmium",
+    "fr": "Osmium",
+    "la": "Osmium"
   },
   "number": 76,
   "price": {
-    "value": 12000,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 12000
   },
   "properties": [
     "natural",
@@ -73,9 +73,9 @@
         "value": "7440-04-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-114-0"
+        "value": "CID23937"
       }
     ],
     "echa": [
@@ -83,9 +83,9 @@
         "value": "100.028.285"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23937"
+        "value": "231-114-0"
       }
     ],
     "rtecs": [
@@ -111,8 +111,8 @@
     }
   ],
   "wiki": {
-    "en": "Osmium",
     "de": "Osmium",
+    "en": "Osmium",
     "fr": "Osmium"
   }
 }

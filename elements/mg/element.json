@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 600000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 700000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 120000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 29000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 1326000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 4100,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 29000000
     },
     "human": {
-      "value": 270000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 270000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 120000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 4100
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 700000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 600000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 1326000
     }
   },
   "appearance": {
-    "en": "shiny grey solid",
     "de": "silbrig weiß",
+    "en": "shiny grey solid",
     "fr": "blanc-gris métallique"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 2,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalineearthmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Bussy",
-    "value": 1828,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1828
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/CSIRO_ScienceImage_2893_Crystalised_magnesium.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2893_Crystalised_magnesium.jpg\">CSIRO</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2893_Crystalised_magnesium.jpg\">CSIRO</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/CSIRO_ScienceImage_2893_Crystalised_magnesium.jpg"
   },
   "names": {
-    "en": "Magnesium",
     "de": "Magnesium",
-    "la": "Magnesium",
-    "fr": "Magnésium"
+    "en": "Magnesium",
+    "fr": "Magnésium",
+    "la": "Magnesium"
   },
   "number": 12,
   "price": {
-    "value": 2.32,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2.32
   },
   "properties": [
     "natural",
@@ -79,14 +79,19 @@
     "light"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "A12CC"
+      }
+    ],
     "cas": [
       {
         "value": "7439-95-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-104-6"
+        "value": "CID5462224"
       }
     ],
     "echa": [
@@ -94,14 +99,9 @@
         "value": "100.028.276"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "A12CC"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID5462224"
+        "value": "231-104-6"
       }
     ]
   },
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Magnesium",
     "de": "Magnesium",
+    "en": "Magnesium",
     "fr": "Magnésium"
   }
 }

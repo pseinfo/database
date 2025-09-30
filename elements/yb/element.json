@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 2800
     },
     "meteorite": {
-      "value": 180,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 2800,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0008,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 180
     },
     "stream": {
-      "value": 0.05,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.05
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0008
     }
   },
   "appearance": {
-    "en": "silvery white; with a pale yellow tint",
     "de": "silbrig weiß",
+    "en": "silvery white; with a pale yellow tint",
     "fr": "blanc argenté; avec une tinte jaune pâle"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "de Marignac",
-    "value": 1878,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1878
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ytterbium-3.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Ytterbium-3.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Ytterbium-3.jpg\">Jurii</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ytterbium-3.jpg"
   },
   "names": {
-    "en": "Ytterbium",
     "de": "Ytterbium",
-    "la": "Ytterbium",
-    "fr": "Ytterbium"
+    "en": "Ytterbium",
+    "fr": "Ytterbium",
+    "la": "Ytterbium"
   },
   "number": 70,
   "price": {
-    "value": 17.1,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 17.1
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7440-64-4"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-173-2"
+        "value": "CID23992"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.339"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23992"
+        "value": "231-173-2"
       }
     ],
     "rtecs": [
@@ -117,8 +117,8 @@
     }
   ],
   "wiki": {
-    "en": "Ytterbium",
     "de": "Ytterbium",
+    "en": "Ytterbium",
     "fr": "Ytterbium"
   }
 }

@@ -4,22 +4,22 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 9,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 1
     },
     "meteorite": {
-      "value": 2100,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2100
     },
-    "crust": {
-      "value": 1,
-      "unit": "ppb"
+    "universe": {
+      "unit": "ppb",
+      "value": 9
     }
   },
   "appearance": {
-    "en": "silvery lustrous gray (crystalline); brown-black powder (amorphous)",
     "de": "silberweiß, metallisch glänzend",
+    "en": "silvery lustrous gray (crystalline); brown-black powder (amorphous)",
     "fr": "gris lustré argenté (crystallin); poudre noir-marron (amorphe)"
   },
   "classification": {
@@ -30,30 +30,30 @@
     "group": 16,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "von Reichenstein",
-    "value": 1782,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1782
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tellurium2.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tellurium2.jpg\">http://images-of-elements.com/tellurium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Tellurium2.jpg\">http://images-of-elements.com/tellurium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tellurium2.jpg"
   },
   "names": {
-    "en": "Tellurium",
     "de": "Tellur",
-    "la": "Tellurium",
-    "fr": "Tellure"
+    "en": "Tellurium",
+    "fr": "Tellure",
+    "la": "Tellurium"
   },
   "number": 52,
   "price": {
-    "value": 63.5,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 63.5
   },
   "properties": [
     "natural",
@@ -68,9 +68,9 @@
         "value": "13494-80-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "236-813-4"
+        "value": "CID6327182"
       }
     ],
     "echa": [
@@ -78,9 +78,9 @@
         "value": "100.033.452"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID6327182"
+        "value": "236-813-4"
       }
     ],
     "rtecs": [
@@ -106,8 +106,8 @@
     }
   ],
   "wiki": {
-    "en": "Tellurium",
     "de": "Tellur",
+    "en": "Tellurium",
     "fr": "Tellure"
   }
 }

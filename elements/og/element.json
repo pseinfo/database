@@ -15,21 +15,21 @@
     "group": 18,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "extremely-radioactive",
-    "phase": "solid",
     "set": "unknown"
   },
   "discovery": {
     "by": "JINR",
-    "value": 2006,
-    "era": "recent"
+    "era": "recent",
+    "value": 2006
   },
   "names": {
-    "en": "Oganesson",
     "de": "Oganesson",
-    "la": "Oganesson",
-    "fr": "Oganesson"
+    "en": "Oganesson",
+    "fr": "Oganesson",
+    "la": "Oganesson"
   },
   "number": 118,
   "properties": [
@@ -43,8 +43,8 @@
         "value": "54144-19-3"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Og",
@@ -63,8 +63,8 @@
     }
   ],
   "wiki": {
-    "en": "Oganesson",
     "de": "Oganesson",
+    "en": "Oganesson",
     "fr": "Oganesson"
   }
 }

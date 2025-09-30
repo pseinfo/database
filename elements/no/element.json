@@ -11,22 +11,22 @@
     "group": 20,
     "occurrence": "synthetic",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "highly-radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Seaborg",
-    "value": 1958,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1958
   },
   "names": {
-    "en": "Nobelium",
     "de": "Nobelium",
-    "la": "Nobelium",
-    "fr": "Nobélium"
+    "en": "Nobelium",
+    "fr": "Nobélium",
+    "la": "Nobelium"
   },
   "number": 102,
   "properties": [
@@ -40,8 +40,8 @@
         "value": "10028-14-5"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "No",
@@ -60,8 +60,8 @@
     }
   ],
   "wiki": {
-    "en": "Nobelium",
     "de": "Nobelium",
+    "en": "Nobelium",
     "fr": "Nobélium"
   }
 }

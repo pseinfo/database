@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 20,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 67
     },
     "meteorite": {
-      "value": 250,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 67,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.05,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 250
     },
     "stream": {
-      "value": 0.07,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.07
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 20
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.05
     }
   },
   "appearance": {
-    "en": "shiny, silvery liquid",
     "de": "silbrig weiß",
+    "en": "shiny, silvery liquid",
     "fr": "brillant, liquid argenté"
   },
   "classification": {
@@ -42,8 +42,8 @@
     "group": 12,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "liquid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
@@ -51,19 +51,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HgKviks%C3%B8lv.JPG",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:HgKviks%C3%B8lv.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:HgKviks%C3%B8lv.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HgKviks%C3%B8lv.JPG"
   },
   "names": {
-    "en": "Mercury",
     "de": "Quecksilber",
-    "la": "Hydrargyrion",
-    "fr": "Mercure"
+    "en": "Mercury",
+    "fr": "Mercure",
+    "la": "Hydrargyrion"
   },
   "number": 80,
   "price": {
-    "value": 30.2,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 30.2
   },
   "properties": [
     "natural",
@@ -74,14 +74,19 @@
     "antiquity"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "D08AK05"
+      }
+    ],
     "cas": [
       {
         "value": "7439-97-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-106-7"
+        "value": "CID23931"
       }
     ],
     "echa": [
@@ -89,14 +94,9 @@
         "value": "100.028.278"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "D08AK05"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID23931"
+        "value": "231-106-7"
       }
     ],
     "rtecs": [
@@ -122,8 +122,8 @@
     }
   ],
   "wiki": {
-    "en": "Mercury (element)",
     "de": "Quecksilber",
+    "en": "Mercury (element)",
     "fr": "Mercure_(chimie)"
   }
 }

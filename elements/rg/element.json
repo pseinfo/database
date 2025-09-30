@@ -17,14 +17,14 @@
   },
   "discovery": {
     "by": "GSI",
-    "value": 1994,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1994
   },
   "names": {
-    "en": "Roentgenium",
     "de": "Roentgenium",
-    "la": "Roentgenium",
-    "fr": "Roentgenium"
+    "en": "Roentgenium",
+    "fr": "Roentgenium",
+    "la": "Roentgenium"
   },
   "number": 111,
   "properties": [
@@ -38,8 +38,8 @@
         "value": "54386-24-2"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Rg",
@@ -58,8 +58,8 @@
     }
   ],
   "wiki": {
-    "en": "Roentgenium",
     "de": "Roentgenium",
+    "en": "Roentgenium",
     "fr": "Roentgenium"
   }
 }

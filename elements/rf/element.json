@@ -20,14 +20,14 @@
   },
   "discovery": {
     "by": "Ghiorso",
-    "value": 1964,
-    "era": "synthesis"
+    "era": "synthesis",
+    "value": 1964
   },
   "names": {
-    "en": "Rutherfordium",
     "de": "Rutherfordium",
-    "la": "Rutherfordium",
-    "fr": "Rutherfordium"
+    "en": "Rutherfordium",
+    "fr": "Rutherfordium",
+    "la": "Rutherfordium"
   },
   "number": 104,
   "properties": [
@@ -42,8 +42,8 @@
         "value": "53850-36-5"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Rf",
@@ -62,8 +62,8 @@
     }
   ],
   "wiki": {
-    "en": "Rutherfordium",
     "de": "Rutherfordium",
+    "en": "Rutherfordium",
     "fr": "Rutherfordium"
   }
 }

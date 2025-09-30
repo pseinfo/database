@@ -5,17 +5,17 @@
   },
   "abundance": {
     "crust": {
-      "value": 0.00001,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.00001
     },
     "water": {
-      "value": 2e-16,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2e-16
     }
   },
   "appearance": {
-    "en": "bright, silvery metallic luster",
     "de": "hell, silbrig, metallisch glänzend",
+    "en": "bright, silvery metallic luster",
     "fr": "lumineux, lustré, métallique argenté"
   },
   "classification": {
@@ -26,26 +26,26 @@
     "group": 20,
     "occurrence": "decay",
     "period": 7,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "radioactive",
-    "phase": "solid",
     "set": "actinoide",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Fajans, Hahn, Meitner",
-    "value": 1917,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1917
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Protactinium-233.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Protactinium-233.jpg\">ENERGY.GOV</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Protactinium-233.jpg\">ENERGY.GOV</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Protactinium-233.jpg"
   },
   "names": {
-    "en": "Protactinium",
     "de": "Protactinium",
-    "la": "Protactinium",
-    "fr": "Protactinium"
+    "en": "Protactinium",
+    "fr": "Protactinium",
+    "la": "Protactinium"
   },
   "number": 91,
   "properties": [
@@ -60,14 +60,14 @@
         "value": "7440-13-3"
       }
     ],
-    "eg": [
-      {
-        "value": "616-087-9"
-      }
-    ],
     "echa": [
       {
         "value": "100.122.906"
+      }
+    ],
+    "eg": [
+      {
+        "value": "616-087-9"
       }
     ]
   },
@@ -88,8 +88,8 @@
     }
   ],
   "wiki": {
-    "en": "Protactinium",
     "de": "Protactinium",
+    "en": "Protactinium",
     "fr": "Protactinium"
   }
 }

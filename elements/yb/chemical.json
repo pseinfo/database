@@ -11,8 +11,8 @@
   "oxidation_state": "2, '''3'''",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.22,
+    "info": "Yb[3+] + 3e[-] → Yb",
     "unit": "V",
-    "info": "Yb[3+] + 3e[-] → Yb"
+    "value": -2.22
   }
 }

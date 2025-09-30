@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "semimetallic (predicted)",
-    "de": "semi-métallique (prédiction)"
+    "de": "semi-métallique (prédiction)",
+    "en": "semimetallic (predicted)"
   },
   "classification": {
     "block": "p",
@@ -21,14 +21,14 @@
   },
   "discovery": {
     "by": "JINR",
-    "value": 2010,
-    "era": "recent"
+    "era": "recent",
+    "value": 2010
   },
   "names": {
-    "en": "Tennessine",
     "de": "Tenness",
-    "la": "Tennessum",
-    "fr": "Tennesse"
+    "en": "Tennessine",
+    "fr": "Tennesse",
+    "la": "Tennessum"
   },
   "number": 117,
   "properties": [
@@ -42,8 +42,8 @@
         "value": "54101-14-3"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "Ts",
@@ -62,8 +62,8 @@
     }
   ],
   "wiki": {
-    "en": "Tennessine",
     "de": "Tenness",
+    "en": "Tennessine",
     "fr": "Tennesse"
   }
 }

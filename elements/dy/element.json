@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 2,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 6200
     },
     "meteorite": {
-      "value": 280,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 6200,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.00091,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 280
     },
     "stream": {
-      "value": 0.05,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.05
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.00091
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Lecoq de Boisbaudran",
-    "value": 1886,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1886
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dy_chips.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Dy_chips.jpg\">Materialscientist at en.wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Dy_chips.jpg\">Materialscientist at en.wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dy_chips.jpg"
   },
   "names": {
-    "en": "Dysprosium",
     "de": "Dysprosium",
-    "la": "Dysprosium",
-    "fr": "Dysprosium"
+    "en": "Dysprosium",
+    "fr": "Dysprosium",
+    "la": "Dysprosium"
   },
   "number": 66,
   "price": {
-    "value": 307,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 307
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7429-91-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-073-9"
+        "value": "CID23912"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.249"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23912"
+        "value": "231-073-9"
       }
     ]
   },
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Dysprosium",
     "de": "Dysprosium",
+    "en": "Dysprosium",
     "fr": "Dysprosium"
   }
 }

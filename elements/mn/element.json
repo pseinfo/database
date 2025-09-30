@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 8000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 10000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 2800000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1100000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 5,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1100000
     },
     "human": {
-      "value": 200,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 200
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 2800000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 5
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 10000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 8000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 2
     }
   },
   "appearance": {
-    "en": "silvery metallic",
     "de": "silbrig metallisch (Stahlweiß)",
+    "en": "silvery metallic",
     "fr": "métallique argenté"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 7,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Gahn",
-    "value": 1774,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1774
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Manganese_electrolytic_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Manganese_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Manganese_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Manganese_electrolytic_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Manganese",
     "de": "Mangan",
-    "la": "Manganum",
-    "fr": "Manganèse"
+    "en": "Manganese",
+    "fr": "Manganèse",
+    "la": "Manganum"
   },
   "number": 25,
   "price": {
-    "value": 1.82,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 1.82
   },
   "properties": [
     "natural",
@@ -84,9 +84,9 @@
         "value": "7439-96-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-105-1"
+        "value": "CID23930"
       }
     ],
     "echa": [
@@ -94,9 +94,9 @@
         "value": "100.028.277"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23930"
+        "value": "231-105-1"
       }
     ]
   },
@@ -117,8 +117,8 @@
     }
   ],
   "wiki": {
-    "en": "Manganese",
     "de": "Mangan",
+    "en": "Manganese",
     "fr": "Manganèse"
   }
 }

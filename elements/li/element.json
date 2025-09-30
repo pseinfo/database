@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 6,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 0.06,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1700,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 17000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 180,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 3000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 17000
     },
     "human": {
-      "value": 30,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 30
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1700
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 3000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 0.06
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 6
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 180
     }
   },
   "appearance": {
-    "en": "silvery-white",
     "de": "silbrig weiß/grau",
+    "en": "silvery-white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 1,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "alkalimetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Arfwedson",
-    "value": 1817,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1817
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Limetal.JPG",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Limetal.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Limetal.JPG\">Dnn87</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Limetal.JPG"
   },
   "names": {
-    "en": "Lithium",
     "de": "Lithium",
-    "la": "Lithium",
-    "fr": "Lithium"
+    "en": "Lithium",
+    "fr": "Lithium",
+    "la": "Lithium"
   },
   "number": 3,
   "price": {
-    "value": 83.5,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 83.5
   },
   "properties": [
     "natural",
@@ -82,9 +82,9 @@
         "value": "7439-93-2"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-102-5"
+        "value": "CID3028194"
       }
     ],
     "echa": [
@@ -92,9 +92,9 @@
         "value": "100.028.274"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID3028194"
+        "value": "231-102-5"
       }
     ],
     "rtecs": [
@@ -120,8 +120,8 @@
     }
   ],
   "wiki": {
-    "en": "Lithium",
     "de": "Lithium",
+    "en": "Lithium",
     "fr": "Lithium"
   }
 }

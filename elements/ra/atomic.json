@@ -5,31 +5,31 @@
   },
   "electron_config": "Rn 7s[2]",
   "ionization": {
+    "unit": "eV",
     "values": [
       5.2784239,
       10.14718,
       31,
       41,
       52.9
-    ],
-    "unit": "eV"
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 226.0254,
       "*": true,
-      "unit": "u"
+      "unit": "u",
+      "value": 226.0254
     }
   },
   "radius": {
     "covalent": {
-      "value": 221,
       "deviation": 2,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 221
     },
     "vdw": {
-      "value": 283,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 283
     }
   },
   "shell": [

@@ -5,42 +5,42 @@
   },
   "electron_config": "Kr 4d[10] 5s[2]",
   "ionization": {
+    "unit": "eV",
     "values": [
       8.99382,
       16.908313,
       37.468,
       51,
       67.9
-    ],
-    "unit": "eV"
+    ]
   },
   "mass": {
     "atomic_mass": {
-      "value": 112.4144,
-      "unit": "u"
+      "unit": "u",
+      "value": 112.4144
     },
     "standard_atomic_weight": {
-      "value": 112.414,
-      "deviation": 0.004
+      "deviation": 0.004,
+      "value": 112.414
     }
   },
   "radius": {
-    "empirical": {
-      "value": 151,
-      "unit": "pm"
-    },
     "calculated": {
-      "value": 161,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 161
     },
     "covalent": {
-      "value": 144,
       "deviation": 9,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 144
+    },
+    "empirical": {
+      "unit": "pm",
+      "value": 151
     },
     "vdw": {
-      "value": 158,
-      "unit": "pm"
+      "unit": "pm",
+      "value": 158
     }
   },
   "shell": [

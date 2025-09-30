@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 500000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 400000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 41000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 420000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 928000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 4000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 420000
     },
     "human": {
-      "value": 2000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 2000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 41000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 4000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 400000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 500000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 928000
     }
   },
   "appearance": {
-    "en": "yellow sintered microcrystals",
     "de": "gelb",
+    "en": "yellow sintered microcrystals",
     "fr": "Jaune"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 16,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "nonmetal",
     "superconductivity": "special"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potos%C3%AD,_Bolivia.jpg\">Ivar Leidus</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potos%C3%AD,_Bolivia.jpg\">Ivar Leidus</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg"
   },
   "names": {
-    "en": "Sulfur",
     "de": "Schwefel",
-    "la": "Sulfur",
-    "fr": "Souffre"
+    "en": "Sulfur",
+    "fr": "Souffre",
+    "la": "Sulfur"
   },
   "number": 16,
   "price": {
-    "value": 0.0926,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.0926
   },
   "properties": [
     "natural",
@@ -77,14 +77,19 @@
     "antiquity"
   ],
   "registry": {
+    "atc": [
+      {
+        "value": "D10AB02"
+      }
+    ],
     "cas": [
       {
         "value": "7704-34-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-722-6"
+        "value": "CID5362487"
       }
     ],
     "echa": [
@@ -92,14 +97,9 @@
         "value": "100.028.839"
       }
     ],
-    "atc": [
+    "eg": [
       {
-        "value": "D10AB02"
-      }
-    ],
-    "cid": [
-      {
-        "value": "CID5362487"
+        "value": "231-722-6"
       }
     ],
     "rtecs": [
@@ -125,8 +125,8 @@
     }
   ],
   "wiki": {
-    "en": "Sulfur",
     "de": "Schwefel",
+    "en": "Sulfur",
     "fr": "Souffre"
   }
 }

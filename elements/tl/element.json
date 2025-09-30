@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.5,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 530
     },
     "meteorite": {
-      "value": 80,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 80
     },
-    "crust": {
-      "value": 530,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.5
     },
     "water": {
-      "value": 0.001,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.001
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -38,30 +38,30 @@
     "group": 13,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Crookes",
-    "value": 1861,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1861
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Thallium_pieces_in_ampoule.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thallium_pieces_in_ampoule.jpg\">W. Oelen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Thallium_pieces_in_ampoule.jpg\">W. Oelen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Thallium_pieces_in_ampoule.jpg"
   },
   "names": {
-    "en": "Thallium",
     "de": "Thallium",
-    "la": "Thallium",
-    "fr": "Thallium"
+    "en": "Thallium",
+    "fr": "Thallium",
+    "la": "Thallium"
   },
   "number": 81,
   "price": {
-    "value": 4200,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 4200
   },
   "properties": [
     "natural",
@@ -74,9 +74,9 @@
         "value": "7440-28-0"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-138-1"
+        "value": "CID5359464"
       }
     ],
     "echa": [
@@ -84,9 +84,9 @@
         "value": "100.028.307"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5359464"
+        "value": "231-138-1"
       }
     ],
     "rtecs": [
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Thallium",
     "de": "Thallium",
+    "en": "Thallium",
     "fr": "Thallium"
   }
 }

@@ -4,30 +4,30 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 0.2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 0.1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 2.6
     },
     "meteorite": {
-      "value": 50,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 50
     },
-    "crust": {
-      "value": 2.6,
-      "unit": "ppb"
+    "sun": {
+      "unit": "ppb",
+      "value": 0.1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 0.2
     },
     "water": {
-      "value": 0.001,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.001
     }
   },
   "appearance": {
-    "en": "silvery-grayish",
     "de": "gräulich weiß",
+    "en": "silvery-grayish",
     "fr": "grisâtre-argenté"
   },
   "classification": {
@@ -38,31 +38,31 @@
     "group": 7,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Noddack, Tacke, Berg",
-    "value": 1925,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1925
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rhenium_single_crystal_bar_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rhenium_single_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Rhenium_single_crystal_bar_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rhenium_single_crystal_bar_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Rhenium",
     "de": "Rhenium",
-    "la": "Rhenium",
-    "fr": "Rhénium"
+    "en": "Rhenium",
+    "fr": "Rhénium",
+    "la": "Rhenium"
   },
   "number": 75,
   "price": {
-    "value": 3580,
     "deviation": 570,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 3580
   },
   "properties": [
     "natural",
@@ -75,9 +75,9 @@
         "value": "7440-15-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-124-5"
+        "value": "CID23947"
       }
     ],
     "echa": [
@@ -85,9 +85,9 @@
         "value": "100.028.294"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23947"
+        "value": "231-124-5"
       }
     ],
     "rtecs": [
@@ -113,8 +113,8 @@
     }
   ],
   "wiki": {
-    "en": "Rhenium",
     "de": "Rhenium",
+    "en": "Rhenium",
     "fr": "Rhénium"
   }
 }

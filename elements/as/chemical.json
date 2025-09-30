@@ -5,27 +5,27 @@
   },
   "basicity": "amphoterism",
   "negativity": {
-    "pauling": 2.18,
-    "sanderson": 2.82,
-    "allred": 2.2,
-    "mulliken": 2.26,
     "allen": 2.211,
-    "ghosh_gupta": {
-      "value": 5.5372,
-      "unit": "eV"
-    },
+    "allred": 2.2,
     "boyd": 2.21,
+    "ghosh_gupta": {
+      "unit": "eV",
+      "value": 5.5372
+    },
+    "mulliken": 2.26,
     "nagle": 2.11,
+    "pauling": 2.18,
     "pearson": {
-      "value": 5.3,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 5.3
+    },
+    "sanderson": 2.82
   },
   "oxidation_state": "-3, '''3''', 5",
   "oxide_character": "amphoteric",
   "standard_potential": {
-    "value": 0.24,
+    "info": "½As{2}O{3} + 3H[+] + 3e[-] → As + 1½H{2}O",
     "unit": "V",
-    "info": "½As{2}O{3} + 3H[+] + 3e[-] → As + 1½H{2}O"
+    "value": 0.24
   }
 }

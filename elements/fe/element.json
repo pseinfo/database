@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1100000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1000000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 220000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 63000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 3,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 670,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 63000000
     },
     "human": {
-      "value": 60000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 60000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 220000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 670
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1000000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1100000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 3
     }
   },
   "appearance": {
-    "en": "lustrous metallic with a grayish tinge",
     "de": "metallisch glänzend mit einem gräulichen Farbton",
+    "en": "lustrous metallic with a grayish tinge",
     "fr": "métallisé lustré avec une teinte grisâtre"
   },
   "classification": {
@@ -46,8 +46,8 @@
     "group": 8,
     "occurrence": "primordial",
     "period": 4,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "transitionmetal",
     "superconductivity": "special"
   },
@@ -55,19 +55,19 @@
     "era": "antiquity"
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Iron_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Iron_electrolytic_and_1cm3_cube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a> (FAL or <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>), via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg"
   },
   "names": {
-    "en": "Iron",
     "de": "Eisen",
-    "la": "Ferrum",
-    "fr": "Fer"
+    "en": "Iron",
+    "fr": "Fer",
+    "la": "Ferrum"
   },
   "number": 26,
   "price": {
-    "value": 0.424,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.424
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7439-89-6"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-096-4"
+        "value": "CID23925"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.270"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23925"
+        "value": "231-096-4"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Iron",
     "de": "Eisen",
+    "en": "Iron",
     "fr": "Fer"
   }
 }

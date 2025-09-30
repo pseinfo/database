@@ -4,22 +4,22 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 10,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 0.02,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.02
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 10
     },
     "water": {
-      "value": 0.005,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.005
     }
   },
   "appearance": {
-    "en": "colorless gas, exhibiting a blue glow when placed in an electric field",
     "de": "farbloses Gas",
+    "en": "colorless gas, exhibiting a blue glow when placed in an electric field",
     "fr": "gaz incolore présentant une lueur bleu lorsqu'il est placé dans un champ électrique"
   },
   "classification": {
@@ -30,51 +30,36 @@
     "group": 18,
     "occurrence": "primordial",
     "period": 5,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "noblegas",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Ramsay, Travers",
-    "value": 1898,
-    "era": "classifying"
+    "era": "classifying",
+    "value": 1898
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xenon_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Xenon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Xenon_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xenon_discharge_tube.jpg"
   },
   "names": {
-    "en": "Xenon",
     "de": "Xenon",
-    "la": "Xenon",
-    "fr": "Xenon"
+    "en": "Xenon",
+    "fr": "Xenon",
+    "la": "Xenon"
   },
   "number": 54,
   "price": {
-    "value": 1800,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 1800
   },
   "properties": [
     "natural",
     "stable"
   ],
   "registry": {
-    "cas": [
-      {
-        "value": "7440-63-3"
-      }
-    ],
-    "eg": [
-      {
-        "value": "231-172-7"
-      }
-    ],
-    "echa": [
-      {
-        "value": "100.028.338"
-      }
-    ],
     "atc": [
       {
         "value": "N01AX15"
@@ -88,9 +73,24 @@
         "label": "[133]Xe"
       }
     ],
+    "cas": [
+      {
+        "value": "7440-63-3"
+      }
+    ],
     "cid": [
       {
         "value": "CID23991"
+      }
+    ],
+    "echa": [
+      {
+        "value": "100.028.338"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-172-7"
       }
     ],
     "rtecs": [
@@ -116,8 +116,8 @@
     }
   ],
   "wiki": {
-    "en": "Xenon",
     "de": "Xenon",
+    "en": "Xenon",
     "fr": "Xenon"
   }
 }

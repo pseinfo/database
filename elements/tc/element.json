@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "shiny gray metal",
     "de": "silbrig grau metallisch",
+    "en": "shiny gray metal",
     "fr": "métal gris brillant"
   },
   "classification": {
@@ -16,31 +16,31 @@
     "group": 7,
     "occurrence": "decay",
     "period": 5,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "slightly-radioactive",
-    "phase": "solid",
     "set": "transitionmetal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Segrè",
-    "value": 1937,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1937
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Technetium-sample-cropped.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Technetium-sample-cropped.jpg\">GFDL</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Technetium-sample-cropped.jpg\">GFDL</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Technetium-sample-cropped.jpg"
   },
   "names": {
-    "en": "Technetium",
     "de": "Technetium",
-    "la": "Technetium",
-    "fr": "Technétium"
+    "en": "Technetium",
+    "fr": "Technétium",
+    "la": "Technetium"
   },
   "number": 43,
   "price": {
-    "value": 100000,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 100000
   },
   "properties": [
     "heavy",
@@ -53,14 +53,14 @@
         "value": "7440-26-8"
       }
     ],
-    "eg": [
-      {
-        "value": "231-136-0"
-      }
-    ],
     "echa": [
       {
         "value": "100.028.305"
+      }
+    ],
+    "eg": [
+      {
+        "value": "231-136-0"
       }
     ]
   },
@@ -81,8 +81,8 @@
     }
   ],
   "wiki": {
-    "en": "Technetium",
     "de": "Technetium",
+    "en": "Technetium",
     "fr": "Technétium"
   }
 }

@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 700000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 900000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 140000000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 270000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 1000,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 5000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 270000000
     },
     "human": {
-      "value": 260000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 260000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 140000000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 5000
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 900000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 700000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 1000
     }
   },
   "appearance": {
-    "en": "crystalline, reflective with bluish-tinged faces",
     "de": "dunkelgrau, bläulicher Farbton",
+    "en": "crystalline, reflective with bluish-tinged faces",
     "fr": "cristallin, réfléchissant avec des visages teintés de bleuâtre"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 14,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metalloid",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Berzelius",
-    "value": 1824,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1824
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SiliconCroda.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg\">Enricoros at English Wikipedia</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg\">Enricoros at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SiliconCroda.jpg"
   },
   "names": {
-    "en": "Silicon",
     "de": "Silicium",
-    "la": "Silicium",
-    "fr": "Silicone"
+    "en": "Silicon",
+    "fr": "Silicone",
+    "la": "Silicium"
   },
   "number": 14,
   "price": {
-    "value": 1.7,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 1.7
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7440-21-3"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-130-8"
+        "value": "CID5461123"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.300"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5461123"
+        "value": "231-130-8"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Silicon",
     "de": "Silicium",
+    "en": "Silicon",
     "fr": "Silicone"
   }
 }

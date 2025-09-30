@@ -5,27 +5,27 @@
   },
   "basicity": "moderately-alkaline",
   "negativity": {
-    "pauling": 1.31,
-    "sanderson": 1.32,
-    "allred": 1.23,
-    "mulliken": 1.37,
     "allen": 1.293,
-    "ghosh_gupta": {
-      "value": 3.6108,
-      "unit": "eV"
-    },
+    "allred": 1.23,
     "boyd": 1.32,
+    "ghosh_gupta": {
+      "unit": "eV",
+      "value": 3.6108
+    },
+    "mulliken": 1.37,
     "nagle": 1.32,
+    "pauling": 1.31,
     "pearson": {
-      "value": 3.75,
-      "unit": "eV"
-    }
+      "unit": "eV",
+      "value": 3.75
+    },
+    "sanderson": 1.32
   },
   "oxidation_state": "1, '''2'''",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.372,
+    "info": "Mg[2+] + 2e[-] → Mg",
     "unit": "V",
-    "info": "Mg[2+] + 2e[-] → Mg"
+    "value": -2.372
   }
 }

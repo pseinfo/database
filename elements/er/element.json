@@ -4,34 +4,34 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 2,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1,
-      "unit": "ppb"
+    "crust": {
+      "unit": "ppb",
+      "value": 3000
     },
     "meteorite": {
-      "value": 180,
-      "unit": "ppb"
-    },
-    "crust": {
-      "value": 3000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 0.0009,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 180
     },
     "stream": {
-      "value": 0.05,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 0.05
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 2
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 0.0009
     }
   },
   "appearance": {
-    "en": "silvery white",
     "de": "silbrig weiß",
+    "en": "silvery white",
     "fr": "blanc argenté"
   },
   "classification": {
@@ -42,30 +42,30 @@
     "group": 19,
     "occurrence": "primordial",
     "period": 6,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "lanthanoide",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Mosander",
-    "value": 1842,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1842
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Erbium_%2868_Er%29.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Erbium_(68_Er).jpg\">Hi-Res Images of Chemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Erbium_(68_Er).jpg\">Hi-Res Images of Chemical Elements</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Erbium_%2868_Er%29.jpg"
   },
   "names": {
-    "en": "Erbium",
     "de": "Erbium",
-    "la": "Erbium",
-    "fr": "Erbium"
+    "en": "Erbium",
+    "fr": "Erbium",
+    "la": "Erbium"
   },
   "number": 68,
   "price": {
-    "value": 26.4,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 26.4
   },
   "properties": [
     "natural",
@@ -79,9 +79,9 @@
         "value": "7440-52-0"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-160-1"
+        "value": "CID23980"
       }
     ],
     "echa": [
@@ -89,9 +89,9 @@
         "value": "100.028.327"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID23980"
+        "value": "231-160-1"
       }
     ]
   },
@@ -112,8 +112,8 @@
     }
   ],
   "wiki": {
-    "en": "Erbium",
     "de": "Erbium",
+    "en": "Erbium",
     "fr": "Erbium"
   }
 }

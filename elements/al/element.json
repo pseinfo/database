@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 50000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 60000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 9300000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 82000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 5,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 400,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 82000000
     },
     "human": {
-      "value": 900,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 900
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 9300000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 400
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 60000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 50000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 5
     }
   },
   "appearance": {
-    "en": "silvery gray metallic",
     "de": "silbrig",
+    "en": "silvery gray metallic",
     "fr": "gris métallique argenté"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 13,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "metal",
     "superconductivity": "normal"
   },
   "discovery": {
     "by": "Ørsted",
-    "value": 1825,
-    "era": "revolution"
+    "era": "revolution",
+    "value": 1825
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Aluminium-4.jpg\">http://images-of-elements.com/aluminium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Aluminium-4.jpg\">http://images-of-elements.com/aluminium.php</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg"
   },
   "names": {
-    "en": "Aluminum",
     "de": "Aluminium",
-    "la": "Aluminium",
-    "fr": "Aluminium"
+    "en": "Aluminum",
+    "fr": "Aluminium",
+    "la": "Aluminium"
   },
   "number": 13,
   "price": {
-    "value": 1.79,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 1.79
   },
   "properties": [
     "natural",
@@ -83,9 +83,9 @@
         "value": "7429-90-5"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-072-3"
+        "value": "CID5359268"
       }
     ],
     "echa": [
@@ -93,9 +93,9 @@
         "value": "100.028.248"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5359268"
+        "value": "231-072-3"
       }
     ],
     "rtecs": [
@@ -121,8 +121,8 @@
     }
   ],
   "wiki": {
-    "en": "Aluminum",
     "de": "Aluminium",
+    "en": "Aluminum",
     "fr": "Aluminium"
   }
 }

@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 1000000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 1000000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1400000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 20000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 500,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 240,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 20000
     },
     "human": {
-      "value": 26000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 26000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1400000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 240
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 1000000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 1000000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 500
     }
   },
   "appearance": {
-    "en": "colorless gas, liquid or solid",
     "de": "farbloses Gas",
+    "en": "colorless gas, liquid or solid",
     "fr": "Incolore"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 15,
     "occurrence": "primordial",
     "period": 2,
-    "radioactive": false,
     "phase": "gas",
+    "radioactive": false,
     "set": "nonmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Scheele",
-    "value": 1771,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1771
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nitrogen_discharge_tube.jpg",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Nitrogen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Nitrogen_discharge_tube.jpg\">Alchemist-hp (talk) (www.pse-mendelejew.de)</a>, FAL, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nitrogen_discharge_tube.jpg"
   },
   "names": {
-    "en": "Nitrogen",
     "de": "Stickstoff",
-    "la": "Nitrogenium",
-    "fr": "Azote"
+    "en": "Nitrogen",
+    "fr": "Azote",
+    "la": "Nitrogenium"
   },
   "number": 7,
   "price": {
-    "value": 0.14,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 0.14
   },
   "properties": [
     "natural",
@@ -82,9 +82,9 @@
         "value": "7727-37-9"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-783-9"
+        "value": "CID947"
       }
     ],
     "echa": [
@@ -92,9 +92,9 @@
         "value": "100.028.895"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID947"
+        "value": "231-783-9"
       }
     ],
     "rtecs": [
@@ -120,8 +120,8 @@
     }
   ],
   "wiki": {
-    "en": "Nitrogen",
     "de": "Stickstoff",
+    "en": "Nitrogen",
     "fr": "Azote"
   }
 }

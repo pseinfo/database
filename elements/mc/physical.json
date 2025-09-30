@@ -4,31 +4,31 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 13,
     "*": true,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 13
   },
   "magnetic": {},
   "molar_volume": {
-    "value": 0.000022,
     "*": true,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.000022
   },
   "temperature": {
-    "melting": {
-      "value": 670,
-      "*": true,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 1400,
       "*": true,
-      "unit": "K"
+      "unit": "K",
+      "value": 1400
     },
     "liquid": {
-      "value": 730,
       "*": true,
-      "unit": "K"
+      "unit": "K",
+      "value": 730
+    },
+    "melting": {
+      "*": true,
+      "unit": "K",
+      "value": 670
     }
   }
 }

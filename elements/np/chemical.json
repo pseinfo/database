@@ -4,15 +4,15 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "pauling": 1.36,
     "allred": 1.22,
-    "nagle": 1.09
+    "nagle": 1.09,
+    "pauling": 1.36
   },
   "oxidation_state": "+3, +4, '''+5''', +6, +7",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -1.79,
+    "info": "Np[3+] + 3e[-] → Np",
     "unit": "V",
-    "info": "Np[3+] + 3e[-] → Np"
+    "value": -1.79
   }
 }

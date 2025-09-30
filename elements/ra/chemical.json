@@ -4,16 +4,16 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "pauling": 0.9,
     "allred": 0.97,
     "mulliken": 0.92,
-    "nagle": 0.99
+    "nagle": 0.99,
+    "pauling": 0.9
   },
   "oxidation_state": "2",
   "oxide_character": "basic",
   "standard_potential": {
-    "value": -2.916,
+    "info": "Ra[2+] + 2e[-] → Ra",
     "unit": "V",
-    "info": "Ra[2+] + 2e[-] → Ra"
+    "value": -2.916
   }
 }

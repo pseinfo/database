@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "density": {
-    "value": 17,
     "*": true,
-    "unit": "g·cm[−3]"
+    "unit": "g·cm[−3]",
+    "value": 17
   },
   "heat": {
     "thermal_conductivity": {
-      "value": 23,
       "*": true,
-      "unit": "W·m[-1]·K[-1]"
+      "unit": "W·m[-1]·K[-1]",
+      "value": 23
     }
   },
   "magnetic": {},
   "molar_volume": {
-    "value": 0.000016,
     "*": true,
-    "unit": "m[3]·mol[−1]"
+    "unit": "m[3]·mol[−1]",
+    "value": 0.000016
   },
   "temperature": {
-    "melting": {
-      "value": 2400,
-      "*": true,
-      "unit": "K"
-    },
     "boiling": {
-      "value": 5800,
       "*": true,
-      "unit": "K"
+      "unit": "K",
+      "value": 5800
     },
     "liquid": {
-      "value": 3400,
       "*": true,
-      "unit": "K"
+      "unit": "K",
+      "value": 3400
+    },
+    "melting": {
+      "*": true,
+      "unit": "K",
+      "value": 2400
     }
   }
 }

@@ -4,14 +4,14 @@
     "schemaVersion": "1"
   },
   "negativity": {
-    "sanderson": 4.5,
-    "allred": 4.84,
-    "mulliken": 3.98,
     "allen": 4.787,
+    "allred": 4.84,
     "ghosh_gupta": {
-      "value": 11.3003,
-      "unit": "eV"
+      "unit": "eV",
+      "value": 11.3003
     },
-    "nagle": 4.89
+    "mulliken": 3.98,
+    "nagle": 4.89,
+    "sanderson": 4.5
   }
 }

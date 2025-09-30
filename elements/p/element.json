@@ -4,38 +4,38 @@
     "schemaVersion": "1"
   },
   "abundance": {
-    "universe": {
-      "value": 7000,
-      "unit": "ppb"
-    },
-    "sun": {
-      "value": 7000,
-      "unit": "ppb"
-    },
-    "meteorite": {
-      "value": 1100000,
-      "unit": "ppb"
-    },
     "crust": {
-      "value": 1000000,
-      "unit": "ppb"
-    },
-    "water": {
-      "value": 70,
-      "unit": "ppb"
-    },
-    "stream": {
-      "value": 20,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 1000000
     },
     "human": {
-      "value": 11000000,
-      "unit": "ppb"
+      "unit": "ppb",
+      "value": 11000000
+    },
+    "meteorite": {
+      "unit": "ppb",
+      "value": 1100000
+    },
+    "stream": {
+      "unit": "ppb",
+      "value": 20
+    },
+    "sun": {
+      "unit": "ppb",
+      "value": 7000
+    },
+    "universe": {
+      "unit": "ppb",
+      "value": 7000
+    },
+    "water": {
+      "unit": "ppb",
+      "value": 70
     }
   },
   "appearance": {
-    "en": "white, red and violet are waxy, black is metallic-looking",
     "de": "weiß-beige (W); dunkelrot (R); schwarz (S)",
+    "en": "white, red and violet are waxy, black is metallic-looking",
     "fr": "blanc, rouge et violet sont cireux, le noir a un aspect métallique"
   },
   "classification": {
@@ -46,30 +46,30 @@
     "group": 15,
     "occurrence": "primordial",
     "period": 3,
-    "radioactive": false,
     "phase": "solid",
+    "radioactive": false,
     "set": "nonmetal",
     "superconductivity": "special"
   },
   "discovery": {
     "by": "Brand",
-    "value": 1669,
-    "era": "enlightenment"
+    "era": "enlightenment",
+    "value": 1669
   },
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%C4%8Cerven%C3%BD_fosfor.png",
-    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:%C4%8Cerven%C3%BD_fosfor.png\">Ondřej Mangl</a>, Public domain, via Wikimedia Commons"
+    "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:%C4%8Cerven%C3%BD_fosfor.png\">Ondřej Mangl</a>, Public domain, via Wikimedia Commons",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%C4%8Cerven%C3%BD_fosfor.png"
   },
   "names": {
-    "en": "Phosphorus",
     "de": "Phosphor",
-    "la": "Phosphor",
-    "fr": "Phosphore"
+    "en": "Phosphorus",
+    "fr": "Phosphore",
+    "la": "Phosphor"
   },
   "number": 15,
   "price": {
-    "value": 2.69,
-    "unit": "USD"
+    "unit": "USD",
+    "value": 2.69
   },
   "properties": [
     "natural",
@@ -88,9 +88,9 @@
         "label": "white"
       }
     ],
-    "eg": [
+    "cid": [
       {
-        "value": "231-115-6"
+        "value": "CID5462309"
       }
     ],
     "echa": [
@@ -98,9 +98,9 @@
         "value": "100.028.286"
       }
     ],
-    "cid": [
+    "eg": [
       {
-        "value": "CID5462309"
+        "value": "231-115-6"
       }
     ],
     "rtecs": [
@@ -126,8 +126,8 @@
     }
   ],
   "wiki": {
-    "en": "Phosphorus",
     "de": "Phosphor",
+    "en": "Phosphorus",
     "fr": "Phosphore"
   }
 }

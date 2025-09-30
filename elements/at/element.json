@@ -4,8 +4,8 @@
     "schemaVersion": "1"
   },
   "appearance": {
-    "en": "unknown, probably metallic",
     "de": "metallisch",
+    "en": "unknown, probably metallic",
     "fr": "inconnu, probablement métallique"
   },
   "classification": {
@@ -16,22 +16,22 @@
     "group": 17,
     "occurrence": "decay",
     "period": 6,
+    "phase": "solid",
     "radioactive": true,
     "radioactivity": "highly-radioactive",
-    "phase": "solid",
     "set": "halogen",
     "superconductivity": "none"
   },
   "discovery": {
     "by": "Segrè",
-    "value": 1940,
-    "era": "quantum"
+    "era": "quantum",
+    "value": 1940
   },
   "names": {
-    "en": "Astatine",
     "de": "Astat",
-    "la": "Astaton",
-    "fr": "Astate"
+    "en": "Astatine",
+    "fr": "Astate",
+    "la": "Astaton"
   },
   "number": 85,
   "properties": [
@@ -46,8 +46,8 @@
         "value": "7440-68-8"
       }
     ],
-    "eg": null,
-    "echa": null
+    "echa": null,
+    "eg": null
   },
   "spectrum": null,
   "symbol": "At",
@@ -66,8 +66,8 @@
     }
   ],
   "wiki": {
-    "en": "Astatine",
     "de": "Astat",
+    "en": "Astatine",
     "fr": "Astate"
   }
 }
