@@ -6,6 +6,22 @@ Visit: https://pse-info.de.
 Openly accessible data source. Support is appreciated.  
 Attribution when reusing helps raise visibility of the project.
 
+## CDN
+
+Fetch data via open CDN:
+
+```
+https://cdn.jsdelivr.net/gh/pseinfo/database/{REQUEST}
+```
+
+Example requests:
+
+```
+https://cdn.jsdelivr.net/gh/pseinfo/database/elements/h/chemical.json
+https://cdn.jsdelivr.net/gh/pseinfo/database/elements/fe/atomic.json
+https://cdn.jsdelivr.net/gh/pseinfo/database/elements/au/physical.json
+```
+
 ## License
 
 © Copyright 2025 pse-info.de under the MIT license.
