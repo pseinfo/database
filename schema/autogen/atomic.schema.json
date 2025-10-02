@@ -1,0 +1,192 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/Atomic",
+  "definitions": {
+    "Atomic": {
+      "type": "object",
+      "properties": {
+        "@metadata": {
+          "type": "object",
+          "properties": {
+            "lastModified": {
+              "type": "string"
+            },
+            "schemaVersion": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "lastModified",
+            "schemaVersion"
+          ],
+          "additionalProperties": false
+        },
+        "electron_config": {
+          "type": "string"
+        },
+        "ionization": {
+          "type": "object",
+          "properties": {
+            "unit": {
+              "type": "string",
+              "const": "eV"
+            },
+            "values": {
+              "type": "array",
+              "items": {
+                "type": "number"
+              }
+            }
+          },
+          "required": [
+            "unit",
+            "values"
+          ],
+          "additionalProperties": false
+        },
+        "mass": {
+          "type": "object",
+          "properties": {
+            "atomic_mass": {
+              "type": "object",
+              "properties": {
+                "unit": {
+                  "type": "string",
+                  "const": "u"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "unit",
+                "value"
+              ],
+              "additionalProperties": false
+            },
+            "standard_atomic_weight": {
+              "type": "object",
+              "properties": {
+                "deviation": {
+                  "type": "number"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "deviation",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "atomic_mass",
+            "standard_atomic_weight"
+          ],
+          "additionalProperties": false
+        },
+        "radius": {
+          "type": "object",
+          "properties": {
+            "calculated": {
+              "type": "object",
+              "properties": {
+                "unit": {
+                  "type": "string",
+                  "const": "pm"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "unit",
+                "value"
+              ],
+              "additionalProperties": false
+            },
+            "covalent": {
+              "type": "object",
+              "properties": {
+                "deviation": {
+                  "type": "number"
+                },
+                "unit": {
+                  "type": "string",
+                  "const": "pm"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "deviation",
+                "unit",
+                "value"
+              ],
+              "additionalProperties": false
+            },
+            "empirical": {
+              "type": "object",
+              "properties": {
+                "unit": {
+                  "type": "string",
+                  "const": "pm"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "unit",
+                "value"
+              ],
+              "additionalProperties": false
+            },
+            "vdw": {
+              "type": "object",
+              "properties": {
+                "unit": {
+                  "type": "string",
+                  "const": "pm"
+                },
+                "value": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "unit",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "calculated",
+            "covalent",
+            "empirical",
+            "vdw"
+          ],
+          "additionalProperties": false
+        },
+        "shell": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        }
+      },
+      "required": [
+        "@metadata",
+        "electron_config",
+        "ionization",
+        "mass",
+        "radius",
+        "shell"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
