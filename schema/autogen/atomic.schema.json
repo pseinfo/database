@@ -178,14 +178,6 @@
           }
         }
       },
-      "required": [
-        "@metadata",
-        "electron_config",
-        "ionization",
-        "mass",
-        "radius",
-        "shell"
-      ],
       "additionalProperties": false
     }
   }
