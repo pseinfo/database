@@ -10,10 +10,11 @@
     "typescript": "^5"
   },
   "scripts": {
-    "run-script": "bun ./automation-src/index.ts",
-    "generate-schemas": "bun ./automation-src/generate_schemas.ts"
+    "generate-schemas": "bun ./automation-src/generate_schemas.ts",
+    "verify-data": "bun ./automation-src/verify_data.ts"
   },
   "dependencies": {
+    "ajv": "^8.17.1",
     "ts-json-schema-generator": "^2.4.0"
   }
 }

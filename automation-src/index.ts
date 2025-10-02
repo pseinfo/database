@@ -1,10 +1,8 @@
 
-import type { Elements } from "types/element";
+import type { ElementSymbol } from "types/element_symbol";
 import type { Atomic } from "types/elements/atomic";
 
-console.log("Hello world");
-
-const aluminum: Elements = "al"
+const aluminum: ElementSymbol = "al"
 const aluminum_atomic: Atomic = {
     "@metadata": {
         lastModified: "",

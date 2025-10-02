@@ -1,16 +1,16 @@
 
 
 export type Atomic = {
-  "@metadata": {
+  "@metadata"?: {
     lastModified: string // ISO date 8610
     schemaVersion: string
   },
-  electron_config: string,
-  ionization: {
+  electron_config?: string,
+  ionization?: {
     unit: "eV",
     values: number[]
   },
-  mass: {
+  mass?: {
     atomic_mass: {
       unit: "u",
       value: number
@@ -20,7 +20,7 @@ export type Atomic = {
       value: number
     }
   },
-  radius: {
+  radius?: {
     calculated: {
       unit: "pm",
       value: number
@@ -39,5 +39,5 @@ export type Atomic = {
       value: number
     }
   },
-  shell: number[]
+  shell?: number[]
 }

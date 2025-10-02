@@ -25,8 +25,10 @@ Commands:
 # like npm install, to install all dependencies in node_modules/
 bun install
 # Then commands available
-# Placeholder command
-bun run-script # or bun run run-script
+# Generate JSON schemas from typescript types
+bun generate-schemas # or bun run generate-schemas
+# Verify the data 
+bun verify-data
 ```
 
 ## CDN
