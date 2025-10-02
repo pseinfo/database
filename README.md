@@ -6,6 +6,11 @@ Visit: https://pse-info.de.
 Openly accessible data source. Support is appreciated.  
 Attribution when reusing helps raise visibility of the project.
 
+## Project structure
+
+- ### /data
+Where all actual data will be stored, easy to bundle and make path resolving for any basic API
+
 ## CDN
 
 Fetch data via open CDN:
