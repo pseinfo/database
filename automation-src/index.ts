@@ -2,8 +2,6 @@
 import type { ElementSymbols } from "types/elements_symbols";
 import type { Atomic } from "types/elements/atomic";
 
-console.log("Hello world");
-
 const aluminum: ElementSymbols = "al"
 const aluminum_atomic: Atomic = {
     "@metadata": {

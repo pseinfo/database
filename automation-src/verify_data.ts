@@ -17,4 +17,7 @@ async function verify_elements_index_json(){
     
 }
 
-verify_elements_index_json()
+if (import.meta.path === Bun.main) {
+    // this script is being directly executed and not imported
+    await verify_elements_index_json()
+}
