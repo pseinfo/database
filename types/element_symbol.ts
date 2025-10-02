@@ -1,7 +1,7 @@
 
 // they are lowercase because those are used in queries.
 // for the rightly uppercased look inside the element data
-export const ElementSymbols = [
+export const ElementSymbol = [
     "ac", "ag", "al", "am", "ar", "as", "at", "au", "b", "ba", "be", "bh", "bi", "bk", "br",
     "c", "ca", "cd", "ce", "cf", "cl", "cm", "cn", "co", "cr", "cs", "cu", "db", "ds", "dy",
     "er", "es", "eu", "f", "fe", "fl", "fm", "fr", "ga", "gd", "ge", "h", "he", "hf", "hg",
@@ -11,4 +11,4 @@ export const ElementSymbols = [
     "rn", "ru", "s", "sb", "sc", "se", "sg", "si", "sm", "sn", "sr", "ta", "tb", "tc", "te",
     "th", "ti", "tl", "tm", "ts", "u", "v", "w", "xe", "y", "yb", "zn", "zr"
 ] as const
-export type ElementSymbols = (typeof ElementSymbols)[number]
+export type ElementSymbol = (typeof ElementSymbol)[number]

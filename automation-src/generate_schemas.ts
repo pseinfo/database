@@ -9,9 +9,8 @@ type InputToGenerateSchemas = {
 }
 const SCHEMAS_TO_GENERATE: InputToGenerateSchemas[] = [
     {
-        type: "Elements",
-        
-        output_file: "elements"
+        type: "ElementSymbol",
+        output_file: "element_symbol"
     }, 
     {
         type: "Atomic",
