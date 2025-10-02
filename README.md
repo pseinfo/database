@@ -16,8 +16,9 @@ Automation code in typescript, to help building, serving, checking, bundling... 
 
 ## Run automation scripts
 
-This project is running automation scripts using the [Bun javascript runtime](https://bun.sh/)
+This project is running automation scripts using the [Bun javascript runtime](https://bun.sh/).
 Which you will need to install to run it.
+
 Commands: 
 ```sh
 # First step
