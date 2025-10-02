@@ -29,7 +29,7 @@
     // some QoL pathing
     "baseUrl": "./",
     "paths": {
-      "@types/*": ["types/"]
+      "types/*": ["types/*"]
     }
   }
 }
